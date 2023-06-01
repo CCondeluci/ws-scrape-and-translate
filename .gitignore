@@ -1,6 +1,5 @@
-node_modules
-input/*
-output/**/*.json
-failed_output/**/*.json
-images/**/*.png
-images/**/*.gif
+node_modules/
+input/
+output/
+failed_output/
+images/

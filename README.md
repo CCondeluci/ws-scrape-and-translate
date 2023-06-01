@@ -1,4 +1,4 @@
-# ws-scrape-poc
+# ws-scrape-and-translate
 
 Proof-of-concept scraper scripts for getting Weiss Schwarz data, for use by community projects
 
