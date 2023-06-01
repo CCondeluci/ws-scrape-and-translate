@@ -1,0 +1,3870 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 「\"サマードレス\"しろは」 from your Waiting Room, send it to Memory.",
+                    "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more card is revealed, choose up to 1 《サマポケ》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
+                ],
+                "name": "“サマードレス”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d65",
+        "sid": "001",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-001",
+        "imagepath": "JP/W82/001.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your 《サマポケ》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+                    "【A】At the beginning of your Climax Phase, choose up to 2 of your 「\"夏の思い出\"識」, during this turn, they gets +1 Soul.",
+                    "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +500 Power."
+                ],
+                "name": "“鬼の仲間入り”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d83",
+        "sid": "007",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-007",
+        "imagepath": "JP/W82/007.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】 When this card attacks, if you have 2 or more other 《サマポケ》 Character, during this turn, this card gets ＋2000 Power.",
+                    "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+                ],
+                "name": "“幸せな時間”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d88",
+        "sid": "022",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-022",
+        "imagepath": "JP/W82/022.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】All your other 《サマポケ》 Character gets +500 Power.",
+                    "【S】[REST this card] Choose 1 of your 《サマポケ》 Character, until end of opponent's next turn, it gets +500 Power."
+                ],
+                "name": "“馴染み深い場所”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d8d",
+        "sid": "038",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-038",
+        "imagepath": "JP/W82/038.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】During your turn, for each of your other 《サマポケ》 Character, this card gets ＋500 Power.",
+                    "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+                ],
+                "name": "“夢か現実か”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d92",
+        "sid": "072",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-072",
+        "imagepath": "JP/W82/072.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Sports 《スポーツ》"
+                ],
+                "ability": [
+                    "【C】 For each Marker under this card, this card gets ＋1000 Power.",
+                    "【A】 This Ability can be activated up to 1 time each turn. When you play 「ラリーの応酬」, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker.",
+                    "【A】 When this card's battle opponent becomes REVERSE, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker."
+                ],
+                "name": "“ブレークタイム”天膳",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d97",
+        "sid": "097",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-097",
+        "imagepath": "JP/W82/097.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +2000 Power.",
+                    "【S】[REST 1 of your 《サマポケ》 Character] During this turn, this card gets +1000 Power."
+                ],
+                "name": "“大切な人を守るために”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d9c",
+        "sid": "068",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-068",
+        "imagepath": "JP/W82/068.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+                ],
+                "name": "“あの夏をもう一度”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da1",
+        "sid": "093",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-093",
+        "imagepath": "JP/W82/093.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】[Place 1 《サマポケ》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal 2 cards from your top Deck, opponent chooses 1 Character or Event among those cards, add it to your Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "“振り返った先にある夏”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da6",
+        "sid": "019",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-019",
+        "imagepath": "JP/W82/019.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "Look at up to 4 cards from your top Deck, choose up to 1 《サマポケ》 Character and show it opponent, add it to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "Summer Pockets",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394dab",
+        "sid": "073",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-073",
+        "imagepath": "JP/W82/073.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Twins 《双子》"
+                ],
+                "ability": [
+                    "【A】At the beginning of your Climax Phase, choose 1 of your 《サマポケ》 Character, during this turn, it gets +500 Power.",
+                    "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "“サマードレス”蒼",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394db0",
+        "sid": "078",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-078",
+        "imagepath": "JP/W82/078.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【A】When you use this card's 『ASSIST』, if you have 《サマポケ》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+                    "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+                ],
+                "name": "“メイド服”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394db5",
+        "sid": "039",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-039",
+        "imagepath": "JP/W82/039.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Twins 《双子》"
+                ],
+                "ability": [
+                    "【C】During your turn, all your other Character with 「\"夏の思い出\"」 in its name gets +1000 Power.",
+                    "【C】SUPPORT All your Character in front of this card gets +1500 Power.",
+                    "【S】[(3) Place 2 cards from Hand into Waiting Room] Deal 5 Damage to opponent. (Damage can be cancelled)"
+                ],
+                "name": "“まぶしさの向こう側へ”蒼",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dba",
+        "sid": "054",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 1500,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-054",
+        "imagepath": "JP/W82/054.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】【CXCOMBO】 When this card attacks, if 「私のファーストキス」 is in your Climax Slot, and you have 2 or more other 《サマポケ》 Character, look at up to 4 cards from your top Deck, choose up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, during this turn, this card gets ＋500 Power."
+                ],
+                "name": "“謹賀新年”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dbf",
+        "sid": "020",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-020",
+        "imagepath": "JP/W82/020.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+                ],
+                "name": "絶対に忘れたくない",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dc4",
+        "sid": "045",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "__v": 0,
+        "cardcode": "SMP/W82-045",
+        "imagepath": "JP/W82/045.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "Translations Coming Soon!"
+                ],
+                "name": "“のどかな時間”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dc9",
+        "sid": "021",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-021",
+        "imagepath": "JP/W82/021.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】All your Characters get +1000 Power, +1 Soul.",
+                    "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+                ],
+                "name": "たくさんキスしような",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "POOL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dce",
+        "sid": "046",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-046",
+        "imagepath": "JP/W82/046.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【A】When this card is placed into your Climax Slot from Hand, choose up to 1 Character with Level 1 or lower from your Waiting Room, place it into Stock, during this turn, all your Character gets +1 Soul."
+                ],
+                "name": "個性的ないびき",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dd3",
+        "sid": "075",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-075",
+        "imagepath": "JP/W82/075.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+                ],
+                "name": "お決まりの朝食",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "5f98bdc4f81b905b1c394dd8",
+        "sid": "074",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "__v": 0,
+        "cardcode": "SMP/W82-074",
+        "imagepath": "JP/W82/074.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+                ],
+                "name": "三人だけの結婚式",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "5f98bdc4f81b905b1c394ddd",
+        "sid": "099",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "__v": 0,
+        "cardcode": "SMP/W82-099",
+        "imagepath": "JP/W82/099.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "サマポケ",
+                    "時間"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+                ],
+                "name": "\"夏の迷い子\"うみ"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de2",
+        "sid": "P01",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-P01",
+        "imagepath": "JP/W82/P01.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《サマポケ》 Character, this card gets +1000 Power.",
+                    "【A】【CXCOMBO】When this card attacks, if 「さいごまで……お願いします」 is in your Climax Slot, until end of opponent's next turn, this card gains the following Ability. 『【A】At the beginning of opponent's Attack Phase, choose and perform 1 of the following 2 effects.",
+                    "『You may return this card to Hand.』",
+                    "『You may move this card to an empty slot at Front Row.』』"
+                ],
+                "name": "“夏の日差し”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de4",
+        "sid": "086",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-086",
+        "imagepath": "JP/W82/086.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, if 「あたりまえのような懐かしさ」 is in your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】At the end of this card attacks, you may deal 2 Damage to opponent.』(Damage can be cancelled)"
+                ],
+                "name": "“夏の思い出”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d62",
+        "sid": "002",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-002",
+        "imagepath": "JP/W82/002.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place that Character into Stock. If you did, place 1 card from opponent's bottom Stock into Waiting Room.",
+                    "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《サマポケ》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“あの夏をもう一度”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d85",
+        "sid": "004",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-004",
+        "imagepath": "JP/W82/004.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "“メイド服”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d8a",
+        "sid": "010",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-010",
+        "imagepath": "JP/W82/010.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【A】【CXCOMBO】When 「たくさんキスしような」 is placed into your Climax Slot, if you have 2 or more other 《サマポケ》 Character, look at up to 4 cards from your top Deck, choose up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "“夏の日差し”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d8f",
+        "sid": "032",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-032",
+        "imagepath": "JP/W82/032.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Book 《本》"
+                ],
+                "ability": [
+                    "【C】 The Character facing this card cannot move to other slot.",
+                    "【C】 If your Hand has 5 or more cards, this card gets ＋2000 Power."
+                ],
+                "name": "“夏祭り”鏡子",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d94",
+        "sid": "018",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-018",
+        "imagepath": "JP/W82/018.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【C】If opponent's Waiting Room has 5 or more Climax, this card gets -1 Level in your Hand.",
+                    "【A】【CXCOMBO】[Place 1 「個性的ないびき」 from your Climax Slot into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 4 《サマポケ》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "“スボ手牡丹”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394d99",
+        "sid": "053",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-053",
+        "imagepath": "JP/W82/053.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【S】［Place 1 「\"のどかな時間\"しろは」 from Hand into Waiting Room］ Choose up to 1 opponent's Character with Cost 0 or lower at Front Row, place it into Waiting Room, during this turn, this card gets ＋1 Soul."
+                ],
+                "name": "“コースの下見”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d9e",
+        "sid": "062",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-062",
+        "imagepath": "JP/W82/062.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【A】［(4) Place 1 《サマポケ》 Character from Hand into Waiting Room］ When you used this card's 『ASSIST』, you may pay the Cost. If you did, choose 1 of your opponent's Character, REST it.",
+                    "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+                ],
+                "name": "“塗り替えていた記憶”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394da3",
+        "sid": "063",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-063",
+        "imagepath": "JP/W82/063.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【A】At the beginning of your Main Phase, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+                    "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“Seven's sea”美希＆うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da8",
+        "sid": "058",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-058",
+        "imagepath": "JP/W82/058.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, if you have Character with 「\"夏の思い出\"」 at the Center Slot of Front Row, you may pay the cost. If you did, deal 1 Damage to opponent, during this turn, this card gets +1000 Power. (Damage can be cancelled)"
+                ],
+                "name": "“律の風”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394dad",
+        "sid": "083",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-083",
+        "imagepath": "JP/W82/083.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "サマポケ",
+                    "鬼"
+                ],
+                "ability": [
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "\"鬼を追う少女\"識"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394db2",
+        "sid": "P04",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-P04",
+        "imagepath": "JP/W82/P04.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《サマポケ》 Character x500.",
+                    "【A】【CXCOMBO】At the beginning of your Encore Step, if 「明日に備えて」 is in your Climax Slot, and this card is at Front Row, and you have other 《サマポケ》 Character, there is no Character facing this card or it's REVERSE, you draw up to 2 cards. If you draw 2 cards, choose 1 card from your Hand, place it into Waiting Room."
+                ],
+                "name": "“サマードレス”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394db7",
+        "sid": "029",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-029",
+        "imagepath": "JP/W82/029.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your 《サマポケ》 Character and this card, STAND and exchange them.",
+                    "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may REVERSE that Character."
+                ],
+                "name": "“僕が好きになった人”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dbc",
+        "sid": "064",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-064",
+        "imagepath": "JP/W82/064.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】When you paying cost for 「\"すでに惚れ直したぞ\"美希＆羽依里」's 【A】 effect, you may place 1 Marker from this card into Waiting Room instead of 1 Stock.",
+                    "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 2 cards from your Hand, place them under this card face-down in any order as Marker, place the top card of your Deck into Stock.",
+                    "【A】[Place 2 Character from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power and +1 Soul."
+                ],
+                "name": "“夏祭り”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dc1",
+        "sid": "036",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-036",
+        "imagepath": "JP/W82/036.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【C】During your turn, this card gets +1000 Power.",
+                    "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room, place up to 1 card from your top Deck into Stock.",
+                    "【A】【CXCOMBO】[(2) Place 1 card from Hand into Waiting Room] When this card attacks, if 「三人だけの結婚式」 is in your Climax Slot, you may pay the cost. If you did, look at up to 5 cards from opponent's bottom Deck, choose up to 1 Climax, place it into Clock, place the remaining cards into Waiting Room, during this turn, this card gets +1000 Power."
+                ],
+                "name": "“夏の思い出”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dc6",
+        "sid": "079",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-079",
+        "imagepath": "JP/W82/079.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【A】 [(1)] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 Character with 「紬」 or 「ツムギ」 or 「静久」 in its name or 「蔵で見つけた写真」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.",
+                    "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +1000 Power."
+                ],
+                "name": "“まぶしさの向こう側へ”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dcb",
+        "sid": "031",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-031",
+        "imagepath": "JP/W82/031.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+                    "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+                ],
+                "name": "“メリークリスマス”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dd0",
+        "sid": "089",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-089",
+        "imagepath": "JP/W82/089.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When your other 《時間》 Character or Character with 「\"夏の思い出\"」 in its name is placed on Stage from Hand, during this turn, this card gets +1000 Power.",
+                    "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +2000 Power."
+                ],
+                "name": "“思い出が待っている”七海",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dd5",
+        "sid": "060",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-060",
+        "imagepath": "JP/W82/060.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+                    "【A】［Return this card to Hand］ When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+                ],
+                "name": "“夏の日差し”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394dda",
+        "sid": "085",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-085",
+        "imagepath": "JP/W82/085.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Twins 《双子》"
+                ],
+                "ability": [
+                    "【A】【CXCOMBO】[(1)] When this card attacks, if 「もう１回……いい？」 is in your Climax Slot, you may pay the cost. If you did, during this turn, all your other Character gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.』"
+                ],
+                "name": "“メイド服”蒼",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394ddf",
+        "sid": "061",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-061",
+        "imagepath": "JP/W82/061.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, choose 1 of your 《サマポケ》 Character, during this turn, it gets +1500 Power.",
+                    "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+                ],
+                "name": "“私の胸で”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc4f81b905b1c394de5",
+        "sid": "095",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-095",
+        "imagepath": "JP/W82/095.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+                    "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power."
+                ],
+                "name": "“満月を喰らいし乳房”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de6",
+        "sid": "091",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-091",
+        "imagepath": "JP/W82/091.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, if you have other 《サマポケ》 Character, during this turn, this card gets +2000 Power.",
+                    "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《サマポケ》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“まぶしさの向こう側へ”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d63",
+        "sid": "006",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-006",
+        "imagepath": "JP/W82/006.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】All your other 《サマポケ》 Character gets +1000 Power.",
+                    "【S】[(1) REST this card] Choose 1 of your Character, during this turn, it gains 《チャーハン》and the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
+                ],
+                "name": "“二人で料理”しろは＆うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d86",
+        "sid": "008",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-008",
+        "imagepath": "JP/W82/008.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】 For each of your other 《サマポケ》 Character, this card gets ＋1000 Power."
+                ],
+                "name": "“夏の日差し”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d8b",
+        "sid": "015",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "power": 7000,
+        "soul": 2,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-015",
+        "imagepath": "JP/W82/015.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets +3000 Power.",
+                    "【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room."
+                ],
+                "name": "“渚の相談所”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d90",
+        "sid": "042",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-042",
+        "imagepath": "JP/W82/042.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters gets +1000 Power, +1 Soul.",
+                    "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+                ],
+                "name": "あたりまえのような懐かしさ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d95",
+        "sid": "028",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-028",
+        "imagepath": "JP/W82/028.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【A】[(1)] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a 《サマポケ》 Character or Event, add it to Hand. (If not, return revealed card to its original position)",
+                    "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“夏のひととき”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d9a",
+        "sid": "043",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-043",
+        "imagepath": "JP/W82/043.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】[ Return 2 Character from your Waiting Room into Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gets +1 Soul.",
+                    "【A】[(1)] When this card's dealt Damage is cancelled, you may pay the cost. If you did, you draw 1 card."
+                ],
+                "name": "“打倒チャーハン”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d9f",
+        "sid": "092",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-092",
+        "imagepath": "JP/W82/092.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【C】RECOLLECTION If 「蔵で見つけた写真」 is in your Memory, this card gets +2500 Power, gains the following Ability. 『【A】[Place this card into Waiting Room] When your other Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets +1000 Power.』"
+                ],
+                "name": "“あの夏をもう一度”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da4",
+        "sid": "087",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-087",
+        "imagepath": "JP/W82/087.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, if you have 2 or more other 《サマポケ》 Character, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.",
+                    "【A】[Return 1 「\"仲良しさん\"静久」 from your Memory to Hand, place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gets +3000 Power."
+                ],
+                "name": "“教わったおまじない”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da9",
+        "sid": "088",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-088",
+        "imagepath": "JP/W82/088.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or lower, place it into Stock. (Climax is considered Level 0. If not, return revealed card to its original position)",
+                    "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+                ],
+                "name": "“ちょっとだけ……ばいばい”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394dae",
+        "sid": "014",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-014",
+        "imagepath": "JP/W82/014.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +1000 Power.",
+                    "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +2500 Power, at the end of turn, place that Character into Waiting Room."
+                ],
+                "name": "“観光協会の会長”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394db3",
+        "sid": "103",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-103",
+        "imagepath": "JP/W82/103.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《サマポケ》 Character, this card gets ＋2000 Power.",
+                    "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+                ],
+                "name": "“Summer Session”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394db8",
+        "sid": "024",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-024",
+        "imagepath": "JP/W82/024.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "CONCENTRATION If you have no 《サマポケ》 Character, you cannot play this card from Hand.",
+                    "Choose 1 of your Character, during this turn, it gets ＋1 Soul.",
+                    "Both players flip the top 3 cards of your Deck, place them into Waiting Room. If the total Power of your cards that placed into Waiting Room by this effect, is higher than opponent's total Power of his/her cards that placed into Waiting Room by this effect, choose up to 2 《サマポケ》 Character from your Waiting Room, return them to Hand."
+                ],
+                "name": "島モンファイト",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dbd",
+        "sid": "025",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-025",
+        "imagepath": "JP/W82/025.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【C】If you have 4 or more 《サマポケ》 Character, this card gets -1 Level in your Hand.",
+                    "【C】RECOLLECTION During your turn, if 「蔵で見つけた写真」 is in your Memory, this card gets +3000 Power.",
+                    "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+                ],
+                "name": "“サマードレス”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dc2",
+        "sid": "030",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-030",
+        "imagepath": "JP/W82/030.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+                    "【C】If you have 2 or more other 《サマポケ》 Character, this card gets +1000 Power.",
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+                ],
+                "name": "“君の手で”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dc7",
+        "sid": "055",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-055",
+        "imagepath": "JP/W82/055.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【S】[(1)] Choose 1 opponent's Character with Level 0 or lower at Front Row, place it into Waiting Room.",
+                    "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』"
+                ],
+                "name": "“鬼ごっこをしようぜ！”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dcc",
+        "sid": "016",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-016",
+        "imagepath": "JP/W82/016.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Clothes 《服》"
+                ],
+                "ability": [
+                    "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a Character, place it under this card face-down as Marker. （If it's a Character, return revealed card to its original position）",
+                    "【A】［Place 1 Marker from this card into Waiting Room］ When this card attacks, you may pay the cost. If you did, choose and perform 1 of the following 2 effects.",
+                    "『During this turn, this card gets ＋4500 Power.』",
+                    "『During this turn, this card gets ＋1500 Power and ＋2 Soul.』"
+                ],
+                "name": "“ウェイター姿”良一",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dd1",
+        "sid": "094",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-094",
+        "imagepath": "JP/W82/094.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "サマポケ",
+                    "時間"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋4000。",
+                    "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、そのカードのトリガーアイコンの[SOUL]1つにつき、そのターン中、このカードのソウルを＋1。"
+                ],
+                "name": "\"チャーハン・ラプソディ\"うみ"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dd6",
+        "sid": "P05",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-P05",
+        "imagepath": "JP/W82/P05.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+                    "【A】When this card becomes REVERSE, if your Memory has 2 or less cards, you may send this card to Memory."
+                ],
+                "name": "“仲良しさん”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394ddb",
+        "sid": "080",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-080",
+        "imagepath": "JP/W82/080.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】 All your other 「\"戻りつつある記憶\"識」 gets ＋1500 Power, gains 《おむすび》 and 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+                    "【S】［REST this card］ Choose 1 of your Character, during this turn, it gets ＋1000 Power."
+                ],
+                "name": "“幸せな時間”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de0",
+        "sid": "066",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-066",
+        "imagepath": "JP/W82/066.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+                    "【A】[(1) REST 1 of your other STANDING Character that has 「紬」 or 「ツムギ」 or 「静久」 in its name] During the turn when this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 Character with 「紬」 or 「ツムギ」 or 「静久」 in its name and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "“仲良しさん”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de7",
+        "sid": "081",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-081",
+        "imagepath": "JP/W82/081.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】For each of your other 《サマポケ》 Character, this card gets +500 Power.",
+                    "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+                ],
+                "name": "“側に居てくれ”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de8",
+        "sid": "071",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-071",
+        "imagepath": "JP/W82/071.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】RECOLLECTION During your turn, if your Memory has any cards, this card gets +2500 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power.』"
+                ],
+                "name": "“おめかし”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d66",
+        "sid": "005",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-005",
+        "imagepath": "JP/W82/005.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters gets +1000 Power, +1 Soul.",
+                    "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+                ],
+                "name": "私のファーストキス",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d84",
+        "sid": "027",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-027",
+        "imagepath": "JP/W82/027.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《サマポケ》 Character, this card gets ＋2000 Power.",
+                    "【A】When this card attacks, if you have other 「\"私が出来ること\"しろは」, look at the top card of your Deck, place it on top Deck or Waiting Room, place up to 1 card from your top Deck into Stock, during this turn, this card gets +500 Power."
+                ],
+                "name": "“あの夏をもう一度”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d89",
+        "sid": "013",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-013",
+        "imagepath": "JP/W82/013.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+                ],
+                "name": "明日に備えて",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d8e",
+        "sid": "047",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-047",
+        "imagepath": "JP/W82/047.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Pirate 《海賊》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+                    "【A】[(2)] At the beginning of your Encore Step, you may pay the cost. If you did, choose and reveal up to 1 Climax with Gold Trigger Icon from Hand, return it to Deck, shuffle your Deck afterwards."
+                ],
+                "name": "“まぶしさの向こう側へ”鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d93",
+        "sid": "033",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-033",
+        "imagepath": "JP/W82/033.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】All your other 《サマポケ》 Character gets +500 Power.",
+                    "【A】When your Character Trigger Checks a Climax, look at the top card of your Deck, place it on top Deck or Waiting Room."
+                ],
+                "name": "“鬼コーチ風”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d98",
+        "sid": "067",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-067",
+        "imagepath": "JP/W82/067.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Twins 《双子》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, both player perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards from your Memory into Waiting Room except for those 4 cards.』",
+                    "【A】When this card attacks, choose 1 of your other 《サマポケ》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《サマポケ》 Character x500."
+                ],
+                "name": "“あの夏をもう一度”蒼",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d9d",
+        "sid": "052",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-052",
+        "imagepath": "JP/W82/052.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+                ],
+                "name": "これは私の夢なんだろう",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "5f98bdc2f81b905b1c394da2",
+        "sid": "077",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-077",
+        "imagepath": "JP/W82/077.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【A】This Ability can be activated up to 1 time each turn. When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card. (Climax is considered Level 0. Return revealed card to its original position)"
+                ],
+                "name": "“ときめく乙女”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da7",
+        "sid": "102",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-102",
+        "imagepath": "JP/W82/102.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "サマポケ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+                ],
+                "name": "\"鳥白島のスナイパー\"美希"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394dac",
+        "sid": "P03",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-P03",
+        "imagepath": "JP/W82/P03.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "Opponent performs 【RALLY】.",
+                    "You draw 1 card, both player draw 1 card for each card placed into Waiting Room by this effect.",
+                    "Send this card to Memory.",
+                    "【REPLAY】 【RALLY】 The performing player may choose 1 card from his/her Hand, place it into Waiting Room. If he/she did not place card into Waiting Room, the opponent of the performing player may draw 1 card. If he/she placed card into Waiting Room, the opponent of the performing player now performs 【RALLY】."
+                ],
+                "name": "ラリーの応酬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394db1",
+        "sid": "098",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-098",
+        "imagepath": "JP/W82/098.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your 《サマポケ》 Character in front of this card gets +2000 Power.",
+                    "【A】When this card is placed on Stage from Hand, you may choose 1 「\"仲良しさん\"静久」 from your Waiting Room, send it to Memory.",
+                    "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, return any number of 「\"仲良しさん\"静久」 from your Memory to Hand, perform the following Action X times.",
+                    "『Choose 1 card from your Hand, place it into Waiting Room, choose 1 opponent's Character, during this turn, it gets -1 Soul.』",
+                    "X is equal to the number of 「\"仲良しさん\"静久」 returned to your Hand by this effect."
+                ],
+                "name": "“祝福の紙吹雪”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394db6",
+        "sid": "035",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 7000,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-035",
+        "imagepath": "JP/W82/035.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】If your Stock has 2 or less cards, this card gets +1500 Power."
+                ],
+                "name": "“再会の約束”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dbb",
+        "sid": "011",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-011",
+        "imagepath": "JP/W82/011.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "サマポケ",
+                    "おっぱい"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+                ],
+                "name": "\"おっぱいは正義\"静久"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc4f81b905b1c394de9",
+        "sid": "P02",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-P02",
+        "imagepath": "JP/W82/P02.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】RECOLLECTION If 「\"すでに惚れ直したぞ\"美希＆羽依里」 is in your Memory, this card gets +1000 Power, gains the following Ability. 『【C】During this card's battle, opponent cannot use 『ASSIST』 from Hand.』",
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「これは私の夢なんだろう」 is in your Climax Slot, deal 1 Damage to opponent, place that Character on top Deck. (Damage can be cancelled)"
+                ],
+                "name": "“夏の思い出”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dc0",
+        "sid": "050",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-050",
+        "imagepath": "JP/W82/050.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters gets +1000 Power, +1 Soul.",
+                    "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+                ],
+                "name": "最後に……君に逢いたかったな……",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dc5",
+        "sid": "026",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "__v": 0,
+        "cardcode": "SMP/W82-026",
+        "imagepath": "JP/W82/026.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》"
+                ],
+                "ability": [
+                    "【A】RECOLLECTION [(3) Place 1 card from Hand into Waiting Room] At the beginning of your Encore Step, if you have 2 or more other Character with 「美希」 in its name, and this card is in Memory, you may pay the cost. If you did, deal 1 Damage to opponent, choose up to 1 Character from your Waiting Room, return it to Hand. (Damage can be cancelled)",
+                    "【S】[(1)] If your Memory has 2 or less cards, look at up to 3 cards from your top Deck, choose up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, send this card to Memory"
+                ],
+                "name": "“すでに惚れ直したぞ”美希＆羽依里",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dca",
+        "sid": "051",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-051",
+        "imagepath": "JP/W82/051.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【A】 When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, it gets ＋1000 Power.",
+                    "【A】 When this card's dealt Damage is cancelled, you may return this card to Hand."
+                ],
+                "name": "“照れる格好”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dcf",
+        "sid": "041",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-041",
+        "imagepath": "JP/W82/041.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Twins 《双子》"
+                ],
+                "ability": [
+                    "【C】All your other 「\"無防備な寝顔\"蒼」 gets +1000 Power.",
+                    "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+                    "【A】[Place 1 Red or Blue card from Hand into Waiting Room] When this card is placed on Stage from Hand, if your Hand has 6 or less cards, you may pay the cost. If you did, search your Deck for up to 1 「\"無防備な寝顔\"蒼」 and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "“やっぱりチョロい”蒼",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dd4",
+        "sid": "084",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-084",
+        "imagepath": "JP/W82/084.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+                ],
+                "name": "さいごまで……お願いします",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "5f98bdc4f81b905b1c394dd9",
+        "sid": "100",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-100",
+        "imagepath": "JP/W82/100.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+                    "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+                ],
+                "name": "もう１回……いい？",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "5f98bdc4f81b905b1c394dde",
+        "sid": "076",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "__v": 0,
+        "cardcode": "SMP/W82-076",
+        "imagepath": "JP/W82/076.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, choose 1 of your Character, during this turn, it gets +1000 Power.",
+                    "【S】[REST this card] Look at the top card of your Deck. (Return looked card to its original position)"
+                ],
+                "name": "“一人遊びの達人”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de3",
+        "sid": "101",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-101",
+        "imagepath": "JP/W82/101.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《サマポケ》 Character.",
+                    "【A】【CXCOMBO】[(1)] When this card attacks, if 「最後に……君に逢いたかったな……」 is in your Climax Slot, and this card has 3 or less Soul, you may pay the cost. If you did, during this attack, when this card deals attacking Damage to opponent, deal X times 1 Damage to opponent instead. X is equal to the number of this card's Soul. (This does not consider as 【A】 effect Damage. Damage can be cancelled)"
+                ],
+                "name": "“夏の思い出”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d64",
+        "sid": "003",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 11000,
+        "soul": 1,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-003",
+        "imagepath": "JP/W82/003.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】If you have 4 or more 《サマポケ》 Character, this card gets -1 Level in your Hand.",
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】[(2)] When this card is placed on Stage from Hand, if you have other Character with 「\"夏の思い出\"」 in its name, you may pay the cost. If you did, opponent chooses 1 Climax from his/her Waiting Room, return all cards from Waiting Room into Deck except that card, shuffle his/her Deck afterwards."
+                ],
+                "name": "“ひまわり畑”しろは",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc1f81b905b1c394d87",
+        "sid": "009",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-009",
+        "imagepath": "JP/W82/009.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+                    "【S】[(2) REST this card] Search your Deck for up to 1 《サマポケ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "“おむすび革命”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d8c",
+        "sid": "017",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-017",
+        "imagepath": "JP/W82/017.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, choose 1 of your 《サマポケ》 Character, during this turn, it gets +1500 Power, gains 《カレー》.",
+                    "【A】When this card attacks, choose 1 of your 《サマポケ》 Character, during this turn, it gets +1500 Power, gains 《カレー》."
+                ],
+                "name": "“攻めたファッション”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc1f81b905b1c394d91",
+        "sid": "037",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-037",
+        "imagepath": "JP/W82/037.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+                    "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+                ],
+                "name": "“頑張ったんですね”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394d96",
+        "sid": "023",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-023",
+        "imagepath": "JP/W82/023.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《サマポケ》 Character, during this turn, this card gets +1 Level and +1500 Power. (Return revealed card to its original position)",
+                    "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《サマポケ》 Character, REST it, move it to an empty slot at Back Row."
+                ],
+                "name": "“手の繋ぎ方”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394d9b",
+        "sid": "048",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-048",
+        "imagepath": "JP/W82/048.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+                    "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+                ],
+                "name": "“僕が守った物”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394da0",
+        "sid": "057",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-057",
+        "imagepath": "JP/W82/057.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Twins 《双子》"
+                ],
+                "ability": [
+                    "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+                    "【A】When this card is placed on Stage from Hand, you draw 1 card, choose 1 card from your Hand, place it into Waiting Room, choose up to 1 opponent's Character, return it to Hand.",
+                    "【A】When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 「\"妹想い\"藍」 from your Waiting Room, send it to Memory."
+                ],
+                "name": "“真夏の海辺”蒼",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394da5",
+        "sid": "082",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-082",
+        "imagepath": "JP/W82/082.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【COUNTER】 If you have 5 or more 《サマポケ》 Character, choose 1 Character in battle, during this turn, it gains the following Ability. 『【C】 This card cannot deal any Damage to player.』",
+                    "Choose 1 of your Character, during this turn, it gets ＋1500 Power."
+                ],
+                "name": "いつまでも一緒に",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394daa",
+        "sid": "044",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-044",
+        "imagepath": "JP/W82/044.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "【C】For each Marker under this card, this card gets +2000 Power.",
+                    "【A】When this card is placed on Stage from Hand, if you have other 《サマポケ》 Character, during this turn, this card gets +2000 Power.",
+                    "【A】When this card's battle opponent becomes REVERSE, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker."
+                ],
+                "name": "“海賊鬼姫”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc2f81b905b1c394daf",
+        "sid": "069",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-069",
+        "imagepath": "JP/W82/069.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《サマポケ》 Character, this card gets ＋1000 Power.",
+                    "【A】【CXCOMBO】[Place 1 「\"仲良しさん\"静久」 from your Memory into Waiting Room] When 「絶対に忘れたくない」 is placed into your Climax Slot, if this card is at Front Row, you may pay the cost. If you did, choose up to 2 《サマポケ》 Character from your Waiting Room, place them into Stock in any order, during this turn, this card gets +3000 Power."
+                ],
+                "name": "“メリークリスマス”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc2f81b905b1c394db4",
+        "sid": "034",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-034",
+        "imagepath": "JP/W82/034.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Weapon 《武器》"
+                ],
+                "ability": [
+                    "【C】You cannot play Event and 『ASSIST』 from Hand."
+                ],
+                "name": "“風紀レーダー”美希",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394db9",
+        "sid": "059",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-059",
+        "imagepath": "JP/W82/059.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】During your turn, if you have other 《サマポケ》 Character, this card gets ＋3000 Power.",
+                    "【A】【CXCOMBO】[Place 1 《サマポケ》 Character from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「お決まりの朝食」 is in your Climax Slot, choose up to 1 《サマポケ》 Character from your Waiting Room, return it to Hand, and you may pay the cost. If you did, choose 1 《サマポケ》 Character or 「Summer Pockets」from your Waiting Room, return it to Hand."
+                ],
+                "name": "“ひまわり畑”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dbe",
+        "sid": "049",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "RR",
+        "__v": 0,
+        "cardcode": "SMP/W82-049",
+        "imagepath": "JP/W82/049.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, choose 1 of your other 《サマポケ》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《サマポケ》 Character x500."
+                ],
+                "name": "“夏のひととき”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dc3",
+        "sid": "012",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-012",
+        "imagepath": "JP/W82/012.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Stuffed Animal 《ヌイグルミ》"
+                ],
+                "ability": [
+                    "【A】[(2) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, if you have other 《サマポケ》 Character, you may pay the cost. If you did, search your Deck for up to 2 Character with 「\"夏の思い出\"」 in its name and show them to opponent, add them to Hand, shuffle your Deck afterwards.",
+                    "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 opponent's Character, return it to Hand."
+                ],
+                "name": "“メイド服”紬",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dc8",
+        "sid": "040",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-040",
+        "imagepath": "JP/W82/040.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, look at up to 2 cards from opponent's top Deck, place them on top Deck in original order.",
+                    "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《サマポケ》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“ウシの恩返し”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dcd",
+        "sid": "104",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "__v": 0,
+        "cardcode": "SMP/W82-104",
+        "imagepath": "JP/W82/104.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Time 《時間》"
+                ],
+                "ability": [
+                    "【C】If this card is in the Front Row, all your 《サマポケ》 Characters in Hand gains 『【S】【COUNTER】ASSIST 2000 Level 0 [Place this card from Hand into Waiting Room]』, all your 《サマポケ》 Characters get +1000 Power.",
+                    "【A】[(2)] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+                ],
+                "name": "“大人への抵抗”うみ",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc3f81b905b1c394dd2",
+        "sid": "056",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "__v": 0,
+        "cardcode": "SMP/W82-056",
+        "imagepath": "JP/W82/056.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If this card is at the Center Slot of Front Row, this card gets +2000 Power.",
+                    "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《サマポケ》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“Echoes of Summer”蒼＆鴎",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc3f81b905b1c394dd7",
+        "sid": "065",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-065",
+        "imagepath": "JP/W82/065.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+                    "【A】[Place 1 Climax from Hand into Waiting Room] At the beginning of your Encore Step, you may pay the cost. If you did, choose 1 《サマポケ》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "“この夏あなたを好きになる”静久＆羽依里",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5f98bdc4f81b905b1c394ddc",
+        "sid": "090",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "U",
+        "__v": 0,
+        "cardcode": "SMP/W82-090",
+        "imagepath": "JP/W82/090.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Oni 《鬼》"
+                ],
+                "ability": [
+                    "Translations Coming Soon!"
+                ],
+                "name": "“戻りつつある記憶”識",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394de1",
+        "sid": "070",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-070",
+        "imagepath": "JP/W82/070.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Summer Pocket 《サマポケ》",
+                    "Breasts 《おっぱい》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《サマポケ》 Character, this card gets ＋2000 Power.",
+                    "【A】ENCORE ［(1) Place 1 of your Character from Stage into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+                ],
+                "name": "“何度目かのファーストキス”静久",
+                "source": "akiba"
+            }
+        },
+        "series": "5f98bd6a5f277795ebc7358a",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5f98bdc4f81b905b1c394dea",
+        "sid": "096",
+        "set": "SMP",
+        "side": "W",
+        "release": "82",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "__v": 0,
+        "cardcode": "SMP/W82-096",
+        "imagepath": "JP/W82/096.gif"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "name": "全力のライブ レイヤ",
+        "code": "BD/W73-P01",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
+        ],
+        "attributes": [
+            "音楽",
+            "RAISE A SUILEN"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p01.png"
+    },
+    {
+        "name": "全力のライブ 戸山香澄",
+        "code": "BD/W73-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "音楽",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p02.png"
+    },
+    {
+        "name": "全力のライブ 湊友希那",
+        "code": "BD/W73-P03",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+        ],
+        "attributes": [
+            "音楽",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p03.png"
+    },
+    {
+        "name": "Rausch und/and Craziness",
+        "code": "BD/W73-P04",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p04.png"
+    },
+    {
+        "name": "スクールライフ 美竹蘭",
+        "code": "BD/W73-P06",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の緑のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "attributes": [
+            "音楽",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p06.png"
+    },
+    {
+        "name": "ギャラクシーの前で レイヤ",
+        "code": "BD/W73-P07",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "音楽",
+            "RAISE A SUILEN"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p07.png"
+    },
+    {
+        "name": "スクールライフ 丸山彩",
+        "code": "BD/W73-P08",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの正面のキャラは他の枠に動かせない。",
+            "【永】 このカードはサイドアタックできない。"
+        ],
+        "attributes": [
+            "音楽",
+            "Pastel＊Palettes"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p08.png"
+    },
+    {
+        "name": "スクールライフ 戸山香澄",
+        "code": "BD/W73-P09",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "音楽",
+            "Poppin’Party"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p09.png"
+    },
+    {
+        "name": "スクールライフ 湊友希那",
+        "code": "BD/W73-P10",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "音楽",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p10.png"
+    },
+    {
+        "name": "輝きを放つ歌声 響",
+        "code": "SG/W70-P01",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。"
+        ],
+        "attributes": [
+            "音楽"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p01.png"
+    },
+    {
+        "name": "輝きを放つ歌声 切歌",
+        "code": "SG/W70-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p02.png"
+    },
+    {
+        "name": "輝きを放つ歌声 調",
+        "code": "SG/W70-P03",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p03.png"
+    },
+    {
+        "name": "輝きを放つ歌声 クリス",
+        "code": "SG/W70-P04",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p04.png"
+    },
+    {
+        "name": "輝きを放つ歌声 マリア",
+        "code": "SG/W70-P05",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p05.png"
+    },
+    {
+        "name": "輝きを放つ歌声 翼",
+        "code": "SG/W70-P06",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p06.png"
+    },
+    {
+        "name": "休日のひととき 切歌&調",
+        "code": "SG/W70-P07",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p07.png"
+    },
+    {
+        "name": "休日のひととき 響&クリス",
+        "code": "SG/W70-P08",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p08.png"
+    },
+    {
+        "name": "決戦の時 響",
+        "code": "SG/W70-P09",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。』（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "音楽",
+            "－",
+            "－"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p09.png"
+    },
+    {
+        "name": "“まんが DE 絶唱”シンフォギア装者",
+        "code": "SG/W70-P10",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "音楽"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p10.png"
+    },
+    {
+        "name": "ドキドキお泊り会 調＆切歌",
+        "code": "SG/W70-P11",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてがカード名に「切歌」か「調」を含むキャラなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "音楽",
+            "武器"
+        ],
+        "set": "SG",
+        "release": "W70",
+        "sid": "P11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_p11.png"
+    },
+    {
+        "name": "ある夏の日　キリカ",
+        "code": "SR/SE25-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《音楽》か《竜》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "音楽",
+            "竜"
+        ],
+        "set": "SR",
+        "release": "SE25",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_p02.png"
+    }
+]

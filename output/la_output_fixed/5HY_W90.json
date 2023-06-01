@@ -1,0 +1,3351 @@
+[
+    {
+        "name": "女優として 中野 一花",
+        "code": "5HY/W90-001",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card69313-large.jpg"
+    },
+    {
+        "name": "不器用な恋心 中野 一花",
+        "code": "5HY/W90-002",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When 「たった一つの噓」 is placed into your Climax Slot, if you have 2 or more other 《五つ子》 Character, during this turn, this card gains 2 of the following Abilities.",
+            "『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+            "『【A】At the end of this card's attack, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level.』(Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card69315-large.jpg"
+    },
+    {
+        "name": "五つ子の教師 上杉 風太郎",
+        "code": "5HY/W90-003",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】This card cannot be chosen by opponent's effect.",
+            "【A】【CXCOMBO】[(4) Place 4 of your other Character from Stage into Waiting Room] When 「五つ子の思ひ出」 is placed into your Climax Slot, if your Level is 3 or higher, you may pay the cost. If you did, choose up to 5 Marker from this card, place them into separate slot on Stage, send this card to Memory.",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +1000 Power. Choose up to 1 Character with 「かけがえのない絆」 in its name from your Waiting Room, if the total number of cards in your Memory and Marker Slot is 4 or less, and under this card has no Marker that has the same name as that chosen card, place it under this card face-up as Marker."
+        ],
+        "attributes": [
+            "Private Teacher 《家庭教師》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card69317-large.jpg"
+    },
+    {
+        "name": "純白の願い 中野 四葉",
+        "code": "5HY/W90-004",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】SUPPORT During your turn, all your Character with Level 0 or lower in front of this card gets +1000 Power.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 3 cards from your top Deck, choose up to 1 《五つ子》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, if you have other 《五つ子》 Character, choose up to 1 「欲しかったもの 中野 四葉」 from your Waiting Room, send it to Memory."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card69319-large.jpg"
+    },
+    {
+        "name": "純白の願い 中野 一花",
+        "code": "5HY/W90-005",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】At the beginning of opponent's Attack Phase, you may move this card to the empty Center Slot at Front Row.",
+            "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 Character with 「一花」 in its name among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card69321-large.jpg"
+    },
+    {
+        "name": "名女優 中野 一花",
+        "code": "5HY/W90-006",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ここのケーキ屋さん一度来てみたかったのです～～",
+        "ability": [
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「咄嗟の返答 中野 一花」 from your Waiting Room, place it into this card's previous slot on Stage.",
+            "【A】CHANGE [(1) Place this card into Waiting Room] At the beginning of your Climax Phase, if your Level is 2 or higher, you may pay the cost. If you did, choose 1 「姉としてできること 中野 一花」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card69323-large.jpg"
+    },
+    {
+        "name": "制服姿 中野 一花",
+        "code": "5HY/W90-007",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If 「純白の願い 中野 一花」 is in your Clock, this card gets -1 Level in your Hand.",
+            "【A】【CXCOMBO】When this card attacks, if 「募る恋心」 is in your Climax Slot, and you have 4 or more other 《五つ子》 Character, search your Deck for up to 2 《五つ子》 Character, reveal them, add 1 to Hand, place the remaining cards into Stock, shuffle the Deck afterwards, during this turn, this card gets +3000 Power.",
+            "【A】[(1)] When the Character facing this card attacks, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 2 cards, place them into Waiting Room, place the remaining cards on top Deck in any order."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card69325-large.jpg"
+    },
+    {
+        "name": "いつも誰かのために 中野 四葉",
+        "code": "5HY/W90-008",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "前より食べ物に近づいてる気がする！",
+        "ability": [
+            "【C】RECOLLECTION If your Memory has 3 or more 《五つ子》 Character, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card69327-large.jpg"
+    },
+    {
+        "name": "思い出の屋根上 中野 一花",
+        "code": "5HY/W90-009",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage.",
+            "【A】 When this card attacks, choose 1 of your 《五つ子》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card69329-large.jpg"
+    },
+    {
+        "name": "お正月 中野 四葉",
+        "code": "5HY/W90-010",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 If this card is at the Center Slot of Front Row, this card gets ＋1 Soul.",
+            "【A】 [(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card69331-large.jpg"
+    },
+    {
+        "name": "咄嗟の返答 中野 一花",
+        "code": "5HY/W90-011",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "そりゃ、誰もあげなかったら可哀相だし",
+        "ability": [
+            "【C】During your turn, for each of your other Character with 「一花」 in its name, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card69333-large.jpg"
+    },
+    {
+        "name": "快活少女 中野 四葉",
+        "code": "5HY/W90-012",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ふーースッキリしたーー!!!",
+        "ability": [
+            "【A】[(1)] When you use this card's 『ASSIST』, if you have 5 or more Character with 「四葉」 in its name, you may pay the cost. If you did, return all cards from your Waiting Room to Deck, shuffle the Deck afterwards.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card69335-large.jpg"
+    },
+    {
+        "name": "姉としてできること 中野 一花",
+        "code": "5HY/W90-013",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "お姉ちゃんを頼ってくれないかな",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When your Character Trigger Checks a Climax with Choice Trigger Icon, if this card has no Marker, you may choose 1 《五つ子》 Character from your Waiting Room, place it under this card face-down as Marker.",
+            "【S】[Place 1 Marker from this card into Waiting Room] Choose 1 opponent's Character, send it to Memory, at the beginning of Encore Step, opponent places that Character from Memory into any slot on Stage."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card69337-large.jpg"
+    },
+    {
+        "name": "零奈",
+        "code": "5HY/W90-014",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】【CLOCK】ALARM If this card is on top Clock, at the beginning of your Main Phase, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 3 or more 《五つ子》 Character, at the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card69339-large.jpg"
+    },
+    {
+        "name": "お正月 中野 一花",
+        "code": "5HY/W90-015",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】[Place this card into Waiting Room] When your other 《五つ子》 Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character to its previous slot in REST.",
+            "【S】[REST this card] Choose 1 of your 《五つ子》 Character, during this turn, it gets +1500 Power, if that Character is 「浴衣姿 中野 一花」, during this turn, that Character gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to Stock. If you did, place the bottom card from opponent's Stock into Waiting Room.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card69341-large.jpg"
+    },
+    {
+        "name": "修学旅行の準備 中野 四葉",
+        "code": "5HY/W90-016",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "もしや五月……一人だけ抜け駆けしたんじゃ……",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to its original position)",
+            "【A】RECOLLECTION When this card is placed on Stage from Hand, if your Memory has any cards, choose 1 of your other 《五つ子》 Character, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card69343-large.jpg"
+    },
+    {
+        "name": "過信と油断 中野 一花",
+        "code": "5HY/W90-017",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "「君の敗因は女の子をちゃんと見てあげないとこだよ」",
+        "ability": [
+            "【C】 SUPPORT All your Character in front of this card gets ＋2000 Power.",
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】 This Ability can be activated up to 3 times each turn. When your other Character is placed on Stage from Waiting Room, choose 1 of your Character, during this turn, it gets ＋1 Soul."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card69345-large.jpg"
+    },
+    {
+        "name": "かけがえのない絆 中野 四葉",
+        "code": "5HY/W90-018",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】All your other Character with 「かけがえのない絆」 in its name gets +1500 Power.",
+            "【A】【CXCOMBO】RECOLLECTION At the beginning of your Attack Phase, if 「五つ子の思ひ出」 is in your Climax Slot, and 「五つ子の教師 上杉 風太郎」 is in your Memory, place up to 2 cards from your top Deck into Stock, opponent chooses 1 Climax from his/her Waiting Room, return all cards except that Climax from his/her Waiting Room to Deck, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card69347-large.jpg"
+    },
+    {
+        "name": "変装用眼鏡",
+        "code": "5HY/W90-019",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "どう？少しは知的に見えるんじゃない？",
+        "ability": [
+            "If you have no Character with 「一花」 in its name, you cannot play this card from Hand.",
+            "Look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your Character with 「一花」 in its name +1."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card69349-large.jpg"
+    },
+    {
+        "name": "たった一つの嘘",
+        "code": "5HY/W90-020",
+        "rarity": "CR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card69351-large.jpg"
+    },
+    {
+        "name": "募る恋心",
+        "code": "5HY/W90-021",
+        "rarity": "CC",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card69353-large.jpg"
+    },
+    {
+        "name": "アクティブな日々 中野 四葉",
+        "code": "5HY/W90-022",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《五つ子》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《五つ子》 Character x500.",
+            "【A】[(1)] During opponent's turn, when this card becomes REVERSE, you may pay the cost. If you did, REST this card. At the beginning of your next Encore Step, send this card to Memory."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card69355-large.jpg"
+    },
+    {
+        "name": "欲しかったもの 中野 四葉",
+        "code": "5HY/W90-023",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】[(2) Place 1 card from Hand into Waiting Room] At the end of this card's attack, you may pay the cost. If you did, place 5 cards from opponent's bottom Deck into Waiting Room, deal X Damage to opponent, until end of opponent's next turn, this card gets +1000 Power. X is equal to the number of Climax among those cards. (Damage can be cancelled)",
+            "【A】【CXCOMBO】RECOLLECTION When 「飛び越える世界」 is placed into your Climax Slot, if your Level is 3 or higher, and this card is in Memory, you may place this card into any slot at Front Row."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card69357-large.jpg"
+    },
+    {
+        "name": "ムードメーカー 中野 四葉",
+        "code": "5HY/W90-024",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "当然のように疑われてる！",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《五つ子》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card69359-large.jpg"
+    },
+    {
+        "name": "私にできること 中野 四葉",
+        "code": "5HY/W90-025",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "風太郎「お前ができるなら他の四人もできるはず」",
+        "ability": [
+            "【C】If all your Character has 「四葉」 in its name, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When 「新しい選択」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《五つ子》 Character, until end of opponent's next turn, this card gains 1 of the following Ability.",
+            "『【A】When this card attacks, you may place the top card of your Deck into Stock.』",
+            "『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card69361-large.jpg"
+    },
+    {
+        "name": "お正月 中野 五月",
+        "code": "5HY/W90-026",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If you have 4 or more Character with 「五月」 in its name, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, place up to 1 card from your top Clock into Waiting Room, until end of opponent's next turn, this card gains the following Ability. 『【A】At the beginning of opponent's Attack Phase, choose up to 1 opponent's Character, during this turn, it cannot become REVERSE.』",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, if you have other 《五つ子》 Character, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card69363-large.jpg"
+    },
+    {
+        "name": "純白の願い 中野 三玖",
+        "code": "5HY/W90-027",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【A】[Place 1 「ヘッドホン」 from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room to Deck, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card69365-large.jpg"
+    },
+    {
+        "name": "父との対話 中野 五月",
+        "code": "5HY/W90-028",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "……いただきます",
+        "ability": [
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.",
+            "【S】[REST 2 of your 《五つ子》 Character] Choose 1 of your Character, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card69367-large.jpg"
+    },
+    {
+        "name": "犬猿の仲 中野 三玖",
+        "code": "5HY/W90-029",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "受け取って",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place 3 cards from your top Deck into Waiting Room.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card69369-large.jpg"
+    },
+    {
+        "name": "鈍感 中野 五月",
+        "code": "5HY/W90-030",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "三玖って上杉君が好きなのですか⁉",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, place Ｘ cards from your top Deck into Waiting Room. Ｘ is equal to the number of your Character with 「五月」 in its name.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card69371-large.jpg"
+    },
+    {
+        "name": "予想外の差し入れ 中野 三玖",
+        "code": "5HY/W90-031",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "これ……",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《五つ子》 Character, during this turn, it gets ＋2000 Power.",
+            "【A】 When this card attacks, if you have 2 or more other 《五つ子》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card69373-large.jpg"
+    },
+    {
+        "name": "学級長 中野 四葉",
+        "code": "5HY/W90-032",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "このクラスの学級長に立候補します！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, if there is a Climax in your Climax Slot, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card69375-large.jpg"
+    },
+    {
+        "name": "姉妹思い 中野 四葉",
+        "code": "5HY/W90-033",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "一花「そんな薄着で出てきたからだよ……」",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「欲しかったもの 中野 四葉」 from your Waiting Room, and send it to Memory.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When your Character Trigger Checks a Climax, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card69377-large.jpg"
+    },
+    {
+        "name": "特訓中 中野 三玖",
+        "code": "5HY/W90-034",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you play Event, choose 1 of your Character, during this turn, it gets +X Power. X is equal to your Level x1500.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When your Character Trigger Checks a Climax, you may pay the cost. If you did, choose 1 Character or 「ヘッドホン」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card69379-large.jpg"
+    },
+    {
+        "name": "気まずい二人 中野 五月",
+        "code": "5HY/W90-035",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "二乃、先日は……",
+        "ability": [
+            "【A】 At the beginning of your Climax Phase, if you have other 《五つ子》 Character, during this turn, this card gains 1 of the following Abilities.",
+            "『【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.』",
+            "『【A】When this card Direct Attacks, choose 1 of your other 《五つ子》 Character, until end of opponent's next turn, it gets ＋2000 Power.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card69381-large.jpg"
+    },
+    {
+        "name": "差し入れ 中野 五月",
+        "code": "5HY/W90-036",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】During your turn, this card gets +3000 Power.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gains the following Ability. 『【C】The Character facing this card cannot move to other slot, and cannot send to Memory.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card69383-large.jpg"
+    },
+    {
+        "name": "思い悩む 中野 四葉",
+        "code": "5HY/W90-037",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "一花「ほら、貸して。やってあげる」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋1500 Power.",
+            "【A】 When this card attacks, choose 1 of your other 《五つ子》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《五つ子》 Character ×500."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card69385-large.jpg"
+    },
+    {
+        "name": "気まずい空気 中野 四葉",
+        "code": "5HY/W90-038",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "……上杉さん……",
+        "ability": [
+            "【A】［(1) Place the top card of your Deck into Clock］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card69387-large.jpg"
+    },
+    {
+        "name": "功労者へのご褒美 中野 四葉",
+        "code": "5HY/W90-039",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】All your other 《五つ子》 Character gets +500 Power.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When your Character Trigger Checks a Climax, you may pay the cost. If you did, choose 1 「多彩な魅力 中野 四葉」 or 「仲良し姉妹 中野 四葉」 from your Waiting Room, return it to Hand.",
+            "【A】[(1) Place this card into Waiting Room] At the beginning of your Main Phase, if your Level is 2 or higher, you may pay the cost. If you did, choose 1 「仲良し姉妹 中野 四葉」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card69389-large.jpg"
+    },
+    {
+        "name": "捜索中 中野 三玖",
+        "code": "5HY/W90-040",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card69391-large.jpg"
+    },
+    {
+        "name": "ランニング中 中野 四葉",
+        "code": "5HY/W90-041",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "あのー……二乃と五月をお願いしますね",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your 《五つ子》 Character ×1000.",
+            "【A】 When this card's battle opponent becomes REVERSE, if a Climax is in your Climax Slot, you may choose 1 《五つ子》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card69393-large.jpg"
+    },
+    {
+        "name": "かけがえのない絆 中野 三玖",
+        "code": "5HY/W90-042",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】SUPPORT All your Character with 「かけがえのない絆」 in its name in front of this card gets +2500 Power.",
+            "【A】When this card is placed on Stage from Hand or by 「五つ子の教師 上杉 風太郎」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】RECOLLECTION At the beginning of your Attack Phase, if 「五つ子の思ひ出」 is in your Climax Slot, and 「五つ子の教師 上杉 風太郎」 is in your Memory, place up to 1 card from your top Deck into Stock, choose 1 of your Character, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card69395-large.jpg"
+    },
+    {
+        "name": "かけがえのない絆 中野 五月",
+        "code": "5HY/W90-043",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】SUPPORT All your Character with 「かけがえのない絆」 in its name in front of this card gets +2500 Power.",
+            "【A】When this card is placed on Stage from Hand or by 「五つ子の教師 上杉 風太郎」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】RECOLLECTION At the beginning of your Attack Phase, if 「五つ子の思ひ出」 is in your Climax Slot, and 「五つ子の教師 上杉 風太郎」 is in your Memory, place up to 1 card from your top Deck into Stock, choose 1 of your Character, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card69397-large.jpg"
+    },
+    {
+        "name": "問題集",
+        "code": "5HY/W90-044",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "If you have 4 or more Character with 「四葉」 in its name, choose 1 Character with 「四葉」 in its name from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card69399-large.jpg"
+    },
+    {
+        "name": "五羽鶴の恩返し",
+        "code": "5HY/W90-045",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "Choose 1 Character from your Waiting Room, return it to Hand. You may send this card to Memory.",
+            "【C】RECOLLECTION If this card is in Memory, both players cannot use 『【A】ENCORE』. (Cannot use 『【A】ENCORE [(3)]』 from rule also)",
+            "【A】RECOLLECTION If this card is in Memory, at the beginning of your Main Phase, place this card into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card69401-large.jpg"
+    },
+    {
+        "name": "飛び越える世界",
+        "code": "5HY/W90-046",
+        "rarity": "CR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card69403-large.jpg"
+    },
+    {
+        "name": "新しい選択",
+        "code": "5HY/W90-047",
+        "rarity": "CC",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card69405-large.jpg"
+    },
+    {
+        "name": "五つ子の思ひ出",
+        "code": "5HY/W90-048",
+        "rarity": "CC",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card69407-large.jpg"
+    },
+    {
+        "name": "温厚篤実 中野 五月",
+        "code": "5HY/W90-049",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If you have 5 or more 《五つ子》 Character, this card gains 『【S】【COUNTER】ASSIST 2000 Level 0 [Place this card into Waiting Room]』 in your Hand.",
+            "【A】At the beginning of opponent's Attack Phase, if there is opponent's Character facing this card, you may move this card to an empty slot at Front Row."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card69409-large.jpg"
+    },
+    {
+        "name": "芽生えた信頼 中野 五月",
+        "code": "5HY/W90-050",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】EXPERIENCE [Place 1 card from Hand into Waiting Room] When this card attacks, if 「母の墓前にて」 is in your Climax Slot, if the total Level in your Level Slot is 2 or higher, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 3 《五つ子》 Character or 「合言葉」 and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card69411-large.jpg"
+    },
+    {
+        "name": "一途な乙女 中野 二乃",
+        "code": "5HY/W90-051",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If all your Character are 《五つ子》, this card gains 2 of the following Abilities.",
+            "『【C】During your turn, this card gets +5000 Power.』",
+            "『【A】ENCORE [Place 1 《五つ子》 Character from Hand into Waiting Room]』",
+            "【A】【CXCOMBO】[Place 1 「止まらないキモチ」 from your Climax Slot into Waiting Room] During your Climax Phase, when this card is placed on Stage by 「止まらないキモチ」's effect, if you have 2 or more other 《五つ子》 Character, you may pay the cost. If you did, STAND this card, until end of opponent's next turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card69413-large.jpg"
+    },
+    {
+        "name": "走り出す恋心 中野 二乃",
+        "code": "5HY/W90-052",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】【CXCOMBO】If 「真っ直ぐな想い」 is in your Climax Slot, this card in all area gains Switch Trigger Icon.",
+            "【C】During your turn, if you have 2 or more other 《五つ子》 Character, this card gets +4000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] At the end of this card's attack, if 「真っ直ぐな想い」 is in your Climax Slot, and you have 2 or more other 《五つ子》 Character, you may pay the cost. If you did, deal 3 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card69415-large.jpg"
+    },
+    {
+        "name": "回る日常 中野 二乃",
+        "code": "5HY/W90-053",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "どうしたのよ",
+        "ability": [
+            "【A】[Place 1 Character with 「二乃」 in its name from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, you draw 1 card.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card69417-large.jpg"
+    },
+    {
+        "name": "純白の願い 中野 五月",
+        "code": "5HY/W90-054",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】Your Hand size limit +1.",
+            "【C】SUPPORT During your turn, if your Hand has 5 or more cards, all your Character in front of this card gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax with Gate Trigger Icon among those cards, search your Deck for up to 1 《五つ子》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card69419-large.jpg"
+    },
+    {
+        "name": "夢に向かって 中野 五月",
+        "code": "5HY/W90-055",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】[Place 1 card from Hand into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to X card from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your other 《五つ子》 Character.",
+            "【A】When a Climax is placed into opponent's Climax Slot, you may place this card into Stock."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card69421-large.jpg"
+    },
+    {
+        "name": "陰なる努力 中野 一花",
+        "code": "5HY/W90-056",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may choose 1 card from your Hand, place it into Stock.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card69423-large.jpg"
+    },
+    {
+        "name": "真っ直ぐな言葉 中野 二乃",
+        "code": "5HY/W90-057",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "好きな人と回る。あんたに拒否権はないから",
+        "ability": [
+            "【A】[Return 2 《五つ子》 Character from your Waiting Room to Deck, shuffle the Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your 《五つ子》 Character, during this turn, it gets +1 Soul.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your other Character, during this turn, it gets +1000 Power, gains the following Ability. 『【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card69425-large.jpg"
+    },
+    {
+        "name": "純白の願い 中野 二乃",
+        "code": "5HY/W90-058",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】During your turn, if all your Character has 「二乃」 in its name, this card gets +4000 Power.",
+            "【A】[(1)] During your turn, when this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card69427-large.jpg"
+    },
+    {
+        "name": "好きになってくれる誰か 中野 二乃",
+        "code": "5HY/W90-059",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "あんたみたいなノーデリカシーな男でも",
+        "ability": [
+            "【C】If this card is at Front Row, all your 《五つ子》 Character gets +1500 Power.",
+            "【A】When a Climax with Switch Trigger Icon is placed into your Climax Slot, look at up to 2 cards from your top Deck, place them on top Deck in any order, choose 1 of your 《五つ子》 Character, during this turn, it gains the following Ability. 『【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card69429-large.jpg"
+    },
+    {
+        "name": "月夜の晩に 中野 五月",
+        "code": "5HY/W90-060",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】【CXCOMBO】EXPERIENCE [Place 3 《五つ子》 Character from Hand into Waiting Room] When this card attacks, if 「月夜の下で」 is in your Climax Slot, if the total Level in your Level Slot is 6 or higher, you may pay the cost. If you did, deal 1 Damage to opponent, and deal 4 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card69431-large.jpg"
+    },
+    {
+        "name": "微睡の中 中野 一花",
+        "code": "5HY/W90-061",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "いやー、ごめん",
+        "ability": [
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《五つ子》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 Character with 「一花」 in its name and show it to opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card69433-large.jpg"
+    },
+    {
+        "name": "猪突猛進 中野 二乃",
+        "code": "5HY/W90-062",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 If all your Character has 「二乃」 in its name, this card gains the following Ability.『【A】 When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character.』",
+            "【A】 When this card is placed on Stage from Hand, perform the following Action 2 times.『Look at the top card of your Deck, place it on top Deck or Waiting Room.』"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card69435-large.jpg"
+    },
+    {
+        "name": "良好な関係 中野 五月",
+        "code": "5HY/W90-063",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability.『【A】［Place 1 card from Hand into Waiting Room］ This Ability can be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent.』（Damage can be cancelled）",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card69437-large.jpg"
+    },
+    {
+        "name": "暴走中 中野 五月",
+        "code": "5HY/W90-064",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "友達ならこれくらい当たり前！……",
+        "ability": [
+            "【C】All your other 《五つ子》 Character gets +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 Character with Level same or lower than your Level from your Hand, place it into any slot on Stage, during this turn, that Character gets +2000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card69439-large.jpg"
+    },
+    {
+        "name": "やまびこ 中野 五月",
+        "code": "5HY/W90-065",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ヤッホーーー……",
+        "ability": [
+            "【A】 This Ability can be activated up to 1 time each turn. When you use 【S】, choose 1 of your 《五つ子》 Character, during this turn, it gets ＋1000 Power.",
+            "【S】［REST this card］ Choose 1 card from your Level Slot and 1 《五つ子》 Character from your Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card69441-large.jpg"
+    },
+    {
+        "name": "パティシエ姿 中野 二乃",
+        "code": "5HY/W90-066",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "「頑張らなきゃ……」",
+        "ability": [
+            "【C】During your turn, all your other 《五つ子》 Character gets +1000 Power.",
+            "【A】[Place this card into Waiting Room] When your other 《五つ子》 Character is placed into Waiting Room from Stage, if this card is at Front Row, you may pay the cost. If you did, place that Character to its previous slot in REST."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card69443-large.jpg"
+    },
+    {
+        "name": "お風呂時間 中野 一花",
+        "code": "5HY/W90-067",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】［Place the top card of your Deck into Clock］ When you use this card's 『ASSIST』, if you have other 《五つ子》 Character, you may pay the cost. If you did, choose 1 《五つ子》 Character from your Waiting Room, return it to Hand.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card69445-large.jpg"
+    },
+    {
+        "name": "月命日 中野 五月",
+        "code": "5HY/W90-068",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "えっと……はじめまして",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +X Power. X is equal to the number of your 《五つ子》 Character x500."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card69447-large.jpg"
+    },
+    {
+        "name": "思い出のお母さん 中野 五月",
+        "code": "5HY/W90-069",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If your Level is 3 or higher, this card gains the following Ability. 『【S】[Place this card into Waiting Room] Choose 1 opponent's Character, STAND it and move it to another empty slot, or choose 1 other opponent's Character, STAND and exchange them.』",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may send that Character to Memory."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card69449-large.jpg"
+    },
+    {
+        "name": "別れの言葉 中野 二乃",
+        "code": "5HY/W90-070",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If you have 2 or more other 《五つ子》 Character, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card69451-large.jpg"
+    },
+    {
+        "name": "お正月 中野 二乃",
+        "code": "5HY/W90-071",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】［(1)］ At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your 《五つ子》 Character and this card, STAND and exchange them."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card69453-large.jpg"
+    },
+    {
+        "name": "償いの気持ち 中野 一花",
+        "code": "5HY/W90-072",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 2,
+        "flavor_text": "やっぱDコースがいいな～",
+        "ability": [
+            "【C】 If all your Character has 「一花」 in its name, this card gets ＋4000 Power.",
+            "【A】 When this card attacks, reveal the top card of your Deck. If that card is a Character with 「一花」 in its name, place it into Stock.（If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card69455-large.jpg"
+    },
+    {
+        "name": "妄想中 中野 一花",
+        "code": "5HY/W90-073",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "せっかくの京都だよ？",
+        "ability": [
+            "【A】CHANGE [Return this card to Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, choose up to 1 《五つ子》 Character from your Hand, place it into this card's previous slot on Stage.",
+            "【S】[(2) REST this card] Deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card69457-large.jpg"
+    },
+    {
+        "name": "かけがえのない絆 中野 一花",
+        "code": "5HY/W90-074",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or by 「五つ子の教師 上杉 風太郎」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】RECOLLECTION At the beginning of your Attack Phase, if 「五つ子の思ひ出」 is in your Climax Slot, and this card is at Front Row, and 「五つ子の教師 上杉 風太郎」 is in your Memory, you may send all opponent's Character to Memory. If you did, you place those Character into separate slot on Stage, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card69459-large.jpg"
+    },
+    {
+        "name": "誓いの鐘",
+        "code": "5HY/W90-075",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【COUNTER】Choose 1 of your 《五つ子》 Character in battle, send it to Memory. At the beginning of your next Draw Phase, place that Character from your Memory into any slot on Stage, during this turn, it gets +1000 Power and +1 Soul."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card69461-large.jpg"
+    },
+    {
+        "name": "合言葉",
+        "code": "5HY/W90-076",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ええ……私の姉妹しかあり得ません",
+        "ability": [
+            "Choose 1 Character from your Waiting Room, return it to Hand.",
+            "You may place the top card of your Deck into Waiting Room. If that card is a Character with 「五月」 in its name, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card69463-large.jpg"
+    },
+    {
+        "name": "愛の暴走機関車",
+        "code": "5HY/W90-077",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "If you have 5 or more Character with 「二乃」 in its name, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card attacks, reveal 9 cards from your top Deck, shuffle the Deck afterwards, deal X Damage to opponent. X is equal to the number of Switch Trigger Icon among those cards.』(Damage can be cancelled. Return revealed card to its original position)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card69465-large.jpg"
+    },
+    {
+        "name": "真っ直ぐな想い",
+        "code": "5HY/W90-078",
+        "rarity": "CR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それがあたしよ。残念だったわね",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card69467-large.jpg"
+    },
+    {
+        "name": "母の墓前にて",
+        "code": "5HY/W90-079",
+        "rarity": "CR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card69469-large.jpg"
+    },
+    {
+        "name": "止まらないキモチ",
+        "code": "5HY/W90-080",
+        "rarity": "CC",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "覚悟しててね……フー君♪",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card69471-large.jpg"
+    },
+    {
+        "name": "月夜の下で",
+        "code": "5HY/W90-081",
+        "rarity": "CC",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card69473-large.jpg"
+    },
+    {
+        "name": "ひたむきな気持ち 中野 三玖",
+        "code": "5HY/W90-082",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If you have 4 or more 《五つ子》 Character, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if all your Character are 《五つ子》, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card69475-large.jpg"
+    },
+    {
+        "name": "好きの告白 中野 三玖",
+        "code": "5HY/W90-083",
+        "rarity": "RR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10500",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose and perform 1 of the following 2 effects.",
+            "『Search your Deck for up to 1 「ヘッドホン」 or 「秘密の告白」 and show it to opponent, add it to Hand, shuffle the Deck afterwards.』",
+            "『Choose 1 「ヘッドホン」 or 「秘密の告白」 from your Waiting Room, return it to Hand.』",
+            "【A】【CXCOMBO】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, if 「好きなもの」 is in your Climax Slot, and you have 4 or more other 《五つ子》 Character, STAND this card."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card69477-large.jpg"
+    },
+    {
+        "name": "着物姿 中野 三玖",
+        "code": "5HY/W90-084",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】【CLOCK】ALARM If this card is on top Clock, at the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to bottom Deck.』",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《五つ子》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card69479-large.jpg"
+    },
+    {
+        "name": "持ち前の優しさ 中野 三玖",
+        "code": "5HY/W90-085",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "さみしくなったら呼んで、いつでも看病にくるから",
+        "ability": [
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of 「ヘッドホン」 from your Waiting Room x1500.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「一途な想い」 is in your Climax Slot, you may choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card69481-large.jpg"
+    },
+    {
+        "name": "恋煩い 中野 三玖",
+        "code": "5HY/W90-086",
+        "rarity": "R",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "「だっ、だめだよフータロー……」",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card69483-large.jpg"
+    },
+    {
+        "name": "修学旅行 中野 二乃",
+        "code": "5HY/W90-087",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あの子は気楽でいいわね",
+        "ability": [
+            "【A】At the beginning of your Attack Phase, choose 1 of your Character with 「二乃」 in its name, during this turn, it gets +1500 Power.",
+            "【S】[(1) REST this card] Reveal the top card of your Deck. If that card is a Character with 「二乃」 in its name or 「愛の暴走機関車」, add it to Hand. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card69485-large.jpg"
+    },
+    {
+        "name": "抜け駆けのプレゼント 中野 二乃",
+        "code": "5HY/W90-088",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "一花「二乃……それ何？」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《五つ子》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《五つ子》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card69487-large.jpg"
+    },
+    {
+        "name": "急接近 中野 二乃",
+        "code": "5HY/W90-089",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あんたとはよくお風呂で会うわね",
+        "ability": [
+            "【A】［(1)］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 「急接近 中野 二乃」 from your Waiting Room, return it to Hand.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card69489-large.jpg"
+    },
+    {
+        "name": "偶然の遭遇？ 中野 三玖",
+        "code": "5HY/W90-090",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "別にフータローに会えるかもしれないから前に迎えに来た記憶を頼りに少し遠回りしてこのお店まで来たわけじゃなくてたまたま歩いてたら自然とこのお店に来ちゃったわけで",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, send that Character to Memory.』",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card69491-large.jpg"
+    },
+    {
+        "name": "アルバイト面接 中野 三玖",
+        "code": "5HY/W90-091",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ケーキ作りたいです",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《五つ子》 Character, during this turn, it gets ＋1000 Power.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card69493-large.jpg"
+    },
+    {
+        "name": "お正月 中野 三玖",
+        "code": "5HY/W90-092",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If this card has Marker, this card gets +2000 Power, gains 2 of the following Abilities.",
+            "『【C】The Character facing this card cannot move to other slot.』",
+            "『【A】At the beginning of opponent's Attack Phase, if there is opponent's Character facing this card, you may move this card to an empty slot at Front Row.』",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Character with 「三玖」 in its name or Event, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card69495-large.jpg"
+    },
+    {
+        "name": "ソファで一服 中野 三玖",
+        "code": "5HY/W90-093",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ど、どんな酷いことを……",
+        "ability": [
+            "【C】 All your other 《五つ子》 Character gets ＋500 Power.",
+            "【A】 When you play Event, you may place this card into Stock."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card69497-large.jpg"
+    },
+    {
+        "name": "陰ながら応援 中野 二乃",
+        "code": "5HY/W90-094",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《五つ子》 Character or Event, choose 1 of your Character, during this turn, it gets ＋3000 Power.（Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card69499-large.jpg"
+    },
+    {
+        "name": "お買い物 中野 二乃",
+        "code": "5HY/W90-095",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「繊細で真っ直ぐ 中野 二乃」 from your Waiting Room, place it into any slot on Stage.",
+            "【A】【CXCOMBO】When 「守るための嘘」 is placed into your Climax Slot, if this card is at Front Row, and your Hand has 5 or less cards, choose 1 of your 「繊細で真っ直ぐ 中野 二乃」, during this turn, it gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, you may deal the same Damage again to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card69501-large.jpg"
+    },
+    {
+        "name": "かけがえのない絆 中野 二乃",
+        "code": "5HY/W90-096",
+        "rarity": "C",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or by 「五つ子の教師 上杉 風太郎」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】RECOLLECTION [(3)] When this card attacks, if 「五つ子の思ひ出」 is in your Climax Slot, and 「五つ子の教師 上杉 風太郎」 is in your Memory, you may pay the cost. If you did, during this turn, this card gets +1000 Power, all your Character at Front Row gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is not cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card69503-large.jpg"
+    },
+    {
+        "name": "ヘッドホン",
+        "code": "5HY/W90-097",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "If you have no Character with 「三玖」 in its name, you cannot play this card from Hand.",
+            "Look at up to 5 cards from your top Deck, choose up to 1 Character with 「三玖」 in its name and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. Look at the top card of your Deck, place it on top or bottom Deck."
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card69505-large.jpg"
+    },
+    {
+        "name": "秘密の告白",
+        "code": "5HY/W90-098",
+        "rarity": "U",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なし",
+        "ability": [
+            "If you have 2 or more Character with 「三玖」 in its name, choose and perform 1 of the following 4 effects.",
+            "『Choose up to 1 「好きの告白 中野 三玖」 from your Hand, place it into any slot on Stage, at the end of turn, place that Character into Waiting Room.』",
+            "『Choose 1 card from your Clock, place it into Waiting Room.』",
+            "『Choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.』",
+            "『Choose 1 of your Character, until end of opponent's next turn, it gets +3500 Power, cannot move to other slot.』"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card69507-large.jpg"
+    },
+    {
+        "name": "好きなもの",
+        "code": "5HY/W90-099",
+        "rarity": "CR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "三玖「好き」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card69509-large.jpg"
+    },
+    {
+        "name": "一途な想い",
+        "code": "5HY/W90-100",
+        "rarity": "CC",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "三玖「……当たり！……」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card69511-large.jpg"
+    },
+    {
+        "name": "お家賃 中野 一花",
+        "code": "5HY/W90-101",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ということで、よろしくね♪",
+        "ability": [
+            "【A】When your other 《五つ子》 Character becomes REVERSE, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card69513-large.jpg"
+    },
+    {
+        "name": "守られないプライバシー 中野 二乃",
+        "code": "5HY/W90-102",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あたしにプライバシーはないのかしら……",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《五つ子》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【A】When this card attacks, choose 1 of your Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card69514-large.jpg"
+    },
+    {
+        "name": "困惑の眼差し 中野 三玖",
+        "code": "5HY/W90-103",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If this card is at the Center Slot of Front Row, this card gets +2000 Power.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《五つ子》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card69515-large.jpg"
+    },
+    {
+        "name": "スポーツ万能 中野 四葉",
+        "code": "5HY/W90-104",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card.",
+            "【A】RECOLLECTION When this card attacks, if your Memory has 2 or more cards, during this turn, this card gets +X Power. X is equal to the number of your 《五つ子》 Character x1000."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card69516-large.jpg"
+    },
+    {
+        "name": "超えた一線 中野 五月",
+        "code": "5HY/W90-105",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なし",
+        "ability": [
+            "【C】If this card has Marker, this card gets +3000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《五つ子》 Character or Event, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card69517-large.jpg"
+    },
+    {
+        "name": "寒空の下 一花&二乃&三玖&四葉&五月",
+        "code": "5HY/W90-P01",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】 When this card is placed on Stage from Hand, look at up to Ｘ cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. Ｘ is equal to the number of your 《五つ子》 Character."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card69518-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 一花",
+        "code": "5HY/W90-P02",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card69519-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 一花",
+        "code": "5HY/W90-P02S",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P02S",
+        "image": "https://images.littleakiba.com/tcg/card69520-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 二乃",
+        "code": "5HY/W90-P03",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P03",
+        "image": "https://images.littleakiba.com/tcg/card69521-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 二乃",
+        "code": "5HY/W90-P03S",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P03S",
+        "image": "https://images.littleakiba.com/tcg/card69522-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 三玖",
+        "code": "5HY/W90-P04",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P04",
+        "image": "https://images.littleakiba.com/tcg/card69523-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 三玖",
+        "code": "5HY/W90-P04S",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P04S",
+        "image": "https://images.littleakiba.com/tcg/card69524-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 四葉",
+        "code": "5HY/W90-P05",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P05",
+        "image": "https://images.littleakiba.com/tcg/card69525-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 四葉",
+        "code": "5HY/W90-P05S",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P05S",
+        "image": "https://images.littleakiba.com/tcg/card69526-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 五月",
+        "code": "5HY/W90-P06",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P06",
+        "image": "https://images.littleakiba.com/tcg/card69527-large.jpg"
+    },
+    {
+        "name": "新しい物語 中野 五月",
+        "code": "5HY/W90-P06S",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 You can play this card from Hand without following Colour rule.",
+            "【S】 [Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】［REST this card］ Choose 1 of your Character, until end of opponent's next turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P06S",
+        "image": "https://images.littleakiba.com/tcg/card69528-large.jpg"
+    },
+    {
+        "name": "絢爛華麗 中野 一花",
+        "code": "5HY/W90-P07",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your 《五つ子》 Character gets +X Power. X is equal to that Character's Level x500.",
+            "【A】［Place 1 《五つ子》 Character from Hand into Waiting Room］ When your Character Trigger Checks a Climax with Choice Trigger Icon, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Fashionable 《オシャレ》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P07",
+        "image": "https://images.littleakiba.com/tcg/card69529-large.jpg"
+    },
+    {
+        "name": "絢爛華麗 中野 二乃",
+        "code": "5HY/W90-P08",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《五つ子》 Character, this card gets +2000 Power.",
+            "【C】If the Character facing this card is Cost 0 or lower, this card cannot become REVERSE."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Cuisine 《料理》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P08",
+        "image": "https://images.littleakiba.com/tcg/card69530-large.jpg"
+    },
+    {
+        "name": "絢爛華麗 中野 三玖",
+        "code": "5HY/W90-P09",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［(2) Place 1 of your Character from Stage into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Heddohon(Headphone) 《ヘッドホン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P09",
+        "image": "https://images.littleakiba.com/tcg/card69531-large.jpg"
+    },
+    {
+        "name": "絢爛華麗 中野 四葉",
+        "code": "5HY/W90-P10",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《五つ子》 Character gets +500 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When your Character Trigger Checks a Climax with Gold Trigger Icon, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P10",
+        "image": "https://images.littleakiba.com/tcg/card69532-large.jpg"
+    },
+    {
+        "name": "絢爛華麗 中野 五月",
+        "code": "5HY/W90-P11",
+        "rarity": "PR",
+        "expansion": "Gotoubun no Hanayome ∬",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each Marker under this card, this card gets ＋1 Level and ＋1500 Power.",
+            "【C】 For each of your other 《五つ子》 Character at Back Row, this card gets ＋500 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker."
+        ],
+        "attributes": [
+            "Quintuplets 《五つ子》",
+            "Diligent 《真面目》"
+        ],
+        "set": "5HY",
+        "release": "W90",
+        "sid": "P11",
+        "image": "https://images.littleakiba.com/tcg/card69533-large.jpg"
+    }
+]

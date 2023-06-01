@@ -1,0 +1,5197 @@
+[
+    {
+        "name": "0/0 Maho",
+        "code": "DJ/S97-001",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - {CX Combo} [(1) Discard 1 card] At the start of your Attack Phase, you may pay cost. If you do, choose 1 Climax with \"LINK Groovy Mix\" in your Climax area and 1 Climax with \"LINK Groovy Mix\" in your Waiting Room with a different name from the Climax in your Climax Area, swap them.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230315_wa01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Marika",
+        "code": "DJ/S97-002",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your opponent's characters get \"AUTO - ENCORE (2)\"",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230403_ap01.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Rika",
+        "code": "DJ/S97-003",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have another <Music> character, this gets +3000 power.",
+            "AUTO - [Send 1 of your other <Music> characters on stage to Waiting Room] When this attacks, you may pay cost. If you do, reveal the top card of your deck. If that card is a <Music> character, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230331_iv01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Rinku",
+        "code": "DJ/S97-004",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, draw up to 2 cards, discard 2 cards, then put up to 1 card from the top of your deck into Stock.",
+            "AUTO - {CX Combo} [(3) Discard 2 cards] A the end of this card's attack, if you have the Choice CX (029) in your Climax Area, you may pay cost. If you do, declare deck or waiting room. Look at your declared area and choose up to 1 character with \"LINK Groovy Mix\" and this card, swap them. If you declared deck, shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Saori",
+        "code": "DJ/S97-005",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to once per turn. When you use ACCELERATE, you may draw 1 card. If you do, discard 1 card.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax with a Shot Trigger among them, choose up to 1 <Merm4id> character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230404_do01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Marika",
+        "code": "DJ/S97-006",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Merm4id>, this gets +2000 power.",
+            "AUTO - ACCELERATE [Put the top card of your deck into Clock]  At the start of your opponent's Attack Phase, if this is in your Front Row, you may pay cost. If you do, choose 1 of your other characters, this turn, it gains the following ability, \"AUTO - When this is Front Attacked, you may return this to hand.\""
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230403_ap02.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Dalia",
+        "code": "DJ/S97-007",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If a Climax with a Shot Trigger is in your Climax Area, this card in any area gains Shot Trigger.",
+            "CONT - During your turn, if all of your characters are <Music>, this gets +6000 power.",
+            "AUTO - {CX Combo} When this card's battle opponent is Reversed, if you have the Shot CX (031) in your Climax Area, choose up to 1 <Music> character in your Waiting Room, send it to Stock, then  search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230405_sz01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Maho",
+        "code": "DJ/S97-008",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix",
+            "AUTO - When this is placed on stage from hand or by the AUTO effect of {3/2 Rinku Above}, you may Heal 1.",
+            "AUTO - {CX Combo} When this attacks, if you have a Climax with \"LINK Groovy Mix\" in your Climax Area, and you have another <Music> character, until the end of your opponent's next turn, this gains the following ability, \"AUTO - At the start of your opponent's attack phase, choose up to 1 of your opponent's characters, this turn, it gets -1 Soul.\""
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230315_wa02.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Rinku",
+        "code": "DJ/S97-009",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix",
+            "AUTO - When this is placed on stage from hand or by the AUTO effect of {3/2 Rinku - 004}, draw up to 2 cards, then discard 1 card.",
+            "AUTO - {CX Combo} [Discard 1 <Music> character] When this attacks, if you have a Climax with \"LINK Groovy Mix\" in your Climax Area, and you have 2 or more other <Music> characters, you may pay cost. If you do, deal 1 damage to your opponent."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig02.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Rika",
+        "code": "DJ/S97-010",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 Yellow card in your Waiting Room, you may place it on top of your deck.",
+            "AUTO - {CX Combo} This ability can only be activated up to once per turn. when this card's damage is cancelled, if you have the Shot CX (030) in your Climax Area, and you have 4 or more other <Music> characters, deal 1 damage to your opponent, and heal up to 1."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230331_iv02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Mana",
+        "code": "DJ/S97-011",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, all of your opponent's front row characters get -500 power.",
+            "AUTO - When this attacks, choose 1 of your other <Music> characters, this turn, it gets +X power. X equals the number of your other <Music> characters times 500."
+        ],
+        "attributes": [
+            "Music",
+            "Call of Artemis"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230418_nr01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Dalia",
+        "code": "DJ/S97-012",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - ACCELERATE [Put the top card of your deck into Clock]  At the start of your Climax Phase, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +1000 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, reveal the top card of your deck. If that card is a <Music> character, Heal 1.\"",
+            "ACT - [Rest this] Choose 1 of your <Music> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230405_sz02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Saori",
+        "code": "DJ/S97-013",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have another <Music> character, this gets +3000 power.",
+            "AUTO - ACCELERATE [Put the top card of your deck into Clock] At the start of your Climax Phase, if you have another <Music> character, you may pay cost. If you do, this turn, this gains the following ability, \"AUTO - When this card's battle opponent is Reversed, look at up to 4 cards from the top of your deck, choose up to 1 card from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230404_do02.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Marika",
+        "code": "DJ/S97-014",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <Music> characters.",
+            "AUTO - When you use ACCELERATE, reveal the top card of your deck. If that card is Level 1 or lower, send it to Stock.",
+            "AUTO - When your character's Trigger Check reveals a Climax with a Shot Trigger, choose 1 of your characters, this turn, it gets +1000 power and +1 Soul."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230403_ap03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Maho",
+        "code": "DJ/S97-015",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "AUTO - When a Climax is placed in your Climax Area, choose up to 2 of your characters, this turn, they get +2000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230315_wa03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Rika",
+        "code": "DJ/S97-016",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 4 or more <Merm4id> characters, this gets -1 Level in hand.",
+            "CONT - If all of your characters are <Merm4id>, this gets +2000 power and the following 3 abilities,",
+            "- \"AUTO - (1) When you use ACCELERATE, if you have 4 or more Clock, you may pay cost. If you do, Heal 1.\"",
+            "- \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
+            "- \"AUTO - ENCORE [Discard 1 <Merm4id> character]\""
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230331_iv03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Rinku",
+        "code": "DJ/S97-017",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Happy Around!> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - When this attacks, choose 1 of your <Happy Around!> characters, this turn, it gets +3000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Muni",
+        "code": "DJ/S97-018",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. if you do, choose 1 {1/0 Event - 028} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230316_kf01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Saori",
+        "code": "DJ/S97-019",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Shuffle 2 <Music> characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your <Music> characters, this turn, it gets +1 Soul. ",
+            "ACT - [Send this to Waiting Room] Choose 1 of your <Music> characters, this turn, it gets +2000 power. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230404_do03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Rika vanilla",
+        "code": "DJ/S97-020",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230331_iv04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Maho",
+        "code": "DJ/S97-021",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Music> character, this turn, this gets +1500 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <Music> character from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230315_wa04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Dalia",
+        "code": "DJ/S97-022",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability activates up to once per turn. When you use ACCELERATE, this turn, this gets +1500 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may put the top card of your deck into Stock.\""
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230405_sz03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Marika",
+        "code": "DJ/S97-023",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock.",
+            "AUTO - When your other <Music> characters attack, this turn, this gets +X power. X equals the number of your other <Music> characters times 500."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230403_ap04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Saori",
+        "code": "DJ/S97-024",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - When this placed on stage from hand, choose 1 of your <Music> characters, this turn, it gets +X power. X equals the number of your <Music> characters times 500."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230404_do04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Dalia",
+        "code": "DJ/S97-025",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, draw up to 1 card, then this turn, this gets +2000 power.",
+            "AUTO - [(4) Discard 2 cards] This ability activates up to once per turn. When this card's battle opponent is Reversed, you may pay cost. If you do, Stand this."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230405_sz04.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Event",
+        "code": "DJ/S97-026",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, reveal the top card of your deck. If that card is a <Music> character, add it to hand, then choose up to 1 of your opponent's characters, return it to hand.\""
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230404_do05.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Event",
+        "code": "DJ/S97-027",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "COUNTER - Choose 1 of the following 2 effects and resolve it,",
+            "a) \"Choose 1 of your characters, this turn, it gets +500 power, and deal 1 damage to your opponent.\"",
+            "b) \"Choose 1 of your opponent's characters, this turn, it gets -2 Soul.\""
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230315_wa05.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Event",
+        "code": "DJ/S97-028",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Look at up to 4 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230316_kf02.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "DJ/S97-029",
+        "rarity": "CR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix"
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "029",
+        "image": "https://i.imgur.com/W1EeESF.png?1",
+        "community": true
+    },
+    {
+        "name": "Shot CX",
+        "code": "DJ/S97-030",
+        "rarity": "CR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "030",
+        "image": "https://i.imgur.com/ew21cVk.png?1",
+        "community": true
+    },
+    {
+        "name": "Shot CX",
+        "code": "DJ/S97-031",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "031",
+        "image": "https://i.imgur.com/KLWZEDC.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Miyu",
+        "code": "DJ/S97-032",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of of each player's Attack Phase, reveal the top card of your deck. If that card is <Music> character, this turn, this gets +3000 power.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot with a character in the slot across from it."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230412_ha01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ibuki",
+        "code": "DJ/S97-033",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - [Send 1 of your other <Music> characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {RR 3/2 Saki - 094}, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230328_cx01.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Muni",
+        "code": "DJ/S97-034",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other <Music> characters get +1000 power.",
+            "AUTO - {CX Combo} When the Bar CX (059) is placed in your Climax Area, if you have 2 or more other <Music> characters, choose 1 cost 0 or lower character in your Waiting Room, place it on stage in any slot, and this turn, it gets +1000 power, at the end of the turn, send it to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230316_kf03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Rei",
+        "code": "DJ/S97-035",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Happy Around!>, this gets +1000 power.",
+            "AUTO - {CX Combo} When this card's battle opponent is Reversed, if you have a Climax with \"LINK Groovy Mix\" in your Climax Area, put up to 1 card from the top of your deck into Stock, then choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.\" \n"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230317_mb01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Kurumi",
+        "code": "DJ/S97-036",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Music> character, this turn, all of your opponent's front row characters get -1500 power.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230414_lg01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Noa",
+        "code": "DJ/S97-037",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have {R 0/0 Saki - 095} in your Clock, this gets -1 level in hand.",
+            "AUTO - When this is placed on stage from hand, you may Heal the bottom card of your Clock.",
+            "AUTO - RESONATE [Reveal {RR 3/2 Saki - 094} from your hand] At the start of your Climax Phase, you may pay cost. If you do, until the end of your opponent's next turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230330_wr01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Miiko",
+        "code": "DJ/S97-038",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - [(3) Send 1 of your other characters on stage to Waiting Room] When this card's battle opponent is Reversed, you may pay cost. If you do, deal 2 damage to your opponent."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230417_zx01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Airi",
+        "code": "DJ/S97-039",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <Music> characters.",
+            "AUTO - When a Climax is placed in your Climax Area, if you are Level 3 or higher, and you have 2 or more other <Music> characters, perform the following effect twice, \"You may reveal the top card of your deck. If you do, and if that card is a <Music> character or Event, send it to Stock.\""
+        ],
+        "attributes": [
+            "Music",
+            "Call of Artemis"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230418_nr02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miiko",
+        "code": "DJ/S97-040",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may mill 3.",
+            "AUTO - [Return this to hand] When a Climax is placed on your Climax Area, you may pay cost. If you do, choose 1 of your characters, until the end of the opponent's next turn, it gets +1000 power.",
+            "ACT - [Rest 1 of your <Music> characters] This turn, this gets +1000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230417_zx02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Muni",
+        "code": "DJ/S97-041",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this is in your Front Row Center Slot, this gets +1000 power.",
+            "AUTO - At the start of your opponent's Attack Phase, you may mill 1. If that card is a <Music> character, choose 1 of your opponent's front row characters, you may move it to an opponent's empty front row slot. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230316_kf04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ibuki",
+        "code": "DJ/S97-042",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Photon Maiden> character among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230328_cx02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miiko",
+        "code": "DJ/S97-043",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Send this to Waiting Room] When a Climax is placed on your Climax Area, if you have another <Music> character, you may pay cost. If you do, choose 1 <Music> character in your Waiting Room, add it to hand, and this turn, all of your <Music> characters get +500 power.",
+            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230417_zx03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Rei",
+        "code": "DJ/S97-044",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your characters gain the following ability, \"CONT - This cannot Side Attack.\"",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <Music> characters, Rest it, and move it to an empty Back Row slot."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230317_mb02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kurumi",
+        "code": "DJ/S97-045",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Music> character, this turn, it gets +1500 power.",
+            "AUTO - {CX Combo} When this card's battle opponent is Reversed, if you have the Bar CX (061) in your Climax Area, choose up to 1 <Music> character in your Waiting Room, send it to Stock, then reveal the top card of your deck. If that card is Level 1 or higher, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230414_lg02.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Saki",
+        "code": "DJ/S97-046",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "AUTO - This ability can only be activated up to once per turn. When you use RESONATE, choose 1 of your characters, this turn, it gets +2000 power.",
+            "AUTO - [Discard 1 Climax] When your character's Trigger Check reveals a Climax, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230327_ew01.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Ibuki",
+        "code": "DJ/S97-047",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Music>, this gains the following 2 abilities, ",
+            "- \"AUTO - When this card's battle opponent is Reversed, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.\"",
+            "- \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - RESONATE [Reveal {RR 3/2 Saki - 094} from your hand] At the Start of your Climax Phase, you may pay cost. If you do, this turn, this gets +4000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230328_cx03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Rinku",
+        "code": "DJ/S97-048",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Music> characters times 1500.",
+            "AUTO - {CX COMBO} At the end of this card's attack , if you have the Bar CX (058) in the Climax Area, and you have another <Music> character, mill 2, then choose up to 1 Level X or lower <Music> character from your Waiting Room, and add it to hand, then choose up to 1 <Music> character in your Waiting Room, send it to Stock, X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Muni",
+        "code": "DJ/S97-049",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When a Climax is placed in your Climax Area, you may pay cost. If you do, draw 1 card.",
+            "ACT - [(1) Rest this] Choose 1 of your <Music> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 character in your Waiting Room, you may add it to hand.\""
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230316_kf05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Noa",
+        "code": "DJ/S97-050",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Music>, this gets +2000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (060) in your Climax Area, and you have another <Music> character, look at up to 3 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230330_wr02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kurumi",
+        "code": "DJ/S97-051",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another {1/0 Miiko - 052}, reveal the top card of your deck. If that card is a <Music> character or Event, choose 1 of your opponent's front row characters, this turn, it gets -5000 power.",
+            "AUTO - BOND [Discard 1 card] to {1/0 Miiko - 052}"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230414_lg03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Miiko",
+        "code": "DJ/S97-052",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another {1/0 Kurumi - 051}, reveal the top card of your deck. If that card is a <Music> character or Event, this turn, this gets +7000 power and +1 Soul.",
+            "AUTO - BOND (1) to {1/0 Kurumi - 051} "
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230417_zx04.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Rei",
+        "code": "DJ/S97-053",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 2 cards] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230317_mb03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Towa",
+        "code": "DJ/S97-054",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 <Music> character] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {Unknown Noa - ???} in your Waiting Room, place it on stage in any slot.",
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your {Unknown Noa - ???} and this card, you may Stand and swap them.",
+            "AUTO - [Send this to Waiting Room] When your other <Music> character is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +3000 power. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230329_uw01.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Noa",
+        "code": "DJ/S97-055",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Note: no Soul Trigger."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230330_wr03.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Rei",
+        "code": "DJ/S97-056",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other <Music> characters, this gets +500 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230317_mb04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Event",
+        "code": "DJ/S97-057",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose 1 of your characters, this turn, it gains the following ability, \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"\nSend this to Stock."
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230329_uw02.png",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "DJ/S97-058",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix"
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "058",
+        "image": "https://i.imgur.com/4gruZkE.png?1",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "DJ/S97-059",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix"
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "059",
+        "image": "https://i.imgur.com/ciHCMuh.png?1",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "DJ/S97-060",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "060",
+        "image": "https://i.imgur.com/qm4wQXJ.png?1",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "DJ/S97-061",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "061",
+        "image": "https://i.imgur.com/rAYXVkN.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Kyoko",
+        "code": "DJ/S97-062",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO -At the start of your Climax Phase, choose 1 of your <Music> characters, this turn, it gets +X power. X is equal to that character's Level x 500.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 <Music> character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230320_he01.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Shinobu",
+        "code": "DJ/S97-063",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have 2 or more other <Music> characters, this turn, this gets +2000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Door CX (090) in your Climax Area, and you have another <Music> character, look at up to 2 cards from the top of your deck, and put them back on top in any order, then choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 <Music> character in your Waiting Room, you may add it to hand.\" \n"
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230322_hi01.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Haruna",
+        "code": "DJ/S97-064",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Music>, this gets +2500 power and \"AUTO - ENCORE [Discard 1 <Music> character]\"",
+            "AUTO - {CX Combo} [Send the Standby CX (091) from your Climax Area to Waiting Room] At the start of your Attack Phase, if this is in your Front Row, and you have another <Music> character, you may pay cost. If you do, choose 1 of the following 2 effects and perform it, ",
+            "a) \"Stand this\"",
+            "b) \"Deal 1 damage to your opponent.\""
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230413_xj01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miyu",
+        "code": "DJ/S97-065",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Music> character, add it to hand and discard 1 card.",
+            "AUTO - [Discard 1 <Music> character] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230412_ha02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Esora",
+        "code": "DJ/S97-066",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230324_hp01.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Shinobu",
+        "code": "DJ/S97-067",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Peaky P-Key>, this gets +2000 power.",
+            "AUTO - When a Climax is placed in your Opponent's Climax Area, you may send this to Stock."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230322_hi02.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Haruna",
+        "code": "DJ/S97-068",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (2) When you use this card's BACKUP, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230413_xj02.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Yuka",
+        "code": "DJ/S97-069",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
+            "CONT - For each of your other Front Row <Music> characters, this gets +1500 power.",
+            "AUTO - When this is placed on stage from hand, choose up to 1 <Music> character in your Waiting Room, send it to Stock, then choose up to 1 of your opponent's characters, send it to Memory, at the start of the Encore Step, your opponent places that character in Memory on stage in any slot."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230323_hj01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Kyoko",
+        "code": "DJ/S97-070",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Flip 1 of your Face-up card in your Level Zone Face-down] When your characters attacks, you may pay cost. If you do, this turn, this gets +1500 power.",
+            "AUTO - {CX Combo} [(5) Discard 4 cards] When this card's battle opponent is Reversed, if you have the Door CX (089) in your Climax Area, and you have 3 Face-down cards in your Level Area, you may pay cost. If you do, deal 3 damage, 2 damage and 1 damage to your opponent in that order, then send that character to their Clock. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230320_he02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kyoko",
+        "code": "DJ/S97-071",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, this gets +1000 power.",
+            "AUTO - At the start of your opponent's Draw Phase, mill 2. If there was a Level 2 or higher card milled, you may return this to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230320_he03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Toka",
+        "code": "DJ/S97-072",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have no other characters, this gets +2000 power.",
+            "ACT - [Rest this] Choose 1 of your <Music> characters, this turn, it gets +1000 power and <Water>."
+        ],
+        "attributes": [
+            "Music",
+            "Call of Artemis"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230418_nr03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Miyu",
+        "code": "DJ/S97-073",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Lyrical Lily>, this gets +2000 power and the following ability, \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
+            "CONT - During your turn, all of your <Lyrical Lily> characters get +1000 power. \nImage"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230412_ha03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Yuka",
+        "code": "DJ/S97-074",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card's battle opponent is Reversed, if you have a Climax in your Climax Area, you may send that character to the top of your opponent's deck."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230323_hj02.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Haruna",
+        "code": "DJ/S97-075",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Music> characters, this gets +2000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230413_xj03.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Shinobu",
+        "code": "DJ/S97-076",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Peaky P-Key>, this gets +2000 power and +1 Soul.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - (1) When this is placed on stage from hand, if you have 4 or more other <Peaky P-Key> characters, you may pay cost. If you do, this turn, this gains the following ability, \"AUTO - This ability activates up to once per turn. When this card's damage is cancelled, you may Heal 1.\"\n"
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230322_hi03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Esora",
+        "code": "DJ/S97-077",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, until the end of your opponent's next turn, it gets +2500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230324_hp02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kurumi",
+        "code": "DJ/S97-078",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it to Waiting Room",
+            "AUTO - (1) When this card's damage is cancelled, you may pay cost. If you do, draw 1 card. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230414_lg05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Esora",
+        "code": "DJ/S97-079",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Put 1 card from hand into Clock] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your other <Music> characters."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230324_hp03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Haruna",
+        "code": "DJ/S97-080",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your Climax Phase, if this is Rested, send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 <Lyrical Lily> character from your Waiting Room, and add it to hand. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230413_xj04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Shinobu",
+        "code": "DJ/S97-081",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230322_hi04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Yuka",
+        "code": "DJ/S97-082",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - You cannot play Events or BACKUPs from hand."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230323_hj03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kyoko",
+        "code": "DJ/S97-083",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, this turn, this gets +3500 power and the following ability, \"AUTO - At the end of the turn, send this to Waiting Room.\""
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230320_he04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Yuka",
+        "code": "DJ/S97-084",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to 2 times per turn. When your other <Music> characters are placed on stage from hand, this turn, this gets +1000 power.",
+            "AUTO - When this attacks, if you have another <Music> character, and Level of the character across from this is 2, this turn, this gets +4500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230323_hj04.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Esora",
+        "code": "DJ/S97-085",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this Front Attacks, reveal the top card of your deck. If that card is a <Music> character, choose 1 of your opponent's Level 1 or lower characters, this turn, it gets -1 Level.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230324_hp04.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Miyu",
+        "code": "DJ/S97-086",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <Lyrical Lily> characters get +1000 power.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230412_ha04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Event",
+        "code": "DJ/S97-087",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose up to 1 <Music> character and up to 1 Climax in your Waiting Room, add them to hand."
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230324_hp05.png",
+        "community": true
+    },
+    {
+        "name": "3/4 Event",
+        "code": "DJ/S97-088",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "3",
+        "cost": "4",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you don't have character with \"Miyu\" in its name, a character with \"Haruna\" in its name, a character with \"Kurumi\" in its name and a character with \"Miiko\" in its name, this cannot be played from hand.",
+            "Choose 1 of characters, this turn, it gains the following ability, \"CONT - If this Standing card is in your Back Row, you may choose this card to Attack with. If you do, this card's Attack is a Direct Attack.\""
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230412_ha05.png",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "DJ/S97-089",
+        "rarity": "CR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "089",
+        "image": "https://i.imgur.com/Ht8vYS4.png?1",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "DJ/S97-090",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "090",
+        "image": "https://i.imgur.com/cO4KeOA.png?1",
+        "community": true
+    },
+    {
+        "name": "Standby CX",
+        "code": "DJ/S97-091",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "091",
+        "image": "https://i.imgur.com/rAripeT.png?1",
+        "community": true
+    },
+    {
+        "name": "1/0 Nagisa",
+        "code": "DJ/S97-092",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have 2 or more other <Music> characters, this gets +2000 power.",
+            "AUTO - {CX Combo} [Discard 1 card] When this attacks, if you have the Pants CX (119) in your Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, and until the end of your opponent's next turn, this gains the following ability, \"AUTO - When this is front-attacked, you may return this to hand.\""
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230407_dh01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Tsubaki",
+        "code": "DJ/S97-093",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 4 or more <Music> characters, this gets -1 Level in hand.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock, then this turn, this gets +1500 power.",
+            "AUTO - (1) When this is front attacked, if you have another <Music> character, you may pay cost. If you do, return this to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230406_ta01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Saki",
+        "code": "DJ/S97-094",
+        "rarity": "RR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, Heal up to 1, this turn, this gets +1500 power. ",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Pants CX (118) in your Climax Area, you may pay cost. If you do, this turn, this gains 1 of the following 2 abilities of your choice,",
+            "a) \"AUTO - At the end of this card's attack, you may deal 3 damage to your opponent.\"",
+            "b) \"AUTO - When this card's battle opponent is Reversed, deal 1 damage to your opponent, and send that character to Clock.\" "
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230327_ew02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Saki",
+        "code": "DJ/S97-095",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - RESONATE [(1) Reveal {RR 3/2 Saki - 094} from your hand] At the start of your Climax Phase, if you have another <Music> character, you may pay cost. If you do, this turn, all of your characters get +2000 power and <Universe>.",
+            "ACT - RESONATE [(1) Reveal {RR 3/2 Saki - 094} from your hand, Rest this] Look at up to 3 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to your hand, and put the rest into the Waiting Room. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230327_ew03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Aoi",
+        "code": "DJ/S97-096",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, choose 1 of your characters, this turn, it gets +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230411_kt01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Towa",
+        "code": "DJ/S97-097",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <Music> characters, Rest it, and move it to an empty Back Row slot.",
+            "AUTO - RESONATE [Reveal {RR 3/2 Saki - 094} from your hand] At the start of your Climax Phase, you may pay cost. If you do, this turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230329_uw03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Nagisa",
+        "code": "DJ/S97-098",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Music>, this gets +1000 power.",
+            "AUTO - When this card's battle opponent is Reversed, you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230407_dh02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Tsubaki",
+        "code": "DJ/S97-099",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Music> character, until the end of your opponent's next turn, this gets +2000 power.",
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gains the following ability, \"AUTO - When this attacks, reveal the top card of your deck. if that card is Level 1 or higher, send it to Stock.\""
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230406_ta02.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Ibuki",
+        "code": "DJ/S97-100",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, if you have 4 or more other <Photon Maiden> characters, you may pay cost. If you do, your opponent chooses 1 Climax from their Waiting Room, and shuffles all other cards from their Waiting Room into their deck."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230328_cx04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Hiiro",
+        "code": "DJ/S97-101",
+        "rarity": "R",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [Discard 1 card] When this attacks, if you have the Pants CX (120) in your Climax Area, and you have another <Music> character, you may pay cost. If you do, your opponent mills 20. If the number of Climaxes milled is 3 or less, deal 1 damage to your opponent twice."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230410_fd01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Shano",
+        "code": "DJ/S97-102",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Back Row characters whose Level is higher than your opponent's Level, during your opponent's next Stand Phase, that character does not Stand.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, add it to hand, then choose 1 of your other <Music> characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Call of Artemis"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230418_nr04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Noa",
+        "code": "DJ/S97-103",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] At the start of your Climax Phase, if you have another <Music> character, you may pay cost. If you do, choose the character across from this and 1 of your opponent’s other Level 0 or lower characters, Stand and swap them.",
+            "AUTO - At the start of your opponent's Attack Phase, you may mill 1. If that card is a <Music> character, you may move this to an empty slot in your Front Row."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230330_wr05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Nagisa",
+        "code": "DJ/S97-104",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, mill 2 cards, if you milled a Climax, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230407_dh03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Saki",
+        "code": "DJ/S97-105",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand or sent from stage to Waiting Room, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, and add it to hand.",
+            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230327_ew04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Hiiro",
+        "code": "DJ/S97-106",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if you have an <Music> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "ACT - BACKUP +1000"
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230410_fd02.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Hiiro",
+        "code": "DJ/S97-107",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <Music> characters.",
+            "AUTO - [Discard 1 Climax with a Pants Trigger] When your character's Trigger Check reveals a Climax with a Pants Trigger Icon, you may pay cost. If you do, choose 1 character from your Waiting Room, and add it to hand, then choose 1 of your characters, this turn, it gets +1000 power.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230410_fd03.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Aoi",
+        "code": "DJ/S97-108",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Rondo>, this gets +2000 power.",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, this turn, this gets +X power. X equals the number of your <Rondo> characters times 500.",
+            "ACT - [Discard 1 card] This ability can only be activated up to once per turn. This turn, this gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 character in your Waiting Room, you may add it to hand.\" \n"
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "108",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230411_kt02.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Towa",
+        "code": "DJ/S97-109",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Music> characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Music> character, you may deal 1 damage to your opponent.",
+            "AUTO - SHIFT Lv0"
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "109",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230329_uw04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Hiiro",
+        "code": "DJ/S97-110",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you are Level 3 or higher, this gains the following ability, \"ACT - [Send this to Waiting Room] Choose up to 1 {3/2 Hiiro - 101} from your hand, place it on stage in this card's former slot.\"",
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, and add it to hand.",
+            "ACT - [(1) Send this to Waiting Room] Choose 1 {1/0 Hiiro - 106} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "110",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230410_fd04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Tsubaki",
+        "code": "DJ/S97-111",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other {0/0 Rika Vanilla - 020} gets +2000 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {0/0 Rika Vanilla - 020},  place it on stage in any slot, and shuffle your deck afterwards.",
+            "ACT - [(1) Rest this] Choose 1 {0/0 Rika Vanilla - 020} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "111",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230406_ta03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Aoi",
+        "code": "DJ/S97-112",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Music> character, choose 1 of your  <Music> characters, this turn, it gets +1500 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability: \"CONT - This cannot move to other slots.\" \n"
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "112",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230411_kt03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Towa",
+        "code": "DJ/S97-113",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose up to 2 of your <Music> characters, this turn, they get +1500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "113",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230329_uw05.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Nagisa",
+        "code": "DJ/S97-114",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, this turn, this gets +1500 power.",
+            "AUTO - [Discard 1 card] During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, search your deck for up to 1 <Rondo> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "114",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230407_dh04.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Aoi",
+        "code": "DJ/S97-115",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Music>, this gets +6000 power.",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, choose 1 of your  <Music> characters, this turn, it gets +1000 power.\n"
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "115",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230411_kt04.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Tsubaki",
+        "code": "DJ/S97-116",
+        "rarity": "C",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 4 or more <Music> characters, this gets -1 Level in hand.",
+            "CONT - If all of your characters are <Music>, this gets +1500 power and \"AUTO - ENCORE [Discard 1 <Music> character]\"",
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "116",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230406_ta04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Event",
+        "code": "DJ/S97-117",
+        "rarity": "U",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Mill 2, then choose up to 1 Level X or lower <Music> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "117",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230406_ta05.png",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "DJ/S97-118",
+        "rarity": "CR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "118",
+        "image": "https://i.imgur.com/1EmJyVm.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "DJ/S97-119",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "119",
+        "image": "https://i.imgur.com/0UwhszC.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "DJ/S97-120",
+        "rarity": "CC",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "120",
+        "image": "https://i.imgur.com/JV8JjHA.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Rika",
+        "code": "DJ/S97-121\nBOX PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your other <Music> characters or this card is placed on stage from hand, you may look at the top card of your deck.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "121\nBOX PR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Rinku",
+        "code": "DJ/S97-122\nBOX PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - This cannot Side Attack.",
+            "CONT - For each of your other <Music> characters, this gets +500 power.",
+            "AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "122\nBOX PR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Saki",
+        "code": "DJ/S97-123\nBOX PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your opponent's characters times 1000.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, this turn, it gains \"CONT - This cannot be returned to hand, nor sent to Memory.\""
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "123\nBOX PR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig09.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Miyu",
+        "code": "DJ/S97-124\nBOX PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "124\nBOX PR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig10.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kyoko",
+        "code": "DJ/S97-125\nBOX PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other <Music> characters get +1000 power.",
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "125\nBOX PR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Tsubaki",
+        "code": "DJ/S97-126\nBOX PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, choose 1 of your <Music> characters, this turn, it gets +1000 power.",
+            "ACT - [Rest this] Choose up to 2 of your opponent's Front Row characters, this turn, they get -500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "126\nBOX PR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig12.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Rinku",
+        "code": "DJ/S97-P06\n\nMay/June 15th Anni Store PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "P06\n\nMay/June 15th Anni Store PR",
+        "image": "https://i.imgur.com/TuZXHeA.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Kyoko",
+        "code": "DJ/S97-P07\n\nApril 15th Anni Store PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "P07\n\nApril 15th Anni Store PR",
+        "image": "https://i.imgur.com/mbgINU3.png",
+        "community": true
+    },
+    {
+        "name": "2/1 \"All Mix\" Lyrical Lily",
+        "code": "DJ/S97-P08\n\nApril Bushiroad Magazine PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, your opponent mills 3.",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "P08\n\nApril Bushiroad Magazine PR",
+        "image": "https://i.imgur.com/jFyERFb.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kyoko",
+        "code": "DJ/S97-P09\n\n4th Singles Album & BluRay PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "P09\n\n4th Singles Album & BluRay PR",
+        "image": "https://i.imgur.com/uBBwqCr.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Rinku",
+        "code": "DJ/S97-P10\n\n4th Singles Album & BluRay PR",
+        "rarity": "PR",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Music> character, this turn, this gets +1500 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <Music> character from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around!"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "P10\n\n4th Singles Album & BluRay PR",
+        "image": "https://i.imgur.com/3piv5N2.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Rinku",
+        "code": "DJ/S97-T01",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - {CX Combo} When this is placed on stage from hand, if you have 3 or more climaxes with \"LINK Groovy Mix\" in your Waiting Room, choose 1 of your <Music> characters, this turn, it gets +1500 power.",
+            "AUTO - [(1) Discard 1 <Music> character] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room. \n"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230206_dj05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Maho",
+        "code": "DJ/S97-T02",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your other <Music> characters or this card is placed on stage from hand, you may look at the top card of your deck.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card.\n"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230206_dj06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Muni",
+        "code": "DJ/S97-T03",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 3 or less Stock, this gets +1 Level and +1500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230207_xf05.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Rinku",
+        "code": "DJ/S97-T04",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other <Music> characters, this gets +500 power.",
+            "AUTO - {CX Combo} When this card's battle opponent is Reversed, if you have the Choice CX (T09) in your Climax Area, if you have 2 or more other <Music> characters, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards, then choose 1 of your characters, this turn, it gets +2000 power.\n"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230206_dj07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Maho",
+        "code": "DJ/S97-T05",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this is in the Front Row Center Slot, this gets +1 Soul.",
+            "AUTO - When this attacks, if you have 2 or more other <Music> characters, this turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230206_dj08.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Muni",
+        "code": "DJ/S97-T06",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, reveal the top card of your deck. If that card is a <Music> character, add it to hand and discard 1 card.",
+            "ACT - BACKUP +2000"
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230207_xf06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Rei",
+        "code": "DJ/S97-T07",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other back row <Music> characters, this gets +2500 power."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230207_xf07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Rei",
+        "code": "DJ/S97-T08",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other <Music> characters, this gets +500 power.",
+            "AUTO - When this is placed on stage from hand, choose up to 1 character from your hand whose Level is equal or lower than your Level, place it on stage in any slot, and this turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Happy Around"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230207_xf08.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX ",
+        "code": "DJ/S97-T09",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix"
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T09",
+        "image": "https://i.imgur.com/c1yzgex.png?1",
+        "community": true
+    },
+    {
+        "name": "+2Soul CX ",
+        "code": "DJ/S97-T10",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - LINK Groovy Mix"
+        ],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T10",
+        "image": "https://i.imgur.com/gtaNlHv.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Haruna",
+        "code": "DJ/S97-T11",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +500",
+            "AUTO - [(1) Send this to Waiting Room] When your other <Music> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested, and until the end of the next turn, it gets +3000 power."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc15.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miiko",
+        "code": "DJ/S97-T12",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other {1/0 Kurumi Vanilla - T15} gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - BOND [Discard 1 card] to {1/0 Kurumi Vanilla - T15}."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miiko",
+        "code": "DJ/S97-T13",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - When this attacks, choose 1 of your characters, this turn, it gets +X power. X is equal to the number of your opponent's characters times 500."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk12.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kurumi",
+        "code": "DJ/S97-T14",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your opponent's Attack Phase, if there is a character in the slot across from this, you may move this to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk13.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kurumi vanilla",
+        "code": "DJ/S97-T15",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk14.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Miyu",
+        "code": "DJ/S97-T16",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your other <Music> character attacks, this turn, this gets +X power. X equals the number of your other <Music> characters times 500.",
+            "AUTO - ENCORE [Put 1 <Music> character from your Waiting Room on the bottom of your Clock] \n"
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc16.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Haruna",
+        "code": "DJ/S97-T17",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc17.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Miyu",
+        "code": "DJ/S97-T18",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (T20) in your Climax Area, and you have 2 or more other <Music> characters, send the bottom 5 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent. X equals the number of Climaxes sent to Waiting Room by this effect."
+        ],
+        "attributes": [
+            "Music",
+            "Lyrical Lily"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc18.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Fancy PARTY",
+        "code": "DJ/S97-T19",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "This card can be played without meeting Color requirement.",
+            "Send this to Memory",
+            "Reveal the top card of your deck. If that card is a <Music> character, add it to hand.",
+            "AUTO - MEMORY - While this is in your Memory, at the start of your Draw Phase, look at the top card of your deck, and put it on top of your deck or into your Waiting Room."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on16.png",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "DJ/S97-T20",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T20",
+        "image": "https://i.imgur.com/rp5L8tb.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Shinobu",
+        "code": "DJ/S97-T21",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +500",
+            "AUTO - [Send this to Waiting Room] When your other <Music> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230208_zc05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Yuka",
+        "code": "DJ/S97-T22",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T22",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230209_dn05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Esora",
+        "code": "DJ/S97-T23",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <Music> characters milled times 1000."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T23",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230209_dn06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kyoko",
+        "code": "DJ/S97-T24",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your character gains the following ability, \"CONT - This cannot Side Attack.\"",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, add it to hand, then choose 1 of your other <Music> characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T24",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230208_zc06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Esora",
+        "code": "DJ/S97-T25",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have not played any {2/2 Yuka Vanilla}, your {2/2 Yuka Vanilla} in your hand gets -2 Cost, if you played 1 {2/2 Yuka Vanilla}, your {2/2 Yuka Vanilla} in your hand gets -1 Cost.",
+            "AUTO - BOND [Discard 1 card] to {2/2 Yuka Vanilla - T27}"
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T25",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230209_dn07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Shinobu",
+        "code": "DJ/S97-T26",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "ACT - [Send 1 of your other <Music> characters on stage to Waiting Room, Rest this] Draw 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T26",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230208_zc07.png",
+        "community": true
+    },
+    {
+        "name": "(NAME NOT FOUND)",
+        "code": "DJ/S97-T27",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "(UNKNOWN)",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T27",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230209_dn08.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Kyoko",
+        "code": "DJ/S97-T28",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 <Music> character from your Waiting Room, you may add it to hand.",
+            "AUTO - {CX Combo} [(1) Discard 1 <Music> character] When this attacks, if you have the +2Soul CX (T30) in your Climax Area, you may pay cost. If you do, this turn, this gains the following ability, \"AUTO - This ability can only be activated up to once per turn. When damage dealt by this is Cancelled, deal 1 damage to your opponent, then deal 6 damage to your opponent.\""
+        ],
+        "attributes": [
+            "Music",
+            "Peaky P-Key"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T28",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230208_zc08.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Halloween LIVE",
+        "code": "DJ/S97-T29",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you don't have a <Music> character, this cannot be played from hand.",
+            "This card can be played without meeting Color requirement.",
+            "Search your deck for up to 1 Climax, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T29",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on17.png",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "DJ/S97-T30",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T30",
+        "image": "https://i.imgur.com/9QqEV2m.png?1",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "DJ/S97-T31",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T31",
+        "image": "https://i.imgur.com/XYd7Sdr.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Ibuki",
+        "code": "DJ/S97-T32",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T32",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230210_vf05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Towa",
+        "code": "DJ/S97-T33",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck.",
+            "AUTO - ALARM - If this is on top of your Clock, at the start of your Climax Phase, choose 1 of your <Music> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T33",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230213_gz05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Noa",
+        "code": "DJ/S97-T34",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 <Music> character] When this is placed on stage from hand or when this is Reversed, you may pay cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T34",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230213_gz06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Noa",
+        "code": "DJ/S97-T35",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - BACKUP +1500"
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T35",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230213_gz07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Saki",
+        "code": "DJ/S97-T36",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Music> character, this turn, this gets +2000 power.",
+            "AUTO - When this attacks, if you have a Climax in your Climax Area, reveal the top card of your deck. If that card is Level 1 or higher, send it to Stock."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T36",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230210_vf06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ibuki",
+        "code": "DJ/S97-T37",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have 2 or more other <Music> characters, this gets +2000 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Pants CX (T40) in the Climax Area, and you have another <Music> character, mill 2, then choose up to 1 Level X or lower <Music> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T37",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230210_vf07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Towa",
+        "code": "DJ/S97-T38",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Music> characters times 1000.",
+            "AUTO - (1) When this card's Level 2 or higher battle opponent is Reversed, you may pay cost. If you do, choose 1 character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T38",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230213_gz08.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Saki",
+        "code": "DJ/S97-T39",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your opponent's Back Row characters, this gets +1500 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1."
+        ],
+        "attributes": [
+            "Music",
+            "Photon Maiden"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T39",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230210_vf08.png",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "DJ/S97-T40",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T40",
+        "image": "https://i.imgur.com/Saoh1bi.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Saori",
+        "code": "DJ/S97-T41",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other <Music> characters get +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T41",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230215_lh10.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Marika",
+        "code": "DJ/S97-T42",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Music> characters times 1000.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T42",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230214_jb05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Saori",
+        "code": "DJ/S97-T43",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters and 1 of its Traits, this turn, that character loses that Trait.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T43",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230215_lh11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Dalia",
+        "code": "DJ/S97-T44",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - At the start of your opponent's Draw Phase, reveal the top card of your deck. If that card is Level 1 or higher, you may return this card to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T44",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230215_lh12.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Rika",
+        "code": "DJ/S97-T45",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is Reversed, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <Music> character from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T45",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230214_jb06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Marika",
+        "code": "DJ/S97-T46",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, this gets +4000 power.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T46",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230214_jb07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Dalia",
+        "code": "DJ/S97-T47",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other <Music> characters, this gets +1500 power.",
+            "AUTO - When this card's battle opponent is Reversed, you may send that character to Memory."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T47",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230215_lh13.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Rika",
+        "code": "DJ/S97-T48",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Choice CX (T49) in your Climax Area, and you have 2 or more other <Music> characters, you may pay cost. If you do, deal 3 damage to your opponent."
+        ],
+        "attributes": [
+            "Music",
+            "Merm4id"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T48",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230214_jb08.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "DJ/S97-T49",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T49",
+        "image": "https://i.imgur.com/aJ9D2AV.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Tsubaki",
+        "code": "DJ/S97-T50",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+            "AUTO - SHIFT Lv0"
+        ],
+        "attributes": [
+            "Music",
+            "Rando"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T50",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_xo05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Hiiro",
+        "code": "DJ/S97-T51",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Send this to Waiting Room] When your other {1/1 Vanilla Nagisa - T54} is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +3000 power.",
+            "AUTO - BOND [Put 1 <Music> character from your Waiting Room on the bottom of your Clock] to {1/1 Vanilla Nagisa - T54}"
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T51",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an12.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Aoi",
+        "code": "DJ/S97-T52",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +500",
+            "ACT - [Discard 1 card, Send this to Waiting Room] Choose 1 <Music> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T52",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an13.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Aoi",
+        "code": "DJ/S97-T53",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Music>, this gets +2000 power.",
+            "AUTO - {CX Combo} [Discard 1 card] When this card's battle opponent is Reversed, if you have the Pants CX (T59) in your Climax Area and you have another <Music> character, you may pay cost. If you do, choose up to 2 <Music> character or \"Sun and Moon\" (Event - T58) in your Waiting Room, add them to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Rando"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T53",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an14.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Nagisa vanilla",
+        "code": "DJ/S97-T54",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [
+            "Music",
+            "Rondo"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T54",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_xo06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Nagisa",
+        "code": "DJ/S97-T55",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if your opponent has a Climax in their Climax Area, choose 1 of your battling <Music> characters, this turn, it gets +2000 power.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Music",
+            "Rando"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T55",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_xo07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Hiiro",
+        "code": "DJ/S97-T56",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "ACT - [Rest this] Look at up to 2 cards from the top of your deck, and put them back on top in any order."
+        ],
+        "attributes": [
+            "Music",
+            "Rando"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T56",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an15.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Tsubaki",
+        "code": "DJ/S97-T57",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.",
+            "AUTO - [(2) Discard 1 card] When this attacks, you may pay cost. If you do, deal 1 damage to your opponent."
+        ],
+        "attributes": [
+            "Music",
+            "Rando"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T57",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_xo08.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Sun and Moon",
+        "code": "DJ/S97-T58",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you don't have a <Music> character, this cannot be played from hand.",
+            "This card can be played without meeting Color requirement.",
+            "Search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards, then choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T58",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on18.png",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "DJ/S97-T59",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T59",
+        "image": "https://i.imgur.com/9jHmyrd.png?1",
+        "community": true
+    },
+    {
+        "name": "+2 Soul CX",
+        "code": "DJ/S97-T60",
+        "rarity": "TD",
+        "expansion": "D4DJ",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "DJ",
+        "release": "S97",
+        "sid": "T60",
+        "image": "https://i.imgur.com/X2rhdL7.png?1",
+        "community": true
+    }
+]

@@ -1,0 +1,3304 @@
+[
+    {
+        "name": "0/0 Star-Lord",
+        "code": "MAR/S89-001",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability activates up to twice per turn. When your other <MARVEL> characters are placed on stage from hand, this turn, this gets +1000 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <MARVEL> characters, Rest it, and move it to an empty Back Row slot. "
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211213_fh06.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Hulk",
+        "code": "MAR/S89-002",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, until the end of your opponent's next turn, this gets +4500 power, and gains the following ability: \"CONT - During this card's battle, all players cannot play BACKUPs from hand.\"",
+            "AUTO - (1) When this card's battle opponent is Reversed, you may pay cost. If you do, deal 1 damage to your opponent, then at the end of this turn, deal 1 damage to yourself.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211210_zj01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Thor",
+        "code": "MAR/S89-003",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, search your deck for up to 1 <MARVEL> character or \"Mjölnir\" (Event), show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - {CX COMBO} [(1) Discard 1 <MARVEL> character or \"Mjölnir\" (Event - 025)] When this attacks, if you have the Choice CX (026) in your Climax Area, you may pay cost. If you do, deal X damage to your opponent, then this turn, this gets +3000 power. X equals to the number of \"Mjölnir\" (Event - 025) in your Waiting Room.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211214_wj11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Mantis",
+        "code": "MAR/S89-004",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your Climax Phase, you may look at the top card of your opponent's deck.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af13.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Groot",
+        "code": "MAR/S89-005",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When a Climax with a Wind Trigger is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Wind Climax among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af14.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Hulk",
+        "code": "MAR/S89-006",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - You cannot play Events or BACKUPs from hand.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this card's battle opponent is Reversed, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af15.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Rocket",
+        "code": "MAR/S89-007",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Wind CX (028) in your Climax Area, and you have 2 or more other <MARVEL> characters, mill the top 3 cards of your opponent's deck. If there is a Climax(es) among those cards, look at up to 3 cards from the top of your deck, choose up to 3 <MARVEL> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room, then this turn, this gets +1000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af16.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Thor",
+        "code": "MAR/S89-008",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, send X cards from the bottom of your opponent's deck to Waiting Room. X equals the number of your <MARVEL> characters.",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211215_rl08.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Drax",
+        "code": "MAR/S89-009",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other <MARVEL> characters, this gets +1500 power.",
+            "AUTO - When a Climax with a Wind Trigger is placed in your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then this turn, this gains the following ability: \"AUTO - When this card's battle opponent is Reversed, you may put the top 2 cards of your deck into Stock.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af17.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Gamora",
+        "code": "MAR/S89-010",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <MARVEL> characters.",
+            "AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, this turn, this gets +2000 power, and gains the following ability: \"AUTO - When this card's battle opponent is Reversed, you may deal 1 damage to your opponent.\" \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af18.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Thor",
+        "code": "MAR/S89-011",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your <MARVEL> characters, this turn, it gets +1500 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_011.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Loki",
+        "code": "MAR/S89-012",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <MARVEL> characters get +500 power.",
+            "ACT - [(2) Rest this] Search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211215_rl09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Groot",
+        "code": "MAR/S89-013",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Send this to Waiting Room] When your other <MARVEL> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot, Rested.",
+            "ACT - [Rest this] Choose 1 of your <MARVEL> characters, this turn, it gets +1500 power.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211213_fh07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Drax",
+        "code": "MAR/S89-014",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, this turn, this gets +2000 power.",
+            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, choose 1 of your other <MARVEL> characters, and return it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_014.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Mantis",
+        "code": "MAR/S89-015",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (1) When your character's Trigger Check reveals a Climax with a Wind Trigger, you may pay cost. If you do, draw 1. ",
+            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_015.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Gamora",
+        "code": "MAR/S89-016",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, this gets +4000 power.",
+            "AUTO - When a Climax with a Wind Trigger is placed on your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then this turn, this gains the following ability: \"AUTO - When this card's battle opponent is Reversed, reveal the top card of your deck. If that card is Level 1 or higher, add it to hand.\"\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_016.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Hulk",
+        "code": "MAR/S89-017",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have the Choice CX (027) in your Climax Area, and you have another <MARVEL> character,  search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, shuffle your deck afterwards, then choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_017.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Rocket",
+        "code": "MAR/S89-018",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "AUTO - (1) When your character's Trigger Check reveals a Climax with a Wind Trigger, you may pay cost. If you do, choose 1 <MARVEL> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_018.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Star Lord",
+        "code": "MAR/S89-019",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX COMBO} [(1) Discard 1 card] When this attacks, if you have the Wind CX (029) in your Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your opponent's deck, choose up to 4 cards from among them, send them to Waiting Room, put the rest on top of your opponent's deck, and your opponent shuffles their deck afterwards.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211222_ru07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Nebula",
+        "code": "MAR/S89-020",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, add it to hand and discard 1 card.",
+            "AUTO - [(1) Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211213_fh08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Thor",
+        "code": "MAR/S89-021",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <MARVEL> characters milled times 1000.",
+            "AUTO - [Discard 1 Card] When this card is placed from your hand to the stage, you may pay the cost, if you do, you may choose a Level 0 or lower character in your waiting room, put it on any spot on the stage.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_021.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Yondu",
+        "code": "MAR/S89-022",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals that character's Soul times 1000.",
+            "ACT - [Discard 1 <MARVEL> character] Reveal the top card of your deck. If you revealed a <MARVEL> character, this turn, this gets the following ability: \"CONT - When this is attacking, you can instead choose 1 of your opponent's Back Row characters, this card may Front Attack treating that character as the Defending character.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211222_ru08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Loki",
+        "code": "MAR/S89-023",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Front Row characters, until the end of your opponent's next turn, it gets +2000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_023.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Hulk",
+        "code": "MAR/S89-024",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <MARVEL>  characters, this gets +4000 power.",
+            "AUTO - When this is Reversed, put the top card of your deck into Clock, Rest this."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_024.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Mjölnir",
+        "code": "MAR/S89-025",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you have a character with \"Thor\" in its name or {3/2 Captain America - 074}, perform 1 of the following 2 effects:",
+            "a) \"All of your opponent's characters, this turn, gains the following ability: \"CONT - This cannot be returned to hand, move to another slot, nor sent to Memory.\"\"",
+            "b) \"Mill 2, then choose up to 1 Level X or lower <MARVEL> character from your Waiting Room, and add it to hand, then choose 1 of your characters, this turn, it gets +1000 power. X equals the sum of Levels of cards milled by this effect.\" \r\n"
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211214_wj12.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "MAR/S89-026",
+        "rarity": "CR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "026",
+        "image": "https://i.imgur.com/7rPdUk1.png?1",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "MAR/S89-027",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "027",
+        "image": "https://i.imgur.com/icLmMvN.png?1",
+        "community": true
+    },
+    {
+        "name": "Wind CX",
+        "code": "MAR/S89-028",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "028",
+        "image": "https://i.imgur.com/5jIgOuu.png?1",
+        "community": true
+    },
+    {
+        "name": "Wind CX",
+        "code": "MAR/S89-029",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "029",
+        "image": "https://i.imgur.com/F3Lxlb3.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Black Widow",
+        "code": "MAR/S89-030",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - [(1) Send this Standing card to Memory] If you are level 2 or higher, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Spiderman",
+        "code": "MAR/S89-031",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 5 or more hand, this gets +1500 power, and gains the following ability: \"CONT - The character across from this cannot move to other slots.\"",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to your empty Front Row Center Slot."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Iron Man",
+        "code": "MAR/S89-032",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <MARVEL>, this gains the following 2 abilities, \r\n- \"CONT - During your turn, this gets +3000 power.\"\r\n- \"AUTO - [(1) Send this to Memory] When your other <MARVEL> character is Front Attacked, you may pay cost. If you do, return that character to hand.\"",
+            "AUTO - {CX COMBO} When this attacks, if you have the Door CX (068) in your Climax Area, and you have 2 or more other <MARVEL> characters, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi02.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Captain Marvel",
+        "code": "MAR/S89-033",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 4 or more <MARVEL> characters, this gets -1 Level in hand.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock.",
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500. "
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af20.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Thanos",
+        "code": "MAR/S89-034",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock",
+            "AUTO - [(3) Discard 2 cards] When this attacks, you may pay cost. If you do, deal 4 damage to your opponent. "
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211216_qd09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Black Panther",
+        "code": "MAR/S89-035",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <MARVEL>, this gets +1500 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, choose 1 <MARVEL> character in your Waiting Room, add it to hand, then discard 1 card.\"",
+            "AUTO - During this card's battle, when damage you take is not cancelled, this turn, this gets +1500 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af21.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Iron Man",
+        "code": "MAR/S89-036",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if this has a Marker underneath it, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character or \"Iron Man Armor\" (Event - 066), you may put it underneath this card Face-down as a Marker.",
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 \"Iron Man Armor\" (Event - 066), show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af22.png",
+        "community": true
+    },
+    {
+        "name": "0/0 War Machine",
+        "code": "MAR/S89-037",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Dr. Strange",
+        "code": "MAR/S89-038",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <MARVEL> characters, reveal the top 8 cards of your deck, then shuffle your deck afterwards. If you revealed 8 or more Climaxes, you win the game. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211221_uf08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Vision",
+        "code": "MAR/S89-039",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 1000.",
+            "ACT - (1) If you have 2 or more other <MARVEL> characters, this turn, this gets +1000 power and your opponent cannot use \"AUTO - ENCORE\"\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211209_ej02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Thanos",
+        "code": "MAR/S89-040",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have 2 or more other <MARVEL> characters, this turn, this gets +2000 power.",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have the +2 Soul CX (070) in your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then choose up to 1 <MARVEL> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi05.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Spiderman",
+        "code": "MAR/S89-041",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 other character, this turn, it gets +1 Level.",
+            "AUTO - When this is Reversed, reveal the top card of your deck. If that card is Level 2 or higher, you may return this to hand.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may Reverse that character. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211220_bt07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Black Widow",
+        "code": "MAR/S89-042",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, this turn, all of your characters get +2000 power.",
+            "AUTO - {CX COMBO} (2) When this attacks, if you have the Standby CX (069) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af23.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Vision",
+        "code": "MAR/S89-043",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Shuffle 2 characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, this turn, this does not suffer Soul Penalty when Side Attacking.",
+            "AUTO - When this attacks, choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_043.png",
+        "community": true
+    },
+    {
+        "name": "(NAME NOT FOUND)",
+        "code": "MAR/S89-044",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "(UNKNOWN)",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +2000 power.",
+            "AUTO - [(1) Discard 1 card, Send this to Memory] When this is Reversed, you may pay cost. If you do, Draw 1 card.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211220_bt08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Thanos",
+        "code": "MAR/S89-045",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Send 1 of your other <MARVEL> characters on stage to Waiting Room] When this placed on stage from hand, you may pay cost. If you do, choose 1 \"Infinity Gauntlet\" (Event - 067) in your Waiting Room, add it to hand.",
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Black Widow",
+        "code": "MAR/S89-046",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 500.",
+            "AUTO - [(1) Send this to Memory] When your other character is sent from Stage to Waiting Room, if you have another {R 0/0 Hawkeye - 075}. you may pay cost. If you do, return that character to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_046.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Dr. Strange",
+        "code": "MAR/S89-047",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 500.",
+            "ACT - [(1) Discard 1 card] Choose 1 of your opponent's characters, move it to an opponent's empty slot."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_047.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Captain Marvel",
+        "code": "MAR/S89-048",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +1500 power and \"AUTO - ENCORE [Discard 1 characters]\"",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have the Standby CX (071) in your Climax Area, choose 1 character in your Waiting Room, you may add it to hand. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af24.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Black Panther",
+        "code": "MAR/S89-049",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals the number of your other <MARVEL> characters times 1000.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_049.png",
+        "community": true
+    },
+    {
+        "name": "2/1 War Machine",
+        "code": "MAR/S89-050",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this does not have a Marker underneath it, this gets -10000 power and the following ability: \"CONT - This cannot move to other slots.\" ",
+            "AUTO - When this is placed on stage from hand, choose 1 \"Iron Man Armor\" (Event - 066) in your Waiting Room, you may put it underneath this card Face-down as a Marker."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_050.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Spiderman",
+        "code": "MAR/S89-051",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <MARVEL>  characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, or by the AUTO Effect of {3/2 Iron Man - 052}, you may Heal 1.",
+            "ACT - (1) During this turn, this gets +1000 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, you may send that character to the top of your opponent's deck.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_051.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Iron Man",
+        "code": "MAR/S89-052",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If the number of {3/2 Spiderman - 051} in your Waiting Room is 2 or more, this gets -1 Level in hand.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 {3/2 Spiderman - 051} from your Waiting Room, and place it on stage in any slot. "
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_052.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Vision",
+        "code": "MAR/S89-053",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your Climax Phase, choose 1 of your <MARVEL> characters, this turn, it gets +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax with 2 Soul Trigger Icons among them, search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_053.png",
+        "community": true
+    },
+    {
+        "name": "0/0 War Machine",
+        "code": "MAR/S89-054",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <MARVEL> characters milled times 1000.",
+            "AUTO - When this attacks, mill 2, and this turn, this gets +X power. X equals the sum of Soul Triggers milled times 2000."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_054.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Spiderman",
+        "code": "MAR/S89-055",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability activates up to once per turn. When you use an ACT ability, choose 1 of your characters, this turn, it gets +500 power.",
+            "ACT - [Rest this] Choose 1 of your <MARVEL> characters, this turn, it gets +1000 power.",
+            "ACT - [(2) Rest this] Choose 1 <MARVEL> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_055.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ultron",
+        "code": "MAR/S89-056",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.",
+            "AUTO - (1) When this is sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 {copy of this card}, show it to your opponent, place it on stage in any slot Rested, and shuffle your deck afterwards.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211216_qd08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Shuri",
+        "code": "MAR/S89-057",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.",
+            "AUTO - [Return this to hand] When your Climax is placed on the Climax Area, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af25.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Red Skull",
+        "code": "MAR/S89-058",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2. If there is a Climax(es) among those cards, choose 1 of your characters, this turn, it gets +1500 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, add it to hand, then choose 1 of your other <MARVEL> characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211216_qd10.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Okoye",
+        "code": "MAR/S89-059",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability activates up to once per turn. When you use an ACT ability, choose 1 of your <MARVEL> characters, this turn, it gets +1500 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af26.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ghost Spider",
+        "code": "MAR/S89-060",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When a Climax with a Door Trigger is placed on your Climax Area, choose 1 of your <MARVEL> characters, this turn, it gets +1 Soul.",
+            "AUTO - When your other character's battle opponent is Reversed, choose 1 of your <MARVEL> characters, this turn, it gets +1000 power.",
+            "ACT - [(1) Rest this] Choose 1 of your <MARVEL> characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, choose 1 character from your Waiting Room, you may add it to hand.\" \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_060.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Black Panther",
+        "code": "MAR/S89-061",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <MARVEL> characters.",
+            "AUTO - When a Climax with a 2 Soul Triggers is placed on your Climax Area, choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power.",
+            "ACT - BRAINSTORM [(2) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 Climax from your Waiting Room, and add it to hand.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_061.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Iron Man",
+        "code": "MAR/S89-062",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your <MARVEL> characters, this turn, it gets +3000 power.",
+            "ACT - [Discard 1 <MARVEL> character] Choose 1 of your characters, this turn, it gets +3000 power.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +3000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211221_uf09.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Black Widow",
+        "code": "MAR/S89-063",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other {3/2 Hulk - 002} gains the following ability: \"CONT - You cannot take damage from the AUTO effect of {3/2 Hulk - 002}\"",
+            "CONT - ASSIST +2000 to Level 3 or higher characters in front of this card.",
+            "ACT - [Rest this] Choose 1 of your <Marvel> characters, this turn, it gets +500 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211210_zj02.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Dr. Strange",
+        "code": "MAR/S89-064",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this Front Attacks, this turn, this gets +X power. X Equals to this card's Soul times 3000.",
+            "AUTO - (1) When this card's Level 2 or higher battle opponent is Reversed, you may pay cost. If you do, choose 1 character in your Waiting Room, you may add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_064.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Spiderman",
+        "code": "MAR/S89-065",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 4 or more <MARVEL> characters, this gets -1 Level in hand.",
+            "AUTO - {CX COMBO} [Send the Door CX (072) from your Climax Area to Waiting Room] At the start of your Encore Step, if this is in the Front Row, and you have 4 or more other <MARVEL> characters, you may pay cost. If you do, choose up to 2 <MARVEL> characters in your Waiting Room, add them to hand, then choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability: \"CONT - This cannot move to other slots.\"\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_065.png",
+        "community": true
+    },
+    {
+        "name": "(NAME NOT FOUND)",
+        "code": "MAR/S89-066",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "(UNKNOWN)",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you do not have a character with \"Iron Man\" in its name, you cannot play this from hand.",
+            "You can choose up to 2 <MARVEL> characters in your Waiting Room, add them to hand, choose 1 of your characters with \"Iron Man\" in its name that does not have a Marker underneath it, put this card underneath it Face-down as a Marker\r\n"
+        ],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af27.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Infinity Gauntlet",
+        "code": "MAR/S89-067",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Perform each of the following 3 effects one at a time:",
+            "- \"Send all of your characters to Memory face-down, shuffle them. If there are 2 or 3 characters, chooses 1 of them, send it to Waiting Room. If there are 4 or more characters, choose 2 of them, send them to Waiting Room.\"",
+            "- \"Send all of your opponent's characters to Memory face-down, shuffle them. If there are 2 or 3 characters, your opponent chooses 1 of them, send it to Waiting Room. If there are 4 or more characters, your opponent chooses 2 of them, send them to Waiting Room.\"",
+            "- \"You turn all cards sent to Memory by this effect Face-up and place them on their respective stages in separate slots.\" "
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211221_uf10.png",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "MAR/S89-068",
+        "rarity": "CR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "068",
+        "image": "https://i.imgur.com/DGqDh3G.png?1",
+        "community": true
+    },
+    {
+        "name": "Standby CX",
+        "code": "MAR/S89-069",
+        "rarity": "CR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "069",
+        "image": "https://i.imgur.com/f6F4THG.png?1",
+        "community": true
+    },
+    {
+        "name": "+2 Soul CX",
+        "code": "MAR/S89-070",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - You can play up to 8 copies of this card in your deck.",
+            "CONT - All of your <MARVEL> characters get +2 Souls. \r\n"
+        ],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "070",
+        "image": "https://i.imgur.com/Wx6h0wR.png?1",
+        "community": true
+    },
+    {
+        "name": "Standby CX",
+        "code": "MAR/S89-071",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "071",
+        "image": "https://i.imgur.com/6zFSdpv.png?1",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "MAR/S89-072",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "072",
+        "image": "https://i.imgur.com/cx9uoPG.png?1",
+        "community": true
+    },
+    {
+        "name": "1/0 Hawkeye",
+        "code": "MAR/S89-073",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Pants CX (098) in the Climax Area, and you have 2 or more other <MARVEL> characters, reveal the top card of your deck. If that card is a <MARVEL> character, add it to hand, choose up to 1 of your opponent's Cost 0 or lower characters in the Back Row, send it to Waiting Room. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Captain America",
+        "code": "MAR/S89-074",
+        "rarity": "RR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX COMBO} When the Pants CX (099) is placed in your Climax Area, if this is in the Front Row, and you have 4 or more other <MARVEL> characters, this turn, all of your other characters gain the following ability: \"AUTO - (1) When this attacks, you may pay cost. If you do, deal 1 damage to your opponent.\" \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Hawkeye",
+        "code": "MAR/S89-075",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, choose 1 of your characters, this turn, it gets +2000 power.",
+            "ACT - [Discard 1 card, Send this to Waiting Room] Choose 1 <MARVEL> character from your Waiting Room, add it to hand. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af30.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Falcon",
+        "code": "MAR/S89-076",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Cost 0 <MARVEL> character whose Level is equal or lower than your Level, place it on stage in the Front Row left-most slot, and shuffle your deck afterwards.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Scarlet Witch",
+        "code": "MAR/S89-077",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - Your other character in the Front Row Center Slot gets +1500 power.",
+            "ACT - [Discard 2 card, Rest this] Look at up to 6 cards from the top of your deck, choose 3 cards from among them, send them to Waiting Room, then put the rest on top of your deck in any order. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211209_ej01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Wasp",
+        "code": "MAR/S89-078",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, mill 2 cards, if you milled a Climax, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand.",
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211208_ew02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Antman",
+        "code": "MAR/S89-079",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have another <MARVEL> character, this gets +1000 power and the following ability: \"AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.\"",
+            "AUTO - At the start of your Attack Phase, until the end of your opponent's next turn, you may have this card get -3500 power. If you do, until the end of your opponent's next turn, this gets +1 soul and the following ability: \"AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211208_ew01.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Winter Soldier",
+        "code": "MAR/S89-080",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <MARVEL> character, this turn, this gets +1 Level and +1000 power.",
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals the number of your other <MARVEL> characters times 500"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Captain America",
+        "code": "MAR/S89-081",
+        "rarity": "R",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, choose 1 of your characters with \"Falcon\" in its name that does not have a Marker underneath it, you may put this card underneath it Face-up as a Marker"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211217_af31.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Nick Fury",
+        "code": "MAR/S89-082",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <MARVEL> characters get +500.",
+            "AUTO - [Discard 1 card] When your character's Trigger Check reveals a Pants CX, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Antman",
+        "code": "MAR/S89-083",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it to the bottom of your opponent's deck.",
+            "AUTO - At the start of your opponent's Draw Phase, reveal the top card of your deck. If that card is Level 1 or higher, you may return this card to hand.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_083.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Captain America",
+        "code": "MAR/S89-084",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if you have an <MARVEL> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "ACT - BACKUP +1000"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_084.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Wasp",
+        "code": "MAR/S89-085",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have another <MARVEL> character, this gets +1500 power.",
+            "AUTO - At the start of your Attack Phase, until the end of your opponent's next turn, you may have this card get -4000 power. If you do, this turn, this gets +1 soul and the following ability: \"AUTO - When this attacks, choose 1 of your characters, this turn, it gets +3000 power.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_085.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Scarlet Witch",
+        "code": "MAR/S89-086",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters, your opponent chooses 1 Level X or lower character from their Waiting Room, and swaps the two characters. X equals the Level of the character chosen by you -1."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_086.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Venom",
+        "code": "MAR/S89-087",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211220_bt09.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Falcon",
+        "code": "MAR/S89-088",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {2/1 Winter Soldier - 089} from your Waiting Room, and place it on stage in any slot.",
+            "AUTO - When this attacks, if you have another {2/1 Winter Soldier - 089}, this turn, this gets +6000 power. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_088.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Winter Soldier",
+        "code": "MAR/S89-089",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have another {2/1 Falcon - 088}, this gets +4000 power.",
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your {2/1 Falcon - 088} characters and this card, you may Stand them and swap their positions on stage."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_089.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Hawkeye",
+        "code": "MAR/S89-090",
+        "rarity": "U",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500.",
+            "AUTO - [(1) Discard 2 <MARVEL> characters] This ability can only be activated up to once per turn. During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, Stand this card."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_090.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Vulture",
+        "code": "MAR/S89-091",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 card in your Opponent's Clock, you may send it to Waiting Room. If you do, your opponent puts the top card of their deck to Clock.",
+            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211222_ru10.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Nick Fury",
+        "code": "MAR/S89-092",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your Climax Phase, choose 1 of your <MARVEL> characters, this turn, it gets +500 power.",
+            "ACT - [(1) Rest 2 characters] Mill 2, then choose up to 1 Level X or lower <MARVEL> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_092.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Venom",
+        "code": "MAR/S89-093",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your opponent's characters get \"AUTO - ENCORE (2)\"",
+            "AUTO - ENCORE [Send 1 of your <MARVEL> characters on stage to the top of your Clock]"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_093.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Captain America",
+        "code": "MAR/S89-094",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <MARVEL> character, this turn, this gets +3000 power.",
+            "AUTO - {CX COMBO} At the start of your Encore Step, if you have the Pants CX (100) in your Climax Area, this is in the Front Row, and you have another <MARVEL> character, until the end of your opponent's next turn, this gains the following ability: \"CONT - This cannot be Reversed\"\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_094.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Carnage",
+        "code": "MAR/S89-095",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this has a Marker underneath it, for each of your other <MARVEL> characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your other characters, you may put it underneath this card Face-down as a Marker."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211220_bt10.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Hawkeye",
+        "code": "MAR/S89-096",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other Back Row <MARVEL> characters, this gets +2000 power. "
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_096.png",
+        "community": true
+    },
+    {
+        "name": "3/3 Avengers assemble",
+        "code": "MAR/S89-097",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "3",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you do not have a character with \"Captain America\" in its name, you cannot play this from hand.",
+            "Search your deck for up to 2 <MARVEL> character, show them to your opponent, add them to hand, choose up to 2 <MARVEL> characters from your hand whose Level is equal or lower than your Level, place it on stage in separate slots, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211221_uf11.png",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "MAR/S89-098",
+        "rarity": "CR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "098",
+        "image": "https://i.imgur.com/P1RsaTu.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "MAR/S89-099",
+        "rarity": "CR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "099",
+        "image": "https://i.imgur.com/GXwQBO0.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "MAR/S89-100",
+        "rarity": "CC",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "100",
+        "image": "https://i.imgur.com/RTzSICp.png?1",
+        "community": true
+    },
+    {
+        "name": "1/1 Thor",
+        "code": "MAR/S89-101",
+        "rarity": "PR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <MARVEL> characters.",
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, send the rest to Waiting Room, and discard 1 card. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_101.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Spiderman",
+        "code": "MAR/S89-102",
+        "rarity": "PR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (1) When this Front attacks, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -1 Level.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_102.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Iron Man",
+        "code": "MAR/S89-103",
+        "rarity": "PR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this has a Marker underneath it, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character or \"Iron Man Armor\" (Event), you may put it underneath this card Face-down as a Marker."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_103.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Captain America",
+        "code": "MAR/S89-104",
+        "rarity": "PR",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +2000",
+            "AUTO - When this is placed on stage from hand, draw up to 2 cards, then discard 1 card.",
+            "ACT - [Rest this] Look at up to 2 cards from the top of your deck, and put them back on top in any order.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_104.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Thor",
+        "code": "MAR/S89-T01",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +500",
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Hulk",
+        "code": "MAR/S89-T02",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or less Stock, this gets +1500 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Thor",
+        "code": "MAR/S89-T03",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have another <MARVEL> character, this gets +1500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Choice CX (T07) in your Climax Area, and you have another <MARVEL> character, look at up to 4 cards from the top of your deck, choose up to 1 <MARVEL> character or \"Mjölnir\" (Booster Event - 025) from among them, show it to your opponent, add it to hand, send the rest to Waiting Room. \r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma07.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Hulk",
+        "code": "MAR/S89-T04",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your other <MARVEL> character attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500.",
+            "AUTO - ENCORE [Put the top card of your deck into Clock]"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc04.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Thor",
+        "code": "MAR/S89-T05",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +3000 power.",
+            "AUTO - ENCORE [Discard 1 <MARVEL> character]"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc05.png",
+        "community": true
+    },
+    {
+        "name": "(NAME NOT FOUND)",
+        "code": "MAR/S89-T06",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "(UNKNOWN)",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Deal 2 Damage to your opponent."
+        ],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma09.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "MAR/S89-T07",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T07",
+        "image": "https://i.imgur.com/DuX7KhP.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Black Widow",
+        "code": "MAR/S89-T08",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other {1/0 Vanilla Hawkeye - T19} gets +1000 power.",
+            "AUTO - BOND (1) to {1/0 Vanilla Hawkeye - T19}\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Iron Man",
+        "code": "MAR/S89-T09",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your <MARVEL> characters, this turn, it gets +X power. X equals the number of your <MARVEL> characters times 500.\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi07.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Black Widow",
+        "code": "MAR/S89-T10",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, reveal the top card of your deck. If that card is a <MARVEL> character, add it to hand and discard 1 card.",
+            "ACT - BACKUP +2000"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma10.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Black Widow",
+        "code": "MAR/S89-T11",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Iron Man",
+        "code": "MAR/S89-T12",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 1000."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t12.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Iron Man",
+        "code": "MAR/S89-T13",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.",
+            "AUTO - {CX COMBO} (2) When this attacks, if you have the Door CX (T14) in your Climax Area, you may pay cost. If you do, send the bottom 4 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent. X equals the number of Level 0 cards sent to Waiting Room by this effect. (Climaxes are considered Level 0 for this effect)\r\n"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma04.png",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "MAR/S89-T14",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T14",
+        "image": "https://i.imgur.com/tbop81U.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Hawkeye",
+        "code": "MAR/S89-T15",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Hawkeye",
+        "code": "MAR/S89-T16",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - Your other <MARVEL> character in the Front Row Center Slot gets \"AUTO - ENCORE [Discard 1 character]\"",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card. "
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211207_zc07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Captain America",
+        "code": "MAR/S89-T17",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211203_ma06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Captain America",
+        "code": "MAR/S89-T18",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your characters, this turn, it gets +2500 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t18.png",
+        "community": true
+    },
+    {
+        "name": "(NAME NOT FOUND)",
+        "code": "MAR/S89-T19",
+        "rarity": "C",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "(UNKNOWN)",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t19.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Captain America",
+        "code": "MAR/S89-T20",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20211206_qi08.png",
+        "community": true
+    },
+    {
+        "name": "+2 Souls CX",
+        "code": "MAR/S89-T21",
+        "rarity": "TD",
+        "expansion": "Marvel",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "MAR",
+        "release": "S89",
+        "sid": "T21",
+        "image": "https://i.imgur.com/L0OIvtw.png?1",
+        "community": true
+    }
+]

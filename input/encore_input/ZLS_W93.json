@@ -1,0 +1,4898 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《SAGA》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "伝説の特攻隊長 二階堂サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a1",
+        "sid": "004",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-004",
+        "imagepath": "JP/W93/004.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+                ],
+                "name": "フランシュシュのリーダー サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a6",
+        "sid": "010",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-010",
+        "imagepath": "JP/W93/010.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "風の強い日は嫌いか？"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "618c3c34036a71475dbb14ab",
+        "sid": "021",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "ZLS/W93-021",
+        "imagepath": "JP/W93/021.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたの《SAGA》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000し、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+                ],
+                "name": "山田 たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c34036a71475dbb14b0",
+        "sid": "046",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 7500,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-046",
+        "imagepath": "JP/W93/046.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのキャラすべてが《SAGA》なら、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「目覚めRETURNER」が置かれた時、前列にこのカードがいて、他のあなたの《SAGA》のキャラがいるなら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+                ],
+                "name": "\"フランシュシュ\"愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b5",
+        "sid": "076",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-076",
+        "imagepath": "JP/W93/076.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを【リバース】してよい。』"
+                ],
+                "name": "\"REVENGE\"さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14ba",
+        "sid": "101",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-101",
+        "imagepath": "JP/W93/101.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の山札を上から3枚まで見て、《SAGA》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "アイドルプロデューサー"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14bf",
+        "sid": "T18",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T18",
+        "imagepath": "JP/W93/T18.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラ1枚につき、このカードのパワーを＋1000。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "アンコールの前に ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14c4",
+        "sid": "035",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-035",
+        "imagepath": "JP/W93/035.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+                    "【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+                ],
+                "name": "飛び入り参加 たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14c9",
+        "sid": "060",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-060",
+        "imagepath": "JP/W93/060.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大切なのはやる気」があり、他のあなたの《SAGA》のキャラがいるなら、次の行動を2回行う。『あなたは0か1か2を宣言する。あなたは自分の山札の上から1枚を、控え室に置き、そのカードがあなたの宣言したレベルのカードなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "自分でお化粧 たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14ce",
+        "sid": "090",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-090",
+        "imagepath": "JP/W93/090.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、相手に3ダメージを与え、そのターン中、このカードのパワーを＋2000。（ダメージキャンセルは発生する）"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14d3",
+        "sid": "T07",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T07",
+        "imagepath": "JP/W93/T07.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "満点の笑顔"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "_id": "618c3c35036a71475dbb14d8",
+        "sid": "023",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-023",
+        "imagepath": "JP/W93/023.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+                    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+                ],
+                "name": "アンコールの前に 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14dd",
+        "sid": "033",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-033",
+        "imagepath": "JP/W93/033.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［手札のレベル1以上のカードを1枚控え室に置く］ あなたのメインフェイズ中、このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの《SAGA》のキャラを1枚選び、そのメインフェイズ中、そのカードを、色条件を満たさずに控え室からプレイしてよい。（クライマックスのレベルは0として扱う。コストが必要なカードならコストを払う）"
+                ],
+                "name": "巽 幸太郎"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14e2",
+        "sid": "058",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-058",
+        "imagepath": "JP/W93/058.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが4枚以上なら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、ストック置場に置いてよい。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+                ],
+                "name": "命ばかけてやります さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14e7",
+        "sid": "093",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-093",
+        "imagepath": "JP/W93/093.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、あなたのキャラすべてが《SAGA》なら、このカードのパワーを＋2000。"
+                ],
+                "name": "愛＆純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14ec",
+        "sid": "P01",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-P01",
+        "imagepath": "JP/W93/P01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードがダイレクトアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+                ],
+                "name": "\"フランシュシュ\"サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14f1",
+        "sid": "054",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-054",
+        "imagepath": "JP/W93/054.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《SAGA》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
+                    "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+                ],
+                "name": "最高のライブ たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14f6",
+        "sid": "049",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-049",
+        "imagepath": "JP/W93/049.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時か「最高のライブ 純子」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「可憐な花嫁」が置かれた時、前列にこのカードがいて、他のあなたの《SAGA》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "伝説の平成のアイドル 水野愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14fb",
+        "sid": "074",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-074",
+        "imagepath": "JP/W93/074.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 経験 あなたのレベル置場に「運命へのリベンジ」があるなら、あなたの手札のこのカードのレベルを－1。",
+                    "【自】【CXコンボ】［手札の《SAGA》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「とんでもないお使い」があり、他のあなたの《SAGA》のキャラが2枚以上で、あなたの控え室に「運命へのリベンジ」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500し、あなたは自分の山札を上から2枚まで見て、次の2つの効果のうちあなたが選んだ1つを行う。『それらの見たカードを手札に加える。』『それらの見たカードを控え室に置く。そうしたら、あなたは2枚まで引く。』"
+                ],
+                "name": "お使い中 たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb1500",
+        "sid": "094",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-094",
+        "imagepath": "JP/W93/094.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のキャラを1枚まで選び、そのターン中、パワーを－3000。",
+                    "【自】［手札の《SAGA》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+                ],
+                "name": "元気になりたい時に 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb1505",
+        "sid": "037",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-037",
+        "imagepath": "JP/W93/037.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
+                    "【自】 このカードがアタックした時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "突然のゾンビばれ サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb150a",
+        "sid": "062",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-062",
+        "imagepath": "JP/W93/062.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+                ],
+                "name": "心を動かす言葉 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb150f",
+        "sid": "087",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-087",
+        "imagepath": "JP/W93/087.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《SAGA》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+                    "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+                ],
+                "name": "バイト生活 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c38036a71475dbb1514",
+        "sid": "T04",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T04",
+        "imagepath": "JP/W93/T04.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+                    "【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "温かい声援 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c38036a71475dbb1516",
+        "sid": "077",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-077",
+        "imagepath": "JP/W93/077.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "ムシャムシャ たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c38036a71475dbb1517",
+        "sid": "092",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-092",
+        "imagepath": "JP/W93/092.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "可憐な花嫁"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "618c3c38036a71475dbb1518",
+        "sid": "097",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "ZLS/W93-097",
+        "imagepath": "JP/W93/097.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+                ],
+                "name": "\"REVENGE\"たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c38036a71475dbb1519",
+        "sid": "107",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-107",
+        "imagepath": "JP/W93/107.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+                ],
+                "name": "アンコールの前に サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a0",
+        "sid": "009",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-009",
+        "imagepath": "JP/W93/009.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《SAGA》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《SAGA》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+                ],
+                "name": "紺野 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a5",
+        "sid": "001",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-001",
+        "imagepath": "JP/W93/001.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《SAGA》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
+                    "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「伝説の平成のアイドル 水野愛」を1枚選び、舞台の好きな枠に置く。"
+                ],
+                "name": "最高のライブ 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c34036a71475dbb14aa",
+        "sid": "007",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-007",
+        "imagepath": "JP/W93/007.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「アイドルブームの火付け役」があり、他のあなたの《SAGA》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+                ],
+                "name": "伝説の昭和のアイドル 紺野純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14af",
+        "sid": "026",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-026",
+        "imagepath": "JP/W93/026.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「部屋着でリラックス」が置かれた時、前列にこのカードがいるなら、そのターン中、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻してよい。』『【自】 あなたのアンコールステップの始めに、あなたの思い出が2枚以下なら、このカードを思い出にする。』"
+                ],
+                "name": "\"フランシュシュ\"さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b4",
+        "sid": "051",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-051",
+        "imagepath": "JP/W93/051.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+                    "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+                ],
+                "name": "水着でバカンス"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "618c3c34036a71475dbb14b9",
+        "sid": "071",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-071",
+        "imagepath": "JP/W93/071.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《SAGA》のキャラがいないなら、手札からプレイできない。",
+                    "あなたは自分の控え室のイベントを1枚選び、手札に戻す。"
+                ],
+                "name": "思い出の赤い櫛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14be",
+        "sid": "096",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-096",
+        "imagepath": "JP/W93/096.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを山札に戻し、その山札をシャッフルする。』"
+                ],
+                "name": "1日だけのアイドル 舞々"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c34036a71475dbb14c3",
+        "sid": "040",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-040",
+        "imagepath": "JP/W93/040.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋500。",
+                    "【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "余生を送る ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14c8",
+        "sid": "065",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-065",
+        "imagepath": "JP/W93/065.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《SAGA》のキャラか「運命へのリベンジ」なら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+                    "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「水着でバカンス」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、次の相手のターンの終わりまで、このカードのパワーを＋3000。（ダメージキャンセルは発生する）"
+                ],
+                "name": "伝説の花魁 ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14cd",
+        "sid": "055",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-055",
+        "imagepath": "JP/W93/055.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+                    "【自】 このカードがアタックした時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "心からの感謝 さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14d2",
+        "sid": "080",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-080",
+        "imagepath": "JP/W93/080.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+                    "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+                ],
+                "name": "バイト生活 さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c38036a71475dbb151a",
+        "sid": "T09",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T09",
+        "imagepath": "JP/W93/T09.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋1000。",
+                    "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "大人になったら サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14d7",
+        "sid": "018",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-018",
+        "imagepath": "JP/W93/018.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "アイドルブームの火付け役"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "618c3c35036a71475dbb14dc",
+        "sid": "043",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "ZLS/W93-043",
+        "imagepath": "JP/W93/043.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードと同じカード名のカードは、デッキに7枚まで入れることができ、このカードは、色条件を満たさずに手札からプレイできる。",
+                    "あなたは自分の山札を上から3枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+                    "次の4つの効果のうちあなたが選んだ1つを行う。",
+                    "『あなたは自分の手札の《SAGA》のキャラを1枚選び、控え室に置いてよい。そうしたら、このカードを手札に戻す。』",
+                    "『あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。』",
+                    "『このカードを控え室に置く。』",
+                    "『このカードを思い出にする。』"
+                ],
+                "name": "運命へのリベンジ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14e1",
+        "sid": "068",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-068",
+        "imagepath": "JP/W93/068.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「運命へのリベンジ」があるなら、そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+                ],
+                "name": "コンサート失敗の代償 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14e6",
+        "sid": "083",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-083",
+        "imagepath": "JP/W93/083.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「バイト生活 サキ」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+                    "【自】 絆／「バイト生活 サキ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「バイト生活 サキ」を1枚選び、手札に戻す）"
+                ],
+                "name": "バイト生活 リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14eb",
+        "sid": "T10",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T10",
+        "imagepath": "JP/W93/T10.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）"
+                ],
+                "name": "スーパートゥインクルスター"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "_id": "618c3c36036a71475dbb14f0",
+        "sid": "024",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-024",
+        "imagepath": "JP/W93/024.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 今日が現地時間の3月8日で、あなたと相手が佐賀県にいるなら、このカードのパワーを＋10000。",
+                    "【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《SAGA》のキャラを3枚まで選び、そのターン中、パワーを＋500し、ソウルを＋1。"
+                ],
+                "name": "伝説の山田たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14f5",
+        "sid": "079",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-079",
+        "imagepath": "JP/W93/079.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをストック置場に置く。"
+                ],
+                "name": "\"REVENGE\"純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14fa",
+        "sid": "104",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-104",
+        "imagepath": "JP/W93/104.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+                    "【自】［(1) 手札の《SAGA》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "思い出話 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb14ff",
+        "sid": "015",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-015",
+        "imagepath": "JP/W93/015.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+                ],
+                "name": "本能のままに たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb1504",
+        "sid": "T06",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T06",
+        "imagepath": "JP/W93/T06.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "なんこれ…"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "618c3c37036a71475dbb1509",
+        "sid": "022",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-022",
+        "imagepath": "JP/W93/022.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「部屋着でリラックス」があり、他のあなたの《SAGA》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手に1ダメージを与えてよい。このダメージがキャンセルされたなら、あなたは相手に2ダメージを与えてよい。このダメージがキャンセルされたなら、あなたは相手の山札の上から3枚を、クロック置場に置いてよい。（ダメージキャンセルは発生する）"
+                ],
+                "name": "源 さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb150e",
+        "sid": "047",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-047",
+        "imagepath": "JP/W93/047.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+                    "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+                ],
+                "name": "導かれた出会い"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "618c3c38036a71475dbb1513",
+        "sid": "072",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-072",
+        "imagepath": "JP/W93/072.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）"
+                ],
+                "name": "諦めない強さ リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a2",
+        "sid": "016",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-016",
+        "imagepath": "JP/W93/016.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 共鳴 ［手札の「運命へのリベンジ」を1枚公開する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《SAGA》のキャラを2枚まで選び、そのターン中、パワーを＋2000。",
+                    ""
+                ],
+                "name": "叶えてみせてよ、その夢を リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14a7",
+        "sid": "011",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-011",
+        "imagepath": "JP/W93/011.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《SAGA》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
+                ],
+                "name": "大事なもの 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14ac",
+        "sid": "041",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-041",
+        "imagepath": "JP/W93/041.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+                ],
+                "name": "私たちに出来る事 さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b1",
+        "sid": "066",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-066",
+        "imagepath": "JP/W93/066.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋500。",
+                    "【自】 あなたのアタックフェイズの始めに、あなたの控え室の「運命へのリベンジ」が2枚以上なら、あなたは自分の《SAGA》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。"
+                ],
+                "name": "パジャマ姿 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b6",
+        "sid": "091",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-091",
+        "imagepath": "JP/W93/091.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、ソウルを＋2。"
+                ],
+                "name": "大河よ共に泣いてくれ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "618c3c34036a71475dbb14bb",
+        "sid": "T08",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T08",
+        "imagepath": "JP/W93/T08.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+                    "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "水野 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14c0",
+        "sid": "025",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-025",
+        "imagepath": "JP/W93/025.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+                ],
+                "name": "\"フランシュシュ\"たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14c5",
+        "sid": "050",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-050",
+        "imagepath": "JP/W93/050.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "輝いて"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "618c3c35036a71475dbb14ca",
+        "sid": "070",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-070",
+        "imagepath": "JP/W93/070.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【カウンター】 このカードは、あなたの《SAGA》のキャラがいないなら、手札からプレイできない。あなたは自分の手札のクライマックスを1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』"
+                ],
+                "name": "幸太郎の貯金箱"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14cf",
+        "sid": "095",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-095",
+        "imagepath": "JP/W93/095.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+                ],
+                "name": "バイト生活 ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14d4",
+        "sid": "T12",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T12",
+        "imagepath": "JP/W93/T12.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたの《SAGA》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【自】【CXコンボ】［手札のクライマックスを1枚控え室に置く］ あなたのキャラのトリガーチェックで「アイドルブームの火付け役」か「可憐な花嫁」がでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "\"フランシュシュ\"純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14d9",
+        "sid": "028",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-028",
+        "imagepath": "JP/W93/028.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたのターン中、あなたの思い出置場の「運命へのリベンジ」が2枚以上なら、このカードのパワーを＋5000。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「最高のライブ ゆうぎり」を1枚選び、舞台の好きな枠に置く。",
+                    "【自】 経験 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが2枚以上で、あなたのレベル置場に「運命へのリベンジ」があるなら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、ストック置場に置いてよい。"
+                ],
+                "name": "最高のライブ ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14de",
+        "sid": "053",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-053",
+        "imagepath": "JP/W93/053.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたのアタックフェイズの始めに、あなたの控え室に「運命へのリベンジ」があるなら、そのターン中、このカードのパワーを＋7500。",
+                    "【自】 共鳴 ［手札の「運命へのリベンジ」を1枚公開する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『そのターン中、このカードのパワーを＋2000。』『あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
+                ],
+                "name": "\"フランシュシュ\"リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14e3",
+        "sid": "078",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-078",
+        "imagepath": "JP/W93/078.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14e8",
+        "sid": "T15",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T15",
+        "imagepath": "JP/W93/T15.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋1500。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻してよい。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+                ],
+                "name": "\"フランシュシュ\"ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14ed",
+        "sid": "029",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-029",
+        "imagepath": "JP/W93/029.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】【CXコンボ】［このカードを手札に戻す］ あなたのクライマックス置場に「スーパートゥインクルスター」が置かれた時、他のあなたの《SAGA》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下の《SAGA》のキャラを1枚選び、舞台の好きな枠に置く。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+                ],
+                "name": "\"リトルパラッポ\"リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14f2",
+        "sid": "014",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-014",
+        "imagepath": "JP/W93/014.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "50と4つの忘れ物"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "618c3c36036a71475dbb14f7",
+        "sid": "044",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-044",
+        "imagepath": "JP/W93/044.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "部屋着でリラックス"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "618c3c36036a71475dbb14fc",
+        "sid": "069",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "ZLS/W93-069",
+        "imagepath": "JP/W93/069.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《SAGA》のキャラなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。（公開したカードは元に戻す）",
+                    "【自】 このカードがアタックした時、あなたは他の自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《SAGA》のキャラの枚数×500に等しい。"
+                ],
+                "name": "私にはないもの リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb1501",
+        "sid": "089",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-089",
+        "imagepath": "JP/W93/089.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "バイト生活 サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb1506",
+        "sid": "T16",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T16",
+        "imagepath": "JP/W93/T16.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 記憶 あなたのクライマックスフェイズの始めに、前列にこのカードがいて、あなたの思い出置場に「運命へのリベンジ」があるなら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+                ],
+                "name": "突然の慰め 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb150b",
+        "sid": "032",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-032",
+        "imagepath": "JP/W93/032.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[STANDBY]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "煌めくステージ ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb1510",
+        "sid": "057",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-057",
+        "imagepath": "JP/W93/057.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《SAGA》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+                ],
+                "name": "煌めくステージ たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c38036a71475dbb1515",
+        "sid": "082",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-082",
+        "imagepath": "JP/W93/082.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
+                    "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+                ],
+                "name": "\"REVENGE\"サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c38036a71475dbb151b",
+        "sid": "102",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-102",
+        "imagepath": "JP/W93/102.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの後列の《SAGA》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢を手に、戻れる場所もない日々を」があり、他のあなたの《SAGA》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c38036a71475dbb151c",
+        "sid": "T14",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T14",
+        "imagepath": "JP/W93/T14.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "夢を手に、戻れる場所もない日々を"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "618c3c38036a71475dbb151d",
+        "sid": "T19",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T19",
+        "imagepath": "JP/W93/T19.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 他のあなたの後列の《SAGA》のキャラ1枚につき、このカードのパワーを＋1000。",
+                    "【自】 このカードが手札から舞台に置かれた時、次の3つの効果のうちあなたが選んだ1つを行ってよい。『あなたは1枚まで引き、自分の手札のコスト1以下のキャラを1枚まで選び、舞台の好きな枠に置く。』『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたのキャラすべてに、そのターン中、パワーを＋3000。』"
+                ],
+                "name": "星川 リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c33036a71475dbb149e",
+        "sid": "003",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-003",
+        "imagepath": "JP/W93/003.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+                    "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "煌めくステージ サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a3",
+        "sid": "008",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-008",
+        "imagepath": "JP/W93/008.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋4000。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「風の強い日は嫌いか？」があり、他のあなたの《SAGA》のキャラが2枚以上なら、次の2つの効果を好きな順番で1回ずつ行う。『あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラか「運命へのリベンジ」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+                ],
+                "name": "二階堂 サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14a8",
+        "sid": "002",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-002",
+        "imagepath": "JP/W93/002.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+                    "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「運命へのリベンジ」を1枚選び、手札に戻す。"
+                ],
+                "name": "あきらめん さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14ad",
+        "sid": "056",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-056",
+        "imagepath": "JP/W93/056.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+                    "【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+                ],
+                "name": "アンコールの前に 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b2",
+        "sid": "081",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-081",
+        "imagepath": "JP/W93/081.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。",
+                    "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "残すは本番 リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b7",
+        "sid": "106",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-106",
+        "imagepath": "JP/W93/106.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「満点の笑顔」があり、あなたのストックが5枚以下なら、あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+                ],
+                "name": "オーディション リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb149f",
+        "sid": "005",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-005",
+        "imagepath": "JP/W93/005.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+                    "【自】［(2)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《SAGA》のキャラなら、そのターン中、このカードのパワーを＋11000。"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14bc",
+        "sid": "T03",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T03",
+        "imagepath": "JP/W93/T03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【カウンター】 このカードは、あなたの《SAGA》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは【リバース】しない。』"
+                ],
+                "name": "ロメロ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14c1",
+        "sid": "020",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-020",
+        "imagepath": "JP/W93/020.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたのストックが5枚以下なら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "楪 舞々"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c33036a71475dbb14a4",
+        "sid": "031",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-031",
+        "imagepath": "JP/W93/031.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+                    "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
+                ],
+                "name": "ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14c6",
+        "sid": "045",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-045",
+        "imagepath": "JP/W93/045.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場に「運命へのリベンジ」があり、他のあなたの《SAGA》のキャラがいるなら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+                    "【自】【CXコンボ】 共鳴 ［(2) 手札を1枚控え室に置き、手札の「運命へのリベンジ」を1枚公開する］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「なんこれ…」があり、他のあなたの《SAGA》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+                ],
+                "name": "最高のライブ サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c34036a71475dbb14a9",
+        "sid": "006",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-006",
+        "imagepath": "JP/W93/006.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+                ],
+                "name": "アンコールの前に リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14cb",
+        "sid": "085",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-085",
+        "imagepath": "JP/W93/085.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+                ],
+                "name": "夕食の準備 ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14ae",
+        "sid": "036",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-036",
+        "imagepath": "JP/W93/036.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋500。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14d0",
+        "sid": "T02",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T02",
+        "imagepath": "JP/W93/T02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+                    "【自】【CXコンボ】［あなたのクライマックス置場の「輝いて」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "アンコールの前に さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b3",
+        "sid": "061",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-061",
+        "imagepath": "JP/W93/061.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたは自分の手札を1枚選び、控え室に置く。そうしたら、このカードを手札に戻す。』",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+                ],
+                "name": "ゾンビィアイドル さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14d5",
+        "sid": "T17",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T17",
+        "imagepath": "JP/W93/T17.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。",
+                    "【永】 他のあなたの「ムシャムシャ たえ」すべてに、パワーを＋1000。",
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "リベンジし続けてやる!!! さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14b8",
+        "sid": "086",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-086",
+        "imagepath": "JP/W93/086.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたのターン中、あなたの思い出置場に「運命へのリベンジ」があるなら、このカードのパワーを＋10000。",
+                    "【自】 共鳴 ［手札を1枚控え室に置き、手札の「運命へのリベンジ」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、そのターン中、このカードのパワーを＋1500。"
+                ],
+                "name": "私たちに出来る事 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14da",
+        "sid": "013",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-013",
+        "imagepath": "JP/W93/013.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+                    "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+                ],
+                "name": "お手伝い リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c34036a71475dbb14bd",
+        "sid": "012",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-012",
+        "imagepath": "JP/W93/012.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの「山田 たえ」すべてに、パワーを＋4000。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+                ],
+                "name": "パジャマ姿 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14df",
+        "sid": "038",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-038",
+        "imagepath": "JP/W93/038.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《SAGA》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《SAGA》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c34036a71475dbb14c2",
+        "sid": "T13",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T13",
+        "imagepath": "JP/W93/T13.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+                ],
+                "name": "目覚めRETURNER"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "618c3c36036a71475dbb14e4",
+        "sid": "098",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-098",
+        "imagepath": "JP/W93/098.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「修復中」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+                    "【自】【CXコンボ】［このカードの下のマーカーを1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「50と4つの忘れ物」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手に1ダメージをＸ回与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+                ],
+                "name": "突然のゾンビばれ 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c35036a71475dbb14c7",
+        "sid": "030",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-030",
+        "imagepath": "JP/W93/030.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚まで選び、そのターン中、パワーを－1000。",
+                    "【自】［(1) このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "\"REVENGE\"愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14e9",
+        "sid": "103",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-103",
+        "imagepath": "JP/W93/103.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の《SAGA》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+                    "【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+                ],
+                "name": "伝説の天才子役 星川リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14cc",
+        "sid": "075",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-075",
+        "imagepath": "JP/W93/075.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《SAGA》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "バイト生活 純子"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14ee",
+        "sid": "T05",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T05",
+        "imagepath": "JP/W93/T05.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+                ],
+                "name": "大切なのはやる気"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "618c3c35036a71475dbb14d1",
+        "sid": "100",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-100",
+        "imagepath": "JP/W93/100.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《SAGA》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《SAGA》のキャラの枚数に等しい。"
+                ],
+                "name": "ライブグッズ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14f3",
+        "sid": "019",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-019",
+        "imagepath": "JP/W93/019.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "\"佐賀事変\"ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14d6",
+        "sid": "105",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "ZLS/W93-105",
+        "imagepath": "JP/W93/105.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《SAGA》のキャラの枚数×1000に等しい。"
+                ],
+                "name": "ライブ前のドタバタ ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14f8",
+        "sid": "039",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-039",
+        "imagepath": "JP/W93/039.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋500。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「運命へのリベンジ」1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+                    "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+                ],
+                "name": "帰り道 さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14db",
+        "sid": "048",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-048",
+        "imagepath": "JP/W93/048.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［(1) このカードを控え室に置く］ 他のあなたの《SAGA》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+                    "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+                ],
+                "name": "門出の日 ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14fd",
+        "sid": "064",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-064",
+        "imagepath": "JP/W93/064.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「\"フランシュシュ\"さくら」を1枚選び、思い出にしてよい。",
+                    "【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "フランシュシュ１号 源さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c35036a71475dbb14e0",
+        "sid": "073",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "ZLS/W93-073",
+        "imagepath": "JP/W93/073.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "とんでもないお使い"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "618c3c37036a71475dbb1502",
+        "sid": "099",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "ZLS/W93-099",
+        "imagepath": "JP/W93/099.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《SAGA》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+                ],
+                "name": "\"大河よ共に泣いてくれ\"ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb1507",
+        "sid": "T11",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T11",
+        "imagepath": "JP/W93/T11.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
+                ],
+                "name": "想いをぶつける相手 サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14e5",
+        "sid": "063",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-063",
+        "imagepath": "JP/W93/063.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "最高のライブ 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb150c",
+        "sid": "027",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-027",
+        "imagepath": "JP/W93/027.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "強運 たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14ea",
+        "sid": "088",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-088",
+        "imagepath": "JP/W93/088.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたのアタックフェイズの始めに、あなたの控え室に「運命へのリベンジ」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋2000。』",
+                    "【自】【CXコンボ】 記憶 経験 ［(1)］ あなたのクライマックス置場に「部屋着でリラックス」が置かれた時、他のあなたの《SAGA》のキャラがいて、あなたのレベル置場に「運命へのリベンジ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上からＸ枚まで見て、カードをＸ枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。Ｘはあなたの思い出置場の「\"フランシュシュ\"さくら」の枚数に等しい。"
+                ],
+                "name": "最高のライブ さくら"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb1511",
+        "sid": "052",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "ZLS/W93-052",
+        "imagepath": "JP/W93/052.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+                ],
+                "name": "EFSライブ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "618c3c36036a71475dbb14ef",
+        "sid": "T20",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T20",
+        "imagepath": "JP/W93/T20.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、あなたの控え室に「運命へのリベンジ」があり、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+                    "【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の「運命へのリベンジ」が2枚以上なら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
+                    ""
+                ],
+                "name": "私たちに出来る事 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c36036a71475dbb14f4",
+        "sid": "034",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-034",
+        "imagepath": "JP/W93/034.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「導かれた出会い」があり、他のあなたの《SAGA》のキャラが2枚以上なら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "外の世界 ゆうぎり"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c36036a71475dbb14f9",
+        "sid": "059",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-059",
+        "imagepath": "JP/W93/059.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードがアタックした時、あなたは他の自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《SAGA》のキャラの枚数×500に等しい。"
+                ],
+                "name": "コール＆レスポンス たえ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb14fe",
+        "sid": "084",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-084",
+        "imagepath": "JP/W93/084.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《SAGA》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+                ],
+                "name": "EFSライブの負債 愛"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb1503",
+        "sid": "T01",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "ZLS/W93-T01",
+        "imagepath": "JP/W93/T01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが4枚以上なら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、ストック置場に置いてよい。",
+                    "【自】 このカードがアタックした時、他のあなたの《SAGA》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+                ],
+                "name": "私たちに出来る事 リリィ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb1508",
+        "sid": "017",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-017",
+        "imagepath": "JP/W93/017.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "相手に1ダメージを与える。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（ダメージキャンセルは発生する）"
+                ],
+                "name": "修復中"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "618c3c37036a71475dbb150d",
+        "sid": "042",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "ZLS/W93-042",
+        "imagepath": "JP/W93/042.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "SAGA",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+                    "【自】［このカードを控え室に置く］ 他のあなたの《SAGA》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+                ],
+                "name": "ファイナルリベンジ サキ"
+            }
+        },
+        "series": "618c3bcd1e41dfffbd1f23c9",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "618c3c37036a71475dbb1512",
+        "sid": "067",
+        "set": "ZLS",
+        "side": "W",
+        "release": "93",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "ZLS/W93-067",
+        "imagepath": "JP/W93/067.gif",
+        "__v": 0
+    }
+]

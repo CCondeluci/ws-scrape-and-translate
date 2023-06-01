@@ -1,0 +1,3359 @@
+[
+    {
+        "name": "元カノ 麻美",
+        "code": "KNK/W86-001",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "気にしないで和くん！",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a Climax, you may choose 1 opponent's Character, return it to Hand. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card63908-large.jpg"
+    },
+    {
+        "name": "七海 麻美",
+        "code": "KNK/W86-002",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ウチ近いから休んでいかない…？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.",
+            "【A】【CXCOMBO】[(2)] At the end of this card's attack, if 「付き合ってる時よりも」 is in your Climax Slot, you may pay the cost. If you did, look at up to 3 cards from opponent's top Deck, choose up to 3 cards, place them on top Deck in any order, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card63910-large.jpg"
+    },
+    {
+        "name": "２人の思い出 麻美",
+        "code": "KNK/W86-003",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "１か月だけど色んなこと覚えてるな――っ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《かのかり》 Character among those cards x1000.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《かのかり》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《かのかり》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card63912-large.jpg"
+    },
+    {
+        "name": "センチメートル 麻美",
+        "code": "KNK/W86-004",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【C】During your turn, the Character at the Center Slot of Front Row gets +1000 Power, gains the following Ability. 『【C】This card cannot be chosen by opponent's effect.』",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《かのかり》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card63914-large.jpg"
+    },
+    {
+        "name": "ヘタ同士 麻美",
+        "code": "KNK/W86-005",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "一緒に行こっ",
+        "ability": [
+            "【A】【CXCOMBO】When 「付き合おっか」 is placed into your Climax Slot, and you have 2 or more other 《かのかり》 Character, look at up to 4 cards from your top Deck, choose up to 1 《かのかり》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card63916-large.jpg"
+    },
+    {
+        "name": "もう恋なんて 麻美",
+        "code": "KNK/W86-006",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "もう恋なんかしないって\n決めてるんだからっ！",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《かのかり》 Character."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card63918-large.jpg"
+    },
+    {
+        "name": "ファインダー越し 麻美",
+        "code": "KNK/W86-007",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【S】［(1)］ You choose 1 opponent's Character with Level 0 or lower at Front Row, place it into Waiting Room.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action.『You draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card63920-large.jpg"
+    },
+    {
+        "name": "“うざ…”麻美",
+        "code": "KNK/W86-008",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "千鶴「あなたは和也さんの気持ちに\n本気で向き合った事がありますか!?」",
+        "ability": [
+            "【C】 This card cannot Side Attack.",
+            "【C】 During opponent's turn, for each of your other 《かのかり》 Character, this card gets ＋1000 Power.",
+            "【S】［Place this card into Waiting Room］ Choose 1 「元カノとして 麻美」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card63921-large.jpg"
+    },
+    {
+        "name": "元カノとして 麻美",
+        "code": "KNK/W86-009",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "ごめん墨ちゃん\n和くんと２人きりにしてくれる？",
+        "ability": [
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】CHANGE ［Place this card into Waiting Room］ At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, choose 1 「“うざ…”麻美」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card63922-large.jpg"
+    },
+    {
+        "name": "初めての“彼女” 麻美",
+        "code": "KNK/W86-010",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【C】All your other 《かのかり》 Character gets +500 Power.",
+            "【A】At the beginning of your Climax Phase, choose 1 of your Character with 「麻美」 in its name, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card63923-large.jpg"
+    },
+    {
+        "name": "告白バンジージャンプ 麻美",
+        "code": "KNK/W86-011",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if opponent has 1 or less Character at Front Row, you may choose 1 opponent's Character with Cost 0 or lower at Front Row, place it into Waiting Room.",
+            "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《かのかり》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card63924-large.jpg"
+    },
+    {
+        "name": "“運命の人”麻美",
+        "code": "KNK/W86-012",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "はじめまして 七海麻美です",
+        "ability": [
+            "【A】 This Ability can be activated up to 1 time each turn. When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card.（Climax is considered Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card63925-large.jpg"
+    },
+    {
+        "name": "いつものノリ 麻美",
+        "code": "KNK/W86-013",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "やっぱ和くんも男の子なんだな…って",
+        "ability": [
+            "【A】［(1)］ When this card attacks, if you have 2 or more other 《かのかり》 Character, you may pay the cost. If you did, this card gets ＋1000 Power and ＋2 Soul."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card63926-large.jpg"
+    },
+    {
+        "name": "気軽な挨拶 麻美",
+        "code": "KNK/W86-014",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ハロー和くん",
+        "ability": [
+            "【C】 During your turn, for each of your 《かのかり》 Character, this card gets ＋500 Power.",
+            "【A】［Place 1 《かのかり》 Character from Hand into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 Character facing this card and 1 opponent's other Character with Level 1 or lower, STAND and exchange them."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card63927-large.jpg"
+    },
+    {
+        "name": "すっぽかされた約束 麻美",
+        "code": "KNK/W86-015",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 2 or more 《かのかり》 Character, you look at opponent's Hand.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card63928-large.jpg"
+    },
+    {
+        "name": "もうやめて？",
+        "code": "KNK/W86-016",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ほんのちょっとだけ\nうんざり",
+        "ability": [
+            "Search your Deck for up to 1 Character with 「麻美」 in its name and show it to opponent, add it to Hand, choose up to 1 「七海 麻美」 from your Hand, place it into any slot on Stage, shuffle your Deck afterwards, during this turn, that Character gets +3000 Power."
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card63929-large.jpg"
+    },
+    {
+        "name": "付き合ってる時よりも",
+        "code": "KNK/W86-017",
+        "rarity": "CR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ウチ近いから…",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card63930-large.jpg"
+    },
+    {
+        "name": "付き合おっか",
+        "code": "KNK/W86-018",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "付き合おっか ウチら",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card63932-large.jpg"
+    },
+    {
+        "name": "更科 瑠夏",
+        "code": "KNK/W86-019",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "“彼女”は私\n“彼女”は私がいいです…っ！",
+        "ability": [
+            "【C】If you have 2 or more other 《かのかり》 Character, this card gets +1000 Power.",
+            "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 《かのかり》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card63933-large.jpg"
+    },
+    {
+        "name": "桜沢 墨",
+        "code": "KNK/W86-020",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "またねっ！",
+        "ability": [
+            "【C】EXPERIENCE If 「人見知りの“彼女” 墨」 is in your Level Slot, this card gets +3000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When this card attacks, if 「“目標”に向けて」 is in your Climax Slot, and you have other 《かのかり》 Character, until end of opponent's next turn, this card gains the following Ability. 『【A】At the beginning of opponent's Attack Phase, choose up to 2 opponent's Character, during this turn, they get -1 Soul.』"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card63935-large.jpg"
+    },
+    {
+        "name": "宝石のような一時を 千鶴",
+        "code": "KNK/W86-021",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "－",
+        "ability": [
+            "【C】If you have 4 or more other 《かのかり》 Character, this card gets -1 Level in your Hand.",
+            "【C】If you have 2 or more other 《かのかり》 Character, this card gets +1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card63937-large.jpg"
+    },
+    {
+        "name": "妄想デート 千鶴",
+        "code": "KNK/W86-022",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card63939-large.jpg"
+    },
+    {
+        "name": "センチメートル 墨",
+        "code": "KNK/W86-023",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】At the beginning of your Attack Phase, if this card is at Front Row, you may place the top card of your Deck into Waiting Room. If that card is a 《かのかり》 Character, during this turn, this card gets +2000 Power.",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card63941-large.jpg"
+    },
+    {
+        "name": "初めての挑戦 墨",
+        "code": "KNK/W86-024",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《かのかり》 Character x500.",
+            "【A】【CXCOMBO】When 「意外とガンコ？」 is placed into your Climax Slot, if this card is at Front Row, you may choose 1 card with Level 1 or higher from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card63943-large.jpg"
+    },
+    {
+        "name": "“彼女”でいる間 千鶴",
+        "code": "KNK/W86-025",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "和也「ちゃんと ばーちゃんに“彼女”紹介できる日なんて\n本当に来んのかなって…」",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「“彼女”でいる間 千鶴」 from your Memory, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card63945-large.jpg"
+    },
+    {
+        "name": "和くんのこと 麻美",
+        "code": "KNK/W86-026",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "千鶴「簡単には忘れられない人だって…」",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】【CXCOMBO】[(1)] When 「２人の問題」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 opponent's Character at Front Row, return it to Hand.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. When your Character with 「麻美」 in its name Direct Attacks, you may pay the cost. If you did, place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card63947-large.jpg"
+    },
+    {
+        "name": "待ち焦がれる 墨",
+        "code": "KNK/W86-027",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【C】SUPPORT All your Character with 「墨」 in its name in front of this card gets +1500 Power.",
+            "【A】EXPERIENCE [Place 1 card from Hand into Waiting Room] At the beginning of your Encore Step, if 「人見知りの“彼女” 墨」 is in your Level Slot, you may pay the cost. If you did, you draw 1 card.",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card63949-large.jpg"
+    },
+    {
+        "name": "秘密のデート 瑠夏",
+        "code": "KNK/W86-028",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "和也くーんっ！",
+        "ability": [
+            "【A】【CXCOMBO】At the beginning of your Encore Step, if 「見て見て和也くん」 is in your Climax Slot, and this card is at Front Row, if the Character facing this card is REVERSE or no Character facing this card, look at up to 4 cards from your top Deck, choose up to 1 《かのかり》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, place up to 1 card from your top Deck into Stock.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card63951-large.jpg"
+    },
+    {
+        "name": "本気の眼差し 千鶴",
+        "code": "KNK/W86-029",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】【CXCOMBO】[Place the top card of your Deck into Clock] When 「恋人の証明」 is placed into your Climax Slot, if this card is at Front Row, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 2 Character with Cost 0 or lower, place them into separate slot on Stage, place the remaining cards into Waiting Room.",
+            "【A】At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card63952-large.jpg"
+    },
+    {
+        "name": "笑顔の練習 墨",
+        "code": "KNK/W86-030",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.",
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card63953-large.jpg"
+    },
+    {
+        "name": "運動でリラックス 墨",
+        "code": "KNK/W86-031",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《かのかり》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】［(1) Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《かのかり》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card63954-large.jpg"
+    },
+    {
+        "name": "“やだなーっ”麻美",
+        "code": "KNK/W86-032",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "テーブルの上に現金出しっぱなしじゃ\n楽しめるものも楽しめないじゃん",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, both players perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards from your Memory into Waiting Room except for those 4 cards.』",
+            "【A】When this card attacks, choose 1 of your other 《かのかり》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《かのかり》 Character x500."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card63955-large.jpg"
+    },
+    {
+        "name": "一口どうぞ 墨",
+        "code": "KNK/W86-033",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "和也『え～～～～っ!!!』",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《かのかり》 Character.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card63956-large.jpg"
+    },
+    {
+        "name": "キスじゃないから 千鶴",
+        "code": "KNK/W86-034",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "助けてもらって ホントごめん…っ！",
+        "ability": [
+            "【A】［Place 1 《かのかり》 Character from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「“馬鹿じゃないの!?”千鶴」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】 This Ability can be activated up to 1 time each turn. When your other 「“馬鹿じゃないの!?”千鶴」 is placed on Stage from Hand, you may choose 1 《かのかり》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card63957-large.jpg"
+    },
+    {
+        "name": "告白バンジージャンプ 墨",
+        "code": "KNK/W86-035",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【C】All your other 《かのかり》 Character gets +500 Power.",
+            "【S】[REST this card] Choose 1 card from your Level Slot and 1 《かのかり》 Character from your Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card63958-large.jpg"
+    },
+    {
+        "name": "大事な話 瑠夏",
+        "code": "KNK/W86-036",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "え？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】When your other 《かのかり》 Character attacks, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card63959-large.jpg"
+    },
+    {
+        "name": "夜９時のベランダ ちづる",
+        "code": "KNK/W86-037",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あなたが“彼女を作る”という意味では\n無視できない“女性”でしょ？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「恥ずかし乙女」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card63960-large.jpg"
+    },
+    {
+        "name": "知ってしまった真実 麻美",
+        "code": "KNK/W86-038",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【C】The Character facing this card cannot move to other slot.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets ＋1500 Power."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card63961-large.jpg"
+    },
+    {
+        "name": "何が何やら 墨",
+        "code": "KNK/W86-039",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "……？",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《かのかり》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card63962-large.jpg"
+    },
+    {
+        "name": "的確な指摘 瑠夏",
+        "code": "KNK/W86-040",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これは認めたってことでいいですか？\nウソの彼氏さん！",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card63963-large.jpg"
+    },
+    {
+        "name": "麦わら帽子 ちづる",
+        "code": "KNK/W86-041",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "…………",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] At the beginning of opponent's Climax Phase, if you have other 《かのかり》 Character, you may pay the cost. If you did, during this turn, this card gets +3000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may choose 1 《かのかり》 Character from your Waiting Room, return it to Hand.』",
+            "【S】[Place this card into Waiting Room] Choose 1 「海と彼女 千鶴」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card63964-large.jpg"
+    },
+    {
+        "name": "“馬鹿じゃないの!?”千鶴",
+        "code": "KNK/W86-042",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card63965-large.jpg"
+    },
+    {
+        "name": "恥ずかし乙女",
+        "code": "KNK/W86-043",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
+        "ability": [
+            "If you have 1 or less Character with 「墨」 in its name, you cannot play this card from Hand.",
+            "Choose up to 1 「桜沢 墨」 from your Hand, place it into any slot on Stage, until end of opponent's next turn, that Character gains 2 of the following Ability.",
+            "『【C】During this card's battle, opponent cannot play 『ASSIST』 from Hand.』",
+            "『【C】This card cannot be chosen by opponent's effect.』"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card63966-large.jpg"
+    },
+    {
+        "name": "恋人の証明",
+        "code": "KNK/W86-044",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card63967-large.jpg"
+    },
+    {
+        "name": "２人の問題",
+        "code": "KNK/W86-045",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私と和くんの問題でしょ？",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card63968-large.jpg"
+    },
+    {
+        "name": "見て見て和也くん",
+        "code": "KNK/W86-046",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card63970-large.jpg"
+    },
+    {
+        "name": "“目標”に向けて",
+        "code": "KNK/W86-047",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "千鶴「でも これでまた墨ちゃんの“目標”に\n一歩近づいたのねっ！」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card63971-large.jpg"
+    },
+    {
+        "name": "意外とガンコ？",
+        "code": "KNK/W86-048",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card63973-large.jpg"
+    },
+    {
+        "name": "人見知りの“彼女” 墨",
+        "code": "KNK/W86-049",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……あ…",
+        "ability": [
+            "【A】When your other Character's battle opponent becomes REVERSE, choose 1 of your 《かのかり》 Character, during this turn, it gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card63974-large.jpg"
+    },
+    {
+        "name": "水原 千鶴",
+        "code": "KNK/W86-050",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "私でよければ相手するから",
+        "ability": [
+            "【C】During your turn, if you have other 《かのかり》 Character, this card gets +3000 Power.",
+            "【A】【CXCOMBO】[Place 1 《かのかり》 Character from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「お詫びだからっ」 is in your Climax Slot, choose up to 1 《かのかり》 Character from your Waiting Room, return it to Hand, you may pay the cost. If you did, choose 1 《かのかり》 Character or 「あのー… いいかな？」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card63976-large.jpg"
+    },
+    {
+        "name": "皆の“彼女” 千鶴",
+        "code": "KNK/W86-051",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "どうかなっ？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or by 「“君がいい” 千鶴」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, if 「互いの気持ち」 is in your Climax Slot, you may pay the cost. If you did, deal 2 Damage to opponent, during this turn, this card gets +1000 Power, until end of opponent's next turn, this card gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card63978-large.jpg"
+    },
+    {
+        "name": "返却不可な想い 千鶴",
+        "code": "KNK/W86-052",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "和也くん",
+        "ability": [
+            "【A】When a Climax with Gate Trigger Icon is placed into your Climax Slot, choose 1 of your 《かのかり》 Character, during this turn, it gets +1 Soul.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax with Gate Trigger Icon among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card63980-large.jpg"
+    },
+    {
+        "name": "心の穴埋め 千鶴",
+        "code": "KNK/W86-053",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "自分うさぎかよって思ったら\nまた呼んで",
+        "ability": [
+            "【A】［(2)］ When you used this card's 『ASSIST』, you may pay the Cost. If you did, return all cards from your Waiting Room into the Deck, shuffle the Deck afterwards.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card63981-large.jpg"
+    },
+    {
+        "name": "ハッキリさせたいこと 千鶴",
+        "code": "KNK/W86-054",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "あなた私のこと スキ？",
+        "ability": [
+            "【C】During your turn, all your other Character with 「千鶴」 or 「ちづる」 in its name gets +500 Power.",
+            "【C】All your other 《かのかり》 Character gets +1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When your Character Trigger Checks a Climax with Gate Trigger Icon, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card63983-large.jpg"
+    },
+    {
+        "name": "朝の日課 墨",
+        "code": "KNK/W86-055",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "パジャマを着替え",
+        "ability": [
+            "【C】EXPERIENCE If 「人見知りの“彼女” 墨」 is in your Level Slot, this card gets -1 Level in your Hand.",
+            "【A】【CXCOMBO】[(1) Place 1 「日課の散歩」 from your Climax Slot into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 4 《かのかり》 Character or 「恥ずかし乙女」 and show them to opponent, add them to Hand, place the remaining cards into Waiting Room, choose 1 of your Character, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card63984-large.jpg"
+    },
+    {
+        "name": "“君がいい” 千鶴",
+        "code": "KNK/W86-056",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "何よ さっきの…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【A】【CXCOMBO】[Place this card into Waiting Room] When 「互いの気持ち」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 「皆の“彼女” 千鶴」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card63986-large.jpg"
+    },
+    {
+        "name": "超ハイスペック 墨",
+        "code": "KNK/W86-057",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】[Place 2 cards from Hand into Waiting Room] When this card attacks, if you have 2 or more other Character with 「墨」 in its name, you may pay the cost. If you did, place 4 cards from opponent's bottom Deck into Waiting Room, deal X Damage to opponent, during this turn, this card gets +2000 Power. X is equal to the number of Climax among those cards. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card63988-large.jpg"
+    },
+    {
+        "name": "告白バンジージャンプ 千鶴",
+        "code": "KNK/W86-058",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【S】CONCENTRATION ［(1)］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Choose 1 《かのかり》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card63990-large.jpg"
+    },
+    {
+        "name": "メリークリスマス 千鶴",
+        "code": "KNK/W86-059",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "はいっ コレ プレゼント！",
+        "ability": [
+            "【A】[(1) Place 1 《かのかり》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card63991-large.jpg"
+    },
+    {
+        "name": "“一つ聞かせて”ちづる",
+        "code": "KNK/W86-060",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あなたはるかちゃんのこと…\n好き？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets +3000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 「あのー… いいかな？」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card63992-large.jpg"
+    },
+    {
+        "name": "初めてのデート 千鶴",
+        "code": "KNK/W86-061",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "どう…かな？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with Level 1 or lower from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card63993-large.jpg"
+    },
+    {
+        "name": "突然の訪問者 ちづる",
+        "code": "KNK/W86-062",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "出てって！",
+        "ability": [
+            "【A】When this card is being Front Attacked, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)",
+            "【S】[Place this card into Waiting Room] Choose 1 「鉄の心臓 千鶴」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card63994-large.jpg"
+    },
+    {
+        "name": "鉄の心臓 千鶴",
+        "code": "KNK/W86-063",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "なんだか誤解してるみたいなんだけど\n私と和也さんは本当の恋人よ？",
+        "ability": [
+            "【C】During your turn, if you have other 《かのかり》 Character, this card gets +3000 Power.",
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, choose 1 「突然の訪問者 ちづる」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card63995-large.jpg"
+    },
+    {
+        "name": "一歩一歩 墨",
+        "code": "KNK/W86-064",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《かのかり》 Character, during this turn, this card gets +2000 Power.",
+            "【A】[(1) REST 1 of your other STAND Character with 「墨」 in its name] During the turn when this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 Character with 「墨」 in its name or 「恥ずかし乙女」 and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card63996-large.jpg"
+    },
+    {
+        "name": "人見知りを超えている墨",
+        "code": "KNK/W86-065",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card63997-large.jpg"
+    },
+    {
+        "name": "ラッキースケベ 千鶴",
+        "code": "KNK/W86-066",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "え……っ!?",
+        "ability": [
+            "【C】During opponent's turn, if all your Characters are 《かのかり》, this card gets +1 Level and +1500 Power.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《かのかり》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card63998-large.jpg"
+    },
+    {
+        "name": "ボーリング 墨",
+        "code": "KNK/W86-067",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "和也「じゃ 墨ちゃんからだ」",
+        "ability": [
+            "【C】 If your Hand has 5 or more cards, this card gets ＋2000 Power.",
+            "【A】［Place this card into Waiting Room］ When your other 《かのかり》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card63999-large.jpg"
+    },
+    {
+        "name": "ハッピーニューイヤー 千鶴",
+        "code": "KNK/W86-068",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "おばあさん 明けましておめでとうございます\n本年も宜しくお願いします",
+        "ability": [
+            "【C】During your turn, this card gets +2000 Power.",
+            "【A】When this card attacks, choose 1 of your 《かのかり》 Character, during this turn, it gets +1 Level and +1000 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card64000-large.jpg"
+    },
+    {
+        "name": "駅前で待ち合わせ 千鶴",
+        "code": "KNK/W86-069",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "こんにちは\n“レンタル彼女”の水原千鶴です",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with Level 0 or lower from your Waiting Room, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card64001-large.jpg"
+    },
+    {
+        "name": "これを機に 千鶴",
+        "code": "KNK/W86-070",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "私達そういうこともまだですし…っ！",
+        "ability": [
+            "【C】If you have 2 or more other 《かのかり》 Character, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card64002-large.jpg"
+    },
+    {
+        "name": "海と彼女 千鶴",
+        "code": "KNK/W86-071",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "お久しぶりです\n水原千鶴です",
+        "ability": [
+            "【C】If all your Characters are 《かのかり》, this card gets +1000 Power.",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《かのかり》 Character x1000.",
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, choose 1 「麦わら帽子 ちづる」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card64003-large.jpg"
+    },
+    {
+        "name": "あのー… いいかな？",
+        "code": "KNK/W86-072",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はいっ、ありがとうございますっ",
+        "ability": [
+            "If you have 1 or less 《かのかり》 Character, you cannot play this card from Hand.",
+            "If your Memory has 2 or less cards, send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Main Phase, if this card is in Memory, during this turn, this card gains the following Ability. 『【S】RECOLLECTION [Place this card from Memory into Waiting Room] Choose up to 1 「皆の“彼女” 千鶴」 from your Hand, place it into any slot on Stage, during this turn, that Character gets +1000 Power.』"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card64004-large.jpg"
+    },
+    {
+        "name": "今月のNo.１",
+        "code": "KNK/W86-073",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
+        "ability": [
+            "【COUNTER】If you have 5 or more 《かのかり》 Character, choose 1 Character in battle, during this turn, it gains the following Ability. 『【C】This card cannot deal any Damage to player.』",
+            "Choose 1 of your Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card64005-large.jpg"
+    },
+    {
+        "name": "お詫びだからっ",
+        "code": "KNK/W86-074",
+        "rarity": "CR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はいっ",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card64006-large.jpg"
+    },
+    {
+        "name": "日課の散歩",
+        "code": "KNK/W86-075",
+        "rarity": "CR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "実家から連れてきた飼い犬の散歩をし",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card64008-large.jpg"
+    },
+    {
+        "name": "互いの気持ち",
+        "code": "KNK/W86-076",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ばーかっ",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card64010-large.jpg"
+    },
+    {
+        "name": "ボルダリングデート 瑠夏",
+        "code": "KNK/W86-077",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "千鶴さん 一緒にいいですか…",
+        "ability": [
+            "【C】If you have other 《かのかり》 Character, this card gets +1500 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《かのかり》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card64012-large.jpg"
+    },
+    {
+        "name": "“大人なんです” 瑠夏",
+        "code": "KNK/W86-078",
+        "rarity": "RR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "……っ!!",
+        "ability": [
+            "【C】If you have 2 or more other 《かのかり》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「私は覚悟できてますから!!!」 is in your Climax Slot, and you have other 《かのかり》 Character, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 2 《かのかり》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card64014-large.jpg"
+    },
+    {
+        "name": "“お試し”でも 瑠夏",
+        "code": "KNK/W86-079",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "和也君の“彼女”にしてください…っ！",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 『ACCELERATE』, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《かのかり》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card64016-large.jpg"
+    },
+    {
+        "name": "“浮気だーっ!!”瑠夏",
+        "code": "KNK/W86-080",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ちょっと２人で何やってるんですかーっ!?",
+        "ability": [
+            "【C】If you have 2 or more other 《かのかり》 Character, this card gets +1000 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is Level, during this turn, this card gets +6000 Power.』"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card64018-large.jpg"
+    },
+    {
+        "name": "“どうかな…？”瑠夏",
+        "code": "KNK/W86-081",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "私 カレシいるかな？",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you draw 1 card, choose 1 card from your Hand, place it into Waiting Room, choose up to 1 opponent's Character, return it to Hand.",
+            "【A】ACCELERATE [(1) Place 1 《かのかり》 Character from your Waiting Room into bottom Clock] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 opponent's Character, during this turn, it gets -2 Soul."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card64019-large.jpg"
+    },
+    {
+        "name": "“あーん♡”瑠夏",
+        "code": "KNK/W86-082",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "はい",
+        "ability": [
+            "【A】【CXCOMBO】[(2)] This Ability can be activated up to 1 time each turn. At the end of this card's attack, if 「高鳴る鼓動」 is in your Climax Slot, and you have 2 or more other 《かのかり》 Character, you may pay the cost. If you did, choose and perform 1 of the following 2 effects.",
+            "『STAND this card.』",
+            "『Choose up to 3 Character from your Waiting Room, return them to Hand, return all cards from your Waiting Room into Deck, shuffle your Deck afterwards.』"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card64021-large.jpg"
+    },
+    {
+        "name": "“彼女”は私 瑠夏",
+        "code": "KNK/W86-083",
+        "rarity": "R",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "“持久戦”でいきます\n覚悟してください",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[Place this card into Waiting Room] When 「高鳴る鼓動」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 「“あーん♡”瑠夏」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card64023-large.jpg"
+    },
+    {
+        "name": "“むぎゅ――♥”瑠夏",
+        "code": "KNK/W86-084",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "クリスマスも近いですし！",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to bottom Deck.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《かのかり》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card64025-large.jpg"
+    },
+    {
+        "name": "やっと出会えた 瑠夏",
+        "code": "KNK/W86-085",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "…………",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「もう少しなんです」 and show it to opponent, add it to Hand, shuffle your Deck afterwards, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card64026-large.jpg"
+    },
+    {
+        "name": "彼女と彼女 瑠夏",
+        "code": "KNK/W86-086",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あなた “レンタル彼女”ですよね？",
+        "ability": [
+            "【A】ACCELERATE [Place 1 《かのかり》 Character from your Waiting Room into bottom Clock] When you use this card's 『ASSIST』, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 《かのかり》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card64027-large.jpg"
+    },
+    {
+        "name": "どうしてここに!? 瑠夏",
+        "code": "KNK/W86-087",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "サプラーイズ！",
+        "ability": [
+            "【A】[Place 1 《かのかり》 Character from Hand into Waiting Room] When this card attacks, if you have 4 or more other 《かのかり》 Character, you may pay the cost. If you did, during this turn, this card gets +3500 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may draw 1 card.』",
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, choose 1 「友達の“彼女” 瑠夏」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card64028-large.jpg"
+    },
+    {
+        "name": "友達の“彼女” 瑠夏",
+        "code": "KNK/W86-088",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "和也『水原に負けず劣らずの美少女…っ!!』",
+        "ability": [
+            "【C】During opponent's turn, if you have other 《かのかり》 Character, this card gets +3000 Power.",
+            "【A】When this card is placed on Stage from Hand, if you have no other 《かのかり》 Character, place this card into Waiting Room.",
+            "【S】[Place this card into Waiting Room] Choose 1 「どうしてここに!? 瑠夏」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card64029-large.jpg"
+    },
+    {
+        "name": "“ここの部屋が何か？” 瑠夏",
+        "code": "KNK/W86-089",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "和也君 何してるんです？",
+        "ability": [
+            "【C】When you pay cost for 「“あーん♡”瑠夏」's 【A】 effect, you may place 1 Marker from this card into Waiting Room instead of 1 Stock.",
+            "【C】SUPPORT All your 《かのかり》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 《かのかり》 Character from your Waiting Room, place it under this card face-down as Marker."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card64030-large.jpg"
+    },
+    {
+        "name": "“目隠しはそのままです” 瑠夏",
+        "code": "KNK/W86-090",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "こっちです！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《かのかり》 Character, you may choose 1 《かのかり》 Character from your Waiting Room, place it into Stock.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card64031-large.jpg"
+    },
+    {
+        "name": "告白バンジージャンプ 瑠夏",
+        "code": "KNK/W86-091",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "－",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, if there is a Climax in your Climax Slot, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card64032-large.jpg"
+    },
+    {
+        "name": "ハッピーニューイヤー 瑠夏",
+        "code": "KNK/W86-092",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "本日はご一緒させて頂きます\n更科瑠夏と申しますっ",
+        "ability": [
+            "【A】ACCELERATE [Place 1 《かのかり》 Character from your Waiting Room into Clock] At the beginning of opponent's Climax Phase, you may pay the cost. If you did, during this turn, this card gets +2000 Power, gains the following Ability. 『【A】At the beginning of opponent's Attack Phase, you may move this card to an empty slot at Front Row with a Character facing this card.』"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card64033-large.jpg"
+    },
+    {
+        "name": "“そんなの耐えれませんっ!!”瑠夏",
+        "code": "KNK/W86-093",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "おばあさんの前では千鶴さんが“彼女”で\n私はただのお友達だなんて！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card64034-large.jpg"
+    },
+    {
+        "name": "本当の私を 瑠夏",
+        "code": "KNK/W86-094",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "だって本当に好きになって欲しいからっ",
+        "ability": [
+            "【A】ACCELERATE [Place 1 《かのかり》 Character from your Waiting Room into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《かのかり》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.』",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of opponent's Character x1000."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card64035-large.jpg"
+    },
+    {
+        "name": "私の立場 瑠夏",
+        "code": "KNK/W86-095",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "だって私 “彼女”じゃないんですか？",
+        "ability": [
+            "【C】 For each of your other 《かのかり》 Character, this card gets ＋1000 Power.",
+            "【A】［Place 1 「“そんなの耐えれませんっ!!”瑠夏」 from Hand into Waiting Room］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent.（Damage can be cancelled）"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card64036-large.jpg"
+    },
+    {
+        "name": "“持久戦”の一手 瑠夏",
+        "code": "KNK/W86-096",
+        "rarity": "C",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "言ったじゃないですか",
+        "ability": [
+            "【A】When your other 《かのかり》 Character attacks, during this turn, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 《かのかり》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card64037-large.jpg"
+    },
+    {
+        "name": "もう少しなんです",
+        "code": "KNK/W86-097",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハグしてください",
+        "ability": [
+            "If you have 1 or less Character with 「瑠夏」 in its name, you cannot play this card from Hand.",
+            "Place the top card of your Deck into Clock, deal 79 Damage to opponent, search your Deck for up to 2 「“大人なんです” 瑠夏」, place them into separate slot on Stage, shuffle your Deck afterwards, during this turn, those Character gets +1000 Power and +1 Soul. (Damage can be cancelled)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card64038-large.jpg"
+    },
+    {
+        "name": "黙って付いて来てください！",
+        "code": "KNK/W86-098",
+        "rarity": "U",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "行きたい所があるんです！",
+        "ability": [
+            "Opponent chooses 1 Climax from his/her Waiting Room, then return all cards from Waiting Room except for that Climax into Deck, shuffle the Deck afterwards, you choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card64039-large.jpg"
+    },
+    {
+        "name": "私は覚悟できてますから!!!",
+        "code": "KNK/W86-099",
+        "rarity": "CR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "千鶴さんとエッチはできますか？",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card64040-large.jpg"
+    },
+    {
+        "name": "高鳴る鼓動",
+        "code": "KNK/W86-100",
+        "rarity": "CC",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "瑠夏「あ…… あ……」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card64042-large.jpg"
+    },
+    {
+        "name": "たまたま遭遇 麻美",
+        "code": "KNK/W86-101",
+        "rarity": "PR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あ ハロー 和くん",
+        "ability": [
+            "【A】When this card attacks, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, search your Deck for up to 1 《かのかり》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card63903-large.jpg"
+    },
+    {
+        "name": "千鶴の後輩 墨",
+        "code": "KNK/W86-102",
+        "rarity": "PR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If this card is at Front Row, all your 《かのかり》 Character gets +1500 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character on top Deck.』"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card63904-large.jpg"
+    },
+    {
+        "name": "S級彼女 千鶴",
+        "code": "KNK/W86-103",
+        "rarity": "PR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your other Character's battle opponent becomes REVERSE, choose 1 of your 《かのかり》 Character, during this turn, it gets +1000 Power.",
+            "【S】[Place 1 Climax from Hand into Waiting Room, REST 2 of your 《かのかり》 Character] Search your Deck for up to 1 Character with 『CHANGE』 and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《かのかり》",
+            "《ダイアモンド》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card63905-large.jpg"
+    },
+    {
+        "name": "次の作戦 瑠夏",
+        "code": "KNK/W86-104",
+        "rarity": "PR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《かのかり》 Character gets +500 Power.",
+            "【A】When you use 『ACCELERATE』, choose 1 of your Character, during this turn, it gets +500 Power, reveal the top card of your Deck. If that card is Level 0 or lower, place it into Stock. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《かのかり》",
+            "Ribbon 《リボン》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card63906-large.jpg"
+    },
+    {
+        "name": "麻美＆墨＆千鶴＆瑠夏",
+        "code": "KNK/W86-P01",
+        "rarity": "PR",
+        "expansion": "Kanojo, Okarishimasu",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each of your other 《かのかり》 Character at Back Row, this card gets ＋1500 Power.",
+            "【A】 This Ability can be activated up to 1 time each turn. When you use 【S】. during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《かのかり》 Character ×500."
+        ],
+        "attributes": [
+            "《かのかり》"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card63907-large.jpg"
+    },
+    {
+        "name": "0/0 Mami",
+        "code": "KNK/W86-T01",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - Your other character in the Front Row Center Slot gets +500 power.",
+            "CONT - ASSIST +500\r\n"
+        ],
+        "attributes": [
+            "Kanokari"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201216_xw07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Mami",
+        "code": "KNK/W86-T02",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or less Stock, this gets +1500 power."
+        ],
+        "attributes": [
+            "Kanokari"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201216_xw08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ruka",
+        "code": "KNK/W86-T03",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Kanokari> characters, this gets +1000 power.",
+            "AUTO - {CX COMBO} When this card's battle opponnet is Reversed, if you have the Gold Bag CX (T10) in the Climax Area, choose 1 character from your Waiting Room, you may add it to hand"
+        ],
+        "attributes": [
+            "Kanokari",
+            "Ribbon"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201217_ws08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ruka",
+        "code": "KNK/W86-T04",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have 2 or more other <Kanokari> characters, this turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "Kanokari",
+            "Ribbon"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201217_ws09.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Ruka",
+        "code": "KNK/W86-T05",
+        "rarity": "Kanokari/Ribbon",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Kanokari",
+            "Ribbon"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201215_oc07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Ruka",
+        "code": "KNK/W86-T06",
+        "rarity": "Kanokari/Ribbon",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "AUTO - When this is placed on stage from hand, draw 1 card, and discard 1 card."
+        ],
+        "attributes": [
+            "Kanokari",
+            "Ribbon"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201221_ws07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Ruka",
+        "code": "KNK/W86-T07",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "[AUTO] When this card is placed from your hand onto the stage, if you control 4 or more other <Kanokari> characters, choose one <Kanokari> character in your Waiting Room, you may put it into your stock. ",
+            "[AUTO] When this card attacks, during this turn, this card gains +X Power. X is equal to the amount of other <Kanokari> characters x1000."
+        ],
+        "attributes": [
+            "Kanokari",
+            "Ribbon"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20201113173128/td_knk03.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Mami",
+        "code": "KNK/W86-T08",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "[CONT] For each of your other <Kanokari> characters, this card gains +1000 power.\r\n"
+        ],
+        "attributes": [
+            "Kanokari"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20201113173126/td_knk02.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Sumi",
+        "code": "KNK/W86-T09",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "[AUTO] When this card is placed from your hand onto the stage, look at up to 3 cards from the top of your deck, choose one card, add it to your hand, put the rest of the cards in your Waiting Room. ",
+            "[AUTO] When this card becomes Reversed, if you control 2 or more other <Kanokari> characters, if this cards battle opponent is Level 3 or lower, you may put the top card of your opponents Clock into the Waiting Room. If you do, put that character into their clock.\r\n"
+        ],
+        "attributes": [
+            "Kanokari",
+            "Diamond"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20201113173129/td_knk04.png",
+        "community": true
+    },
+    {
+        "name": "Gold Bag CX",
+        "code": "KNK/W86-T10",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T10",
+        "image": "https://i.imgur.com/IWuBrTM.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Kazuya",
+        "code": "KNK/W86-T11",
+        "rarity": "Kanokari",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other {1/0 Chizuru vanilla -T16} get +2000 power.",
+            "AUTO - BOND (1) to 1/0 Chizuru (T16)"
+        ],
+        "attributes": [
+            "Kanokari"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201215_oc06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 \"Chizuru\" ちづる",
+        "code": "KNK/W86-T12",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your Main Phase, look at the top card of your deck, and either put it on top of your deck or into your Waiting Room.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Kanokari",
+            "Diamond"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201223_ws09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kazuya",
+        "code": "KNK/W86-T13",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - {CX COMBO} - [Put one Gate CX (T19) or Gold Bag CX (T10) from your hand into the waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, choose one Gate CX (T19) or Gold Bag CX (T10) in your waiting room, and return it to hand."
+        ],
+        "attributes": [
+            "Kanokari"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_t13.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Chizuru",
+        "code": "KNK/W86-T14",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "[AUTO] When this card is placed from your hand onto the stage, reveal the top card of your deck. If that card is a <Kanokari> character, add it to your hand, choose one card from your hand and put it into your Waiting Room",
+            "[AUTO] [Put one <Kanokari> character from your hand into the Waiting Room] When this card is placed from your hand onto the stage, you may pay the cost. If you do, draw one card."
+        ],
+        "attributes": [
+            "Kanokari",
+            "Diamond"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201218_ws06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Chizuru",
+        "code": "KNK/W86-T15",
+        "rarity": "Kanokari/Diamond",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Kanokari> characters times 500.",
+            "AUTO - When this attacks, choose 1 of your <Kanokari> characters, this turn, it gets 1500 power.\r\n"
+        ],
+        "attributes": [
+            "Kanokari",
+            "Diamond"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201221_ws06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Chizuru",
+        "code": "KNK/W86-T16",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [
+            "Kanokari",
+            "Diamond"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201215_oc05.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Chizuru",
+        "code": "KNK/W86-T17",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card is placed on stage from hand, you may put the top card of your clock into your waiting room.",
+            "AUTO - {CX COMBO} When this card attacks, if you have the Gate CX (T19) in your climax area, you may deal 1 damage to your opponent."
+        ],
+        "attributes": [
+            "Kanokari",
+            "Diamond"
+        ],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_t17.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Event",
+        "code": "KNK/W86-T18",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Event",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Search your deck for up to 1 <Kanokari> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. Send this to Memory."
+        ],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201223_ws10.png",
+        "community": true
+    },
+    {
+        "name": "Gate CX",
+        "code": "KNK/W86-T19",
+        "rarity": "TD",
+        "expansion": "Rent-A-Girlfriend",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "KNK",
+        "release": "W86",
+        "sid": "T19",
+        "image": "https://i.imgur.com/NLQJKz2.png?1",
+        "community": true
+    }
+]

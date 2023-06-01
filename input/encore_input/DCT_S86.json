@@ -1,0 +1,5174 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「\"夢見る人\" ありや」を1枚選び、思い出にしてよい。",
+                    "【自】 記憶 ［このカードを【レスト】する］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがあり、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場の「&#34;夢見る人&#34; ありや」を1枚とこのカードを選び、入れ替え、アンコールステップの始めに、それらのキャラを入れ替える。"
+                ],
+                "name": "神社の娘 ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f802",
+        "sid": "011",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-011",
+        "imagepath": "JP/S86/011.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+                    "【自】 絆／「グータラ美術教師 無弦」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「グータラ美術教師 無弦」を1枚選び、手札に戻す）"
+                ],
+                "name": "聖なる国語教師 茉莉亜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f807",
+        "sid": "012",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-012",
+        "imagepath": "JP/S86/012.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出置場に、「神社の娘 ありや」か「明日の約束 亞希」があるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。』",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+                ],
+                "name": "\"夢見る人\" ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f80c",
+        "sid": "006",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-006",
+        "imagepath": "JP/S86/006.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "生徒会選挙 周一"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f811",
+        "sid": "008",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-008",
+        "imagepath": "JP/S86/008.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "世紀の大発見 花菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f816",
+        "sid": "040",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-040",
+        "imagepath": "JP/S86/040.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "ジェシカ・クレイボーン"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f81b",
+        "sid": "043",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-043",
+        "imagepath": "JP/S86/043.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「サンセットアクション」が置かれた時、前列にこのカードがいて、他のあなたの《ノッカーアップ》のキャラがいるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+                ],
+                "name": "令嬢警官 樹理"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f820",
+        "sid": "034",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-034",
+        "imagepath": "JP/S86/034.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋500。",
+                    "【起】［手札の「れっきとした大人 ジェシカ」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を見て《ノッカーアップ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "\"夢見る人\" ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f825",
+        "sid": "039",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-039",
+        "imagepath": "JP/S86/039.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+                    "【自】 絆／「今日も巡回中 樹理」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「今日も巡回中 樹理」を1枚選び、手札に戻す）"
+                ],
+                "name": "夜の大捜査線 まろん"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f82a",
+        "sid": "032",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-032",
+        "imagepath": "JP/S86/032.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ノッカーアップ》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+                    "【自】［(1) 他のあなたの【スタンド】している《ノッカーアップ》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ノッカーアップ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "ぽん太とお昼寝 葉月"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f82f",
+        "sid": "061",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-061",
+        "imagepath": "JP/S86/061.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラがいるなら、他のあなたの「復讐のため える」すべてに、パワーを＋3000。",
+                    "【自】 絆／「不思議な転校生 える」「運命の夜明け える」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「不思議な転校生 える」か「運命の夜明け える」を1枚選び、手札に戻す）"
+                ],
+                "name": "慣れないお出迎え 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f834",
+        "sid": "086",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-086",
+        "imagepath": "JP/S86/086.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ノッカーアップ》のキャラの枚数×500に等しい。"
+                ],
+                "name": "目覚めし者たち える＆蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f839",
+        "sid": "P04",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P04",
+        "imagepath": "JP/S86/P04.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "仲良しの孔雀さん"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "626ada7828072d69ed60f83e",
+        "sid": "050",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-050",
+        "imagepath": "JP/S86/050.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 この能力は1ターンにつき3回まで発動する。他のあなたの『絆』を持つキャラが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+                    "【起】［このカードを【レスト】する］ あなたは他の自分の『絆』を持つキャラを1枚選び、ストック置場に置く。"
+                ],
+                "name": "深めた絆 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f843",
+        "sid": "080",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-080",
+        "imagepath": "JP/S86/080.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋10000。"
+                ],
+                "name": "目覚めし者たち 龍平＆トリス"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f848",
+        "sid": "P01",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P01",
+        "imagepath": "JP/S86/P01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻し、他の自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "イケイケお嬢様 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f84d",
+        "sid": "T14",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T14",
+        "imagepath": "JP/S86/T14.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 前列にこのカードがいるなら、あなたの《ノッカーアップ》のキャラすべてに、パワーを＋1500。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「らんちぱーてぃ！」が置かれた時、前列にこのカードがいるなら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。",
+                    "【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、他のあなたの《ノッカーアップ》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+                ],
+                "name": "小さなチャンピオン 葉月"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f852",
+        "sid": "063",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "DCT/S86-063",
+        "imagepath": "JP/S86/063.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+                    "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+                ],
+                "name": "魅惑のルージュ 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f857",
+        "sid": "053",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-053",
+        "imagepath": "JP/S86/053.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 応援 このカードの前のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+                ],
+                "name": "ミステリアス転校生 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f85c",
+        "sid": "078",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 7500,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-078",
+        "imagepath": "JP/S86/078.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】［(4) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、他のあなたの《ノッカーアップ》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+                ],
+                "name": "天海 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f861",
+        "sid": "T17",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T17",
+        "imagepath": "JP/S86/T17.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出置場の「明日の約束 亞希」が2枚以上なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。』（ダメージキャンセルは発生する）",
+                    "【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】 記憶 ［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「怒りを胸に」があり、あなたの思い出が3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+                ],
+                "name": "夢見る高校生 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f866",
+        "sid": "079",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-079",
+        "imagepath": "JP/S86/079.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラすべてに、パワーを＋500。",
+                    "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《ノッカーアップ》か《由良島》か《謎》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "孤独な戦士 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f86b",
+        "sid": "104",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-104",
+        "imagepath": "JP/S86/104.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+                ],
+                "name": "伏辺 或斗"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f870",
+        "sid": "T13",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T13",
+        "imagepath": "JP/S86/T13.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】【CXコンボ】 あなたのクライマックス置場に「プリン争奪戦」があるなら、すべての領域にあるこのカードはトリガーアイコンに[STANDBY]を得る。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】［あなたのクライマックス置場の「プリン争奪戦」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札のクライマックスを1枚選び、クライマックス置場に置いてよい。"
+                ],
+                "name": "\"夢見る人\" 龍平"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f875",
+        "sid": "057",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "DCT/S86-057",
+        "imagepath": "JP/S86/057.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの後列の「深めた絆 蘭堂」がいるなら、このカードのパワーを＋2000。",
+                    "【自】 絆／「深めた絆 蘭堂」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「深めた絆 蘭堂」を1枚選び、手札に戻す）"
+                ],
+                "name": "内緒のサンタクロース える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f87a",
+        "sid": "082",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-082",
+        "imagepath": "JP/S86/082.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "目覚めし者たち 愛莉＆玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f87f",
+        "sid": "P02",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P02",
+        "imagepath": "JP/S86/P02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+                    "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+                ],
+                "name": "今日も巡回中 樹理"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f803",
+        "sid": "036",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-036",
+        "imagepath": "JP/S86/036.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 前列にこのカードがいるなら、あなたの、《ノッカーアップ》か《由良島》のキャラすべてに、パワーを＋1500。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、あなたは自分の山札を見て《ノッカーアップ》か《由良島》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "最高のアイドル ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f808",
+        "sid": "002",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-002",
+        "imagepath": "JP/S86/002.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。",
+                    "【自】［手札の《ノッカーアップ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+                ],
+                "name": "あふれ出る母性 茉莉亜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f80d",
+        "sid": "009",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-009",
+        "imagepath": "JP/S86/009.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《ノッカーアップ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+                    "【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを思い出にする。"
+                ],
+                "name": "まだまだ成長期 ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f812",
+        "sid": "026",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-026",
+        "imagepath": "JP/S86/026.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《ノッカーアップ》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+                    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+                ],
+                "name": "伊吹咲 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f883",
+        "sid": "T16",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T16",
+        "imagepath": "JP/S86/T16.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。",
+                    "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+                ],
+                "name": "天然な新米警官 まろん"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f817",
+        "sid": "033",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-033",
+        "imagepath": "JP/S86/033.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出が3枚以上なら、このカードは次の能力を得る。『【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋1000。』",
+                    "【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+                    "【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "気まぐれな保健医 凌久"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f81c",
+        "sid": "013",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-013",
+        "imagepath": "JP/S86/013.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、相手のキャラすべてに、そのターン中、パワーを－1500。",
+                    "このカードをクロック置場に置く。"
+                ],
+                "name": "ドラマチック・ジェントル"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f821",
+        "sid": "019",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "DCT/S86-019",
+        "imagepath": "JP/S86/019.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードのトリガーチェックでトリガーアイコンが[CHOICE]のクライマックスがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+                    "【自】 絆／「歌って踊れる戦巫女 ありや」「神社の娘 ありや」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「歌って踊れる戦巫女 ありや」か「神社の娘 ありや」を1枚選び、手札に戻す）"
+                ],
+                "name": "冷静沈着な生徒会長 周一"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f826",
+        "sid": "015",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-015",
+        "imagepath": "JP/S86/015.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+                    "【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《ノッカーアップ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "熱き高校生ファイター 龍平"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f82b",
+        "sid": "051",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-051",
+        "imagepath": "JP/S86/051.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《ノッカーアップ》か《由良島》か《謎》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+                    "【自】 あなたの舞台のキャラが思い出置場のキャラと入れ替わった時、このカードの下のマーカー1枚を、ストック置場に置いてよい。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+                ],
+                "name": "気付いた感情 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f830",
+        "sid": "076",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-076",
+        "imagepath": "JP/S86/076.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
+                    "【自】 このカードがアタックした時、クライマックス置場にクライマックスがあるなら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+                ],
+                "name": "海神の力 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f835",
+        "sid": "091",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-091",
+        "imagepath": "JP/S86/091.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出置場に「明日の約束 亞希」があるなら、このカードのパワーを＋4500。",
+                    "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラの枚数×1000に等しい。"
+                ],
+                "name": "夢見る力 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7828072d69ed60f83a",
+        "sid": "P07",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P07",
+        "imagepath": "JP/S86/P07.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 他のあなたのカード名に「玲菜」を含むキャラがいるなら、このカードのパワーを＋7500。",
+                    "【自】 絆／「友達思い 玲菜」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「友達思い 玲菜」を1枚選び、手札に戻す）"
+                ],
+                "name": "女王様的魅力 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7828072d69ed60f83f",
+        "sid": "045",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-045",
+        "imagepath": "JP/S86/045.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ノッカーアップ》のキャラの枚数×1000に等しい。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻し、他の自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "冷静な軍師 ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f844",
+        "sid": "P06",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P06",
+        "imagepath": "JP/S86/P06.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "最強タッグ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "626ada7928072d69ed60f849",
+        "sid": "048",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "DCT/S86-048",
+        "imagepath": "JP/S86/048.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "たこ焼きパーティ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "626ada7928072d69ed60f84e",
+        "sid": "073",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "DCT/S86-073",
+        "imagepath": "JP/S86/073.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「海神の力 える」を1枚選び、思い出にしてよい。",
+                    "【自】 記憶 ［このカードを【レスト】する］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがあり、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場の「海神の力 える」を1枚とこのカードを選び、入れ替え、アンコールステップの始めに、それらのキャラを入れ替える。"
+                ],
+                "name": "不思議な転校生 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f853",
+        "sid": "088",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-088",
+        "imagepath": "JP/S86/088.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが2枚以上なら、他のあなたの、「登校の約束 ありや」と「歌って踊れる戦巫女 ありや」すべてに、パワーを＋1000。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の「無双の御曹司 周一」を1枚選び、そのターン中、ソウルを＋1。"
+                ],
+                "name": "\"夢見る人\" 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f858",
+        "sid": "093",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-093",
+        "imagepath": "JP/S86/093.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの「愛されし聖母 茉莉亜」すべてに、パワーを＋2000。",
+                    "【自】 絆／「愛されし聖母 茉莉亜」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「愛されし聖母 茉莉亜」を1枚選び、手札に戻す）"
+                ],
+                "name": "三浦 無弦"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f85d",
+        "sid": "T02",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T02",
+        "imagepath": "JP/S86/T02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "サンセットアクション"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "626ada7a28072d69ed60f862",
+        "sid": "049",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-049",
+        "imagepath": "JP/S86/049.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋500。",
+                    "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《ノッカーアップ》のキャラか「カフェで自撮り」を1枚選び、手札に戻す。「カフェで自撮り」を手札に戻したなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "ポジティブインフルエンサー 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f867",
+        "sid": "059",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-059",
+        "imagepath": "JP/S86/059.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+                    "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "見た目は子供 ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f86c",
+        "sid": "T03",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T03",
+        "imagepath": "JP/S86/T03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ノッカーアップ》のキャラの枚数×1000に等しい。",
+                    "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+                ],
+                "name": "目覚めし者たち 或斗＆ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f871",
+        "sid": "P03",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P03",
+        "imagepath": "JP/S86/P03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《ノッカーアップ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《ノッカーアップ》のキャラの枚数に等しい。"
+                ],
+                "name": "カフェで自撮り"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f876",
+        "sid": "T18",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T18",
+        "imagepath": "JP/S86/T18.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+                    "【自】 このカードが舞台から控え室に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「明日の約束 亞希」を1枚選び、思い出にしてよい。"
+                ],
+                "name": "優しき美術部員 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f87b",
+        "sid": "092",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-092",
+        "imagepath": "JP/S86/092.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
+                ],
+                "name": "クールビューティー 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f880",
+        "sid": "102",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-102",
+        "imagepath": "JP/S86/102.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "ありやとお手伝い隊 ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f804",
+        "sid": "003",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-003",
+        "imagepath": "JP/S86/003.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "戦場だってステージ ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f809",
+        "sid": "007",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "DCT/S86-007",
+        "imagepath": "JP/S86/007.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「サンセットアクション」があり、あなたの思い出が3枚以上なら、次の行動を行う。『あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、相手に3ダメージを与え、そうでないなら、相手に1ダメージを与える。』（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+                ],
+                "name": "\"夢見る人\" 花菜＆まろん＆樹理"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f80e",
+        "sid": "031",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "DCT/S86-031",
+        "imagepath": "JP/S86/031.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ノッカーアップ》のキャラの枚数に等しい。"
+                ],
+                "name": "全身全霊"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f813",
+        "sid": "020",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "DCT/S86-020",
+        "imagepath": "JP/S86/020.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、他のあなたの《ノッカーアップ》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「仲良しの孔雀さん」があり、他のあなたの《ノッカーアップ》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【自】 このカードのアタックの終わりに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+                ],
+                "name": "魅惑のルージュ 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f818",
+        "sid": "035",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-035",
+        "imagepath": "JP/S86/035.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ノッカーアップ》のキャラの枚数×500に等しい。",
+                    "【自】 絆／「\"夢見る人\" 玲菜」 ［あなたの控え室の《ノッカーアップ》のキャラを1枚クロック置場の下に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"夢見る人\" 玲菜」を1枚選び、手札に戻す）"
+                ],
+                "name": "準備はまかせて 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f81d",
+        "sid": "038",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-038",
+        "imagepath": "JP/S86/038.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+                ],
+                "name": "天文台の天才エンジニア 花菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f822",
+        "sid": "029",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-029",
+        "imagepath": "JP/S86/029.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "ようこそ楽園へ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "626ada7828072d69ed60f827",
+        "sid": "022",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-022",
+        "imagepath": "JP/S86/022.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ノッカーアップ》のキャラの枚数に等しい。",
+                    "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』"
+                ],
+                "name": "\"夢見る人\" 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7828072d69ed60f82c",
+        "sid": "037",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "DCT/S86-037",
+        "imagepath": "JP/S86/037.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "カリスマノッカーアップ 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f831",
+        "sid": "066",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-066",
+        "imagepath": "JP/S86/066.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》のキャラすべてに、パワーを＋500。"
+                ],
+                "name": "本当に大切なもの ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f836",
+        "sid": "101",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-101",
+        "imagepath": "JP/S86/101.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "道はただ延々と"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "626ada7828072d69ed60f83b",
+        "sid": "T10",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T10",
+        "imagepath": "JP/S86/T10.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《ノッカーアップ》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ノッカーアップ》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
+                ],
+                "name": "インラインスケート 或斗"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f840",
+        "sid": "060",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-060",
+        "imagepath": "JP/S86/060.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「カリスマノッカーアップ 玲菜」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
+                    "【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋4000。"
+                ],
+                "name": "若き獅子王 龍平"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f845",
+        "sid": "070",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "DCT/S86-070",
+        "imagepath": "JP/S86/070.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ノッカーアップ》のキャラの枚数×1000に等しい。",
+                    "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+                ],
+                "name": "目覚めし者たち 或斗＆ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f84a",
+        "sid": "P03S",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P03S",
+        "imagepath": "JP/S86/P03S.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「ぽん太とお昼寝 葉月」すべてに、《お菓子》を与え、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、そのターン中、このカードのパワーを＋1000。』",
+                    "【自】 絆／「ぽん太とお昼寝 葉月」 ［あなたの控え室の《ノッカーアップ》のキャラを1枚クロック置場の下に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ぽん太とお昼寝 葉月」を1枚選び、手札に戻す）"
+                ],
+                "name": "閉店後 瑛士"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f84f",
+        "sid": "058",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-058",
+        "imagepath": "JP/S86/058.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+                ],
+                "name": "正義の鉄拳 龍平"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f854",
+        "sid": "068",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-068",
+        "imagepath": "JP/S86/068.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「道はただ延々と」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「登校の約束 ありや」を1枚まで選び、このカードがいた枠に置く。"
+                ],
+                "name": "橙田 ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f859",
+        "sid": "T07",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T07",
+        "imagepath": "JP/S86/T07.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
+                    "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《ノッカーアップ》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+                ],
+                "name": "休憩タイム ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f85e",
+        "sid": "044",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-044",
+        "imagepath": "JP/S86/044.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《ノッカーアップ》のキャラの枚数に等しい。",
+                    "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+                ],
+                "name": "愛されギャル 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f863",
+        "sid": "069",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-069",
+        "imagepath": "JP/S86/069.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「友情の萌芽」があり、他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクライマックス置場のクライマックスを1枚まで選び、控え室に置き、自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』『あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。』"
+                ],
+                "name": "運命の夜明け える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f868",
+        "sid": "089",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-089",
+        "imagepath": "JP/S86/089.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「夢見る高校生 蘭堂」を1枚選び、思い出にしてよい。",
+                    "【自】【CXコンボ】 記憶 ［このカードを【レスト】する］ あなたのアタックフェイズの始めに、あなたのクライマックス置場に「怒りを胸に」があり、前列にこのカードがいて、他のあなたの《ノッカーアップ》のキャラがいて、あなたの思い出置場に「明日の約束 亞希」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場の「夢見る高校生 蘭堂」を1枚とこのカードを選び、入れ替え、アンコールステップの始めに、それらのキャラを入れ替える。"
+                ],
+                "name": "虹がかかるひととき 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f86d",
+        "sid": "084",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-084",
+        "imagepath": "JP/S86/084.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《ノッカーアップ》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
+                    "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+                ],
+                "name": "織田 龍平"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f872",
+        "sid": "T08",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T08",
+        "imagepath": "JP/S86/T08.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+                    "【自】 絆／「正義の鉄拳 龍平」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「正義の鉄拳 龍平」を1枚選び、手札に戻す）"
+                ],
+                "name": "\"夢見る人\" 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f877",
+        "sid": "067",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-067",
+        "imagepath": "JP/S86/067.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの後列の《ノッカーアップ》のキャラ1枚につき、このカードのパワーを＋2000。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "謎のバーマスター 瑛士"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f87c",
+        "sid": "062",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "DCT/S86-062",
+        "imagepath": "JP/S86/062.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの前列の中央の枠の《ノッカーアップ》のキャラに、パワーを＋1000。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+                ],
+                "name": "優しいギャル 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f881",
+        "sid": "T01",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T01",
+        "imagepath": "JP/S86/T01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+                    "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下の、《ノッカーアップ》か《由良島》のキャラを1枚選び、舞台の好きな枠に置き、ターンの終わりに、そのキャラを思い出にする。"
+                ],
+                "name": "無双の御曹司 周一"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f801",
+        "sid": "004",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-004",
+        "imagepath": "JP/S86/004.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "星が繋ぐ絆"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "626ada7728072d69ed60f806",
+        "sid": "021",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "DCT/S86-021",
+        "imagepath": "JP/S86/021.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ノッカーアップ》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+                ],
+                "name": "賑やかなのも悪くない ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f80b",
+        "sid": "041",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-041",
+        "imagepath": "JP/S86/041.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+                    "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+                ],
+                "name": "決意のために ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f810",
+        "sid": "005",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-005",
+        "imagepath": "JP/S86/005.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "剣戟"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "_id": "626ada7728072d69ed60f815",
+        "sid": "023",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-023",
+        "imagepath": "JP/S86/023.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 記憶 あなたの思い出置場の、《ノッカーアップ》か《由良島》のキャラが2枚以上なら、このカードのパワーを＋3500し、このカードは『【自】 アンコール ［手札の、《ノッカーアップ》か《由良島》のキャラを1枚控え室に置く］』を得る。",
+                    "【自】【CXコンボ】［あなたのクライマックス置場の「剣戟」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ノッカーアップ》か《由良島》のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "孤高の騎士 周一"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f81a",
+        "sid": "018",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "DCT/S86-018",
+        "imagepath": "JP/S86/018.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+                    "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+                ],
+                "name": "本当の強さ 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f81f",
+        "sid": "024",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-024",
+        "imagepath": "JP/S86/024.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《ノッカーアップ》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
+                    "【自】 このカードがアタックした時、あなたは他の自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "吹っ切れたお嬢様 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f824",
+        "sid": "027",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-027",
+        "imagepath": "JP/S86/027.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の手札のクライマックスを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
+                ],
+                "name": "極楽宝船"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f829",
+        "sid": "046",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "DCT/S86-046",
+        "imagepath": "JP/S86/046.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の《ノッカーアップ》のキャラを1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。",
+                    "【永】 記憶 思い出置場にこのカードがあるなら、あなたの《ノッカーアップ》のキャラすべてに、パワーを＋1000。"
+                ],
+                "name": "あいあむうぃなー！"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f82e",
+        "sid": "071",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "DCT/S86-071",
+        "imagepath": "JP/S86/071.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。"
+                ],
+                "name": "馳せる想い"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f833",
+        "sid": "096",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 4,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "DCT/S86-096",
+        "imagepath": "JP/S86/096.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「踊る絵心」があり、他のあなたの《ノッカーアップ》のキャラがいるなら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の《ノッカーアップ》のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "古堅 蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f838",
+        "sid": "T15",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T15",
+        "imagepath": "JP/S86/T15.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「ジェシカ・クレイボーン」すべてに、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+                    "【起】［あなたの《ノッカーアップ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+                ],
+                "name": "ガジェット少年 或斗"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f83d",
+        "sid": "065",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-065",
+        "imagepath": "JP/S86/065.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+                    "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+                ],
+                "name": "らんちぱーてぃ！"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "626ada7828072d69ed60f842",
+        "sid": "075",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-075",
+        "imagepath": "JP/S86/075.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+                ],
+                "name": "恋のライバルでも"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "626ada7928072d69ed60f847",
+        "sid": "100",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-100",
+        "imagepath": "JP/S86/100.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "復讐のため える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f84c",
+        "sid": "095",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "DCT/S86-095",
+        "imagepath": "JP/S86/095.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "踊る絵心"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "626ada7928072d69ed60f851",
+        "sid": "T19",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T19",
+        "imagepath": "JP/S86/T19.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ノッカーアップ》か《由良島》か《謎》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "ミステリアスメイド える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f856",
+        "sid": "083",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-083",
+        "imagepath": "JP/S86/083.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "目覚めし者たち 愛莉＆玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f85b",
+        "sid": "P02S",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P02S",
+        "imagepath": "JP/S86/P02S.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+                    "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+                ],
+                "name": "穏やかな笑み 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f860",
+        "sid": "103",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-103",
+        "imagepath": "JP/S86/103.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ノッカーアップ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+                ],
+                "name": "照らされた鮮血 える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f865",
+        "sid": "T12",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T12",
+        "imagepath": "JP/S86/T12.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "謎"
+                ],
+                "ability": [
+                    "【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［(2) このカードを【レスト】する］ あなたは自分の思い出置場の「夢見る高校生 蘭堂」を1枚選び、舞台の好きな枠に置く。』",
+                    "【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋500。",
+                    "【自】 相手のアタックフェイズの始めに、あなたは自分の、「虹がかかるひととき 蘭堂」か「不思議な転校生 える」か「神社の娘 ありや」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+                ],
+                "name": "神の使い トリス"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f86a",
+        "sid": "094",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-094",
+        "imagepath": "JP/S86/094.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "友情の萌芽"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "626ada7a28072d69ed60f86f",
+        "sid": "099",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-099",
+        "imagepath": "JP/S86/099.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "次の3つの効果のうちあなたが選んだ1つを行う。",
+                    "『あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
+                    "『あなたのキャラすべてに、そのターン中、ソウルを＋1。』",
+                    "『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』",
+                    ""
+                ],
+                "name": "夢をお届け！"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f874",
+        "sid": "047",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "DCT/S86-047",
+        "imagepath": "JP/S86/047.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "次の2つの効果を好きな順番で1回ずつ行う。",
+                    "『あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。』",
+                    "『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "オトナの本気"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f879",
+        "sid": "072",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 3,
+        "cost": 6,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "DCT/S86-072",
+        "imagepath": "JP/S86/072.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "友と並び立つ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f87e",
+        "sid": "097",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "DCT/S86-097",
+        "imagepath": "JP/S86/097.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《ノッカーアップ》のキャラがいるなら、このカードのパワーを＋3000。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "毛利 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f884",
+        "sid": "T06",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T06",
+        "imagepath": "JP/S86/T06.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "特徴なし"
+                ],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、ソウルを＋2。"
+                ],
+                "name": "戦いの決意"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f885",
+        "sid": "T11",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T11",
+        "imagepath": "JP/S86/T11.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋2000。",
+                    "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「星が繋ぐ絆」があり、他のあなたの、《ノッカーアップ》か《由良島》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《ノッカーアップ》か《由良島》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "歌って踊れる戦巫女 ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f800",
+        "sid": "001",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-001",
+        "imagepath": "JP/S86/001.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「グータラ美術教師 無弦」すべてに、パワーを＋500し、『【自】 アンコール ［手札の《ノッカーアップ》のキャラを1枚控え室に置く］』を与える。",
+                    "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ノッカーアップ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "診察中 凌久"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f805",
+        "sid": "010",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-010",
+        "imagepath": "JP/S86/010.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "思い出の場所 無弦"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f80a",
+        "sid": "016",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-016",
+        "imagepath": "JP/S86/016.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+                    "【自】【CXコンボ】 記憶 ［(4) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。あなたの前列の中央の枠のキャラのアタックの終わりに、クライマックス置場に「最強タッグ」があり、前列にこのカードがいて、あなたの思い出置場の《ノッカーアップ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、次の行動を3回行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "れっきとした大人 ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f80f",
+        "sid": "025",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-025",
+        "imagepath": "JP/S86/025.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+                    "【起】［手札の「魅惑のルージュ 愛莉」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "覚醒 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f814",
+        "sid": "030",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-030",
+        "imagepath": "JP/S86/030.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+                    "【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "賑やかなお茶会 愛莉"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7728072d69ed60f819",
+        "sid": "028",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-028",
+        "imagepath": "JP/S86/028.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 他のあなたの後列の《ノッカーアップ》のキャラ1枚につき、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ようこそ楽園へ」があるなら、あなたは自分の山札の上から6枚を公開し、その山札をシャッフルし、相手にＸダメージを与える。Ｘはそれらのカードの『絆』を持つカードの枚数に等しい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+                ],
+                "name": "グータラ美術教師 無弦"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f81e",
+        "sid": "014",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "DCT/S86-014",
+        "imagepath": "JP/S86/014.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《ノッカーアップ》か《由良島》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+                ],
+                "name": "気合い十分！ ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7728072d69ed60f823",
+        "sid": "017",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-017",
+        "imagepath": "JP/S86/017.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「プリン争奪戦」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+                    ""
+                ],
+                "name": "天才プロゲーマー 或斗"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f828",
+        "sid": "056",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-056",
+        "imagepath": "JP/S86/056.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、《ノッカーアップ》か《由良島》のキャラすべてに、パワーを＋500。",
+                    "【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の、「夢見る高校生 蘭堂」か「虹がかかるひととき 蘭堂」か「古堅 蘭堂」を1枚選び、手札に戻す。"
+                ],
+                "name": "明日の約束 亞希"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f82d",
+        "sid": "081",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-081",
+        "imagepath": "JP/S86/081.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋10000。"
+                ],
+                "name": "目覚めし者たち 龍平＆トリス"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7828072d69ed60f832",
+        "sid": "P01S",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P01S",
+        "imagepath": "JP/S86/P01S.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "愛されし聖母 茉莉亜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f837",
+        "sid": "T05",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T05",
+        "imagepath": "JP/S86/T05.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "渋谷"
+                ],
+                "ability": [
+                    "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+                    "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+                ],
+                "name": "ランニング中 龍平"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7828072d69ed60f83c",
+        "sid": "055",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-055",
+        "imagepath": "JP/S86/055.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードがアタックした時、あなたは他の自分の、《ノッカーアップ》か《由良島》か《謎》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラの枚数×500に等しい。"
+                ],
+                "name": "\"夢見る人\" える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7828072d69ed60f841",
+        "sid": "090",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-090",
+        "imagepath": "JP/S86/090.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「恋のライバルでも」が置かれた時、前列にこのカードがいて、他のあなたの《ノッカーアップ》のキャラがいるなら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 このカードは相手の効果に選ばれない。』『【自】 このカードがフロントアタックされた時、相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "恋する少女 凛"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f846",
+        "sid": "085",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "DCT/S86-085",
+        "imagepath": "JP/S86/085.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「道はただ延々と」があり、他のあなたの《ノッカーアップ》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に2ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "登校の約束 ありや"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f84b",
+        "sid": "T09",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T09",
+        "imagepath": "JP/S86/T09.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
+                ],
+                "name": "大寝屋 周一"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f850",
+        "sid": "T04",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "DCT/S86-T04",
+        "imagepath": "JP/S86/T04.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "怒りを胸に"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "626ada7928072d69ed60f855",
+        "sid": "098",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "DCT/S86-098",
+        "imagepath": "JP/S86/098.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 あなたのターン中、他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+                ],
+                "name": "選ばれた者の使命 蘭堂＆える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7928072d69ed60f85a",
+        "sid": "P05",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P05",
+        "imagepath": "JP/S86/P05.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+                    "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "電光石火 或斗"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7928072d69ed60f85f",
+        "sid": "054",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "DCT/S86-054",
+        "imagepath": "JP/S86/054.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+                ],
+                "name": "楽勝 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f864",
+        "sid": "064",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "DCT/S86-064",
+        "imagepath": "JP/S86/064.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+                    "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+                ],
+                "name": "プリン争奪戦"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "626ada7a28072d69ed60f869",
+        "sid": "074",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "DCT/S86-074",
+        "imagepath": "JP/S86/074.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 あなたのターン中、他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+                ],
+                "name": "選ばれた者の使命 蘭堂＆える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "626ada7a28072d69ed60f86e",
+        "sid": "P05S",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P05S",
+        "imagepath": "JP/S86/P05S.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "イタズラしちゃうぞ！ ジェシカ"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f873",
+        "sid": "042",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "DCT/S86-042",
+        "imagepath": "JP/S86/042.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「たこ焼きパーティ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻すかストック置場に置いてよい。ストック置場に置いたなら、そのターン中、このカードのパワーを＋2000。"
+                ],
+                "name": "友達思い 玲菜"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f878",
+        "sid": "052",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-052",
+        "imagepath": "JP/S86/052.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
+                    "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "慣れないお出迎え える"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f87d",
+        "sid": "077",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "DCT/S86-077",
+        "imagepath": "JP/S86/077.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ノッカーアップ》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+                    "【自】 絆／「古堅 蘭堂」 ［他のあなたの舞台の《ノッカーアップ》のキャラを1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「古堅 蘭堂」を1枚選び、手札に戻す）"
+                ],
+                "name": "下校の時間 凛"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f882",
+        "sid": "087",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "DCT/S86-087",
+        "imagepath": "JP/S86/087.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ノッカーアップ",
+                    "由良島"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の《ノッカーアップ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ノッカーアップ》のキャラの枚数×500に等しい。"
+                ],
+                "name": "目覚めし者たち える＆蘭堂"
+            }
+        },
+        "series": "626ada531e41dfffbd70f033",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "626ada7a28072d69ed60f886",
+        "sid": "P04S",
+        "set": "DCT",
+        "side": "S",
+        "release": "86",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "DCT/S86-P04S",
+        "imagepath": "JP/S86/P04S.gif",
+        "__v": 0
+    }
+]

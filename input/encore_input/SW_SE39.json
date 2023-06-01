@@ -1,0 +1,1162 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ローグ",
+                    "ワン"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+                    "【自】［あなたのストックの上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、黄か《ローグ・ワン》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "ジン・アーソ＆キャシアン・アンドー＆K-2SO"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5bb",
+        "sid": "001",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-001",
+        "imagepath": "JP/SE39/001.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "新たなる希望"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの、黄か《新たなる希望》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+                    "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "\"激情を秘めた無頼漢\"ハン・ソロ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5c1",
+        "sid": "002",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-002",
+        "imagepath": "JP/SE39/002.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "最後のジェダイ"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。"
+                ],
+                "name": "\"勇気あるリーダー\"ポー・ダメロン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5c7",
+        "sid": "003",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-003",
+        "imagepath": "JP/SE39/003.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "最後のジェダイ"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Lightsaber」を1枚選び、手札に戻す。"
+                ],
+                "name": "\"レジスタンス\"フィン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5cd",
+        "sid": "004",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-004",
+        "imagepath": "JP/SE39/004.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ジェダイの帰還"
+                ],
+                "ability": [
+                    "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
+                ],
+                "name": "\"伝説のウーキーの戦士\"チューバッカ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5d3",
+        "sid": "005",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-005",
+        "imagepath": "JP/SE39/005.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ジェダイの帰還"
+                ],
+                "ability": [
+                    "【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+                    "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+                    "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+                ],
+                "name": "\"いつも傍に\"C-3PO＆R2-D2"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5d9",
+        "sid": "006",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-006",
+        "imagepath": "JP/SE39/006.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "帝国の逆襲"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「\"ならず者\"ハン・ソロ」がいるなら、このカードのパワーを＋4000。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "\"強気な指導者\"レイア"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5df",
+        "sid": "007",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-007",
+        "imagepath": "JP/SE39/007.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ジェダイの帰還"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】 絆／「\"極秘任務\"レイア」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"極秘任務\"レイア」を1枚選び、手札に戻す）",
+                    "【起】［このカードを【レスト】する］ あなたは自分の「\"極秘任務\"レイア」を1枚選び、そのターン中、パワーを＋2500。"
+                ],
+                "name": "\"反乱同盟軍将軍\"ハン・ソロ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5e5",
+        "sid": "008",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-008",
+        "imagepath": "JP/SE39/008.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ジェダイの帰還"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、緑か《ジェダイの帰還》のキャラすべてに、パワーを＋500。",
+                    "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+                ],
+                "name": "\"タトゥイーンの犯罪王\"ジャバ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3e131d39519c1ed5eb",
+        "sid": "009",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-009",
+        "imagepath": "JP/SE39/009.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ファントム",
+                    "メナス"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの、赤か《ファントム・メナス》のキャラがいるなら、このカードのパワーを＋3000。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "\"卓越した戦闘能力\"ダース・モール"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed5f1",
+        "sid": "010",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-010",
+        "imagepath": "JP/SE39/010.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "スカイウォーカーの夜明け"
+                ],
+                "ability": [
+                    "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「レイ」か「レイア」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "\"スカイウォーカーの末裔\"カイロ・レン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed5f7",
+        "sid": "011",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-011",
+        "imagepath": "JP/SE39/011.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ジェダイの帰還"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、クライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "\"究極の悪\"ダース・ベイダー"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed5fd",
+        "sid": "012",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-012",
+        "imagepath": "JP/SE39/012.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "クローンの攻撃"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】 あなたのクライマックス置場に「Attack of the Clones」が置かれた時、他のあなたのキャラが3枚以上なら、そのターン中、このカードは次の2つの能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』『【自】 このカードのアタックの終わりに、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。』（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "\"選ばれし者\"アナキン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed603",
+        "sid": "013",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-013",
+        "imagepath": "JP/SE39/013.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "シスの復讐"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「スカウト・トルーパー」すべてに、パワーを＋1000。",
+                    "【永】 応援 このカードの前のあなたの、赤か《シスの復讐》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【起】［このカードを【レスト】する］ あなたは自分のカード名に「トルーパー」を含むキャラを1枚選び、ストック置場に置く。"
+                ],
+                "name": "\"帝国の指揮官\"ダース・ベイダー"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed609",
+        "sid": "014",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-014",
+        "imagepath": "JP/SE39/014.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "シスの復讐"
+                ],
+                "ability": [
+                    "【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】［(3) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から5枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+                ],
+                "name": "\"力への渇望\"アナキン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed60f",
+        "sid": "015",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "N",
+        "cardcode": "SW/SE39-015",
+        "imagepath": "JP/SE39/015.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "Attack of the Clones"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed615",
+        "sid": "016",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "N",
+        "cardcode": "SW/SE39-016",
+        "imagepath": "JP/SE39/016.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "シスの復讐"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。",
+                    "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "\"グランド・マスター\"ヨーダ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed61b",
+        "sid": "017",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-017",
+        "imagepath": "JP/SE39/017.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "フォースの覚醒"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "\"強い忠誠心\"BB-8"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed621",
+        "sid": "018",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-018",
+        "imagepath": "JP/SE39/018.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "帝国の逆襲"
+                ],
+                "ability": [
+                    "【永】 記憶 思い出置場にこのカードがあるなら、あなたの「\"夢を追う若者\"ルーク」すべてに、パワーを＋500。",
+                    "【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「\"夢を追う若者\"ルーク」を1枚選び、手札に戻す。"
+                ],
+                "name": "\"隠遁者\"ヨーダ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed627",
+        "sid": "019",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-019",
+        "imagepath": "JP/SE39/019.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "最後のジェダイ"
+                ],
+                "ability": [
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+                    "【起】［あなたの、青か《最後のジェダイ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+                ],
+                "name": "\"フォースの繋がり\"レイ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed62d",
+        "sid": "020",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-020",
+        "imagepath": "JP/SE39/020.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ファントム",
+                    "メナス"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの、青かカード名に「アナキン」を含むキャラ1枚につき、このカードのパワーを＋1000。"
+                ],
+                "name": "\"生けるフォース\"クワイ=ガン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed633",
+        "sid": "021",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-021",
+        "imagepath": "JP/SE39/021.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ジェダイの帰還"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の、青か《ジェダイの帰還》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、青か《ジェダイの帰還》のキャラの枚数×500に等しい。",
+                    "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［手札のクライマックスを1枚控え室に置く］ このカードのトリガーチェックでクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、青か《ジェダイの帰還》のキャラを1枚選び、手札に戻す。』"
+                ],
+                "name": "\"真のジェダイ\"ルーク"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed639",
+        "sid": "022",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-022",
+        "imagepath": "JP/SE39/022.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "スカイウォーカーの夜明け"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、他のあなたの、青か《スカイウォーカーの夜明け》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+                ],
+                "name": "レイ・スカイウォーカー"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed63f",
+        "sid": "023",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-023",
+        "imagepath": "JP/SE39/023.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "クローンの攻撃"
+                ],
+                "ability": [
+                    "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+                    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+                ],
+                "name": "\"ソレスの熟練者\"オビ=ワン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed645",
+        "sid": "024",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-024",
+        "imagepath": "JP/SE39/024.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "最後のジェダイ"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+                    "【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "\"生ける神話\"ルーク"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed3f131d39519c1ed64b",
+        "sid": "025",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "N",
+        "cardcode": "SW/SE39-025",
+        "imagepath": "JP/SE39/025.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "ローグ",
+                    "ワン"
+                ],
+                "ability": [
+                    "【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。",
+                    "【永】 他のあなたの、青か《ローグ・ワン》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、青か《ローグ・ワン》のキャラを1枚控え室に置く］』を得る。"
+                ],
+                "name": "チアルート＆ベイズ"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed40131d39519c1ed651",
+        "sid": "026",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 2,
+        "power": 7000,
+        "soul": 2,
+        "rarity": "N",
+        "cardcode": "SW/SE39-026",
+        "imagepath": "JP/SE39/026.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "新たなる希望"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 他のあなたの、青か《新たなる希望》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+                ],
+                "name": "\"ジェダイへの決意\"ルーク"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed40131d39519c1ed657",
+        "sid": "027",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "N",
+        "cardcode": "SW/SE39-027",
+        "imagepath": "JP/SE39/027.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "シスの復讐"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+                    "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「Duel on Mustafar」があるなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行い、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "\"伝説のジェダイ\"オビ=ワン"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "armycount": 4,
+        "_id": "63efed40131d39519c1ed65d",
+        "sid": "028",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "N",
+        "cardcode": "SW/SE39-028",
+        "imagepath": "JP/SE39/028.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の青のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "Lightsaber"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [],
+        "armycount": 4,
+        "_id": "63efed40131d39519c1ed663",
+        "sid": "029",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "N",
+        "cardcode": "SW/SE39-029",
+        "imagepath": "JP/SE39/029.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "Duel on Mustafar"
+            }
+        },
+        "series": "63efed3e131d39519c1ed5b7",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "armycount": 4,
+        "_id": "63efed40131d39519c1ed669",
+        "sid": "030",
+        "set": "SW",
+        "side": "S",
+        "release": "E39",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "N",
+        "cardcode": "SW/SE39-030",
+        "imagepath": "JP/SE39/030.gif",
+        "__v": 0
+    }
+]

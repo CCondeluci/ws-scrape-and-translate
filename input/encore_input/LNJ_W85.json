@@ -1,0 +1,4663 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】RECOLLECTION If 「ミルキーハニー♡ 中須 かすみ」 is in your Memory, this card in your Hand gains all your card's name that has 「かすみ」 in its name on Stage.",
+                    "【A】When this card becomes REVERSE, if your Memory has 2 or less cards, you may send this card to Memory.",
+                    "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "ミルキーハニー♡ 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924357",
+        "sid": "005",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-005",
+        "imagepath": "JP/W85/005.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 「繋がるメロディー 天王寺 璃奈」 from your Waiting Room, send it to Memory.",
+                    "【S】[(2) Send this STANDING card to Memory] If you have 2 or more other 《音楽》 Character, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "繋がるメロディー 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992435c",
+        "sid": "009",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-009",
+        "imagepath": "JP/W85/009.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+                    "【A】【CXCOMBO】[(1) Place this card into Waiting Room] At the beginning of your Encore Step, if 「レインボーローズ 中須 かすみ」 is in your Climax Slot, and this card is at Front Row, and you have 2 or more other 《音楽》 Character, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand, choose up to 1 Character with Level 3 or lower from your Hand, place it into this card's previous slot on Stage."
+                ],
+                "name": "かすみん行進曲 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c71129924361",
+        "sid": "011",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-011",
+        "imagepath": "JP/W85/011.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room, place up to 1 card from your top Deck into Stock.",
+                    "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《音楽》 Character x500.",
+                    "【A】RESONANCE [Place 1 card from Hand into Waiting Room, reveal 1 「中須 かすみ」 from Hand] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, place the top card of your Clock into Waiting Room."
+                ],
+                "name": "中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c7112992437f",
+        "sid": "020",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-020",
+        "imagepath": "JP/W85/020.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When your other 《音楽》 Character attacks, during this turn, this card gets +1500 Power.",
+                    "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+                ],
+                "name": "さぁ、あなたも一緒に！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924384",
+        "sid": "060",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-060",
+        "imagepath": "JP/W85/060.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【COUNTER】EXPERIENCE If the total Level in your Level Slot is 2 or higher, choose 1 Character from your Waiting Room, return it to Hand, send this card to Memory.",
+                    "【A】RECOLLECTION [Place 1 card from Hand into Waiting Room] At the beginning of your Main Phase, if this card is in Memory, you may pay the cost. If you did, return this card to Hand."
+                ],
+                "name": "衝突",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924389",
+        "sid": "065",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-065",
+        "imagepath": "JP/W85/065.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】During your turn, your other Character at the Center Slot of Front Row gets +1000 Power, gains the following Ability. 『【C】This card cannot be chosen by opponent's effect.』",
+                    "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "準備はい〜い？ エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992438e",
+        "sid": "090",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-090",
+        "imagepath": "JP/W85/090.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《音楽》 Character among those cards x1000.",
+                    "【A】When this card's battle opponent becomes REVERSE, choose 1 of your 《音楽》 Character, during this turn, it gets +2000 Power."
+                ],
+                "name": "みんなと繋がりたい♪ 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c71129924393",
+        "sid": "022",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-022",
+        "imagepath": "JP/W85/022.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】For each of your other 《音楽》 Character, this card gets +1000 Power.",
+                    "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.",
+                    "【A】ENCORE ［Place 1 《音楽》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+                ],
+                "name": "愛！LOVE！YOU！ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c71129924398",
+        "sid": "047",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 5500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-047",
+        "imagepath": "JP/W85/047.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】When you pay Cost for Event played from Hand, you may place 1 Marker from this card into Waiting Room instead of 1 Stock.",
+                    "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Event and show it to opponent, add it to Hand, shuffle your Deck afterwards, place up to 2 cards from your top Deck under this card face-up in any order.",
+                    "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「レインボーローズ 朝香 果林」 is in your Climax Slot, you may place that Character into Clock."
+                ],
+                "name": "ついてこられるかしら 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c7112992439d",
+        "sid": "072",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-072",
+        "imagepath": "JP/W85/072.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【COUNTER】Choose up to 2 of your Character, during this turn, they gains the following Ability. 『【C】This card cannot become REVERSE.』"
+                ],
+                "name": "熱意の行方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243a2",
+        "sid": "097",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-097",
+        "imagepath": "JP/W85/097.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「TOKIMEKI Runners」があるなら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
+                ],
+                "name": "夢への階段 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243a7",
+        "sid": "T10",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T10",
+        "imagepath": "JP/W85/T10.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters gets +1000 Power, +1 Soul.",
+                    "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+                ],
+                "name": "レインボーローズ 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "_id": "6081d8bf0df1c711299243ac",
+        "sid": "038",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-038",
+        "imagepath": "JP/W85/038.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "Translations Coming Soon!"
+                ],
+                "name": "踏み出したステップ 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243b1",
+        "sid": "063",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-063",
+        "imagepath": "JP/W85/063.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] At the beginning of your Attack Phase, if this card is in STAND at Front Row, and you have other 《音楽》 Character, REST this card. If you did, you may pay the cost. If you did, perform the following 2 effects 1 time each in any order.",
+                    "『Deal 1 Damage to opponent.』",
+                    "『Deal 3 Damage to opponent.』",
+                    "(Damage can be cancelled)"
+                ],
+                "name": "夢の世界へようこそ〜 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243b6",
+        "sid": "073",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-073",
+        "imagepath": "JP/W85/073.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋3000。",
+                    "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "影の努力 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243bb",
+        "sid": "T01",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T01",
+        "imagepath": "JP/W85/T01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。"
+                ],
+                "name": "ダジャレアタック 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243c0",
+        "sid": "T11",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T11",
+        "imagepath": "JP/W85/T11.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, perform the following Action 2 times. 『Choose 1 of your 《音楽》 Character, during this turn, it gets +1 Soul.』",
+                    "【A】When this card becomes REVERSE, if you have 2 or more other 《音楽》 Character, if this card's battle opponent is Level 3 or lower, you may REVERSE that Character."
+                ],
+                "name": "ぴょんぴょんハート 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243c5",
+        "sid": "054",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-054",
+        "imagepath": "JP/W85/054.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+                    "【C】During your turn, for each of your other 《音楽》 Character, this card gets +500 Power.",
+                    "【A】During the turn when this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, look at up to 4 cards from your top Deck, choose up to 2 《音楽》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "虹に願いを エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243ca",
+        "sid": "079",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-079",
+        "imagepath": "JP/W85/079.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】During your turn, for each of your other 《音楽》 Character, this card gets +1000 Power.",
+                    "【C】The Character facing this card gets +2 Soul."
+                ],
+                "name": "尋ねるまでもないことだけど！ 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243cf",
+        "sid": "104",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 9000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-104",
+        "imagepath": "JP/W85/104.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+                ],
+                "name": "大自然の息吹き エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243d4",
+        "sid": "T17",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T17",
+        "imagepath": "JP/W85/T17.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, choose 1 of your other 《音楽》 Character, during this turn, it gets +2000 Power.",
+                    "【A】[REST 2 of your STAND Character] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』"
+                ],
+                "name": "それぞれに、踏み出す時 エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243d9",
+        "sid": "109",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-109",
+        "imagepath": "JP/W85/109.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】【CXCOMBO】[Place the top card of your Deck into Clock] When this card attacks, if 「レインボーローズ 宮下 愛」 is in your Climax Slot, and you have other 《音楽》 Character, you may pay the cost. If you did, place 3 cards from your top Deck into Waiting Room, choose up to X amount of 《音楽》 Character from your Waiting Room, return them to Hand. X is equal to the number of cards that has Soul Trigger Icon among those cards."
+                ],
+                "name": "ヒョウだぞ〜！うっひょ〜う 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243de",
+        "sid": "051",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-051",
+        "imagepath": "JP/W85/051.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, if you have other 《音楽》 Character, during this turn, this card gets +2000 Power.",
+                    "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, look at up to 4 cards from your top Stock, choose up to 1 card, add it to Hand, place the remaining cards into Stock, shuffle your Stock afterwards."
+                ],
+                "name": "シークレットレディ 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e3",
+        "sid": "076",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-076",
+        "imagepath": "JP/W85/076.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "仲間だから！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e8",
+        "sid": "T09",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T09",
+        "imagepath": "JP/W85/T09.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "TOKIMEKI Runners",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "6081d8c10df1c711299243ed",
+        "sid": "T14",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T14",
+        "imagepath": "JP/W85/T14.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
+                ],
+                "name": "キモチシンパシー 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243ef",
+        "sid": "T04",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T04",
+        "imagepath": "JP/W85/T04.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "自慢のお弁当！ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243f0",
+        "sid": "T08",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T08",
+        "imagepath": "JP/W85/T08.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+                    "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《音楽》 Character, during this turn, it gets +1000 Power."
+                ],
+                "name": "元気を届けろ！ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243f1",
+        "sid": "105",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-105",
+        "imagepath": "JP/W85/105.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, when this card dealt Damage is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to opponent. X is equal to that card's Level +1. (Climax is considered Level 0. Damage can be cancelled)",
+                    "【A】【CXCOMBO】RECOLLECTION [(1) Place 2 cards from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. At the end of this card's attack, if 「レインボーローズ 天王寺 璃奈」 is in your Climax Slot, and your Memory has 2 or more 「繋がるメロディー 天王寺 璃奈」, you may pay the cost. If you did, STAND this card."
+                ],
+                "name": "伝えたい想い 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c71129924358",
+        "sid": "004",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-004",
+        "imagepath": "JP/W85/004.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If this card is at the Center Slot of Front Row, this card gets +2000 Power.",
+                    "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "努力は裏切らないんです！ 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992435d",
+        "sid": "008",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-008",
+        "imagepath": "JP/W85/008.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】ACCELERATE [Place the top card of your Deck into Clock] When you use this card's 『ASSIST』, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+                    "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+                ],
+                "name": "力強い音を響かせます！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924380",
+        "sid": "045",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-045",
+        "imagepath": "JP/W85/045.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+                    "【C】If you have 2 or more other 《音楽》 Character, this card gets +2000 Power.",
+                    "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《音楽》 Character, until end of opponent's next turn, this card gains the following Ability. 『【C】The Character facing this card gets -2 Soul.』"
+                ],
+                "name": "ブルードロップ 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c71129924385",
+        "sid": "012",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-012",
+        "imagepath": "JP/W85/012.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+                    "【A】[(5)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, place up to 1 card from your top Clock into Waiting Room, choose 1 opponent's Character, during this turn, it gets -2 Soul."
+                ],
+                "name": "エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c7112992438a",
+        "sid": "085",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-085",
+        "imagepath": "JP/W85/085.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room.",
+                    "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, choose up to 1 《音楽》 Character from your Waiting Room, place it into Stock, choose up to 1 「確かな光 桜坂 しずく」 from your Waiting Room, place it into this card's previous slot on Stage."
+                ],
+                "name": "桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c7112992438f",
+        "sid": "017",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-017",
+        "imagepath": "JP/W85/017.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Book：When this card is triggered, you may draw 1 card)"
+                ],
+                "name": "レインボーローズ 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "6081d8bf0df1c71129924394",
+        "sid": "100",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-100",
+        "imagepath": "JP/W85/100.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+                    "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+                ],
+                "name": "レインボーローズ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "6081d8bf0df1c71129924399",
+        "sid": "067",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "LNJ/W85-067",
+        "imagepath": "JP/W85/067.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck.",
+                    "【A】ENCORE ［Place 1 《音楽》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+                ],
+                "name": "お昼寝姫 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c7112992439e",
+        "sid": "092",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-092",
+        "imagepath": "JP/W85/092.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+                    "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+                ],
+                "name": "みんなにありがとう 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c711299243a3",
+        "sid": "P02",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-P02",
+        "imagepath": "JP/W85/P02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+                    "【A】【CXCOMBO】When 「レインボーローズ 桜坂 しずく」 is placed into your Climax Slot, and you have 2 or more other 《音楽》 Character, you may choose 1 《音楽》 Character with Level 0 or lower from your Waiting Room, place it into any slot on Stage.",
+                    "【S】[(2) REST this card] Search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "ベアースマイル 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243a8",
+        "sid": "013",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-013",
+        "imagepath": "JP/W85/013.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If you have other 《音楽》 Character, this card gets +1500 Power, gains 2 of the following Abilities.",
+                    "『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+                    "『【A】ENCORE ［Place 1 Character from Hand into Waiting Room］』",
+                    "【A】When this card Trigger Checks a card with Soul Trigger Icon, until end of opponent's next turn, this card gets +1000 Power."
+                ],
+                "name": "宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243ad",
+        "sid": "053",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-053",
+        "imagepath": "JP/W85/053.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】EXPERIENCE If the total Level in your Level Slot is 4 or higher, and this card is at Front Row, all your other 《音楽》 Character gets +1500 Power.",
+                    "【A】【CXCOMBO】[(1) Place 2 cards from Hand into Waiting Room] When this card is placed on Stage by 「信頼する、あなたへ」 's effect, you may pay the cost. If you did, STAND this card. (When Trigger Checks 「信頼する、あなたへ」's SWITCH effect to place this card on Stage can be activated also)"
+                ],
+                "name": "音がたくさん重なって楽しいね♪ 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243b2",
+        "sid": "048",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-048",
+        "imagepath": "JP/W85/048.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《音楽》 Character x1000.",
+                    "【A】When this card's battle opponent becomes REVERSE, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand. (If not, return revealed card to its original position)"
+                ],
+                "name": "最高のパフォーマンスを見せるわ 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243b7",
+        "sid": "093",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-093",
+        "imagepath": "JP/W85/093.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+                ],
+                "name": "レインボーローズ 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "6081d8c00df1c711299243bc",
+        "sid": "098",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "LNJ/W85-098",
+        "imagepath": "JP/W85/098.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed into Waiting Room from Stage, look at up to 4 cards from your top Deck, choose up to 1 Yellow Climax and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. If you add it to Hand, choose 1 card from your Hand, place it into Waiting Room.",
+                    "【A】RESONANCE [Reveal 1 「ばかしてあげますよー 中須 かすみ」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +2000 Power and +1 Soul."
+                ],
+                "name": "ばかしてあげますよー 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243c1",
+        "sid": "014",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-014",
+        "imagepath": "JP/W85/014.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)"
+                ],
+                "name": "レインボーローズ 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "_id": "6081d8c00df1c711299243c6",
+        "sid": "039",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-039",
+        "imagepath": "JP/W85/039.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "Look at up to 4 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "あなたのいる場所",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243cb",
+        "sid": "034",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-034",
+        "imagepath": "JP/W85/034.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】EXPERIENCE During your turn, If the total Level in your Level Slot is 1 or higher, this card gets +2500 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is 2 or higher, during this turn, this card gets +6000 Power.』"
+                ],
+                "name": "あなたと一緒に 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243d0",
+        "sid": "059",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-059",
+        "imagepath": "JP/W85/059.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+                    "【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+                ],
+                "name": "叶える力 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243d5",
+        "sid": "T02",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T02",
+        "imagepath": "JP/W85/T02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】【CXCOMBO】When this card attacks, if 「レインボーローズ 上原 歩夢」 is in your Climax Slot, and you have 2 or more other 《音楽》 Character, reveal 2 cards from your top Deck, opponent choose 1 Character or Event among those cards, add it to your Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "日進月歩 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243da",
+        "sid": "046",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-046",
+        "imagepath": "JP/W85/046.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If you have 4 or more 《音楽》 Character, this card gets -1 Level in your Hand.",
+                    "【C】During your turn, if all your Character are 《音楽》, this card gets +2000 Power.",
+                    "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+                ],
+                "name": "竜宮城へようこそ♪ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c10df1c711299243df",
+        "sid": "041",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-041",
+        "imagepath": "JP/W85/041.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "Perform the following Action 2 times. 『You may choose 1 card from your Hand, place it into Waiting Room. If you did, choose 1 Event from your Waiting Room, return it to Hand.』"
+                ],
+                "name": "虹ヶ咲学園スクールアイドル同好会",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e4",
+        "sid": "096",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-096",
+        "imagepath": "JP/W85/096.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If this card is at the Center Slot of Front Row, this card gets +1 Level and +2500 Power."
+                ],
+                "name": "そして幕が上がる 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e9",
+        "sid": "101",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-101",
+        "imagepath": "JP/W85/101.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「自慢のお弁当！ 宮下 愛」すべてに、パワーを＋1000。",
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「自慢のお弁当！ 宮下 愛」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "大ピンチ発生 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243ee",
+        "sid": "T03",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T03",
+        "imagepath": "JP/W85/T03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "もう一度、スタート！",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243f2",
+        "sid": "T13",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 2,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T13",
+        "imagepath": "JP/W85/T13.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】RECOLLECTION During your turn, if your Memory has 「繋がるメロディー 天王寺 璃奈」, this card gets +1 Level and +1500 Power.",
+                    "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「ドキドキニャンニャン 天王寺 璃奈」 from your Memory, place it into any slot on Stage."
+                ],
+                "name": "ドキドキニャンニャン 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924359",
+        "sid": "016",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-016",
+        "imagepath": "JP/W85/016.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】During your turn, for each of your other 《音楽》 Character, this card gets +1000 Power.",
+                    "【A】When this card's battle opponent becomes REVERSE, if you have other 《音楽》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+                    "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, choose 1 「後輩としての自覚 桜坂 しずく」 from your Waiting Room, place it into this card's previous slot on Stage."
+                ],
+                "name": "心が躍ります♪ 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c7112992435e",
+        "sid": "031",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-031",
+        "imagepath": "JP/W85/031.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, choose 1 of your Character, until end of opponent's next turn, it gains the following Ability. 『【C】This card cannot become REVERSE by opponent's 【A】 effect.』",
+                    "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "夢をさがして 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992437c",
+        "sid": "007",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-007",
+        "imagepath": "JP/W85/007.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《音楽》 Character x500.",
+                    "【A】When this card's battle opponent becomes REVERSE, if you have other 《音楽》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
+                ],
+                "name": "交渉人・璃奈！ 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924381",
+        "sid": "026",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-026",
+        "imagepath": "JP/W85/026.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When a Climax is placed into your Climax Slot, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+                    "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "Creamy Berry 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924386",
+        "sid": "040",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-040",
+        "imagepath": "JP/W85/040.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】All your other 《音楽》 Character gets +500 Power.",
+                    "【A】[(1)] When you use 『ACCELERATE』, if your Clock has 4 or more cards, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.",
+                    "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power."
+                ],
+                "name": "優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992438b",
+        "sid": "050",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-050",
+        "imagepath": "JP/W85/050.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+                    "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+                ],
+                "name": "包み込むような響き 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924390",
+        "sid": "075",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-075",
+        "imagepath": "JP/W85/075.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If all your Character are 《音楽》, this card gets +2000 Power.",
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】【CXCOMBO】[(2) Place 1 card from Hand into Waiting Room] At the beginning of Encore Step, if 「レインボーローズ 優木 せつ菜」 is in your Climax Slot, and your Hand has 6 or less cards, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)"
+                ],
+                "name": "Emotional Power 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c71129924395",
+        "sid": "042",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-042",
+        "imagepath": "JP/W85/042.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If opponent's Waiting Room has 5 or more Climax, this card gets -1 Level in your Hand.",
+                    "【C】RECOLLECTION If you have 2 or more other 《音楽》 Character, and your Memory has 2 or more 「繋がるメロディー 天王寺 璃奈」, this card gets +1500 Power, gains 『【C】BODYGUARD』."
+                ],
+                "name": "ボード越しの繋がり 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c7112992439a",
+        "sid": "032",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-032",
+        "imagepath": "JP/W85/032.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 of your Character, during this turn, it gets +1500 Power.",
+                    "【A】When this card is placed on Stage from Hand, choose 1 of your 《音楽》 Character. during this turn, it gets +1500 Power."
+                ],
+                "name": "文武両道 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c7112992439f",
+        "sid": "057",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-057",
+        "imagepath": "JP/W85/057.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。"
+                ],
+                "name": "苦手克服？ 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c711299243a4",
+        "sid": "T05",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T05",
+        "imagepath": "JP/W85/T05.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】［(2) Place 1 of your Character from Stage into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+                    "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+                ],
+                "name": "心からの言葉？ 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c711299243a9",
+        "sid": "018",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-018",
+        "imagepath": "JP/W85/018.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is being Front Attacked, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+                    "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)",
+                    "【S】[(1) Place this card into Waiting Room] Choose 1 「桜坂 しずく」 from your Waiting Room, place it into this card's previous slot on Stage."
+                ],
+                "name": "確かな光 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243ae",
+        "sid": "023",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-023",
+        "imagepath": "JP/W85/023.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《音楽》 Character.",
+                    "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+                ],
+                "name": "魅力的な音色 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243b3",
+        "sid": "078",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-078",
+        "imagepath": "JP/W85/078.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If your Hand has 5 or more cards, this card gets +2000 Power.",
+                    "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+                ],
+                "name": "静かなる闘志 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243b8",
+        "sid": "088",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-088",
+        "imagepath": "JP/W85/088.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "頂を目指して 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243bd",
+        "sid": "T16",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T16",
+        "imagepath": "JP/W85/T16.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +1000 Power.",
+                    "【A】【CXCOMBO】[(1)] When 「信頼する、あなたへ」 is placed into your Climax Slot, you may pay the cost. If you did, choose up to 1 《音楽》 Character from your Waiting Room, return it to Hand, during this turn, all your other 「音がたくさん重なって楽しいね♪ 上原 歩夢」 gets +1000 Power, gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』"
+                ],
+                "name": "過去との再会 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243c2",
+        "sid": "029",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-029",
+        "imagepath": "JP/W85/029.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】For each of your other 《音楽》 Character, this card gets +500 Power.",
+                    "【A】[Return 2 Character from your Waiting Room into Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, no Soul is deducted even if this card Side Attacks.",
+                    "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+                ],
+                "name": "私の本気 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243c7",
+        "sid": "024",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-024",
+        "imagepath": "JP/W85/024.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【COUNTER】If you have 2 or less 《音楽》 Character, you cannot play this card from Hand.",
+                    "Choose 1 of your 《音楽》 Character, during this turn, it gets +1500 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may deal 2 Damage to opponent.』(Damage can be cancelled)"
+                ],
+                "name": "虹ヶ咲学園２年生",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243cc",
+        "sid": "064",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-064",
+        "imagepath": "JP/W85/064.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】During opponent's turn, this card gets +2000 Power.",
+                    "【A】At the beginning of your Main Phase, during this turn, this card gains the following Ability. 『【A】At the beginning of your Encore Step, if this card is at Front Row, and this card is in STAND, REST this card, reveal the top card of your Deck, place that card into Stock, deal X Damage to opponent. X is equal to the number of Soul Trigger Icon of that card +1.』(Damage can be cancelled)"
+                ],
+                "name": "ドリームジャーニー 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243d1",
+        "sid": "074",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-074",
+        "imagepath": "JP/W85/074.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, if you have other 《音楽》 Character, during this turn, this card gets +2000 Power.",
+                    "【A】【CXCOMBO】When this card attacks, if 「レインボーローズ 近江 彼方」 is in your Climax Slot, and you have other 《音楽》 Character, during this turn, this card gets +1000 Power, until end of opponent's next turn, this card gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+                ],
+                "name": "すやすやタイム 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243d6",
+        "sid": "084",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-084",
+        "imagepath": "JP/W85/084.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《音楽》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+                ],
+                "name": "LOVE＆PEACE 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c10df1c711299243db",
+        "sid": "T12",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T12",
+        "imagepath": "JP/W85/T12.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】You cannot play Event and 『ASSIST』 from Hand.",
+                    "【A】At the beginning of your Climax Phase, until end of opponent's next turn, this card gains 1 of the following 2 Abilities you chose.",
+                    "『【A】When this card's battle opponent becomes REVERSE, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.』",
+                    "『【A】At the beginning of opponent's Attack Phase, you may move this card to an empty slot at Front Row.』"
+                ],
+                "name": "みんなで歌おう エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e0",
+        "sid": "071",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-071",
+        "imagepath": "JP/W85/071.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "If you have no 《音楽》 Character, you cannot play this card from Hand.",
+                    "Choose 1 of your Character, during this turn, it gets +1000 Power, gains the following Ability. 『【A】At the beginning of your Encore Step, if this card is at Front Row, and there is no Character or the Character is REVERSE facing this card, deal 1 Damage to opponent 2 times.』(Damage can be cancelled)"
+                ],
+                "name": "私に歌わせて！",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e5",
+        "sid": "066",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 3,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-066",
+        "imagepath": "JP/W85/066.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "Translations Coming Soon!"
+                ],
+                "name": "私のイメージ、キミのイメージ 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243ea",
+        "sid": "091",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-091",
+        "imagepath": "JP/W85/091.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】All your other 《音楽》 Character gets +1000 Power.",
+                    "【S】[REST this card] Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to bottom Deck.』"
+                ],
+                "name": "私のための遊び場 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c10df1c711299243f3",
+        "sid": "110",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-110",
+        "imagepath": "JP/W85/110.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When a Climax is placed into your Climax Slot, until end of opponent's next turn, this card gets +X Power. X is equal to the number of your 《音楽》 Character x500.",
+                    "【A】【CXCOMBO】At the beginning of your Encore Step, if 「突然の訪問者 三船 栞子」 is in your Climax Slot, and this card is at Front Row, and you have 2 or more other 《音楽》 Character, if there is no Character facing this card or it's in REVERSE, you may choose 1 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "はじめましょうか 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924356",
+        "sid": "003",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-003",
+        "imagepath": "JP/W85/003.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+                    "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "弾けるりなリズム 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992435b",
+        "sid": "010",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-010",
+        "imagepath": "JP/W85/010.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《音楽》 Character, this card gets +2000 Power.",
+                    "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with 『CHANGE』 from your Waiting Room, return it to Hand."
+                ],
+                "name": "煌びやかな旋律 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924360",
+        "sid": "006",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-006",
+        "imagepath": "JP/W85/006.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】[(1) Place 2 cards from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, you draw up to 1 card, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+                    "【A】RESONANCE [Reveal 1 「よそ見厳禁！ 中須 かすみ」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +2000 Power."
+                ],
+                "name": "よそ見厳禁！ 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992437e",
+        "sid": "025",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-025",
+        "imagepath": "JP/W85/025.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "Opponent chooses 2 Climax from his/her Waiting Room, he/she return all cards from Waiting Room into Deck except for those chosen cards, shuffle his/her Deck afterwards, you choose 1 of your Character, during this turn, it gets +5000 Power."
+                ],
+                "name": "夢のメインステージへ！",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924383",
+        "sid": "035",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-035",
+        "imagepath": "JP/W85/035.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. For each Soul Trigger Icon on that card, during this turn, all opponent's Character at Front Row gets -1000 Power. (Return revealed card to its original position)",
+                    "【A】When this card becomes REVERSE, if you have other 《音楽》 Character, and this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+                ],
+                "name": "テンアゲで行こうー！ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c71129924388",
+        "sid": "055",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-055",
+        "imagepath": "JP/W85/055.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【COUNTER】You can play this card from Hand without following the Colour rules.",
+                    "If you have 5 or more 《音楽》 Character, choose 1 Character in battle, during this turn, it gains the following Ability. 『【C】This card cannot deal any Damage to player.』",
+                    "Choose 1 of your Character, during this turn, it gets +1000 Power."
+                ],
+                "name": "虹ヶ咲学園３年生",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992438d",
+        "sid": "095",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-095",
+        "imagepath": "JP/W85/095.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】[(1) Place 1 《音楽》 Character from your Waiting Room to bottom Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "ハートを咲かせます♪ 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992435a",
+        "sid": "002",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-002",
+        "imagepath": "JP/W85/002.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《音楽》 Character, during this turn, this card gets +2000 Power. (Return revealed card to its original position)",
+                    "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
+                ],
+                "name": "いざ！大海原へ 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992435f",
+        "sid": "001",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "LNJ/W85-001",
+        "imagepath": "JP/W85/001.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】[Place 1 card from Hand into Waiting Room] When your other 「踏み出したステップ 上原 歩夢」 attacks, if this card is at Front Row, you may pay the cost. If you did, choose 1 Climax with Switch Trigger Icon from your Waiting Room, return it to Deck, shuffle your Deck afterwards."
+                ],
+                "name": "がんばりやさん 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992437d",
+        "sid": "021",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-021",
+        "imagepath": "JP/W85/021.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】During your turn, for each of your other 《音楽》 Character, this card gets +1500 Power.",
+                    "【S】[Place this card into Waiting Room] Choose 1 《音楽》 Character from your Waiting Room, return it to Hand.",
+                    "【S】[Place this card into Waiting Room] Choose 1 「心が躍ります♪ 桜坂 しずく」 from your Waiting Room, place it into this card's previous slot on Stage."
+                ],
+                "name": "後輩としての自覚 桜坂 しずく",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8be0df1c71129924382",
+        "sid": "030",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-030",
+        "imagepath": "JP/W85/030.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+                    "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+                ],
+                "name": "信頼する、あなたへ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "6081d8be0df1c71129924387",
+        "sid": "070",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-070",
+        "imagepath": "JP/W85/070.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When your other 《音楽》 Character attacks, if that Character's Power is 2000 Power higher than its battle opponent, during that Character's battle, opponent cannot play Event and 『ASSIST』 from Hand.",
+                    "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +500 Power."
+                ],
+                "name": "取り憑いちゃうわ♪ 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8be0df1c7112992438c",
+        "sid": "080",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-080",
+        "imagepath": "JP/W85/080.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】All your other 《音楽》 Character gets +500 Power.",
+                    "【S】[(1) Place the top card of your Deck into Clock, REST this card] Search your Deck for up to 1 Character with 『RECOLLECTION』 and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+                ],
+                "name": "天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c71129924391",
+        "sid": "015",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-015",
+        "imagepath": "JP/W85/015.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters gets +1000 Power, +1 Soul.",
+                    "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+                ],
+                "name": "レインボーローズ 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "6081d8bf0df1c71129924396",
+        "sid": "037",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "LNJ/W85-037",
+        "imagepath": "JP/W85/037.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】During your turn, for each of your other 《音楽》 Character, this card gets +1000 Power.",
+                    "【A】ACCELERATE [Place the top card of your Deck into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.』"
+                ],
+                "name": "もう一度、スタート！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c7112992439b",
+        "sid": "062",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-062",
+        "imagepath": "JP/W85/062.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】 When this card becomes REVERSE, you may choose 1 「私のイメージ、キミのイメージ 朝香 果林」 from your Waiting Room, place it into Stock."
+                ],
+                "name": "優しい気持ち、繋がる世界 エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243a0",
+        "sid": "087",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-087",
+        "imagepath": "JP/W85/087.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+                ],
+                "name": "みんなを想って",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c711299243a5",
+        "sid": "T15",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T15",
+        "imagepath": "JP/W85/T15.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your 《音楽》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+                    "【S】RESONANCE [(1) Reveal 1 「ホームページ公開！ 中須 かすみ」 from Hand, REST this card] Look at up to 3 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+                ],
+                "name": "ホームページ公開！ 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c711299243aa",
+        "sid": "028",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-028",
+        "imagepath": "JP/W85/028.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+                    "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gets +1 Soul."
+                ],
+                "name": "パッションレッド！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243af",
+        "sid": "043",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-043",
+        "imagepath": "JP/W85/043.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+                    "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+                ],
+                "name": "レインボーローズ 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "6081d8c00df1c711299243b4",
+        "sid": "068",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-068",
+        "imagepath": "JP/W85/068.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+                    "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in original order.",
+                    "【A】When this card is placed on Stage from Hand, look at up to 2 cards from opponent's top Deck, place them on top Deck in original order."
+                ],
+                "name": "webに乗ってどこまでも！ 天王寺 璃奈",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243b9",
+        "sid": "103",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-103",
+        "imagepath": "JP/W85/103.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+                    "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "愛されかすかす 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243be",
+        "sid": "T06",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T06",
+        "imagepath": "JP/W85/T06.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《音楽》 Character or Event, choose 1 of your Character, during this turn, it gets +3000 Power. (Return revealed card to its original position)"
+                ],
+                "name": "面白いじゃない 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243c3",
+        "sid": "108",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-108",
+        "imagepath": "JP/W85/108.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "たまにはこんな休日もね♪ 朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243c8",
+        "sid": "T21",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T21",
+        "imagepath": "JP/W85/T21.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】All your other 「夢への階段 上原 歩夢」 gets +1000 Power.",
+                    "【C】All your other 《音楽》 Character gets +500 Power.",
+                    "【S】[REST this card] If you have other Character with EXPERIENCE, choose 1 card each from your Level Slot and Waiting Room, exchange them."
+                ],
+                "name": "上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243cd",
+        "sid": "049",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-049",
+        "imagepath": "JP/W85/049.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage."
+                ],
+                "name": "ぜんぜんねむくないよ〜 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243d2",
+        "sid": "089",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-089",
+        "imagepath": "JP/W85/089.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+                ],
+                "name": "レインボーローズ エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "6081d8c10df1c711299243d7",
+        "sid": "099",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-099",
+        "imagepath": "JP/W85/099.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【S】EXPERIENCE [(1) REST this card] If the total Level in your Level Slot is 5 or higher, choose 1 of the following 2 effects. If not, opponent chooses 1 of the following 2 effects.",
+                    "『Choose up to 2 of your 《音楽》 Character, during this turn, they gets +1 Soul.』",
+                    "『Reveal the top card of your Deck. If that card is a 《音楽》 Character or Event, add it to Hand.』(If not, return revealed card to its original position)"
+                ],
+                "name": "確かめてほしい、あなたに 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243dc",
+        "sid": "056",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-056",
+        "imagepath": "JP/W85/056.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】All your other 《音楽》 Character gets +500 Power.",
+                    "【A】【CXCOMBO】[REST this card] When 「レインボーローズ エマ・ヴェルデ」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, place it into Stock."
+                ],
+                "name": "かろやかステップ エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e1",
+        "sid": "081",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-081",
+        "imagepath": "JP/W85/081.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《音楽》 Character x500.",
+                    "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+                ],
+                "name": "私が作る世界！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e6",
+        "sid": "106",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-106",
+        "imagepath": "JP/W85/106.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。「【起】［② あなたの「大自然の息吹き エマ・ヴェルデ」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「たまにはこんな休日もね♪ 朝香 果林」を1枚まで選び、舞台の好きな枠に置く。」",
+                    "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+                ],
+                "name": "夢物語 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c10df1c711299243eb",
+        "sid": "T19",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T19",
+        "imagepath": "JP/W85/T19.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When you use this card's 『ASSIST』, look at the top card of your Deck, place it on top or bottom Deck.",
+                    "【S】【COUNTER】 ASSIST 1500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
+                ],
+                "name": "いたずら小悪魔 中須 かすみ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c71129924392",
+        "sid": "027",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-027",
+        "imagepath": "JP/W85/027.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+                    "【A】ACCELERATE [Place the top card of your Deck into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, look at the top card of your Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, during this turn, this card gets +2000 Power."
+                ],
+                "name": "白黒つけましょうー！ 優木 せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c71129924397",
+        "sid": "052",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-052",
+        "imagepath": "JP/W85/052.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card's battle opponent becomes REVERSE, if there is a Climax in your Climax Slot, you may place the top card of your Deck into Stock."
+                ],
+                "name": "さぁ、行進〜！ エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c7112992439c",
+        "sid": "077",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-077",
+        "imagepath": "JP/W85/077.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+                ],
+                "name": "彼方の事情 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243f4",
+        "sid": "T18",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T18",
+        "imagepath": "JP/W85/T18.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000."
+                ],
+                "name": "秘密の先にあったもの 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243a1",
+        "sid": "102",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-102",
+        "imagepath": "JP/W85/102.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】At the beginning of opponent's Attack Phase, you may move this card to an empty slot at Front Row."
+                ],
+                "name": "朝香 果林",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243a6",
+        "sid": "082",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-082",
+        "imagepath": "JP/W85/082.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If all your Character are 《音楽》, this card gets +1000 Power.",
+                    "【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+                ],
+                "name": "新しい仲間と、新しい旅立ち！ 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8bf0df1c711299243ab",
+        "sid": "107",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-107",
+        "imagepath": "JP/W85/107.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+                ],
+                "name": "お部屋訪問！ エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8bf0df1c711299243b0",
+        "sid": "T20",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T20",
+        "imagepath": "JP/W85/T20.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "If you have no 《音楽》 Character, you cannot play this card from Hand. You may choose 1 《音楽》 Character from your Hand, place it into Waiting Room. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+                ],
+                "name": "虹ヶ咲学園１年生",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243b5",
+        "sid": "033",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-033",
+        "imagepath": "JP/W85/033.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】You cannot play Event and 『ASSIST』 from Hand."
+                ],
+                "name": "ラブラブビーム 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243ba",
+        "sid": "058",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-058",
+        "imagepath": "JP/W85/058.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.",
+                    "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place that Character to bottom Deck."
+                ],
+                "name": "近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c00df1c711299243bf",
+        "sid": "083",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-083",
+        "imagepath": "JP/W85/083.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《音楽》 Character, you may place the top card of your Deck into Stock.",
+                    "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+                    "【A】When this card attacks, if you have 2 or more other 《音楽》 Character, choose 1 of your Character, during this turn, it gets +2000 Power."
+                ],
+                "name": "三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243c4",
+        "sid": "019",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "LNJ/W85-019",
+        "imagepath": "JP/W85/019.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+                    "【A】When your Character Trigger Checks a card with Soul Trigger Icon, choose 1 of your 《音楽》 Character, during this turn, it gets +2000 Power.",
+                    "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +500 Power."
+                ],
+                "name": "ドンドン行くよ！ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243c9",
+        "sid": "044",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "LNJ/W85-044",
+        "imagepath": "JP/W85/044.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters get +1000 Power, +1 Soul.",
+                    "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+                ],
+                "name": "レインボーローズ 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "6081d8c00df1c711299243ce",
+        "sid": "069",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "LNJ/W85-069",
+        "imagepath": "JP/W85/069.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】If you have 2 or more other 《音楽》 Character, this card gets +1 Level, and cannot be chosen by opponent's effect.",
+                    "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《音楽》 Character x1000."
+                ],
+                "name": "穏やかな日々 エマ・ヴェルデ",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c00df1c711299243d3",
+        "sid": "094",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-094",
+        "imagepath": "JP/W85/094.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+                ],
+                "name": "お馴染みの味 上原 歩夢",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243d8",
+        "sid": "T07",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "LNJ/W85-T07",
+        "imagepath": "JP/W85/T07.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": [
+                    "【C】 All your Characters gets +1000 Power, +1 Soul.",
+                    "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+                ],
+                "name": "突然の訪問者 三船 栞子",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "6081d8c10df1c711299243dd",
+        "sid": "036",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "LNJ/W85-036",
+        "imagepath": "JP/W85/036.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+                    "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+                ],
+                "name": "私の言葉、私の気持ち 宮下 愛",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "6081d8c10df1c711299243e2",
+        "sid": "061",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-061",
+        "imagepath": "JP/W85/061.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Music 《音楽》"
+                ],
+                "ability": [
+                    "【C】SUPPORT All your Character with Level 0 or lower in front of this card gets +1000 Power.",
+                    "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』"
+                ],
+                "name": "雨降って地めっちゃ固まる 近江 彼方",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243e7",
+        "sid": "086",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "LNJ/W85-086",
+        "imagepath": "JP/W85/086.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+                ],
+                "name": "虹ヶ咲学園2年生 歩夢&愛&せつ菜",
+                "source": "akiba"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "6081d8c10df1c711299243ec",
+        "sid": "P01",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-P01",
+        "imagepath": "JP/W85/P01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "自動能力＠ このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。\n自動能力＠ 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）\n"
+                ],
+                "name": "虹ヶ咲学園1年生 かすみ&しずく&璃奈&栞子"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df54ce8ba498706becabf4",
+        "sid": "P03",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-P03",
+        "imagepath": "JP/W85/P03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
+                ],
+                "name": "虹ヶ咲学園3年生 果林&彼方&エマ"
+            }
+        },
+        "series": "6081d8341e41dfffbd8c47da",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df54cf8ba498706becabf5",
+        "sid": "P04",
+        "set": "LNJ",
+        "side": "W",
+        "release": "85",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "LNJ/W85-P04",
+        "imagepath": "JP/W85/P04.gif",
+        "__v": 0
+    }
+]

@@ -1,0 +1,4432 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.",
+                    "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is placed into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+                ],
+                "name": "Merciless Actions, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b4e",
+        "rarity": "TD",
+        "side": "S",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE05",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE05",
+        "imagepath": "EN/S63/TE05.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 During this card's battle, your opponent cannot play \"Backup\" from hand.",
+                    "【AUTO】 ［(3)］ During your turn, when this card's battle opponent becomes 【REVERSE】, you may pay the cost. If you do, deal 2 damage to your opponent. (Damage may be canceled)"
+                ],
+                "name": "Masked Figure's Name, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b53",
+        "rarity": "TD",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE07",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE07",
+        "imagepath": "EN/S63/TE07.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 【CXCOMBO】 When your character's trigger check reveals \"Friends to Battle Alongside With\", you may choose 1 \"Rapid Firing of Pebbles, Dwarf Shaman\" or \"Banisher of Heresy, Lizard Priest\" in your waiting room, and return it to your hand.",
+                    "【ACT】 Brainstorm [(1) 【REST】 2 of your characters] Flip over the top 6 cards of your deck, and put them into your waiting room. If there is a climax card with 【SHOT】 trigger icon revealed among those cards, choose 1 character in your waiting room, and return it to your hand."
+                ],
+                "name": "Inquiry About a Warrior, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b58",
+        "rarity": "R",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E004",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E004",
+        "imagepath": "EN/S63/E004.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +2000 power.",
+                    "【AUTO】 【CXCOMBO】 When this card attacks, if \"Battle with One's Life at Stake\" is in your climax area, and you have another 《Order》 character, choose 1 of the following effects and perform it. \"Choose 1 \"Torch\" in your waiting room, and return it to your hand.\" \"Search your deck for up to 1 \"Torch\", reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+                ],
+                "name": "Precise Battle Tactics, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b5d",
+        "rarity": "RR",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E029",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E029",
+        "imagepath": "EN/S63/E029.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 If \"True Bonds, Goblin Slayer\" is in your clock, this card gets -1 level while in your hand.",
+                    "【AUTO】 When this card is placed on the stage from your hand, draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+                    "【AUTO】 【CXCOMBO】 When this card attacks, if \"Extensive Divine Protection\" is in your climax area, reveal the top card of your deck. If that card is an 《Order》 character or an event card, this card gets +1500 power and the following ability until the end of your opponent's next turn. \"【AUTO】 At the beginning of your opponent's attack phase, all of your opponent's characters get -1 soul until end of turn.\" (Return the revealed card to its original place)"
+                ],
+                "name": "Pure Aide, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b62",
+        "rarity": "RR",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E064",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E064",
+        "imagepath": "EN/S63/E064.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, this card gets +2000 power until end of turn. (Return the revealed card to its original place)",
+                    "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+                ],
+                "name": "Translucent Skin, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b67",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E069",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E069",
+        "imagepath": "EN/S63/E069.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "AUTO＠ [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your opponent's level 3 or lower characters, and return it to his or her hand.",
+                    "【AUTO】 This ability activates up to 1 time per turn. During the turn that this card is placed on the stage from your hand, when damage dealt by this card is canceled, put the top card of your deck into your waiting room, and deal X damage to your opponent. X is equal to that card's level +1. (Climax are regarded as level 0. Damage may be canceled)"
+                ],
+                "name": "Natural Adventurer, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b6c",
+        "rarity": "RR",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E002",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E002",
+        "imagepath": "EN/S63/E002.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+                ],
+                "name": "Friends to Battle Alongside With"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b71",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E027",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E027",
+        "imagepath": "EN/S63/E027.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【COUNTER】 If you have 5 or more 《Order》 characters, choose 1 of your opponent's characters in battle, and return it to his or her hand."
+                ],
+                "name": "《Gate》 Scroll"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b76",
+        "rarity": "R",
+        "side": "S",
+        "level": 3,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E052",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E052",
+        "imagepath": "EN/S63/E052.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, choose 1 of your other 《Order》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Order》 characters you have ×500."
+                ],
+                "name": "Cherubic Smile, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b7b",
+        "rarity": "R",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E067",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E067",
+        "imagepath": "EN/S63/E067.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card from your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+                    "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, draw 1 card."
+                ],
+                "name": "An Ordinary Piece, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b80",
+        "rarity": "PR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E102",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E102",
+        "imagepath": "EN/S63/E102.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 [Return 2 characters from your waiting room into your deck & Shuffle your deck] When this card attacks, you may pay the cost. If you do, this card gets +1 soul until end of turn.",
+                    "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage."
+                ],
+                "name": "Envy for the Unknown, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b85",
+        "rarity": "R",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E003",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E003",
+        "imagepath": "EN/S63/E003.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 If your hand has 5 or more cards, this card gets +1 level, +1500 power, and the following ability. \"【CONT】 This card and the character facing it cannot side attack.\"",
+                    "【AUTO】 At the beginning of your opponent's attack phase, you may move this card to an open position of your center stage with a character facing this card."
+                ],
+                "name": "Predetermined Outcome, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b8a",
+        "rarity": "U",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E038",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E038",
+        "imagepath": "EN/S63/E038.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When you use this card's \"Backup\", if you have an 《Order》 character, choose 1 of your characters in battle, and that character gets +1000 power until end of turn.",
+                    "【ACT】 【COUNTER】 Backup 1000, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that card gets +1000 power until end of turn)"
+                ],
+                "name": "Clear Gaze, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b8f",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E068",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E068",
+        "imagepath": "EN/S63/E068.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 【CXCOMBO】 When \"Faith Entrusted to the Bow\" is placed on your climax area, if this card is on the center stage, all of your characters get +1 soul until end of turn.",
+                    "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of your opponent's stock into his or her waiting room."
+                ],
+                "name": "Sure-Hit Strike, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b94",
+        "rarity": "R",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E006",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E006",
+        "imagepath": "EN/S63/E006.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, choose 1 of your characters, and that character gets +1500 power until end of turn.",
+                    "【AUTO】 When damage dealt by this card is canceled, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+                ],
+                "name": "Everyday Anticipation, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b99",
+        "rarity": "R",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E066",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E066",
+        "imagepath": "EN/S63/E066.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your other 《Order》 characters get +1000 power.",
+                    "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, choose 1 of your characters, and that character gets +X power until end of turn. X is equal to the number of other 《Order》 characters you have ×500."
+                ],
+                "name": "Where the Two Belong, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4b9e",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E041",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E041",
+        "imagepath": "EN/S63/E041.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 If there is a marker underneath this card, this card gets +1 level and +1500 power.",
+                    "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, you may put it face down underneath this card as a marker. (Otherwise, return the revealed card to its original place)"
+                ],
+                "name": "Feelings of Appreciation, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba3",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E089",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E089",
+        "imagepath": "EN/S63/E089.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Adventurer",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 The character facing this card cannot move to another position on the stage.",
+                    "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+                ],
+                "name": "An Ordinary Piece, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba8",
+        "rarity": "PR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E103",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E103",
+        "imagepath": "EN/S63/E103.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 When you use this card's \"Backup\", reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room. (Otherwise, return it to its original place)",
+                    "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that card gets +2500 power until end of turn)"
+                ],
+                "name": "Professional Smile, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bad",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E081",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E081",
+        "imagepath": "EN/S63/E081.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +500 power.",
+                    "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Order》 character in your waiting room, and return it to your hand."
+                ],
+                "name": "Promise with Friends, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb2",
+        "rarity": "PR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "PE01",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-PE01",
+        "imagepath": "EN/S63/PE01.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【DRAW】: When this card triggers, you may draw 1 card)"
+                ],
+                "name": "A Woman Swayed"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bb7",
+        "rarity": "CR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E096",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E096",
+        "imagepath": "EN/S63/E096.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All your characters get +2 soul."
+                ],
+                "name": "Unanswered Prayers"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bbc",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE21",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE21",
+        "imagepath": "EN/S63/TE21.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +500 power.",
+                    "【ACT】 [【REST】 this card] Choose 1 of your 《Order》 characters, and that character gets 1 of the following abilities of your choice until end of turn. \"【AUTO】 During this card's battle, when your opponent refreshes his or her deck, you may put the top card of your deck into your stock.\" \"【AUTO】 During this card's battle, when your opponent levels up, you may put the top card of your deck into your stock.\""
+                ],
+                "name": "Guild's Poster Girl, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bbd",
+        "rarity": "RR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E060",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E060",
+        "imagepath": "EN/S63/E060.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, all of your other 《Order》 characters get +500 power.",
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If the cards revealed are all 《Order》 characters, choose 1 level 3 or lower character in your opponent's back stage. That character cannot 【STAND】 during your opponent's next stand phase."
+                ],
+                "name": "Spirited Dreams, Dwarf Shaman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bbe",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E015",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E015",
+        "imagepath": "EN/S63/E015.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, this card gets +2000 power.",
+                    "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+                    "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Last Breath\" is in your climax area, deal 1 damage to your opponent, and put that character on the top of his or her deck. (Damage may be canceled)"
+                ],
+                "name": "Iron Shadow of Annihilation, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bbf",
+        "rarity": "RR",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E030",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E030",
+        "imagepath": "EN/S63/E030.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【SHOT】: During this turn, when the next damage dealt by the attacking character that triggered this card is canceled, deal 1 damage to your opponent)"
+                ],
+                "name": "Colorful Adventures"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bc0",
+        "rarity": "CR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E025",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E025",
+        "imagepath": "EN/S63/E025.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 All of your other \"A New Experience, Greenhorn Warrior\" get +500 power and the following ability. \"【AUTO】 [Put this card into your waiting room] When your other 《Order》 character is frontal attacked, you may pay the cost. If you do, choose 1 of your characters in battle, and that character gets +1500 power until end of turn.",
+                    "【AUTO】 Bond/\"A New Experience, Greenhorn Warrior\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"A New Experience, Greenhorn Warrior\" in your waiting room, and return it to your hand)"
+                ],
+                "name": "Hoping to Repay, Apprentice Cleric"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc1",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E085",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E085",
+        "imagepath": "EN/S63/E085.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn.",
+                    "【AUTO】 【CXCOMBO】 [Put the top card of your deck into your clock] When this card attacks, if \"Rhythmical Extermination\" is in your climax area, you may pay the cost. If you do, choose 1 of your other characters and this card, and both characters get the following abilities until end of turn. \"【CONT】 This card cannot become 【REVERSE】 by 【AUTO】 effects of your opponent's characters.\" \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may choose 1 character in your waiting room, and return it to your hand.\""
+                ],
+                "name": "He Who Slays Goblins, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b4c",
+        "rarity": "TD",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE03",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE03",
+        "imagepath": "EN/S63/TE03.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 [Put 2 cards from your hand into your waiting room] When you use this card's \"Backup\", you may pay the cost. If you do, choose 1 of your opponent's characters with level higher than your opponent's level, and put it into your opponent's waiting room.",
+                    "【ACT】 【COUNTER】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+                ],
+                "name": "Gleaming Dagger, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bc2",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E040",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E040",
+        "imagepath": "EN/S63/E040.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+                ],
+                "name": "Rhythmical Extermination"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b51",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE09",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE09",
+        "imagepath": "EN/S63/TE09.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 This card gets +500 power for each of your other 《Order》 characters.",
+                    "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room."
+                ],
+                "name": "Merciful, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b56",
+        "rarity": "TD",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE20",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE20",
+        "imagepath": "EN/S63/TE20.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "Put this card into your memory.",
+                    "【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, all players reveal the top card of their decks. If all revealed cards are level 0 or lower characters, put the top card of your stock into your waiting room. If all revealed cards are level 3 or higher characters, choose up to 4 cards in your waiting room, and put them in any order in your stock. (Return all revealed cards to their original place)"
+                ],
+                "name": "Dice"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b5b",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E024",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E024",
+        "imagepath": "EN/S63/E024.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 If you have 4 or more 《Order》 characters, this card gets -1 level while in your hand.",
+                    "【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.",
+                    "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 event card, reveal it to your opponent, put it into your hand, and shuffle your deck."
+                ],
+                "name": "Burdened by Fate, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b60",
+        "rarity": "R",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E034",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E034",
+        "imagepath": "EN/S63/E034.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+                    "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Like a Parent, Goblin Slayer\", your opponent cannot use \"【AUTO】 Encore\" until end of turn. (Your opponent cannot use the \"【AUTO】 Encore ［(3)］\" rule either)"
+                ],
+                "name": "Like a Child, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b65",
+        "rarity": "TD",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE18",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE18",
+        "imagepath": "EN/S63/TE18.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand or by the 【AUTO】 effect of \"Banisher of Heresy, Lizard Priest\", draw up to 2 cards, choose 1 card in your hand, and put it into your waiting room.",
+                    "【AUTO】 【CXCOMBO】 [(4)] When this card attacks, if \"Friends to Battle Alongside With\" is in your climax area, you may pay the cost. If you do, this card gets +3000 power until end of turn, put up to 5 cards from the top of your deck into your waiting room, and perform the following action X times. \"Deal 1 damage to your opponent.\" X is equal to the number of cards with trigger icon put into your waiting room by this effect. (Damage may be canceled)"
+                ],
+                "name": "Rapid Firing of Pebbles, Dwarf Shaman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b6a",
+        "rarity": "R",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E007",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E007",
+        "imagepath": "EN/S63/E007.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Order》 characters revealed among those cards ×1000.",
+                    "【AUTO】 【CXCOMBO】 When this card attacks, if \"Secret XXXX\" is in your climax area, choose 1 of your other characters and this card, and both characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+                ],
+                "name": "Bewitching Demeanor, Witch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b6f",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E032",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E032",
+        "imagepath": "EN/S63/E032.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +1000 power.",
+                    "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"A Woman Swayed\" is in your climax area, put up to 2 cards from the top of your deck into your stock."
+                ],
+                "name": "Figure of Tranquility, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b74",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E072",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E072",
+        "imagepath": "EN/S63/E072.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+                ],
+                "name": "Extensive Divine Protection"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b79",
+        "rarity": "CR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E097",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E097",
+        "imagepath": "EN/S63/E097.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is put into your waiting room from the stage, you may pay the cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.",
+                    "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, and you have an 《Order》 character, at the beginning of your climax phase, choose 1 of your characters, and that character gets +1000 power until end of turn."
+                ],
+                "name": "Little Considerations, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b7e",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E087",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E087",
+        "imagepath": "EN/S63/E087.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, if you have 2 or more other 《Order》 characters, this card gets +2000 power until end of turn.",
+                    "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+                ],
+                "name": "Promise to Oneself, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b83",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E018",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E018",
+        "imagepath": "EN/S63/E018.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 This card gets +1000 power for each of your other 《Order》 characters.",
+                    "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+                ],
+                "name": "Unyielding Stance, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b88",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E043",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E043",
+        "imagepath": "EN/S63/E043.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "Soldier from Dragon Bones, Dragon Tooth Warrior"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b8d",
+        "rarity": "C",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 8500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E021",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E021",
+        "imagepath": "EN/S63/E021.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "If you do not have a character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, this card cannot be played from your hand.",
+                    "Choose 1 of your opponent's characters, and move it to another open position of his or her stage."
+                ],
+                "name": "Torch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b92",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E053",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E053",
+        "imagepath": "EN/S63/E053.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 All players cannot play event cards with the same card name as an event card that was played this turn from hand.",
+                    "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Colorful Adventures\" is in your climax area, put the top 3 cards of your deck into your waiting room, choose up to X 《Order》 characters in your waiting room, and return them to your hand. X is equal to the number of cards with trigger icon that were put into your waiting room by this effect."
+                ],
+                "name": "Pride of an Elf, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b97",
+        "rarity": "RR",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E001",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E001",
+        "imagepath": "EN/S63/E001.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【ACT】 [【REST】 this card] Choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn."
+                ],
+                "name": "Effective Words, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b9c",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E016",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E016",
+        "imagepath": "EN/S63/E016.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your opponent's deck, and look at the bottom card of your opponent's deck. (Return the cards you saw to their original place)"
+                ],
+                "name": "Lie-Detecting Gaze, Examiner"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba1",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E091",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E091",
+        "imagepath": "EN/S63/E091.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【ACT】 【COUNTER】 Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +1500 power until end of turn)"
+                ],
+                "name": "Adventurer, Female Martial Artist"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba6",
+        "rarity": "TD",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE16",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE16",
+        "imagepath": "EN/S63/TE16.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, if you have another \"Final Battle, Female Hero\", this card gets +4000 power.",
+                    "【AUTO】 When this card attacks, choose 1 of your other \"Final Battle, Female Hero\", and that card gets +2500 power until end of turn."
+                ],
+                "name": "Final Battle, Female Swordmaster"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bab",
+        "rarity": "C",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E020",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E020",
+        "imagepath": "EN/S63/E020.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +2000 power.",
+                    "【AUTO】 Encore [Put 1 character from your hand into your waiting room] (When this card is placed on the stage from your hand, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+                ],
+                "name": "Inevitable Gathering, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb0",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E071",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E071",
+        "imagepath": "EN/S63/E071.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 If your clock has 0 cards, this card cannot attack.",
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room, and this card gets +X power until end of turn. X is equal to the number of 《Order》 characters revealed among those cards ×1000."
+                ],
+                "name": "Exploding! High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb5",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E010",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E010",
+        "imagepath": "EN/S63/E010.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Order》 characters, and that card gets +1500 power until end of turn.",
+                    "【AUTO】 When this card's trigger check reveals a climax, if that card's trigger icon is 【SHOT】, you may choose 1 character in your waiting room, and return it to your hand."
+                ],
+                "name": "Generous Heavy Drinker, Dwarf Shaman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bba",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E005",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E005",
+        "imagepath": "EN/S63/E005.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【ACT】 【COUNTER】 Backup 2500, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2500 power until end of turn)"
+                ],
+                "name": "Great Health, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bc3",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E050",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E050",
+        "imagepath": "EN/S63/E050.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "If you do not have a character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, this card cannot be played from your hand.",
+                    "Choose 1 \"《Gate》 Scroll\" or \"Torch\" in your waiting room, and return it to your hand."
+                ],
+                "name": "Duffel Bag"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc4",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E055",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E055",
+        "imagepath": "EN/S63/E055.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a level 0 or lower character revealed among those cards, this card's soul does not decrease by side attacking until end of turn.",
+                    "【AUTO】 When this card is put into your waiting room from the stage, put the top 2 cards of your deck into your waiting room. If there is a level 2 or higher card revealed among those cards, you may put this card into your stock. (Climax are regarded as level 0)"
+                ],
+                "name": "Personal Special Reward, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc5",
+        "rarity": "R",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E065",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E065",
+        "imagepath": "EN/S63/E065.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, reveal the top card of your deck, choose 1 level X or lower character in your waiting room, and return it to your hand. X is equal to the level of the revealed card. (Climax are regarded as level 0. Return the revealed card to its original place)"
+                ],
+                "name": "Super Rare Shot! Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc6",
+        "rarity": "U",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E075",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E075",
+        "imagepath": "EN/S63/E075.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 If the character facing this card is a higher level than this card, this card cannot frontal attack."
+                ],
+                "name": "Sulking Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc7",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 6500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E080",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E080",
+        "imagepath": "EN/S63/E080.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【CONT】 If your stock has 2 or less cards, this card gets +1500 power."
+                ],
+                "name": "Morning After Resurrection, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc8",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E090",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E090",
+        "imagepath": "EN/S63/E090.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until end of turn."
+                ],
+                "name": "Concealed Tactics, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b4d",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE02",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE02",
+        "imagepath": "EN/S63/TE02.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+                ],
+                "name": "Charge!"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b52",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE10",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE10",
+        "imagepath": "EN/S63/TE10.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 All of your other \"Soldier from Dragon Bones, Dragontooth Warrior\" get +2000 power.",
+                    "【AUTO】 [Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Dragon Bones\" in your waiting room, and return it to your hand."
+                ],
+                "name": "Miracle from Ancestors, Lizard Priest"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b57",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E014",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E014",
+        "imagepath": "EN/S63/E014.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+                    "【CONT】 All of your other \"Final Battle, Female Hero\" and \"Final Battle, Female Swordmaster\" get +500 power, and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+                ],
+                "name": "Final Battle, Female Sage"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b5c",
+        "rarity": "C",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E019",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E019",
+        "imagepath": "EN/S63/E019.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax among them, choose 1 level 3 or lower character in your opponent's back stage. That character cannot 【STAND】 during your opponent's next stand phase.",
+                    "【AUTO】 When damage dealt by this card is canceled, you may put this card into your stock."
+                ],
+                "name": "Sleep Spell, Witch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b61",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E044",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E044",
+        "imagepath": "EN/S63/E044.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on your climax area from your hand, choose up to 1 red card in your waiting room, put it into your stock, and all of your characters get +1 soul until end of turn."
+                ],
+                "name": "Secret XXXX"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b66",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E059",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E059",
+        "imagepath": "EN/S63/E059.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top or at the bottom of your deck.",
+                    "【AUTO】 ［(1) Put 1 card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+                ],
+                "name": "Earth Mother's Disciple, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b6b",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE13",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE13",
+        "imagepath": "EN/S63/TE13.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, put the top 2 cards of your deck into your waiting room. If there is a climax revealed among those cards, this card gets +2 soul until end of turn.",
+                    "【AUTO】 When this card is placed on the stage from your hand, you may choose 1 card in your hand, and put it into your stock."
+                ],
+                "name": "Cherished Flavor, Lizard Priest"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b70",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E017",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E017",
+        "imagepath": "EN/S63/E017.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+                ],
+                "name": "Hunting Big Game, Spearman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b75",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E042",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E042",
+        "imagepath": "EN/S63/E042.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 When another 《Adventurer》 character or character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name is placed on the stage from your hand, that character gets +1000 power and 《Quest》 until end of turn.",
+                    "【ACT】 [(2) 【REST】 this card] Draw 1 card."
+                ],
+                "name": "For the Future, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b7a",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E077",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E077",
+        "imagepath": "EN/S63/E077.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn.",
+                    "【AUTO】 [【REST】 2 of your 【STAND】 characters] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your characters, and that character gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, you may put the top card of your deck into your stock.\""
+                ],
+                "name": "Hitting Guild Girl's Weakness"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b7f",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E092",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E092",
+        "imagepath": "EN/S63/E092.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, choose 1 character on your opponent's center stage, and that character gets -1000 power until end of turn.",
+                    "【AUTO】 When this card becomes 【REVERSE】 in battle, you may choose 1 card in your opponent's clock, and put it into his or her waiting room. If you do, your opponent puts the top card of your opponent's deck into his or her clock."
+                ],
+                "name": "Overwhelming Interest, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b84",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E013",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E013",
+        "imagepath": "EN/S63/E013.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, if you have 2 or more other 《Order》 characters, this card gets +2000 power until end of turn."
+                ],
+                "name": "Flame's Source, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b89",
+        "rarity": "TD",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE17",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE17",
+        "imagepath": "EN/S63/TE17.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 [Put the top card of your deck into your clock] At the beginning of the encore step, if there are no other 【REST】 characters if you do not have another 【REST】 character in your center stage, you may pay the cost. If you do, 【REST】 this card."
+                ],
+                "name": "Man of Few Words, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b8e",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E046",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E046",
+        "imagepath": "EN/S63/E046.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to that character's level ×500.",
+                    "【AUTO】 【CXCOMBO】 When \"Here for the Adventurers, Here for You.\" is placed on your climax area, choose up to 2 of your other 《Adventurer》 characters or characters with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, and those characters get the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 4 cards from the top of your deck, choose up to 1 《Order》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room.\""
+                ],
+                "name": "Utmost Assistance, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b93",
+        "rarity": "R",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E073",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E073",
+        "imagepath": "EN/S63/E073.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 During this card's battle, you cannot play \"Backup\" from your hand."
+                ],
+                "name": "Adventurer, Swordsman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b98",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE15",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE15",
+        "imagepath": "EN/S63/TE15.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【RETURN】: When this card triggers, you may choose 1 of your opponent's characters, and return it to his or her hand)"
+                ],
+                "name": "Faith Entrusted to the Bow"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "_id": "5e335ca39ce8d029f41f4b9d",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E026",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E026",
+        "imagepath": "EN/S63/E026.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 If you have 2 or more other 《Order》 characters, this card gets +1500 power and \"【AUTO】 Encore [Put 1 character from your hand into your waiting room]\"."
+                ],
+                "name": "Most Stubborn Frontline, Spearman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba2",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E051",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E051",
+        "imagepath": "EN/S63/E051.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "Quiet Consideration, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b50",
+        "rarity": "TD",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE04",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE04",
+        "imagepath": "EN/S63/TE04.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【COUNTER】 If you do not have an 《Order》 character, this card cannot be played from your hand.",
+                    "Look at up to 4 cards from the top of your deck, choose up to 1 《Order》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+                ],
+                "name": "Torch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b55",
+        "rarity": "TD",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE08",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE08",
+        "imagepath": "EN/S63/TE08.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When your other 《Order》 character attacks, this card gets +1500 power until end of turn.",
+                    "【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check 2 times on the trigger step."
+                ],
+                "name": "Battle Stance, Lizard Priest"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b5a",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E009",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E009",
+        "imagepath": "EN/S63/E009.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets +2000 power until end of turn.",
+                    "【AUTO】 When this card becomes 【REVERSE】 in battle, put this card at the bottom of your deck."
+                ],
+                "name": "Flash of Silver, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b5f",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E049",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E049",
+        "imagepath": "EN/S63/E049.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, this card gets +500 power for each of your other 《Order》 characters.",
+                    "【AUTO】 【CXCOMBO】 When this card's battle opponent becomes 【REVERSE】, if \"Guide to Salvation\" is in your climax area, choose up to 1 《Order》 character in your waiting room, put it into your stock, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+                ],
+                "name": "Heart's Truth, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b64",
+        "rarity": "R",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E074",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E074",
+        "imagepath": "EN/S63/E074.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your \"Final Battle, Female Sage\" in your waiting room, and put it on any position of your stage.",
+                    "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 of your \"Final Battle, Female Swordmaster\" in your waiting room, and put it on any position of your stage."
+                ],
+                "name": "Final Battle, Female Hero"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b69",
+        "rarity": "C",
+        "side": "S",
+        "level": 2,
+        "cost": 3,
+        "power": 8000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E022",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E022",
+        "imagepath": "EN/S63/E022.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, if you have 2 or more other 《Order》 characters, you may draw 1 card. If you do, choose 1 card in your hand, and put it into your waiting room."
+                ],
+                "name": "Under the Starry Sky, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b6e",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E047",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E047",
+        "imagepath": "EN/S63/E047.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+                ],
+                "name": "Battle with One's Life at Stake"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b73",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E057",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E057",
+        "imagepath": "EN/S63/E057.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, choose 1 of your 《Order》 characters, and that character gets +1500 power until end of turn.",
+                    "【AUTO】 [(1)] At the beginning of the encore step, if you do not have another 【REST】 character on your center stage, you may pay the cost. If you do, 【REST】 this card."
+                ],
+                "name": "Beloved Archbishop, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b78",
+        "rarity": "RR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E062",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E062",
+        "imagepath": "EN/S63/E062.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+                    "【AUTO】 【CXCOMBO】 When \"Friends to Battle Alongside With\" is placed on your climax area, if this card is on your center stage, and you are level 3 or higher, you may choose 1 \"Rapid Firing of Pebbles, Dwarf Shaman\" in your waiting room, and put it on any position of your stage."
+                ],
+                "name": "Banisher of Heresy, Lizard Priest"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b7d",
+        "rarity": "R",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E008",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E008",
+        "imagepath": "EN/S63/E008.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Order》 characters you have ×1000."
+                ],
+                "name": "Light That Exposes Chaos, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b82",
+        "rarity": "TD",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE19",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE19",
+        "imagepath": "EN/S63/TE19.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on your climax area from your hand, perform the 【STANDBY】 effect.",
+                    "(【STANDBY】: When this card triggers, you may choose 1 character with a level equal to or less than your level +1 in your waiting room, and put it on any position of your stage as 【REST】)"
+                ],
+                "name": "Brand New Morning"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b87",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E058",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E058",
+        "imagepath": "EN/S63/E058.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 【CXCOMBO】 [(1) Return this card to your hand] When \"Brand New Morning\" is placed on your climax area, you may pay the cost. If you do, choose 1 of your other 《Order》 characters, and 【STAND】 it.",
+                    "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to 1 character in your waiting room, and return it to your hand."
+                ],
+                "name": "Energetic Childhood Friend, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b8c",
+        "rarity": "RR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E028",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E028",
+        "imagepath": "EN/S63/E028.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "Put this card into your memory.",
+                    "【AUTO】 Memory [Put this card into your waiting room] When you level up, if this card is in your memory, you may pay the cost. If you do, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+                ],
+                "name": "Obsidian Rank"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b91",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E094",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E094",
+        "imagepath": "EN/S63/E094.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, choose 1 of your characters, and that character gets +1000 power until end of turn.",
+                    "【AUTO】 【CXCOMBO】 When this card attacks, if \"Ice Cr?me Shock!\" is in your climax area, and your hand has 5 or less cards, look at up to 3 cards from the top of your deck, choose up to 1 《Order》 character from among them, reveal it to your opponent, put it into your hand, and put the rest into your waiting room."
+                ],
+                "name": "Sweet Encounter, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b96",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E088",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E088",
+        "imagepath": "EN/S63/E088.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 When this card becomes 【REVERSE】 in battle, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more cards, choose up to 1 《Order》 character from among them, put it into your hand, put the rest into your waiting room, and put 1 card from your hand into your waiting room.",
+                    "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order."
+                ],
+                "name": "True Bonds, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b9b",
+        "rarity": "R",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E031",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E031",
+        "imagepath": "EN/S63/E031.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +500 power.",
+                    "【AUTO】 When you play an event card, you may put this card into your stock."
+                ],
+                "name": "Quick-Witted Decision, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba0",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E084",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E084",
+        "imagepath": "EN/S63/E084.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When your other 《Order》 character attacks, this card gets +1000 power until end of turn.",
+                    "【AUTO】 [Put 1 card from your hand into your waiting room] When this card is put into your waiting room from the stage, you may pay the cost. If you do, choose 1 level 0 or lower character in your waiting room, and put it on any position of your stage as 【REST】."
+                ],
+                "name": "Profound Reason, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba5",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E078",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E078",
+        "imagepath": "EN/S63/E078.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card becomes 【REVERSE】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of his or her deck."
+                ],
+                "name": "What is a Discussion? Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4baa",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E083",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E083",
+        "imagepath": "EN/S63/E083.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When your character's trigger check reveals an event card, choose 1 of your characters, and that character gets +2000 power until end of turn.",
+                    "【ACT】 Brainstorm [(1) 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, search your deck for up to 1 《Order》 character, reveal it to your opponent, put it into your hand, and shuffle your deck."
+                ],
+                "name": "Kind Acolyte, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4baf",
+        "rarity": "RR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E061",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E061",
+        "imagepath": "EN/S63/E061.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【CONT】 All of your other 《Order》 characters get +500 power.",
+                    "【ACT】 [Put this card into your clock] Choose 1 \"Resurrection\" in your waiting room, and return it to your hand."
+                ],
+                "name": "Ultimate Miracle, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb4",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E086",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E086",
+        "imagepath": "EN/S63/E086.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 If your waiting room has 2 or less climax, this card gets -1 level while in your hand.",
+                    "【AUTO】 When this card is placed on the stage from your hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, put it into your hand, and put the rest into your waiting room. X is equal to the number of 《Order》 characters you have.",
+                    "【AUTO】 When this card attacks, choose 1 of your other 《Order》 characters, and that character gets +X power until end of turn. X is equal to the number of other 《Order》 characters you have ×500."
+                ],
+                "name": "Bursting with Vigor, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bb9",
+        "rarity": "R",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E035",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E035",
+        "imagepath": "EN/S63/E035.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【CONT】 If all of your characters are 《Order》, this card gets +2000 power.",
+                    "【ACT】 [(1)] This card gets +2000 power until end of turn."
+                ],
+                "name": "An Ordinary Piece, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bc9",
+        "rarity": "PR",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E105",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E105",
+        "imagepath": "EN/S63/E105.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【DRAW】: When this card triggers, you may draw 1 card)"
+                ],
+                "name": "Ice Crème Shock!"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "5e335ca39ce8d029f41f4ba7",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E099",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E099",
+        "imagepath": "EN/S63/E099.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "A New Experience, Greenhorn Warrior"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bac",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E093",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E093",
+        "imagepath": "EN/S63/E093.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 All of your other 《Order》 characters get +500 power.",
+                    "【ACT】 [Put this card into your clock] Choose 1 \"《Gate》 Scroll\" in your waiting room, and return it to your hand."
+                ],
+                "name": "Strange Request, Witch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb1",
+        "rarity": "C",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E045",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E045",
+        "imagepath": "EN/S63/E045.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 During your opponent's turn, all of your other 《Order》 characters get +1000 power.",
+                    "【AUTO】 When a climax is placed on your climax area, choose up to 2 of your characters, and those characters get +1000 power until end of turn."
+                ],
+                "name": "Innocent Virgin, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb6",
+        "rarity": "R",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E070",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E070",
+        "imagepath": "EN/S63/E070.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "You may choose in your hand, 1 character with \"Sword Maiden(剣の乙女)\" in its card name and 1 character with \"Priestess(女神官)\" in its card name, and put them into your waiting room. If you do, choose up to 5 cards in your clock, and put them into your waiting room. Put this card into your memory."
+                ],
+                "name": "Resurrection"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bbb",
+        "rarity": "U",
+        "side": "S",
+        "level": 3,
+        "cost": 4,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E095",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E095",
+        "imagepath": "EN/S63/E095.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, all of your other \"Quiet Consideration, Goblin Slayer\" get +2000 power.",
+                    "【AUTO】 Bond/\"Quiet Consideration, Goblin Slayer\" [(1)] (When this card is played and placed on the stage, you may pay the cost. If you do, choose 1 \"Quiet Consideration, Goblin Slayer\" in your waiting room, and return it to your hand)"
+                ],
+                "name": "Brave Girl, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b4f",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE01",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE01",
+        "imagepath": "EN/S63/TE01.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【CONT】 During your turn, if you have another \"Like a Child, Priestess\", this card gets +4000 power.",
+                    "【AUTO】 [Put 1 《Order》 character from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 \"Like a Child, Priestess\" in your waiting room, and put it on any position of your stage."
+                ],
+                "name": "Like a Parent, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b54",
+        "rarity": "TD",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE06",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE06",
+        "imagepath": "EN/S63/TE06.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 All of your other 《Order》 characters get +500 power.",
+                    "【ACT】 ［(2) 【REST】 this card] Put the top card of your clock into your waiting room."
+                ],
+                "name": "One's Own Will, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b59",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE12",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE12",
+        "imagepath": "EN/S63/TE12.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on the top of your deck, and put the rest into your waiting room.",
+                    "【AUTO】 When this card becomes 【REVERSE】, if this card's battle opponent is level 1 or lower, you may 【REVERSE】 that character."
+                ],
+                "name": "A Little Kindness, Witch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b5e",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E039",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E039",
+        "imagepath": "EN/S63/E039.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "If your memory has 2 or less cards, put this card into your memory.",
+                    "【AUTO】 Memory At the beginning of your main phase, if this card is in your memory, look at up to 2 cards from the top of your deck, put them on the top of your deck in the original order, look at up to 2 cards from the top of your opponent's deck, and put them at the top of his or her deck in the original order."
+                ],
+                "name": "Canary"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b63",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E054",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E054",
+        "imagepath": "EN/S63/E054.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to the number of 《Order》 characters you have ×500."
+                ],
+                "name": "Ardent Request, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b68",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E079",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E079",
+        "imagepath": "EN/S63/E079.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to the level of that character ×500.",
+                    "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your deck, and put them on the top of your deck in the original order.",
+                    "【AUTO】 When this card is placed on the stage from your hand, look at up to 2 cards from the top of your opponent's deck, and put them on the top of his or her deck in the original order."
+                ],
+                "name": "Eye of a Veteran Fighter, Dwarf Shaman"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b6d",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E012",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E012",
+        "imagepath": "EN/S63/E012.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 [Put 1 climax from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 《Order》 character in your waiting room, and return it to your hand.",
+                    "【AUTO】 [Put 1 \"Torch\" from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose 1 character in your waiting room, and return it to your hand."
+                ],
+                "name": "A Moment of Peace, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b72",
+        "rarity": "U",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E037",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E037",
+        "imagepath": "EN/S63/E037.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your level 3 or higher characters in front of this card get +2000 power.",
+                    "【AUTO】 Bond/\"Masked Figure's Name, Goblin Slayer\" [Put 1 card from your hand into your waiting room] (When this card is played and placed on stage, you may pay the cost. If you do, choose 1 \"Masked Figure's Name, Goblin Slayer\" in your waiting room, and return it to your hand)"
+                ],
+                "name": "Always Together, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b77",
+        "rarity": "U",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E082",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E082",
+        "imagepath": "EN/S63/E082.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 This ability activates up to 2 times per turn. When your other 《Order》 character is placed on the stage from your hand, this card gets +1000 power until end of turn."
+                ],
+                "name": "Adventurer, Female Mage"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b7c",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE14",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE14",
+        "imagepath": "EN/S63/TE14.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【CONT】 Assist All of your characters in front of this card get +2000 power.",
+                    "【AUTO】 During your opponent's turn, when the damage you received is not canceled, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+                ],
+                "name": "Enchanting Looks, Witch"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b81",
+        "rarity": "R",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 4500,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E033",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E033",
+        "imagepath": "EN/S63/E033.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "Choose 1 of your 【STAND】 characters with \"Lizard Priest(蜥蜴僧侶)\" in its card name, and 【REST】 it. If you do, choose up to 1 of your \"Soldier from Dragon Bones, Dragontooth Warrior\" in your hand, and put it on any position of your stage."
+                ],
+                "name": "Dragon Bones"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b86",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E023",
+        "lang": "EN",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E023",
+        "imagepath": "EN/S63/E023.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Weapon"
+                ],
+                "ability": [
+                    "【AUTO】 This ability activates up to 1 time per turn. When you play an event card, this card gets the following ability until end of turn. \"【AUTO】 When this card's battle opponent becomes 【REVERSE】, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, put it into your hand, put the rest into your waiting room, choose 1 card in your hand, and put it into your waiting room.\""
+                ],
+                "name": "Flickering Fire Arrow, Goblin Slayer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca29ce8d029f41f4b8b",
+        "rarity": "C",
+        "side": "S",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E048",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E048",
+        "imagepath": "EN/S63/E048.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【CONT】 All of your other 《Order》 characters get +1500 power.",
+                    "【AUTO】 When this card is placed on the stage from your hand, you may put the top card of your clock into your waiting room.",
+                    "【ACT】 [【REST】 this card] Look at up to 2 cards from the top of your deck, and put them on the top of your deck in any order."
+                ],
+                "name": "Passionate Yearning, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca29ce8d029f41f4b90",
+        "rarity": "RR",
+        "side": "S",
+        "level": 3,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E063",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E063",
+        "imagepath": "EN/S63/E063.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When you use this card's \"Backup\", if all your characters are yellow, you may put the top card of your deck into your stock.",
+                    "【ACT】 【COUNTER】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room] (Choose 1 of your characters that is being frontal attacked, and that character gets +2000 power until end of turn)"
+                ],
+                "name": "Rear Support, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4b95",
+        "rarity": "U",
+        "side": "S",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E011",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E011",
+        "imagepath": "EN/S63/E011.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 【CLOCK】 Alarm If this card is the top card of your clock, at the beginning of your climax phase, you may choose 1 of your 《Order》 characters, and return it to your hand.",
+                    "【ACT】 [【REST】 this card] Choose 1 of your 《Order》 characters, and that character gets +1000 power until end of turn."
+                ],
+                "name": "Unbending Will, Cow Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4b9a",
+        "rarity": "U",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E036",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E036",
+        "imagepath": "EN/S63/E036.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【COMEBACK】: When this card triggers, you may choose 1 character in your waiting room, and return it to your hand)"
+                ],
+                "name": "Last Breath"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "5e335ca39ce8d029f41f4b9f",
+        "rarity": "CR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E056",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "RED",
+        "__v": 0,
+        "cardcode": "GBS/S63-E056",
+        "imagepath": "EN/S63/E056.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card becomes 【REVERSE】 in battle, if this card's battle opponent is level 0 or lower, you may put that character at the bottom of your opponent's deck."
+                ],
+                "name": "An Ordinary Piece, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4ba4",
+        "rarity": "PR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E104",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E104",
+        "imagepath": "EN/S63/E104.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【CONT】 All of your characters get +1000 power and +1 soul.",
+                    "(【GATE】: When this card triggers, you may choose 1 climax in your waiting room, and return it to your hand)"
+                ],
+                "name": "Guide to Salvation"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "5e335ca39ce8d029f41f4ba9",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E098",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E098",
+        "imagepath": "EN/S63/E098.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Archbishop"
+                ],
+                "ability": [
+                    "【AUTO】 [(1) Put the top card of your deck into your clock] When this card is placed on the stage from your hand, you may pay the cost. If you do, search your deck for up to 1 character with \"Goblin Slayer(ゴブリンスレイヤー)\" in its card name, reveal it to your opponent, put it into your hand, and shuffle your deck."
+                ],
+                "name": "Welcome to the City of Water, Sword Maiden"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bae",
+        "rarity": "U",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E076",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E076",
+        "imagepath": "EN/S63/E076.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When your other 《Order》 character attacks, this card gets +2000 power until end of turn.",
+                    "【AUTO】 Encore [Put 1 《Order》 character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as 【REST】)"
+                ],
+                "name": "An Ordinary Piece, High Elf Archer"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bb3",
+        "rarity": "PR",
+        "side": "S",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E101",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "__v": 0,
+        "cardcode": "GBS/S63-E101",
+        "imagepath": "EN/S63/E101.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Guild"
+                ],
+                "ability": [
+                    "【AUTO】 At the beginning of your climax phase, choose 1 of your 《Order》 characters, and that character gains the following ability until end of turn. \"【AUTO】 When this card direct attacks, reveal the top card of your deck. If that card is an 《Order》 character, put it into your hand, choose 1 card in your hand, and put it into your waiting room.\" (Otherwise, return it to its original place)",
+                    "【ACT】 Brainstorm ［① 【REST】 this card] Flip over 4 cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, draw up to 1 card."
+                ],
+                "name": "Unnoticed Beauty, Guild Girl"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5e335ca39ce8d029f41f4bb8",
+        "rarity": "TD",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "TE11",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-TE11",
+        "imagepath": "EN/S63/TE11.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "-",
+                    "-"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the climax area from your hand, choose up to 1 blue card in your waiting room, put it into your stock, and all your characters get +1 soul until end of turn."
+                ],
+                "name": "Here for the Adventurers, Here for You."
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "5e335ca39ce8d029f41f4bca",
+        "rarity": "CC",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "set": "GBS",
+        "release": "63",
+        "sid": "E100",
+        "lang": "EN",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/S63-E100",
+        "imagepath": "EN/S63/E100.gif"
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [
+                    "Order",
+                    "Adventurer"
+                ],
+                "ability": [
+                    "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is an 《Order》 character, choose 1 of your characters, and that character gets +2000 power until end of turn. (Return the revealed card to its original place)",
+                    "【AUTO】 [(2)] When this card is placed on the stage from your hand, you may pay the cost. If you do, return all cards from your waiting room to your deck, and shuffle your deck."
+                ],
+                "name": "Holy Dance, Priestess"
+            }
+        },
+        "series": "5e335c49202372df5eb05a3b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "5ea5c8f25f277795ebaaf8ff",
+        "rarity": "PR",
+        "side": "S",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "set": "GBS",
+        "release": "63",
+        "sid": "BSF2020-01",
+        "lang": "EN",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "__v": 0,
+        "cardcode": "GBS/BSF2020-01",
+        "imagepath": "EN/S63/BSF2020-01.gif"
+    }
+]

@@ -1,0 +1,932 @@
+[
+    {
+        "code": "BD/W95-TE01",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE01"
+    },
+    {
+        "code": "BD/W95-TE02",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE02"
+    },
+    {
+        "code": "BD/W95-TE03",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE03"
+    },
+    {
+        "code": "BD/W95-TE04",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE04"
+    },
+    {
+        "code": "BD/W95-TE05",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE05"
+    },
+    {
+        "code": "BD/W95-TE06",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE06"
+    },
+    {
+        "code": "BD/W95-TE07",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE07"
+    },
+    {
+        "code": "BD/W95-TE08",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE08"
+    },
+    {
+        "code": "BD/W95-TE09",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE09"
+    },
+    {
+        "code": "BD/W95-TE10",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE10"
+    },
+    {
+        "code": "BD/W95-TE11",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE11"
+    },
+    {
+        "code": "BD/W95-TE12",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE12"
+    },
+    {
+        "code": "BD/W95-TE13",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE13"
+    },
+    {
+        "code": "BD/W95-TE14",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-TE14"
+    },
+    {
+        "code": "BD/W95-E001",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E001"
+    },
+    {
+        "code": "BD/W95-E002",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E002"
+    },
+    {
+        "code": "BD/W95-E003",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E003"
+    },
+    {
+        "code": "BD/W95-E004",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E004"
+    },
+    {
+        "code": "BD/W95-E005",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E005"
+    },
+    {
+        "code": "BD/W95-E006",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E006"
+    },
+    {
+        "code": "BD/W95-E007",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E007"
+    },
+    {
+        "code": "BD/W95-E008",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E008"
+    },
+    {
+        "code": "BD/W95-E009",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E009"
+    },
+    {
+        "code": "BD/W95-E010",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E010"
+    },
+    {
+        "code": "BD/W95-E011",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E011"
+    },
+    {
+        "code": "BD/W95-E012",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E012"
+    },
+    {
+        "code": "BD/W95-E013",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E013"
+    },
+    {
+        "code": "BD/W95-E014",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E014"
+    },
+    {
+        "code": "BD/W95-E015",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E015"
+    },
+    {
+        "code": "BD/W95-E016",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E016"
+    },
+    {
+        "code": "BD/W95-E017",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E017"
+    },
+    {
+        "code": "BD/W95-E018",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E018"
+    },
+    {
+        "code": "BD/W95-E019",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E019"
+    },
+    {
+        "code": "BD/W95-E020",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E020"
+    },
+    {
+        "code": "BD/W95-E021",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E021"
+    },
+    {
+        "code": "BD/W95-E022",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E022"
+    },
+    {
+        "code": "BD/W95-E023",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E023"
+    },
+    {
+        "code": "BD/W95-E024",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E024"
+    },
+    {
+        "code": "BD/W95-E025",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E025"
+    },
+    {
+        "code": "BD/W95-E026",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E026"
+    },
+    {
+        "code": "BD/W95-E027",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E027"
+    },
+    {
+        "code": "BD/W95-E028",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E028"
+    },
+    {
+        "code": "BD/W95-E029",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E029"
+    },
+    {
+        "code": "BD/W95-E030",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E030"
+    },
+    {
+        "code": "BD/W95-E031",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E031"
+    },
+    {
+        "code": "BD/W95-E032",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E032"
+    },
+    {
+        "code": "BD/W95-E033",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E033"
+    },
+    {
+        "code": "BD/W95-E034",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E034"
+    },
+    {
+        "code": "BD/W95-E035",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E035"
+    },
+    {
+        "code": "BD/W95-E036",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E036"
+    },
+    {
+        "code": "BD/W95-E037",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E037"
+    },
+    {
+        "code": "BD/W95-E038",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E038"
+    },
+    {
+        "code": "BD/W95-E039",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E039"
+    },
+    {
+        "code": "BD/W95-E040",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E040"
+    },
+    {
+        "code": "BD/W95-E041",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E041"
+    },
+    {
+        "code": "BD/W95-E042",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E042"
+    },
+    {
+        "code": "BD/W95-E043",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E043"
+    },
+    {
+        "code": "BD/W95-E044",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E044"
+    },
+    {
+        "code": "BD/W95-E045",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E045"
+    },
+    {
+        "code": "BD/W95-E046",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E046"
+    },
+    {
+        "code": "BD/W95-E047",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E047"
+    },
+    {
+        "code": "BD/W95-E048",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E048"
+    },
+    {
+        "code": "BD/W95-E049",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E049"
+    },
+    {
+        "code": "BD/W95-E050",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E050"
+    },
+    {
+        "code": "BD/W95-E051",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E051"
+    },
+    {
+        "code": "BD/W95-E052",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E052"
+    },
+    {
+        "code": "BD/W95-E053",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E053"
+    },
+    {
+        "code": "BD/W95-E054",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E054"
+    },
+    {
+        "code": "BD/W95-E055",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E055"
+    },
+    {
+        "code": "BD/W95-E056",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E056"
+    },
+    {
+        "code": "BD/W95-E057",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E057"
+    },
+    {
+        "code": "BD/W95-E058",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E058"
+    },
+    {
+        "code": "BD/W95-E059",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E059"
+    },
+    {
+        "code": "BD/W95-E060",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E060"
+    },
+    {
+        "code": "BD/W95-E061",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E061"
+    },
+    {
+        "code": "BD/W95-E062",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E062"
+    },
+    {
+        "code": "BD/W95-E063",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E063"
+    },
+    {
+        "code": "BD/W95-E064",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E064"
+    },
+    {
+        "code": "BD/W95-E065",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E065"
+    },
+    {
+        "code": "BD/W95-E066",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E066"
+    },
+    {
+        "code": "BD/W95-E067",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E067"
+    },
+    {
+        "code": "BD/W95-E068",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E068"
+    },
+    {
+        "code": "BD/W95-E069",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E069"
+    },
+    {
+        "code": "BD/W95-E070",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E070"
+    },
+    {
+        "code": "BD/W95-E071",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E071"
+    },
+    {
+        "code": "BD/W95-E072",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E072"
+    },
+    {
+        "code": "BD/W95-E073",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E073"
+    },
+    {
+        "code": "BD/W95-E074",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E074"
+    },
+    {
+        "code": "BD/W95-E075",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E075"
+    },
+    {
+        "code": "BD/W95-E076",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E076"
+    },
+    {
+        "code": "BD/W95-E077",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E077"
+    },
+    {
+        "code": "BD/W95-E078",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E078"
+    },
+    {
+        "code": "BD/W95-E079",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E079"
+    },
+    {
+        "code": "BD/W95-E080",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E080"
+    },
+    {
+        "code": "BD/W95-E081",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E081"
+    },
+    {
+        "code": "BD/W95-E082",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E082"
+    },
+    {
+        "code": "BD/W95-E083",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E083"
+    },
+    {
+        "code": "BD/W95-E084",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E084"
+    },
+    {
+        "code": "BD/W95-E085",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E085"
+    },
+    {
+        "code": "BD/W95-E086",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E086"
+    },
+    {
+        "code": "BD/W95-E087",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E087"
+    },
+    {
+        "code": "BD/W95-E088",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E088"
+    },
+    {
+        "code": "BD/W95-E089",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E089"
+    },
+    {
+        "code": "BD/W95-E090",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E090"
+    },
+    {
+        "code": "BD/W95-E091",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E091"
+    },
+    {
+        "code": "BD/W95-E092",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E092"
+    },
+    {
+        "code": "BD/W95-E093",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E093"
+    },
+    {
+        "code": "BD/W95-E094",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E094"
+    },
+    {
+        "code": "BD/W95-E095",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E095"
+    },
+    {
+        "code": "BD/W95-E096",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E096"
+    },
+    {
+        "code": "BD/W95-E097",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E097"
+    },
+    {
+        "code": "BD/W95-E098",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E098"
+    },
+    {
+        "code": "BD/W95-E099",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E099"
+    },
+    {
+        "code": "BD/W95-E100",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E100"
+    },
+    {
+        "code": "BD/W95-E101",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E101"
+    },
+    {
+        "code": "BD/W95-E102",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E102"
+    },
+    {
+        "code": "BD/W95-E103",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E103"
+    },
+    {
+        "code": "BD/W95-E104",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E104"
+    },
+    {
+        "code": "BD/W95-E105",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E105"
+    },
+    {
+        "code": "BD/W95-E106",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E106"
+    },
+    {
+        "code": "BD/W95-E107",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E107"
+    },
+    {
+        "code": "BD/W95-E108",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E108"
+    },
+    {
+        "code": "BD/W95-E109",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E109"
+    },
+    {
+        "code": "BD/W95-E110",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E110"
+    },
+    {
+        "code": "BD/W95-E111",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E111"
+    },
+    {
+        "code": "BD/W95-E112",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E112"
+    },
+    {
+        "code": "BD/W95-E113",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E113"
+    },
+    {
+        "code": "BD/W95-E114",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E114"
+    },
+    {
+        "code": "BD/W95-E115",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E115"
+    },
+    {
+        "code": "BD/W95-E116",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E116"
+    },
+    {
+        "code": "BD/W95-E117",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E117"
+    },
+    {
+        "code": "BD/W95-E118",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E118"
+    },
+    {
+        "code": "BD/W95-E119",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E119"
+    },
+    {
+        "code": "BD/W95-E120",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E120"
+    },
+    {
+        "code": "BD/W95-E121",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E121"
+    },
+    {
+        "code": "BD/W95-E122",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E122"
+    },
+    {
+        "code": "BD/W95-E123",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E123"
+    },
+    {
+        "code": "BD/W95-E124",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E124"
+    },
+    {
+        "code": "BD/W95-E125",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E125"
+    },
+    {
+        "code": "BD/W95-E126",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E126"
+    },
+    {
+        "code": "BD/W95-E127",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E127"
+    },
+    {
+        "code": "BD/W95-E128",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E128"
+    },
+    {
+        "code": "BD/W95-E129",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E129"
+    },
+    {
+        "code": "BD/W95-E130",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E130"
+    },
+    {
+        "code": "BD/W95-E131",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E131"
+    },
+    {
+        "code": "BD/W95-E132",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E132"
+    },
+    {
+        "code": "BD/W95-E133",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-E133"
+    },
+    {
+        "code": "BD/W95-PE04",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/W95-PE04"
+    },
+    {
+        "code": "BD/WE35-PE15",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE15"
+    },
+    {
+        "code": "BD/WE35-PE16",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE16"
+    },
+    {
+        "code": "BD/WE35-PE17",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE17"
+    },
+    {
+        "code": "BD/WE35-PE18",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE18"
+    },
+    {
+        "code": "BD/WE35-PE19",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE19"
+    },
+    {
+        "code": "BD/WE35-PE20",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE20"
+    },
+    {
+        "code": "BD/WE35-PE21",
+        "name": "",
+        "rarity": "",
+        "bushi": "https://en.ws-tcg.com/cardlist/list/?cardno=BD/WE35-PE21"
+    }
+]

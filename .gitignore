@@ -1,0 +1,6 @@
+node_modules
+bushi_output/*.json
+promo_output/*.json
+final_output/*.json
+images/**/*.png
+images/**/*.gif

@@ -1,0 +1,3759 @@
+[
+    {
+        "name": "腹ペコな美少女剣士 ペコリーヌ",
+        "code": "PRD/W84-001",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "やばいですね☆",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, choose 1 of your other 《ランドソル》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card63720-large.jpg"
+    },
+    {
+        "name": "誰かの為に ペコリーヌ",
+        "code": "PRD/W84-002",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "全力全開！",
+        "ability": [
+            "【C】For each of your other 《ランドソル》 Character, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】EXPERIENCE [Place all your Stock into Waiting Room] When this card attacks, if 「プリンセスストライク」 is in your Climax Slot, and the total Level in your Level Slot is 4 or higher, deal 1 Damage to opponent, you may pay the cost. If you did, if the number of cards placed into Waiting Room by this effect's Cost is 3 or 4, deal 1 Damage to opponent, if it's 5 or more, deal 3 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card63722-large.jpg"
+    },
+    {
+        "name": "私の願い シオリ",
+        "code": "PRD/W84-003",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "これが…私の願い。目標だよ",
+        "ability": [
+            "【C】During your turn, if you have 4 or more other 《ランドソル》 Character, this card gets +5000 Power, gains the following Ability. 『【C】During this card's battle, opponent cannot play Event and 『ASSIST』 from Hand.』",
+            "【A】This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, when this card dealt Damage is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to opponent. X is equal to that card's Level +1. (Climax is considered Level 0. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card63725-large.jpg"
+    },
+    {
+        "name": "乙女チックな力持ち リマ",
+        "code": "PRD/W84-004",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私、こう見えて力持ちだから",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「メタモルアップル リマ」 from your Waiting Room, place it under this card face-up as Marker.",
+            "【S】[(1)] Choose 1 「メタモルアップル リマ」 from this card's Marker, exchange with this card in face-up, until end of opponent's next turn, it gains the following Ability. 『【A】At the end of opponent's turn, choose 1 「乙女チックな力持ち リマ」 from this card's Marker, exchange with this card in face-up.』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card63727-large.jpg"
+    },
+    {
+        "name": "運命の人を探して エリコ",
+        "code": "PRD/W84-005",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ベッドに戻りましょうね…",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place that Character into Stock. If you did, place the bottom card from opponent's Stock into Waiting Room.",
+            "【A】BOND／「紡いだ絆 ユウキ」「失われた記憶 ユウキ」「渚の美食殿 ユウキ」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「紡いだ絆 ユウキ」 or 「失われた記憶 ユウキ」 or 「渚の美食殿 ユウキ」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card63729-large.jpg"
+    },
+    {
+        "name": "二人の約束 シオリ",
+        "code": "PRD/W84-006",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "いつかお姉ちゃんと一緒に見に行ってみたいな",
+        "ability": [
+            "【A】When this card attacks, if you have other 《ランドソル》 Character, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「かけがえのない時間」 is in your Climax Slot, reveal the top card of your Deck. If that card is a 《ランドソル》 Character, place it into Stock, until end of opponent's next turn, this card gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card63731-large.jpg"
+    },
+    {
+        "name": "渚の美食殿 ペコリーヌ",
+        "code": "PRD/W84-007",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "コッコロちゃーん！ありがとー！",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【C】EXPERIENCE If the total Level in your Level Slot is 3 or higher, this card gains the following Ability. 『【S】[REST this card] Choose 1 of your Character, during this turn, it gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character into Stock. If you did, place the bottom card from opponent's Stock into Waiting Room.』』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card63733-large.jpg"
+    },
+    {
+        "name": "食べるの大好き ペコリーヌ",
+        "code": "PRD/W84-008",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "とっても熟してますね～！",
+        "ability": [
+            "【C】If you have 4 or more 《ランドソル》 Character, this card gets -1 Level in your Hand.",
+            "【A】【CXCOMBO】EXPERIENCE [Place 1 「美食殿の日常」 from your Climax Slot into Waiting Room] At the end of this card's attack, if the total Level in your Level Slot is 2 or higher, and you have 4 or more other 《ランドソル》 Character, you may pay the cost. If you did, choose up to 2 「食べるの大好き ペコリーヌ」 or 「誰かの為に ペコリーヌ」 from your Waiting Room, return them to Hand, place up to 1 card from your top Deck into Stock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card63734-large.jpg"
+    },
+    {
+        "name": "ごきげんな歌 リマ",
+        "code": "PRD/W84-009",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "リマリマリーマーリマリマー♪",
+        "ability": [
+            "【C】 If your Hand has 5 or more cards, this card gets ＋1 Level and ＋2500 Power, gains the following Ability.『【C】 The Character facing this card, and this card cannot Side Attack.』",
+            "【A】 At the beginning of opponent's Attack Phase, choose 1 of your Character at the Center Slot of Front Row and this card, STAND and exchange them. If you did not exchange, move this card to the empty Center Slot of Front Row."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card63736-large.jpg"
+    },
+    {
+        "name": "儚げな少女 シオリ",
+        "code": "PRD/W84-010",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】At the beginning of your Main Phase, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【S】【CXCOMBO】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each 「姉妹の絆」 or 「かけがえのない時間」 among those cards, search your Deck for up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card63737-large.jpg"
+    },
+    {
+        "name": "Dr.ミツキ",
+        "code": "PRD/W84-011",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "じゃあ、服脱いでお腹診せて",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】[(1) Place this card into Waiting Room] When your other 《ランドソル》 Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character into its previous slot on Stage in REST, until the end of next turn from this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card63738-large.jpg"
+    },
+    {
+        "name": "頼れる牧場主 マヒル",
+        "code": "PRD/W84-012",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "無理は禁物だべ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, perform the following Action 2 times. 『Look at the top card of your Deck, place it on top Deck or Waiting Room.』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card63740-large.jpg"
+    },
+    {
+        "name": "ぐうたら娘 リン",
+        "code": "PRD/W84-013",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "しおりんが息切れしてるじゃーん",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if all your Character are 《ランドソル》, you may place the top card of your Deck into Stock.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card63742-large.jpg"
+    },
+    {
+        "name": "奇妙な看護師 ナナカ",
+        "code": "PRD/W84-014",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place X cards from your top Deck into Waiting Room. X is equal to the number of your 《ランドソル》 Character.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card63744-large.jpg"
+    },
+    {
+        "name": "壊し屋 エリコ",
+        "code": "PRD/W84-015",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "覚悟はいいですわね！",
+        "ability": [
+            "【C】 EXPERIENCE If 「紡いだ絆 ユウキ」 is in your Level Slot, this card gets －1 Level in your Hand.",
+            "【A】 When this card is placed on Stage from Hand, you draw up to 2 cards, choose 2 cards from your top Deck, place them into Waiting Room, place up to 1 card from your top Deck into Stock.",
+            "【A】 When this card's dealt Damage is not cancelled, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ランドソル》 Character ×1000."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card63746-large.jpg"
+    },
+    {
+        "name": "タルグム村の激闘 リン",
+        "code": "PRD/W84-016",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 Your other Character at the Center Slot of Front Row gets ＋1000 Power.",
+            "【S】［Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ Choose 1 《ランドソル》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card63747-large.jpg"
+    },
+    {
+        "name": "蒐集家 ナナカ",
+        "code": "PRD/W84-017",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "新しく覚えた魔法だったけど上手くいったっぽい？",
+        "ability": [
+            "【A】［(1)］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card each from your Hand and Level Slot, exchange them.",
+            "【A】 When this card attacks, choose 1 of your 《ランドソル》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card63748-large.jpg"
+    },
+    {
+        "name": "愛のこもった料理 エリコ",
+        "code": "PRD/W84-018",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "隠し味は私の…ア・イ・ジョ・オ…！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋3000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card63749-large.jpg"
+    },
+    {
+        "name": "ワガママなわたし ペコリーヌ",
+        "code": "PRD/W84-019",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私と一緒に、あの魔物を倒すの手伝ってください！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may choose 1 card from your Hand, place it into Stock.",
+            "【A】EXPERIENCE When this card is placed on Stage from Hand, if the total Level in your Level Slot is 2 or higher, choose 1 of your Character with Level 2 or higher, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card63750-large.jpg"
+    },
+    {
+        "name": "隻眼の悪魔 ミツキ",
+        "code": "PRD/W84-020",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "カースブルーム",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your 《ランドソル》 Character ×500.",
+            "【A】［REST 1 of your other STAND 《ランドソル》 Character］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card each from your Level Slot and Waiting Room, exchange them, choose 1 of your Character, during this turn, it gets ＋500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card63751-large.jpg"
+    },
+    {
+        "name": "タルグム村の激闘 マヒル",
+        "code": "PRD/W84-021",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if you have other 《ランドソル》 Character, during this turn, this card gets ＋2000 Power.",
+            "【A】 When this card attacks, if you have other 《ランドソル》 Character, and the Character facing this card is Level 2, during this turn, this card gets ＋4500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card63752-large.jpg"
+    },
+    {
+        "name": "メタモルアップル リマ",
+        "code": "PRD/W84-022",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "みんなと同じ人間の姿でいられるの",
+        "ability": [
+            "【C】 If this card is at the Center Slot of Front Row, and this card has Marker, for each of your other 《ランドソル》 Character at Back Row, this card gets ＋2000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card63753-large.jpg"
+    },
+    {
+        "name": "大食い大会",
+        "code": "PRD/W84-023",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "おかわりくださーい！",
+        "ability": [
+            "CONCENTRATION Choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "Both players flip top 3 cards from their Deck, place them into Waiting Room. If your total Character's Power among those cards is higher than opponent's total Character's Power among those cards, and you have a Character with 「ペコリーヌ」 in its name, you may choose 1 《ランドソル》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card63754-large.jpg"
+    },
+    {
+        "name": "ギルド活動",
+        "code": "PRD/W84-024a",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "おぉ～！",
+        "ability": [
+            "Choose up to 1 opponent's Character, return it to Hand, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "024a",
+        "image": "https://images.littleakiba.com/tcg/card63755-large.jpg"
+    },
+    {
+        "name": "ギルド活動",
+        "code": "PRD/W84-024b",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "朝食の準備、ありがとうございました",
+        "ability": [
+            "Choose up to 1 opponent's Character, return it to Hand, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "024b",
+        "image": "https://images.littleakiba.com/tcg/card63756-large.jpg"
+    },
+    {
+        "name": "ギルド活動",
+        "code": "PRD/W84-024c",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "キャルさま、遅いですね",
+        "ability": [
+            "Choose up to 1 opponent's Character, return it to Hand, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "024c",
+        "image": "https://images.littleakiba.com/tcg/card63757-large.jpg"
+    },
+    {
+        "name": "ギルド活動",
+        "code": "PRD/W84-024d",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この世のおいしいものの探求！",
+        "ability": [
+            "Choose up to 1 opponent's Character, return it to Hand, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "024d",
+        "image": "https://images.littleakiba.com/tcg/card63758-large.jpg"
+    },
+    {
+        "name": "ギルド活動",
+        "code": "PRD/W84-024e",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose up to 1 opponent's Character, return it to Hand, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "024e",
+        "image": "https://images.littleakiba.com/tcg/card63759-large.jpg"
+    },
+    {
+        "name": "プリンセスストライク",
+        "code": "PRD/W84-025",
+        "rarity": "CR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "確実に仕留めます",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card63760-large.jpg"
+    },
+    {
+        "name": "美食殿の日常",
+        "code": "PRD/W84-026",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お米が大好きなランドソルのお姫さまが、一念発起して稲作を始めたみたいなんです",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card63762-large.jpg"
+    },
+    {
+        "name": "かけがえのない時間",
+        "code": "PRD/W84-027",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card63764-large.jpg"
+    },
+    {
+        "name": "小さなガイド役 コッコロ",
+        "code": "PRD/W84-028",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "しっかりと主さまに仕えてみせます",
+        "ability": [
+            "【A】EXPERIENCE At the bginning of your Climax Phase, choose 1 of your 《ランドソル》 Character, during this turn, it gets +X Power. X is equal to the total Colours in your Level Slot x500.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card63766-large.jpg"
+    },
+    {
+        "name": "主を導く役目 コッコロ",
+        "code": "PRD/W84-029",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ギルド美食殿は、さまざまなクエストをこなし",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「勝利のために」 is in your Climax Slot, and you have 2 or more other 《ランドソル》 Character, look at up to 3 cards from your top Deck, choose up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, choose 1 of your 《ランドソル》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card63768-large.jpg"
+    },
+    {
+        "name": "妹思いの超能力者 ハツネ",
+        "code": "PRD/W84-030",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock.",
+            "【A】【CXCOMBO】When 「姉妹の絆」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《ランドソル》 Character, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】[(2)] This Ability can be activated up to 1 time each turn. When this card attacks, you may pay the cost. If you did, deal 2 Damage to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card63771-large.jpg"
+    },
+    {
+        "name": "二人の約束 ハツネ",
+        "code": "PRD/W84-031",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "この牧場に来てからシオリンすごく元気になったもん",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card63773-large.jpg"
+    },
+    {
+        "name": "メルクリウス財団会長 アキノ",
+        "code": "PRD/W84-032",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "サレンさんのお店の新人さんかしら。ご機嫌よう",
+        "ability": [
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 Character facing this card, and 1 opponent's Character aside from that Character at Front Row, STAND and exchange them."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card63775-large.jpg"
+    },
+    {
+        "name": "ギルド管理協会の職員 カリン",
+        "code": "PRD/W84-033",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "わからない事があったら遠慮なく聞いてくださいね",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card63777-large.jpg"
+    },
+    {
+        "name": "渚の美食殿 コッコロ",
+        "code": "PRD/W84-034",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "あ、主さま",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《ランドソル》 Character x500.",
+            "【A】[(1)] When this card attacks, if there is a Climax in your Climax Slot, you may pay the cost. If you did, during this attack, this card gets +1 Level, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card63778-large.jpg"
+    },
+    {
+        "name": "最高の一杯 ユカリ",
+        "code": "PRD/W84-035",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ホント、労働のあとの麦シュワは最高よね",
+        "ability": [
+            "【C】SUPPORT All your 《ランドソル》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】【CXCOMBO】[(1)] When your Character Trigger Checks a 「メルクリウス財団」, you may pay the cost. If you did, you draw 1 card."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card63779-large.jpg"
+    },
+    {
+        "name": "ぼっちのエルフ アオイ",
+        "code": "PRD/W84-036",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "それからはや数年…",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【S】[REST this card] Choose 1 opponent's Character, look at up to 2 cards from opponent's top Deck, choose 1 card, place it under that chosen Character face-down as Marker, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card63781-large.jpg"
+    },
+    {
+        "name": "楽しい食事 コッコロ",
+        "code": "PRD/W84-037",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 2,
+        "flavor_text": "甘みが増しておいしいですね",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card63783-large.jpg"
+    },
+    {
+        "name": "真夏のたい焼き タマキ",
+        "code": "PRD/W84-038",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "焼きたてのおいしいたい焼き作ってあげるニャ！",
+        "ability": [
+            "【C】During the turn when this card is placed on Stage from Hand, when this card attacks, you may choose 1 opponent's Character at Back Row, and Front Attack that Character as the Defending Character.",
+            "【A】【CXCOMBO】[(2)] When this card's battle opponent becomes REVERSE, if 「メルクリウス財団」 is in your Climax Slot, you may pay the cost. If you did, place that Character into Clock, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card63785-large.jpg"
+    },
+    {
+        "name": "趣味はアルバイト ミフユ",
+        "code": "PRD/W84-039",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, until end of opponent's next turn, it gains the following Ability. 『【C】This card cannot move to other slot.』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card63787-large.jpg"
+    },
+    {
+        "name": "バイバイぼっち アオイ",
+        "code": "PRD/W84-040",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "BB団？",
+        "ability": [
+            "【C】 If you have no other Character, this card gets ＋2000 Power.",
+            "【A】 When this card becomes REVERSE, place this card to bottom Deck."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card63789-large.jpg"
+    },
+    {
+        "name": "空で居眠り ハツネ",
+        "code": "PRD/W84-041",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ふにゃふにゃ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《ランドソル》 Character, during this turn, it gets +1500 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card63790-large.jpg"
+    },
+    {
+        "name": "アオイの保護者？ ミサト",
+        "code": "PRD/W84-042",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your 《ランドソル》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】[(2) REST this card] Place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card63791-large.jpg"
+    },
+    {
+        "name": "主さまの行方 カリン",
+        "code": "PRD/W84-043",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ユウキさんなら昼間来られましたよ？",
+        "ability": [
+            "【S】[(2) Place this card into Waiting Room] Look at up to 10 cards from your top Deck, choose up to 1 《ランドソル》 Character, place it into any slot on Stage, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card63793-large.jpg"
+    },
+    {
+        "name": "酔い醒ましの一発 タマキ",
+        "code": "PRD/W84-044",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "浅かったニャ？",
+        "ability": [
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ランドソル》 Character from your Clock, return it to Hand, place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card63794-large.jpg"
+    },
+    {
+        "name": "カップルへの嫉妬 ユカリ",
+        "code": "PRD/W84-045",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "あっちを見てもカップル",
+        "ability": [
+            "【C】 During opponent's turn, if all your Character are 《ランドソル》, this card gets ＋1 Level and ＋1500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card63795-large.jpg"
+    },
+    {
+        "name": "BB団の在り方 アオイ",
+        "code": "PRD/W84-046",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "困った人あれば何を言わずとも助ける！",
+        "ability": [
+            "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, place the top card of opponent's Clock into Waiting Room. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Clock.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card63796-large.jpg"
+    },
+    {
+        "name": "対等な関係 アキノ",
+        "code": "PRD/W84-047",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "サレンさん…",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《ランドソル》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card63797-large.jpg"
+    },
+    {
+        "name": "逆転のアプローチ アキノ",
+        "code": "PRD/W84-048",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "ゆえにたい焼きなのです。この素人が！ですわ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if your Stock is less than opponent's Stock, you may place the top card of your Deck into Stock.",
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets ＋6000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card63798-large.jpg"
+    },
+    {
+        "name": "大切な絆 コッコロ",
+        "code": "PRD/W84-049",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "……",
+        "ability": [
+            "【C】If you have 2 or more other 《ランドソル》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】EXPERIENCE When this card attacks, if 「これはお金です」 is in your Climax Slot, and 「失われた記憶 ユウキ」 is in your Level Slot, choose up to 2 《ランドソル》 Character from your Waiting Room, place them into Stock in any order, during this turn, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card63799-large.jpg"
+    },
+    {
+        "name": "積み重ねてきた日々",
+        "code": "PRD/W84-050",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "コッコロ「たゆまぬ日々を送っていらっしゃるのですから」",
+        "ability": [
+            "If you have no 《ランドソル》 Character, you cannot play this card from Hand. Send this card to Memory.",
+            "If there is 1 「積み重ねてきた日々」 in your Memory, choose up to 1 《ランドソル》 Character from your Waiting Room, place it into Stock, choose 1 of your Character, during this turn, it gets +1000 Power and +1 Soul.",
+            "If there is 2 「積み重ねてきた日々」 in your Memory, choose 1 Character from your Waiting Room, return it to Hand.",
+            "If there is 3 「積み重ねてきた日々」 in your Memory, search your Deck for up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "If there is 4 「積み重ねてきた日々」 in your Memory, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card63800-large.jpg"
+    },
+    {
+        "name": "勝利のために",
+        "code": "PRD/W84-051",
+        "rarity": "CR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "風の精霊よ、力を！！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card63801-large.jpg"
+    },
+    {
+        "name": "これはお金です",
+        "code": "PRD/W84-052",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ああ、主さま、口に咥えてはなりません！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card63803-large.jpg"
+    },
+    {
+        "name": "姉妹の絆",
+        "code": "PRD/W84-053",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "シオリンは足手まといじゃないよ",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card63805-large.jpg"
+    },
+    {
+        "name": "メルクリウス財団",
+        "code": "PRD/W84-054",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card63807-large.jpg"
+    },
+    {
+        "name": "誰の為に キャル",
+        "code": "PRD/W84-055",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "てぇい！",
+        "ability": [
+            "【C】If all your Characters are 《ランドソル》, this card gets +1000 Power.",
+            "【A】【CXCOMBO】EXPERIENCE When this card attacks, if 「グリムバースト」 is in your Climax Slot, and the total Level in your Level slot is 2 or higher, place 2 cards from your top Deck into Waiting Room, choose up to 1 《ランドソル》 Character with Level X or lower from your Waiting Room, return it to Hand, during this turn, this card gets +1000 Power. X is equal to the total Level of cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card63809-large.jpg"
+    },
+    {
+        "name": "ネコ耳魔法少女 キャル",
+        "code": "PRD/W84-056",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "ぶっ殺すぞ！",
+        "ability": [
+            "【C】If you have 4 or more 《ランドソル》 Character, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if all your Character are 《ランドソル》, this card gets +2000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card63812-large.jpg"
+    },
+    {
+        "name": "渚の美食殿 キャル",
+        "code": "PRD/W84-057",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "んー",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card63814-large.jpg"
+    },
+    {
+        "name": "街の占い師 シノブ",
+        "code": "PRD/W84-058",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "…ようこそ",
+        "ability": [
+            "【C】This Ability can be activated up to 2 times each turn. When your other 《ランドソル》 Character is placed on Stage from Hand, during this turn, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card63815-large.jpg"
+    },
+    {
+        "name": "伝説の吸血鬼 イリヤ",
+        "code": "PRD/W84-059",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "我が眷属よ。闇へと帰るがいい",
+        "ability": [
+            "【C】If this card has Marker, this card gets +7500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「失われた記憶 ユウキ」 from your Waiting Room, place it under this card face-up as Marker."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card63817-large.jpg"
+    },
+    {
+        "name": "王宮騎士団副団長 クリスティーナ",
+        "code": "PRD/W84-060",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "まだ踊れるだろう？",
+        "ability": [
+            "【A】【CXCOMBO】[(1) Place 1 「争いを望む者」 from your Climax Slot into Waiting Room] During your Climax Phase, when this card is placed on Stage by 「争いを望む者」's effect, you may pay the cost. If you did, STAND this card, until end of opponent's next turn, this card cannot become REVERSE, cannot be chosen by opponent's effect, and gains the following Ability. 『【C】During this card's battle, opponent cannot play Event and 『ASSIST』 from Hand.』",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of opponent's Character x500."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card63819-large.jpg"
+    },
+    {
+        "name": "まともな食材 キャル",
+        "code": "PRD/W84-061",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "とっても甘い香り！",
+        "ability": [
+            "【C】EXPERIENCE If the total Level in your Level Slot is 4 or higher, this card gains 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』, the Character facing this card gets -1 Soul.",
+            "【A】【CXCOMBO】[(2)] When 「騒々しい日々」 is placed into your Climax Slot, if this card is at Front Row, you may pay the cost. If you did, place 4 cards from opponent's bottom Deck into Waiting Room, deal X Damage to opponent. X is equal to the total number of cards with Level 0 or lower among those cards. (Climax is considered Level 0. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card63821-large.jpg"
+    },
+    {
+        "name": "プリンに取り憑かれた幽霊 ミヤコ",
+        "code": "PRD/W84-062",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "そんなことよりプリンよこすの～！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《ランドソル》 Character, you may choose 1 opponent's Character with Level 3 or lower on Stage and 1 Character with Level 0 or lower in Waiting Room, exchange them. During this turn, the Character that placed on Stage by this effect gains 《プリン》.",
+            "【A】[Place 1 《ランドソル》 Character from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if you have other 《ランドソル》 Character, you may pay the cost. If you did, place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card63823-large.jpg"
+    },
+    {
+        "name": "魔族の姉妹 アカリ",
+        "code": "PRD/W84-063",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use 『ACCELERATE』, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】[(1)] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.』",
+            "【S】[REST this card] Choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card63825-large.jpg"
+    },
+    {
+        "name": "夜を統べる者 イリヤ",
+        "code": "PRD/W84-064",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "わらわこそ夜を統べる者",
+        "ability": [
+            "【A】［Place the top card of your Stock into Clock］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《ランドソル》 Character with Level same or lower than your Level and Cost 0 or lower, place it into any slot on Stage, shuffle your Deck afterwards.",
+            "【A】 When this card's dealt Damage is cancelled, you may place this card into Stock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card63827-large.jpg"
+    },
+    {
+        "name": "魔族の姉妹 ヨリ",
+        "code": "PRD/W84-065",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "イリヤさん、元の姿に！",
+        "ability": [
+            "【A】When this card attacks, if you have 2 or more other 《ランドソル》 Character, during this turn, this card gets +2000 Power.",
+            "【A】ACCELERATE [Place the top card of your Deck into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +5000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card63828-large.jpg"
+    },
+    {
+        "name": "王宮騎士団団員 トモ",
+        "code": "PRD/W84-066",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ここはまだ危険だ。一般市民は離れて！",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, this card gets +1000 Power, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card63830-large.jpg"
+    },
+    {
+        "name": "騒乱の第二幕 クリスティーナ",
+        "code": "PRD/W84-067",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "つまらんことはしてくれるなよ？",
+        "ability": [
+            "【C】 If you have 2 or more other 《ランドソル》 Character, this card gets ＋2000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card63832-large.jpg"
+    },
+    {
+        "name": "王宮騎士団団員 マツリ",
+        "code": "PRD/W84-068",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "そんな言い方ないッス！",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《ランドソル》 Character, during this turn, it gets +X Power. X is equal to the number of opponent's Character with Level 2 or higher x1000.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 2 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card63833-large.jpg"
+    },
+    {
+        "name": "王宮騎士団団長 ジュン",
+        "code": "PRD/W84-069",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 2,
+        "flavor_text": "なに？",
+        "ability": [
+            "【C】For each of your other 《ランドソル》 Character, this card gets +1000 Power.",
+            "【C】This card cannot be chosen by opponent's effect."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card63835-large.jpg"
+    },
+    {
+        "name": "良い幽霊？ ミヤコ",
+        "code": "PRD/W84-070",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each of your other 《ランドソル》 Character at Back Row, this card gets ＋1500 Power.",
+            "【A】 ENCORE ［Place 1 《ランドソル》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card63837-large.jpg"
+    },
+    {
+        "name": "王都襲撃 トモ",
+        "code": "PRD/W84-071",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そして、その魔物なんですが",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, this card gets ＋2500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card63838-large.jpg"
+    },
+    {
+        "name": "王への疑惑 クリスティーナ",
+        "code": "PRD/W84-072",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "我らが王は、何をお考えなのだろうな？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ランドソル》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card63839-large.jpg"
+    },
+    {
+        "name": "帰るべき場所 キャル",
+        "code": "PRD/W84-073",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……",
+        "ability": [
+            "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle your Deck afterwards.",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card63840-large.jpg"
+    },
+    {
+        "name": "神出鬼没 アユミ",
+        "code": "PRD/W84-074",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《ランドソル》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.（If not, return revealed card to its original position）",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card63841-large.jpg"
+    },
+    {
+        "name": "団長としての務め ジュン",
+        "code": "PRD/W84-075",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card63843-large.jpg"
+    },
+    {
+        "name": "理想のプリン ミヤコ",
+        "code": "PRD/W84-076",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ほわぁ～……！",
+        "ability": [
+            "【A】 When your other Character's battle opponent becomes REVERSE, choose 1 of your Character, during this turn, it gets ＋500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card63844-large.jpg"
+    },
+    {
+        "name": "霊能少女 シノブ",
+        "code": "PRD/W84-077",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ダメですよミヤコさん。カジュアルな感じで人に取り憑いては",
+        "ability": [
+            "【C】 All your other 《ランドソル》 Character gets ＋1000 Power.",
+            "【S】［Place 1 Character from Hand into Waiting Room］ Choose 1 「霊能少女 シノブ」 from your Waiting Room, place it into any slot on Stage, until end of opponent's next turn, place that Character into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card63845-large.jpg"
+    },
+    {
+        "name": "魔力不足 イリヤ",
+        "code": "PRD/W84-078",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "うぅ…！",
+        "ability": [
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets ＋4000 Power and ＋1 Soul.",
+            "【A】 When this card Direct Attacks, you may choose 1 《ランドソル》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card63846-large.jpg"
+    },
+    {
+        "name": "奪われたもの",
+        "code": "PRD/W84-079",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "わたくしがこの手で排除いたしますゆえ",
+        "ability": [
+            "Choose 1 of your Character, until end of opponent's next turn, it gains the following Ability. 『【C】All opponent's Character in all area lose card name, and cannot gain card name.』"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card63847-large.jpg"
+    },
+    {
+        "name": "グリムバースト",
+        "code": "PRD/W84-080",
+        "rarity": "CR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そいつを陸に上げるわよ！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card63848-large.jpg"
+    },
+    {
+        "name": "騒々しい日々",
+        "code": "PRD/W84-081",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あんな化け物イカ、そうそういるわけないでしょ",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card63850-large.jpg"
+    },
+    {
+        "name": "争いを望む者",
+        "code": "PRD/W84-082",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "次はどんな調べを奏でてくれる？",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card63852-large.jpg"
+    },
+    {
+        "name": "クエスト達成！ ミミ",
+        "code": "PRD/W84-083",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ミミたち、クエスト達成したよ",
+        "ability": [
+            "【A】【CXCOMBO】When 「リトルリリカル大冒険」 is placed into your Climax Slot, choose 1 of your Character, until end of opponent's next turn, it gets +1000 Power.",
+            "【S】[REST this card] Choose 1 of your 《ランドソル》 Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card63854-large.jpg"
+    },
+    {
+        "name": "サレンディア救護院 サレン＆スズメ",
+        "code": "PRD/W84-084",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose 1 card, place it into Clock, place the remaining cards into Waiting Room. If 1 card is placed into Clock, choose 1 《ランドソル》 Character from your Waiting Room, return it to Hand.",
+            "【A】When a Climax is placed into opponent's Climax Slot, you may place this card into Stock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card63856-large.jpg"
+    },
+    {
+        "name": "クエスト達成！ ミソギ",
+        "code": "PRD/W84-085",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 《ランドソル》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「リトルリリカル大冒険」 is in your Climax Slot, and all your Characters are 《ランドソル》, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, place it into Stock, if not, add that card to Hand or place it into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card63858-large.jpg"
+    },
+    {
+        "name": "クエスト達成！ キョウカ",
+        "code": "PRD/W84-086",
+        "rarity": "RR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2) Place 1 card from Hand into Waiting Room] At the end of this card's attack, if 「リトルリリカル大冒険」 is in your Climax Slot, you may pay the cost. If you did, you declare 2 or 3, deal X Damage to opponent. X is equal to the number you declared. If this Damage cancelled, choose up to 2 《ランドソル》 Character from your Waiting Room, place them into Stock in any order. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card63860-large.jpg"
+    },
+    {
+        "name": "ドジっ娘メイド スズメ",
+        "code": "PRD/W84-087",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "サレン様にお仕えしているメイドでスズメと申します",
+        "ability": [
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When your Character Trigger Checks 「ソードオブフェニックス」, you may pay the cost. If you did, you draw 1 card.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《ランドソル》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card63862-large.jpg"
+    },
+    {
+        "name": "失われた記憶 ユウキ",
+        "code": "PRD/W84-088",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "んー",
+        "ability": [
+            "【C】SUPPORT EXEPERIENCE All your Character in front of this card gets +X Power. X is equal to the number of Colours in your Level Slot x500."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card63864-large.jpg"
+    },
+    {
+        "name": "真面目な優等生 キョウカ",
+        "code": "PRD/W84-089",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "静かに！他のお客さんに迷惑だよ",
+        "ability": [
+            "【A】At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card63865-large.jpg"
+    },
+    {
+        "name": "子供達のママ サレン",
+        "code": "PRD/W84-090",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "その食器、気に入ってくれたの？",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】For each of your other 《ランドソル》 Character at Back Row, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card63867-large.jpg"
+    },
+    {
+        "name": "クレープ屋の亭主 ラビリスタ",
+        "code": "PRD/W84-091",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "いい画だ",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, until end of opponent's next turn, this card gets +2500 Power and +1 Soul."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card63869-large.jpg"
+    },
+    {
+        "name": "紡いだ絆 ユウキ",
+        "code": "PRD/W84-092",
+        "rarity": "R",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "仲間は僕が守る",
+        "ability": [
+            "【C】 All your other 《ランドソル》 Character gets ＋1500 Power.",
+            "【A】【CXCOMBO】［Place 1 「プリンセスナイトの力」 from Hand into Waiting Room］ At the beginning of your Climax Phase, if this card is at Front Row, you may pay the cost. If you did, during this turn, all your other Character gets ＋1000 Power, gains the following Ability.『【A】 When this card's battle opponent becomes REVERSE, you may deal 1 Damage to opponent.』（Damage can be cancelled）"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card63871-large.jpg"
+    },
+    {
+        "name": "渚の美食殿 ユウキ",
+        "code": "PRD/W84-093",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ん？",
+        "ability": [
+            "【A】【CXCOMBO】When this card becomes REVERSE, look at up to X cards from your top Deck, choose up to 1 「プリンセスストライク」 or 「グリムバースト」 or 「勝利のために」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. If you added card to Hand, choose 1 card from your Hand, place it into Waiting Room. X is equal to 4 if there are 2 or more Colours in your Level Slot. If not, X equal 3."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card63873-large.jpg"
+    },
+    {
+        "name": "見知らぬ姉 シズル",
+        "code": "PRD/W84-094",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "会いたかったよー！弟くーん！",
+        "ability": [
+            "【C】If you have other 「失われた記憶　ユウキ」, this card gets +1 Level and +2500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card63874-large.jpg"
+    },
+    {
+        "name": "初めてのお店 ミミ",
+        "code": "PRD/W84-095",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《ランドソル》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《ランドソル》 Character x500.",
+            "【A】When this card attacks, during this turn, all your Character gains the following Ability. 『【A】[Place 1 Climax from Hand into Waiting Room] When this card Trigger Checks a Climax, you may pay the cost. If you did, choose 1 《ランドソル》 Character from your Waiting Room, return it to Hand.』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card63876-large.jpg"
+    },
+    {
+        "name": "食材収集 サレン",
+        "code": "PRD/W84-096",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「ソードオブフェニックス」 is in your Climax Slot, and you have other 《ランドソル》 Character, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card63878-large.jpg"
+    },
+    {
+        "name": "見知らぬ妹 リノ",
+        "code": "PRD/W84-097",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "質問を質問で返さないでください！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character at Front Row gets -500 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card63879-large.jpg"
+    },
+    {
+        "name": "素敵な仲間と共に ミソギ",
+        "code": "PRD/W84-098",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "あ、ありがとう",
+        "ability": [
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, until end of opponent's next turn, it gets +4000 Power.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When your Character Trigger Checks a Climax, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card63881-large.jpg"
+    },
+    {
+        "name": "クエストの誘い ミソギ",
+        "code": "PRD/W84-099",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "そのクエストにご興味が？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《ランドソル》 Character among those cards x1000.",
+            "【A】When this card becomes REVERSE, you may place the top card of opponent's Clock into Waiting Room. If you did, opponent places the top card of his/her Deck into Clock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card63883-large.jpg"
+    },
+    {
+        "name": "突然の出会い リノ",
+        "code": "PRD/W84-100",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うわぁー！？",
+        "ability": [
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「失われた記憶 ユウキ」, place it into any slot on Stage, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card63884-large.jpg"
+    },
+    {
+        "name": "目玉商品開発 スズメ",
+        "code": "PRD/W84-101",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ココナッツミルクで魚の煮込み料理とか",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《ランドソル》 Character, choose 1 of your Character, during this turn, it gets ＋3000 Power.（Return revealed card to its original position）",
+            "【A】［(2)］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ランドソル》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card63885-large.jpg"
+    },
+    {
+        "name": "コンビネーション攻撃 キョウカ",
+        "code": "PRD/W84-102",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "えーい！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card63886-large.jpg"
+    },
+    {
+        "name": "問題発言 シズル",
+        "code": "PRD/W84-103",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "どんどん食べてねー",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《ランドソル》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card63887-large.jpg"
+    },
+    {
+        "name": "世界の秘密 ラビリスタ",
+        "code": "PRD/W84-104",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "では行こう！",
+        "ability": [
+            "【C】 SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【C】 If your Level is 3 or higher, this card gains the following Ability.『【S】［(1) Place this card into Waiting Room］ Choose 1 「紡いだ絆 ユウキ」 from your Waiting Room, place it into this card's previous slot on Stage.』"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card63888-large.jpg"
+    },
+    {
+        "name": "コンビネーション攻撃 ミミ",
+        "code": "PRD/W84-105",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "えーい！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your 《ランドソル》 Character ×1000.",
+            "【A】When this card's battle opponent becomes REVERSE, if there is a Climax in your Level Slot, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card63889-large.jpg"
+    },
+    {
+        "name": "夢見た光景",
+        "code": "PRD/W84-106",
+        "rarity": "U",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "山奥には存在しない、世界中の神秘を",
+        "ability": [
+            "Reveal the top card of your Deck, reveal up to all cards in Deck until a Climax is revealed, and add the revealed Climax to Hand, return the remaining cards into Deck, shuffle your Deck afterwards."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card63890-large.jpg"
+    },
+    {
+        "name": "犠牲",
+        "code": "PRD/W84-107",
+        "rarity": "C",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Place 2 cards from your top Deck into Waiting Room, choose up to 1 《ランドソル》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect.（Climax is considered Level 0）"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card63891-large.jpg"
+    },
+    {
+        "name": "リトルリリカル大冒険",
+        "code": "PRD/W84-108",
+        "rarity": "CR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card63892-large.jpg"
+    },
+    {
+        "name": "プリンセスナイトの力",
+        "code": "PRD/W84-109",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はぁーっ！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card63894-large.jpg"
+    },
+    {
+        "name": "ソードオブフェニックス",
+        "code": "PRD/W84-110",
+        "rarity": "CC",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ソードオブフェニックス！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card63896-large.jpg"
+    },
+    {
+        "name": "仲間への信頼 ペコリーヌ",
+        "code": "PRD/W84-111",
+        "rarity": "PR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "もちろん。仲間ですから",
+        "ability": [
+            "【C】 If the Character facing this card is Cost 0 or lower, this card gets ＋1 Level and ＋3500 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card63898-large.jpg"
+    },
+    {
+        "name": "海中散歩 コッコロ",
+        "code": "PRD/W84-112",
+        "rarity": "PR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "竜宮城のようでございますね",
+        "ability": [
+            "【C】 If your Stock has 2 or less cards, this cards gets ＋1 Level and ＋1000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "112",
+        "image": "https://images.littleakiba.com/tcg/card63899-large.jpg"
+    },
+    {
+        "name": "素人の発想 キャル",
+        "code": "PRD/W84-113",
+        "rarity": "PR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "カッチーン",
+        "ability": [
+            "【C】 All your other 《ランドソル》 Character gets ＋500 Power.",
+            "【A】 When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "113",
+        "image": "https://images.littleakiba.com/tcg/card63900-large.jpg"
+    },
+    {
+        "name": "海中散歩 ユウキ",
+        "code": "PRD/W84-114",
+        "rarity": "PR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "コッコロ「わたくしは、あのころ想像していたよりも」",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, send that Character to Memory.』",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "114",
+        "image": "https://images.littleakiba.com/tcg/card63901-large.jpg"
+    },
+    {
+        "name": "次なる冒険へ ペコリーヌ",
+        "code": "PRD/W84-P01",
+        "rarity": "PR",
+        "expansion": "Princess Connect! Re:Dive (Anime)",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level in your Level Slot is 3 or higher, for each of your other 《ランドソル》 Character, this card gets ＋500 Power.",
+            "【A】 When this card attacks, if you have 2 or more other 《ランドソル》 Character, during this turn, this card gets ＋2000 Power."
+        ],
+        "attributes": [
+            "《ランドソル》",
+            "Guild 《ギルド》"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card63902-large.jpg"
+    },
+    {
+        "name": "0/0 Kokkoro",
+        "code": "PRD/W84-T01",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Landosol>, this gets +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201215_oc04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Pecorine",
+        "code": "PRD/W84-T02",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +500",
+            "AUTO - When your Climax is placed on the Climax Area, choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201223_ws06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kokkoro",
+        "code": "PRD/W84-T03",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - You cannot play Events or BACKUPS from hand."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201223_ws07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kokkoro",
+        "code": "PRD/W84-T04",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card attacks, choose one of your characters, it gets +2500 power until end of turn."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_t04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Pecorine",
+        "code": "PRD/W84-T05",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Landosol> characters, this gets +1000 power.",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have Choice CX (T11) in the Climax Area, search your deck for up to 1 <Landosol> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201214_md004.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kokkoro",
+        "code": "PRD/W84-T06",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201217_ws06.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Pecorine",
+        "code": "PRD/W84-T07",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_t07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Kokkoro",
+        "code": "PRD/W84-T08",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "ACT - [(1) Rest this] If you have 2 or less hand, draw 1 card."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201221_ws05.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Pecorine",
+        "code": "PRD/W84-T09",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card attacks, it gets +X power until end of turn. X is equal to the number of your other <Landosol> characters times 1000.",
+            "AUTO - ENCORE [Discard 1 <Landosol> character from hand to waiting room]"
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_t09.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Pecorine",
+        "code": "PRD/W84-T10",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have another {0/0 Kyaru - T14} and {2/1 Kokkoro - T08}, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.\r\n"
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201218_ws05.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "PRD/W84-T11",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T11",
+        "image": "https://i.imgur.com/eDx9DsB.png?1",
+        "community": true
+    },
+    {
+        "code": "PRD/W84-T12",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T12",
+        "image": "https://i.imgur.com/rrVNWNN.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Yuuki",
+        "code": "PRD/W84-T13",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other {1/0 Kokkoro vanilla -T06} get +2000 power.",
+            "AUTO - BOND (1) to 1/0 Kokkoro (T06)"
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201217_ws07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kyaru",
+        "code": "PRD/W84-T14",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - (1) Draw 1 card, then discard 1 card.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201223_ws08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kyaru",
+        "code": "PRD/W84-T15",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your opponent's Front Row characters, you may move it to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201222_ws04.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Kyaru",
+        "code": "PRD/W84-T16",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - This gets +500 power for each of your other <Landosol> characters.",
+            "AUTO - ENCORE [Put the top card of your deck into your clock]"
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_t16.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Kyaru",
+        "code": "PRD/W84-T17",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - This gets +1000 power for each of your other <Landosol> characters.\r\n"
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_t17.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Kyaru",
+        "code": "PRD/W84-T18",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, draw 1 card, discard 1 card, then choose up to 1 of your opponent's characters, and return it to hand.",
+            "AUTO - [(1) Discard 1 card] When this card's battle opponent is Reversed, you may pay cost. If you do, deal 1 damage to your opponent."
+        ],
+        "attributes": [
+            "Landosol",
+            "Guild"
+        ],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201216_xw06.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Event",
+        "code": "PRD/W84-T19",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Event",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose up to 2 characters from your Waiting Room, and add them to hand."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201224_ws05.png",
+        "community": true
+    },
+    {
+        "name": "Red Stock Soul CX",
+        "code": "PRD/W84-T20",
+        "rarity": "TD",
+        "expansion": "Princess Connect: ReDive",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Shares the same name as the Pants CX (109) used for the Booster Yuki 3/2 Combo (092)."
+        ],
+        "attributes": [],
+        "set": "PRD",
+        "release": "W84",
+        "sid": "T20",
+        "image": "https://i.imgur.com/9YFzTNS.png?1",
+        "community": true
+    }
+]

@@ -1,0 +1,587 @@
+[
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P08",
+        "name": "",
+        "jpName": "休日のひととき 響\u0026クリス",
+        "cardType": "CH",
+        "colour": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P07",
+        "name": "",
+        "jpName": "休日のひととき 切歌\u0026調",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "ability": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P06",
+        "name": "",
+        "jpName": "輝きを放つ歌声 翼",
+        "cardType": "CH",
+        "colour": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P09",
+        "name": "",
+        "jpName": "決戦の時 響",
+        "cardType": "CH",
+        "colour": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "power": "5000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。』（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "－",
+            "－"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P10",
+        "name": "",
+        "jpName": "“まんが DE 絶唱”シンフォギア装者",
+        "cardType": "CH",
+        "colour": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "specialAttrib": [
+            "音楽"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P11",
+        "name": "",
+        "jpName": "ドキドキお泊り会 調＆切歌",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてがカード名に「切歌」か「調」を含むキャラなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P01",
+        "name": "",
+        "jpName": "輝きを放つ歌声 響",
+        "cardType": "CH",
+        "colour": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "power": "7500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "ability": [
+            "【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。"
+        ],
+        "specialAttrib": [
+            "音楽"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P02",
+        "name": "",
+        "jpName": "輝きを放つ歌声 切歌",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P03",
+        "name": "",
+        "jpName": "輝きを放つ歌声 調",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P04",
+        "name": "",
+        "jpName": "輝きを放つ歌声 クリス",
+        "cardType": "CH",
+        "colour": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "1000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "ability": [
+            "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "SG",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "70",
+        "id": "P05",
+        "name": "",
+        "jpName": "輝きを放つ歌声 マリア",
+        "cardType": "CH",
+        "colour": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "武器"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P03",
+        "name": "",
+        "jpName": "全力のライブ 湊友希那",
+        "cardType": "CH",
+        "colour": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "power": "6000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "Roselia"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P04",
+        "name": "",
+        "jpName": "Rausch und/and Craziness",
+        "cardType": "CX",
+        "colour": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "0",
+        "soul": "0",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "specialAttrib": []
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P06",
+        "name": "",
+        "jpName": "スクールライフ 美竹蘭",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "1500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の緑のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "Afterglow"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P07",
+        "name": "",
+        "jpName": "ギャラクシーの前で レイヤ",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "power": "2000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "RAISE A SUILEN"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P08",
+        "name": "",
+        "jpName": "スクールライフ 丸山彩",
+        "cardType": "CH",
+        "colour": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "3000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 このカードの正面のキャラは他の枠に動かせない。",
+            "【永】 このカードはサイドアタックできない。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "Pastel＊Palettes"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P09",
+        "name": "",
+        "jpName": "スクールライフ 戸山香澄",
+        "cardType": "CH",
+        "colour": "RED",
+        "level": "1",
+        "cost": "1",
+        "power": "5500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "Poppin’Party"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P10",
+        "name": "",
+        "jpName": "スクールライフ 湊友希那",
+        "cardType": "CH",
+        "colour": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "Roselia"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P01",
+        "name": "",
+        "jpName": "全力のライブ レイヤ",
+        "cardType": "CH",
+        "colour": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "RAISE A SUILEN"
+        ]
+    },
+    {
+        "set": "BD",
+        "setName": "PRカード【Wサイド】",
+        "side": "W",
+        "release": "73",
+        "id": "P02",
+        "name": "",
+        "jpName": "全力のライブ 戸山香澄",
+        "cardType": "CH",
+        "colour": "RED",
+        "level": "0",
+        "cost": "0",
+        "power": "2000",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "Poppin'Party"
+        ]
+    },
+    {
+        "set": "SR",
+        "setName": "PRカード【Sサイド】",
+        "side": "S",
+        "release": "E25",
+        "id": "P02",
+        "name": "",
+        "jpName": "ある夏の日　キリカ",
+        "cardType": "CH",
+        "colour": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "power": "2500",
+        "soul": "1",
+        "rarity": "PR",
+        "breakDeckbuilding": false,
+        "EN_Equivalent": false,
+        "flavourText": "",
+        "trigger": [],
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《音楽》か《竜》のキャラの枚数×500に等しい。"
+        ],
+        "specialAttrib": [
+            "音楽",
+            "竜"
+        ]
+    }
+]

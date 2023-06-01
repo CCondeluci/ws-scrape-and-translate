@@ -1,0 +1,1379 @@
+[
+    {
+        "name": "“Astral Harmony”山吹沙綾",
+        "code": "BD/WE35-01",
+        "rarity": "RR",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "それじゃあこの曲で武道館いきますか？",
+        "ability": [
+            "【A】When this card becomes REVERSE, look at up to 3 cards from your top Deck, choose up to 1 Climax and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. If you added cards to Hand, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card67660-large.jpg"
+    },
+    {
+        "name": "“Astral Harmony”市ヶ谷有咲",
+        "code": "BD/WE35-02",
+        "rarity": "RR",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ポピパやれて、良かった",
+        "ability": [
+            "【A】When this card attacks, if you have other 《Poppin'Party》 Character, during this turn, this card gets +3000 Power.",
+            "【A】【CXCOMBO】[Reveal 1 「“Astral Harmony”市ヶ谷有咲」 from Hand, place it into Stock, place 1 「MV制作の日々」 from Climax Slot into Waiting Room] When this card attacks, you may pay the cost. If you did, place up to 1 card from your top Deck into Stock, look at up to 2 cards from your top Deck, choose up to 2 《Poppin'Party》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card67592-large.jpg"
+    },
+    {
+        "name": "“Astral Harmony”牛込りみ",
+        "code": "BD/WE35-03",
+        "rarity": "RR",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ライブ……めっっっっちゃ楽しかった",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1) Place 1 「“Astral Harmony”山吹沙綾」 from Hand into Waiting Room] When this card attacks, if 「だいまんぞく」 is in your Climax Slot, you may pay the cost. If you did, deal 1 Damage to opponent 2 times. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card67662-large.jpg"
+    },
+    {
+        "name": "“Breakthrough!”花園たえ",
+        "code": "BD/WE35-04",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "客席…いっぱいだ…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card67596-large.jpg"
+    },
+    {
+        "name": "“Breakthrough!”市ヶ谷有咲",
+        "code": "BD/WE35-05",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card67664-large.jpg"
+    },
+    {
+        "name": "“Astral Harmony”戸山香澄",
+        "code": "BD/WE35-06",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ありがとう全部のっけてキラキラドキドキしたいね！",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, you draw 1 card.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《Poppin'Party》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card67665-large.jpg"
+    },
+    {
+        "name": "“Breakthrough!”牛込りみ",
+        "code": "BD/WE35-07",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, place 2 cards from your top Deck into Waiting Room, choose 1 《Poppin'Party》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card67666-large.jpg"
+    },
+    {
+        "name": "“Breakthrough!”山吹沙綾",
+        "code": "BD/WE35-08",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】[Place 1 「らぶらぶ」 from your Climax Slot into Waiting Room] During your Climax Phase, if this card is placed on Stage by 「らぶらぶ」's effect, you may pay the cost. If you did, STAND this card."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card67667-large.jpg"
+    },
+    {
+        "name": "“Astral Harmony”花園たえ",
+        "code": "BD/WE35-09",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "全部のせ！お腹いっぱいだ",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】ENCORE ［(1) Place 1 of your Character from Stage into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card67606-large.jpg"
+    },
+    {
+        "name": "“Breakthrough!”戸山香澄",
+        "code": "BD/WE35-10",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "わー、お客さん近いよー",
+        "ability": [
+            "【C】If this card is at Front Row, all your 《Poppin'Party》 Character gets +1500 Power.",
+            "【A】[(2) Place 1 「“Breakthrough!”市ヶ谷有咲」 from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, place the top card of your Deck into Waiting Room, deal X Damage to opponent. X is equal to that card's Level +1. (Climax is considered Level 0. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card67608-large.jpg"
+    },
+    {
+        "name": "“ミライトレイン”山吹沙綾",
+        "code": "BD/WE35-11",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 Your other Character with Level 3 or higher at the Center Slot of Front Row gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《Poppin'Party》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card67610-large.jpg"
+    },
+    {
+        "name": "大会に向けて 市ヶ谷有咲",
+        "code": "BD/WE35-12",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なんか豪華な大会になってきたな",
+        "ability": [
+            "【A】［(1)］ When this card Front Attacks, you may pay the cost. If you did, choose 1 opponent's Character, during this turn, it gets －1 Level.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card67611-large.jpg"
+    },
+    {
+        "name": "新曲決定 花園たえ",
+        "code": "BD/WE35-13",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "降りてきた",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or becomes REVERSE, look at the top card of your Deck, place it on top Deck or Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card67672-large.jpg"
+    },
+    {
+        "name": "“夢を撃ち抜く瞬間に！”戸山香澄",
+        "code": "BD/WE35-14",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】［Place 1 《Poppin'Party》 Character from Hand into Clock, REST this card］ Draw up to 2 cards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card67613-large.jpg"
+    },
+    {
+        "name": "大会に向けて 戸山香澄",
+        "code": "BD/WE35-15",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "もちろん、出る！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 opponent's Character, during this turn, it gains the following Ability.『【C】 This card cannot return to Hand, cannot send to Memory.』",
+            "【A】 When this card attacks, if your Stock has 5 or less cards, during this turn, this card gets ＋3000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card67614-large.jpg"
+    },
+    {
+        "name": "“Step×Step！”牛込りみ",
+        "code": "BD/WE35-16",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 SUPPORT All your Character with Level 3 or higher in front of this card gets ＋2000 Power.",
+            "【S】［(2) REST this card］ Place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card67615-large.jpg"
+    },
+    {
+        "name": "大会に向けて 花園たえ",
+        "code": "BD/WE35-17",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "行こう、おっちゃんも団十郎も、お母さんも、みんな連れて",
+        "ability": [
+            "【A】［(1)］ When this card Front Attacks, you may pay the cost. If you did, choose 1 opponent's Character, during this turn, it gets －1 Level.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card67676-large.jpg"
+    },
+    {
+        "name": "“ミライトレイン”牛込りみ",
+        "code": "BD/WE35-18",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】 When this card is placed on Stage from Hand, opponent declare a number of 0 or 1 or 2 or 3. Reveal the top card of your Deck, if that card is a Character with Level same as opponent's declaration, place it into any slot on Stage.（If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card67617-large.jpg"
+    },
+    {
+        "name": "キョトンとする 山吹沙綾",
+        "code": "BD/WE35-19",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "えーと…？",
+        "ability": [
+            "【C】 For each of your other 《Poppin'Party》 Character, this card gets ＋500 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, look at up to 2 cards from your top Deck, place them on top Deck in any order."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card67618-large.jpg"
+    },
+    {
+        "name": "“Step×Step！”戸山香澄",
+        "code": "BD/WE35-20",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card67679-large.jpg"
+    },
+    {
+        "name": "温泉気分 市ヶ谷有咲",
+        "code": "BD/WE35-21",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "そこまで言うなら\n入らないでもない……けどな",
+        "ability": [
+            "【S】［REST this card］ Reveal the top card of your Deck. If that card is Level 1 or higher, add it to Hand.（Climax is considered Level 0. If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card67620-large.jpg"
+    },
+    {
+        "name": "“Step×Step！”花園たえ",
+        "code": "BD/WE35-22",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［Place 1 《Poppin'Party》 Character from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 opponent's Character, send it to Memory, at the beginning of Encore Step, opponent places that Character from Memory into any slot on Stage.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Poppin'Party 《Poppin'Party》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card67621-large.jpg"
+    },
+    {
+        "name": "だいまんぞく",
+        "code": "BD/WE35-23",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card67622-large.jpg"
+    },
+    {
+        "name": "らぶらぶ",
+        "code": "BD/WE35-24",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card67623-large.jpg"
+    },
+    {
+        "name": "MV制作の日々",
+        "code": "BD/WE35-25",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card67684-large.jpg"
+    },
+    {
+        "name": "“Rausch und/and Craziness Ⅱ”宇田川あこ",
+        "code": "BD/WE35-26",
+        "rarity": "RR",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "我らRoselia、今宵約束の地に降り立つ！",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, you draw 1 card.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax with Arch Trigger Icon among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card67685-large.jpg"
+    },
+    {
+        "name": "“Rausch und/and Craziness Ⅱ”湊友希那",
+        "code": "BD/WE35-27",
+        "rarity": "RR",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "今日の私達は、昨日までの私達とは違う",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】During this card's battle, if the Damage you received is cancelled, you may return this card to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card67686-large.jpg"
+    },
+    {
+        "name": "“Rausch und/and Craziness Ⅱ”今井リサ",
+        "code": "BD/WE35-28",
+        "rarity": "RR",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "今日のステージも思いっきりやっちゃおう！",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand or Deck, you may pay the cost. If you did, search your Deck for up to 1 「“Rausch und/and Craziness Ⅱ”今井リサ」, place it into any slot on Stage, shuffle your Deck afterwards.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, if 「盛り上がってきたね」 is in your Climax Slot, you may pay the cost. If you did, look at up to 2 cards from your top Deck, place them on top Deck in any order, deal X Damage to opponent. X is equal to the number of your 「“Rausch und/and Craziness Ⅱ”今井リサ」. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card67629-large.jpg"
+    },
+    {
+        "name": "“Rausch und/and Craziness Ⅱ”白金燐子",
+        "code": "BD/WE35-29",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "本番楽しみだね",
+        "ability": [
+            "【C】If you have other 「“Rausch und/and Craziness Ⅱ”宇田川あこ」, all your other 《Roselia》 Character gets +500 Power.",
+            "【C】SUPPORT All your Character in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card67688-large.jpg"
+    },
+    {
+        "name": "“Einheit”氷川紗夜",
+        "code": "BD/WE35-30",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When a Climax with Book Trigger Icon is placed into your Climax Slot, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【S】RESONANCE [(1) Reveal 1 「“Rausch und/and Craziness Ⅱ”氷川紗夜」 from Hand, REST this card] Look at up to 3 cards from your top Deck, choose up to 1 《Roselia》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card67689-large.jpg"
+    },
+    {
+        "name": "“Einheit”白金燐子",
+        "code": "BD/WE35-31",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "全部…お客さんが書いてくれたんだ……",
+        "ability": [
+            "【A】【CXCOMBO】[Place 1 「“Einheit”白金燐子」 from Hand into Waiting Room, place 1 「バンド合宿の夜」 from your Climax Slot into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, you may pay the cost. If you did, look at up to 5 cards from your top Deck, choose up to 5 《Roselia》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card67635-large.jpg"
+    },
+    {
+        "name": "“Einheit”今井リサ",
+        "code": "BD/WE35-32",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "もうすぐ本番だねー",
+        "ability": [
+            "【C】For each of your other 《Roselia》 Character at Back Row, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card67691-large.jpg"
+    },
+    {
+        "name": "“Einheit”宇田川あこ",
+        "code": "BD/WE35-33",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "早く演奏してみたい！",
+        "ability": [
+            "【C】If you have 4 or more 《Roselia》 Character, this card gets -1 Level in your Hand.",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, all your Character gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card67639-large.jpg"
+    },
+    {
+        "name": "“Einheit”湊友希那",
+        "code": "BD/WE35-34",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 2 《Roselia》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 2 cards from your top Deck, place them on top Deck in any order, opponent places all cards from his/her Stock into Waiting Room, he/she then places the same amount of cards from his/her top Deck into Stock.",
+            "【A】During opponent's turn, if the Damage you received is not cancelled, and this card is at Front Row, look at the top card of your Deck, place it on top Deck or Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card67693-large.jpg"
+    },
+    {
+        "name": "“Rausch und/and Craziness Ⅱ”氷川紗夜",
+        "code": "BD/WE35-35",
+        "rarity": "R",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "Roseliaの立つ全てのステージが意味あるものですから",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When this card attacks, if 「Over The Future LIVE」 is in your Climax Slot, and you have other 《Roselia》 Character, opponent place 20 cards from his/her top Deck into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card67643-large.jpg"
+    },
+    {
+        "name": "バンド交流 今井リサ",
+        "code": "BD/WE35-36",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "じゃあ枕投げやる？みんなでさ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if you have 2 or more other 《Roselia》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】 [(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《Roselia》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card67695-large.jpg"
+    },
+    {
+        "name": "大会に向けて 白金燐子",
+        "code": "BD/WE35-37",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 「ライブに向けて 宇田川あこ」 from your Waiting Room, send it to Memory.",
+            "【A】 When this card attacks, choose 1 of your other 《Roselia》 Character, during this turn, ＋Ｘ Power. Ｘ is equal to the number of your other 《Roselia》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "37",
+        "image": "https://images.littleakiba.com/tcg/card67646-large.jpg"
+    },
+    {
+        "name": "大会に向けて 湊友希那",
+        "code": "BD/WE35-38",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if you have other 《Roselia》 Character, during this turn, this card gets ＋2000 Power.",
+            "【A】 When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets ＋6000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "38",
+        "image": "https://images.littleakiba.com/tcg/card67697-large.jpg"
+    },
+    {
+        "name": "ライブのフィナーレ 氷川紗夜",
+        "code": "BD/WE35-39",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "39",
+        "image": "https://images.littleakiba.com/tcg/card67648-large.jpg"
+    },
+    {
+        "name": "大会に向けて 氷川紗夜",
+        "code": "BD/WE35-40",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "万全の状態で本番に臨めますっ",
+        "ability": [
+            "【A】［(2) Place 1 of your Character from Stage into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "40",
+        "image": "https://images.littleakiba.com/tcg/card67699-large.jpg"
+    },
+    {
+        "name": "“夢を撃ち抜く瞬間に！”湊友希那",
+        "code": "BD/WE35-41",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【S】［Place 1 《Roselia》 Character from Hand into Waiting Room］ Place the top card of your Deck into Waiting Room. If that card is a 《Roselia》 Character, choose 1 of your Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the Power of that Character placed into Waiting Room by this effect."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "41",
+        "image": "https://images.littleakiba.com/tcg/card67700-large.jpg"
+    },
+    {
+        "name": "“Avant-garde HISTORY”白金燐子",
+        "code": "BD/WE35-42",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your 《Roselia》 Character in your Hand gains 『【S】【COUNTER】 ASSIST 1500 Level 2 ［Place this card into Waiting Room］』.",
+            "【A】 This Ability can be activated up to 3 times each turn. When you use 『ASSIST』, add 1 Counter Step after this step."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "42",
+        "image": "https://images.littleakiba.com/tcg/card67651-large.jpg"
+    },
+    {
+        "name": "ライブに向けて 宇田川あこ",
+        "code": "BD/WE35-43",
+        "rarity": "U",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "前にRoseliaの主催ライブ来てくれたでしょ。あそこ！",
+        "ability": [
+            "【C】 For each of your other 「ライブに向けて 宇田川あこ」 at Front Row, this card gets ＋2000 Power.",
+            "【A】 When this card becomes REVERSE, send this card to Memory.",
+            "【A】【CXCOMBO】 RECOLLECTION When 「みんなでプール」 is placed into your Climax Slot, if your Level is 2 or higher, and this card is in Memory, you may place this card into an empty slot on Stage."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "43",
+        "image": "https://images.littleakiba.com/tcg/card67652-large.jpg"
+    },
+    {
+        "name": "“Avant-garde HISTORY”湊友希那",
+        "code": "BD/WE35-44",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets －1000 Power.",
+            "【A】［Return 2 《Roselia》 Character from your Waiting Room into Deck, shuffle your Deck afterwards］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your 《Roselia》 Character, during this turn, it gains the following Ability.『【C】 No Soul is deducted if this card Side Attacks.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "44",
+        "image": "https://images.littleakiba.com/tcg/card67653-large.jpg"
+    },
+    {
+        "name": "ライブのフィナーレ 今井リサ",
+        "code": "BD/WE35-45",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "じゃあ、いっちゃう？",
+        "ability": [
+            "【C】 All your 《Roselia》 Character in Hand gains 『【S】【COUNTER】 ASSIST 2500 Level 1 ［(1) Place this card into Waiting Room］』.",
+            "【S】［(1) REST this card］ Look at up to 2 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.（Climax is considered Level 0）"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "45",
+        "image": "https://images.littleakiba.com/tcg/card67654-large.jpg"
+    },
+    {
+        "name": "“Over The Future LIVE”宇田川あこ",
+        "code": "BD/WE35-46",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 This Ability can be activated up to 2 times each turn. When you use 【S】, during this turn, this card gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Roselia 《Roselia》"
+        ],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "46",
+        "image": "https://images.littleakiba.com/tcg/card67705-large.jpg"
+    },
+    {
+        "name": "Over The Future LIVE",
+        "code": "BD/WE35-47",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "47",
+        "image": "https://images.littleakiba.com/tcg/card67656-large.jpg"
+    },
+    {
+        "name": "盛り上がってきたね",
+        "code": "BD/WE35-48",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "48",
+        "image": "https://images.littleakiba.com/tcg/card67707-large.jpg"
+    },
+    {
+        "name": "みんなでプール",
+        "code": "BD/WE35-49",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "49",
+        "image": "https://images.littleakiba.com/tcg/card67658-large.jpg"
+    },
+    {
+        "name": "バンド合宿の夜",
+        "code": "BD/WE35-50",
+        "rarity": "C",
+        "expansion": "Poppin'Party x Roselia",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE35",
+        "sid": "50",
+        "image": "https://images.littleakiba.com/tcg/card67709-large.jpg"
+    }
+]

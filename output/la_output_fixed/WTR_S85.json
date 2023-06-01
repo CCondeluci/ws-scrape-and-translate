@@ -1,0 +1,3491 @@
+[
+    {
+        "name": "激しい剣撃 太刀川 慶",
+        "code": "WTR/S85-001",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your 《トリオン》 Character, during this turn, it gets +1500 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《トリオン》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《太刀川隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card70354-large.jpg"
+    },
+    {
+        "name": "迅速果断 小南 桐絵",
+        "code": "WTR/S85-002",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, if you have other 《トリオン》 Character, this card gets +3000 Power.",
+            "【A】【CXCOMBO】When 「真っ二つ」 is placed into your Climax Slot, if you have 2 or more other 《トリオン》 Character, until end of opponent's next turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第1》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card70356-large.jpg"
+    },
+    {
+        "name": "風刃 迅 悠一",
+        "code": "WTR/S85-003",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【C】【CXCOMBO】[(2) Place 2 cards from Hand into Waiting Room] When this card attacks, if 「遠隔斬撃」 is in your Climax Slot, you may pay the cost. If you did, during this turn, this card gets +2000 Power, gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, you may deal X Damage to opponent 2 times. X is equal to the number of 「黒トリガー「風刃」」 in your Waiting Room.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛支部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card70358-large.jpg"
+    },
+    {
+        "name": "太刀川隊オペレーター 国近 柚宇",
+        "code": "WTR/S85-004",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "みなさんこんちわ〰\n実況の太刀川隊国近で〰〰す",
+        "ability": [
+            "【A】【CLOCK】ALARM If this card is on top Clock, at the beginning of opponent's Climax Phase, during this turn, all your 《トリオン》 Character gains the following Ability. 『【A】[Place 1 card from Hand into Waiting Room] When this card is being Front Attacked, you may pay the cost. If you did, during this turn, this card gets +2000 Power.』",
+            "【A】[(1) REST this card] Reveal the top card of your Deck. If that card is a card with Soul Trigger Icon, add it to Hand. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《太刀川隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card70360-large.jpg"
+    },
+    {
+        "name": "華麗なる射手 加古 望",
+        "code": "WTR/S85-005",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "追尾弾",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《加古隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card70361-large.jpg"
+    },
+    {
+        "name": "高速斬撃 黒江 双葉",
+        "code": "WTR/S85-006",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "「韋駄天」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets +2 Soul.",
+            "【A】When this card is placed on Stage from Hand, if you have other 《トリオン》 Character, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《加古隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card70363-large.jpg"
+    },
+    {
+        "name": "素早い切り込み 緑川 駿",
+        "code": "WTR/S85-007",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "おまたせ〰",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《草壁隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card70364-large.jpg"
+    },
+    {
+        "name": "エプロン姿のエリート 迅 悠一",
+        "code": "WTR/S85-008",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card Trigger Checks a card with Soul Trigger Icon, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may send that Character to Stock, If you did, place opponent's bottom Stock into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛支部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card70366-large.jpg"
+    },
+    {
+        "name": "特殊工作兵 冬島 慎次",
+        "code": "WTR/S85-009",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "敵さんのトンネルトリガーがそんなに万能なら最初っから直通で忍び込んでたでしょうよ",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《トリオン》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《冬島隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card70368-large.jpg"
+    },
+    {
+        "name": "激闘の解説 出水 公平",
+        "code": "WTR/S85-010",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "なるほどなー\nスパイダーは味方にだけ見やすくできる",
+        "ability": [
+            "【A】When your Character Trigger Checks a card with Soul Trigger Icon, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】[REST this card] Choose 1 of your 《トリオン》 Character, during this turn, it gets +3000 Power.",
+            "【S】[(2) REST this card] Choose 1 opponent's Character, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《太刀川隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card70370-large.jpg"
+    },
+    {
+        "name": "任務の遂行 木虎 藍",
+        "code": "WTR/S85-011",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "私たちも役目を果たすの\n双葉ちゃんの力が必要よ",
+        "ability": [
+            "【C】RECOLLECTION For each 「ワイヤートリガー「スパイダー」」 in your Memory, this card gets +3000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《嵐山隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card70372-large.jpg"
+    },
+    {
+        "name": "消える双剣使い 風間 蒼也",
+        "code": "WTR/S85-012",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "太刀川「おっと悪い　3人じゃなくて4人だった」",
+        "ability": [
+            "【A】When this card Trigger Checks a card with Soul Trigger Icon, during this turn, this card gets +6000 Power.",
+            "【S】[(1)] During this turn, this card gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card attacks, during this attack, perform Trigger Check 2 times during Trigger Step.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《風間隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card70374-large.jpg"
+    },
+    {
+        "name": "状況判断 古寺 章平",
+        "code": "WTR/S85-013",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "１体ずつ集中して倒しましょう！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《トリオン》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】[(1) Place 1 《トリオン》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 5 cards from your top Deck, choose up to 1 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《三輪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card70376-large.jpg"
+    },
+    {
+        "name": "目に映る「色」 天羽 月彦",
+        "code": "WTR/S85-014",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……まずいな\n人型トリオン兵の中に色がちがうやつがいる",
+        "ability": [
+            "【C】During your turn, if the Character facing this card is Green, this card gets +3000 Power.",
+            "【C】If the Character facing this card is Yellow, this card gets +2 Soul.",
+            "【A】When this card attacks, if the Character facing this card is Blue, reveal the top card of your Deck. If that card is a 《トリオン》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【C】During your turn, when this card becomes REVERSE, if this card's battle opponent is Red and Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ボーダー本部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card70377-large.jpg"
+    },
+    {
+        "name": "全武装起動 木崎 レイジ",
+        "code": "WTR/S85-015",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "全武装　起動",
+        "ability": [
+            "【A】ACCELERATE [Place 1 《トリオン》 Character from your Waiting Room to bottom Clock] At the beginning of your Climax Phase, if this card is at Front Row, you may pay the cost. If you did, search your Deck for up to 1 《トリオン》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第1》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card70378-large.jpg"
+    },
+    {
+        "name": "重い弾丸 三輪 秀次",
+        "code": "WTR/S85-016",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, until end of opponent's next turn, it gains the following Ability. 『【C】This card cannot move to other slot.』",
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「黒トリガー「風刃」」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《三輪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card70379-large.jpg"
+    },
+    {
+        "name": "ガイスト起動 烏丸 京介",
+        "code": "WTR/S85-017",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ガイスト起動　射撃戦特化",
+        "ability": [
+            "【A】ACCELERATE [Place 1 《トリオン》 Character from your Waiting Room to bottom Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, choose and perform 1 of the following effects.",
+            "『During this turn, this card gets +3000 Power, at the end of turn, place this card into Stock.』",
+            "『During this turn, this card gets +2 Soul, at the end of turn, place this card into Stock.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第1》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card70380-large.jpg"
+    },
+    {
+        "name": "ガロプラとの戦い 小南 桐絵",
+        "code": "WTR/S85-018",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, place up to 1 card from your top Clock into Waiting Room, during this turn, this card gets +1500 Power.",
+            "【A】ACCELERATE [(1) Place 1 《トリオン》 Character from your Waiting Room to bottom Clock] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 opponent's Character, during this turn, it gets -2 Soul."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第1》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card70381-large.jpg"
+    },
+    {
+        "name": "射撃戦 嵐山 准",
+        "code": "WTR/S85-019",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "米屋「嵐山さんなんか仕事ある？トリオン兵削る感じ？」",
+        "ability": [
+            "【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.",
+            "【A】[Place the top card of your Deck into Clock] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, move this card to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《嵐山隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card70383-large.jpg"
+    },
+    {
+        "name": "少し先の未来 迅 悠一",
+        "code": "WTR/S85-020",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】When this card attacks, choose 1 of your other Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛支部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card70384-large.jpg"
+    },
+    {
+        "name": "強化聴覚 菊地原 士郎",
+        "code": "WTR/S85-021",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "一番右だよ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from opponent's top Deck, place them on top Deck in original order.",
+            "【A】When this card dealt Damage is cancelled, you may return this card to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《風間隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card70385-large.jpg"
+    },
+    {
+        "name": "ツイン狙撃 佐鳥 賢",
+        "code": "WTR/S85-022",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "OK！左端からいくか！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose up to 2 opponent's Character, during this turn, they get -1500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《嵐山隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card70386-large.jpg"
+    },
+    {
+        "name": "精密な射撃 奈良坂 透",
+        "code": "WTR/S85-023",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "連携するトリオン兵か……！",
+        "ability": [
+            "【C】If your Hand has 5 or less cards, this card gets +4500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《三輪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card70387-large.jpg"
+    },
+    {
+        "name": "戦闘狂 米屋 陽介",
+        "code": "WTR/S85-024",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "旋空弧月",
+        "ability": [
+            "【C】During this card's battle, opponent cannot play 『ASSIST』 from Hand.",
+            "【A】When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《三輪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card70388-large.jpg"
+    },
+    {
+        "name": "かつての仲間 時枝 充",
+        "code": "WTR/S85-025",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "今も大好きな先輩ですよ",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《トリオン》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《嵐山隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card70389-large.jpg"
+    },
+    {
+        "name": "実戦派の狙撃手 当真 勇",
+        "code": "WTR/S85-026",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "国近「本日のお昼の部はアホの子18歳トリオでお送りしま〰す」\n当真「イエ〰〰」\n北添「ちょまちょま　ゾエさん成績真ん中くらいよ？」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 3 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may choose 1 opponent's Character with Level 3 or lower at Front Row, place it into Waiting Room.",
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《トリオン》 Character, choose 1 《トリオン》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《冬島隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card70390-large.jpg"
+    },
+    {
+        "name": "黒トリガー「風刃」",
+        "code": "WTR/S85-027",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If your Stock has 6 or less cards, look at up to 5 cards from your top Deck, choose up to 1 《トリオン》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card70391-large.jpg"
+    },
+    {
+        "name": "迎撃戦",
+        "code": "WTR/S85-028",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose up to 2 of your 《トリオン》 Character, during this turn, they gets +1500 Power, gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card attacks, during this attack, perform Trigger Check 2 times during Trigger Step.』"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card70392-large.jpg"
+    },
+    {
+        "name": "真っ二つ",
+        "code": "WTR/S85-029",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "太刀川「一手遅いな」",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card70393-large.jpg"
+    },
+    {
+        "name": "遠隔斬撃",
+        "code": "WTR/S85-030",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card70395-large.jpg"
+    },
+    {
+        "name": "分身による幻惑 ウェン・ソー",
+        "code": "WTR/S85-031",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "「藁の兵」",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《トリオン》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ガロプラ》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card70397-large.jpg"
+    },
+    {
+        "name": "空を舞う攻撃 ラタリコフ",
+        "code": "WTR/S85-032",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "「踊り手」",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「踊り手」 is in your Climax Slot, and your Stock has 6 or less cards, look at up to X cards from your top Deck, choose up to 1 《トリオン》 Character or 「緊急脱出」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of opponent's Character."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ガロプラ》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card70399-large.jpg"
+    },
+    {
+        "name": "硬く鋭いアーム ガトリン",
+        "code": "WTR/S85-033",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +X Power. X is equal to the number of your other 《トリオン》 Character x500.",
+            "【A】【CXCOMBO】When this card attacks, if 「遠征艇の破壊」 is in your Climax Slot, look at up to 2 cards from opponent's top Deck, choose up to 1 card, place it on top or bottom Deck, place the remaining cards on top Deck in any order, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ガロプラ》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card70401-large.jpg"
+    },
+    {
+        "name": "そうさく！ 林藤 陽太郎と雷神丸",
+        "code": "WTR/S85-034",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "よし！いそげらいじん丸！",
+        "ability": [
+            "【A】[Place 1 《トリオン》 Character from Hand into Waiting Room] When your Character Trigger Checks a card with 2 Soul Trigger Icon, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax with 2 Soul Trigger Icon among those cards, search your Deck for up to 1 《トリオン》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛支部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card70403-large.jpg"
+    },
+    {
+        "name": "ボーダー本部の立役者 鬼怒田 本吉＆根付 栄蔵",
+        "code": "WTR/S85-035",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, during this turn, it gains the following Ability. 『【C】This card cannot return to Hand, cannot send to Memory.』",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《トリオン》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the number of 「緊急脱出」 in your Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ボーダー本部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card70404-large.jpg"
+    },
+    {
+        "name": "集団戦闘用トリオン兵 ドグ",
+        "code": "WTR/S85-036",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】[(1) Place this card into Waiting Room] When your other 《トリオン》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "《トリオン》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card70405-large.jpg"
+    },
+    {
+        "name": "攻撃の妨害 コスケロ",
+        "code": "WTR/S85-037",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "さて……反撃するには時間がほしいところだけど……",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, all your Character gets +2000 Power.",
+            "【A】[Place 2 cards from Hand into Waiting Room] When this card is being Front Attacked, you may pay the cost. If you did, choose 1 Character that is facing this card, during this turn, it gets -3000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ガロプラ》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card70406-large.jpg"
+    },
+    {
+        "name": "完全並列同時思考 ヨミ",
+        "code": "WTR/S85-038",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "崩すよレギー\nしっかり狙って",
+        "ability": [
+            "【S】[Place 1 《トリオン》 Character from Hand into Waiting Room, place this card into Waiting Room] Choose up to 2 of your 「連携するトリオン兵 アイドラ」, look at up to X cards from your top Deck, place 1 card each under those Character face-down as Marker. X is equal to the number of those Character.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. If there is a 「連携するトリオン兵 アイドラ」 among those cards, choose 1 《トリオン》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ガロプラ》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card70407-large.jpg"
+    },
+    {
+        "name": "連携するトリオン兵 アイドラ",
+        "code": "WTR/S85-039",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】For each Marker under this card, this card gets +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, choose up to 3 「連携するトリオン兵 アイドラ」 from your Waiting Room, place them under this card face-up as Marker."
+        ],
+        "attributes": [
+            "《トリオン》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card70408-large.jpg"
+    },
+    {
+        "name": "交渉のプロフェッショナル 唐沢 克己",
+        "code": "WTR/S85-040",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "……私はありだと思いますね\nリスクを差し引いても充分なリターンがある",
+        "ability": [
+            "【C】All your other 《トリオン》 Character gets +500 Power.",
+            "【S】[REST 2 of your Character] Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ボーダー本部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card70409-large.jpg"
+    },
+    {
+        "name": "トリオン兵の指揮 レギンデッツ",
+        "code": "WTR/S85-041",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "数ではまだこっちのほうが勝ってんだ\n建物使って逆に囲んでやる……！",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When your Character Trigger Checks a Climax with Gold Trigger Icon, you may pay the cost. If you did, choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.",
+            "【S】[REST this card] Choose 1 of your 《トリオン》 Character, during this turn, it gets +2000 Power, then except for that chosen Character, choose 1 of your Character that has the same name with that chosen Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ガロプラ》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card70410-large.jpg"
+    },
+    {
+        "name": "平和の防衛 忍田 真史＆沢村 響子",
+        "code": "WTR/S85-042",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《トリオン》 Character x1000.",
+            "【A】When this card's battle opponent becomes REVERSE, you may send that Character to Memory."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《ボーダー本部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card70411-large.jpg"
+    },
+    {
+        "name": "緊急脱出",
+        "code": "WTR/S85-043",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【COUNTER】Choose 1 of your Character, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card70412-large.jpg"
+    },
+    {
+        "name": "上層部との交渉",
+        "code": "WTR/S85-044",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……さて\n話を聞こうか",
+        "ability": [
+            "Search your Deck for up to 2 《トリオン》 Character and show them to opponent, add them to Hand, choose 1 card from your Hand, place it into Waiting Room, shuffle the Deck afterwards.",
+            "Send this card to Memory."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card70413-large.jpg"
+    },
+    {
+        "name": "遠征艇の破壊",
+        "code": "WTR/S85-045",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "戦闘開始だ",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card70414-large.jpg"
+    },
+    {
+        "name": "踊り手",
+        "code": "WTR/S85-046",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ガトリン「15分に変更だ」\nラタリコフ「了解です」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card70416-large.jpg"
+    },
+    {
+        "name": "武闘派狙撃手 荒船 哲次",
+        "code": "WTR/S85-047",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "噛みつかねーだろなこいつら\n俺は犬嫌いなんだ",
+        "ability": [
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 《トリオン》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《荒船隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card70418-large.jpg"
+    },
+    {
+        "name": "光るセンス 香取 葉子",
+        "code": "WTR/S85-048",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《トリオン》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「変化が生まれた日」 is in your Climax Slot, place up to 1 card from your top Deck into Stock, reveal the top card of your Deck. If that card is Level 1 or higher, add it to Hand. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《香取隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card70420-large.jpg"
+    },
+    {
+        "name": "想いを弾に込めて 那須 玲",
+        "code": "WTR/S85-049",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock.",
+            "【A】【CXCOMBO】[(2)] When this card attacks, if 「集中砲火」 is in your Climax Slot, you may pay the cost. If you did, place 3 cards from opponent's bottom Deck into Waiting Room, deal 2 Damage to opponent X times. X is equal to the number of Climax among those cards. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《那須隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card70422-large.jpg"
+    },
+    {
+        "name": "渾身の一振 熊谷 友子",
+        "code": "WTR/S85-050",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《トリオン》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return it to its original position)",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《那須隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card70424-large.jpg"
+    },
+    {
+        "name": "機動型狙撃手 隠岐 孝二",
+        "code": "WTR/S85-051",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "生駒「おまえは雰囲気がイケメンやから何やっても許される」\n隠岐「むちゃくちゃ言うなあ」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, both player perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards except for those chosen cards from Memory into Waiting Room.』",
+            "【A】[Place 1 《トリオン》 Character from Hand into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《生駒隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card70426-large.jpg"
+    },
+    {
+        "name": "香取隊オペレーター 染井 華",
+        "code": "WTR/S85-052",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "二人ともすぐ援護に向かって",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, until end of opponent's turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《香取隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card70428-large.jpg"
+    },
+    {
+        "name": "絶えない微笑み 王子 一彰",
+        "code": "WTR/S85-053",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《トリオン》 Character, during this turn, it gets +X Power, gains 《あだ名》. X is equal to the number of your other 《トリオン》 Character x500.",
+            "【A】【CXCOMBO】[Place 2 cards from Hand into Waiting Room] When this card attacks, if 「王子の強襲」 is in your Climax Slot, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 4 《トリオン》 Character or 「緊急脱出」 and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《王子隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card70430-large.jpg"
+    },
+    {
+        "name": "隊長の意地 柿崎 国治",
+        "code": "WTR/S85-054",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』",
+            "【A】When this card becomes REVERSE, place this card to bottom Deck."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《柿崎隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card70432-large.jpg"
+    },
+    {
+        "name": "唯一無二の技 生駒 達人",
+        "code": "WTR/S85-055",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When 「生駒旋空」 is placed into your Climax Slot, place the top card of your Deck into Waiting Room. If that card is a 《トリオン》 Character or 「切り裂く一閃」, choose up to 1 《トリオン》 Character from your Waiting Room, place it into Stock, during this turn, this card gains the following Ability. 『【C】When this card attacks, you may choose 1 opponent's Character at Back Row, this card Front Attacks that Character as the Defending Character.』",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of opponent's Character x2000."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《生駒隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card70434-large.jpg"
+    },
+    {
+        "name": "的確な防御 村上 鋼",
+        "code": "WTR/S85-056",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】EXPERIENCE If the total Level in your Level Slot is 4 or higher, for each Marker under this card, this card gets +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 《トリオン》 Character from your Clock, place it to bottom Deck.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card becomes REVERSE, you may pay the cost. If you did, look at the top card of your Deck, place it under this card face-down as Marker, REST this card."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《鈴鳴第一》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card70436-large.jpg"
+    },
+    {
+        "name": "攻撃への応戦 若村 麓郎",
+        "code": "WTR/S85-057",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "くそっ動きが読めねぇ！",
+        "ability": [
+            "【C】This card cannot be chosen by opponent's effect.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room, send this card to Memory] When this card becomes REVERSE, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《香取隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card70438-large.jpg"
+    },
+    {
+        "name": "予期せぬ相手 南沢 海",
+        "code": "WTR/S85-058",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "カシオじゃん",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 Trait from 1 opponent's Character, during this turn, that Character lost that Trait.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《トリオン》 Character or 「緊急脱出」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《生駒隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card70440-large.jpg"
+    },
+    {
+        "name": "慕われる人柄 来馬 辰也",
+        "code": "WTR/S85-059",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ひとまずおつかれさま",
+        "ability": [
+            "【A】When your other 《トリオン》 Character attacks, during this turn, this card gets +1000 Power.",
+            "【A】[(1) Place this card into Waiting Room] When your other 《トリオン》 Character is being Front Attacked, you may pay the cost. If you did, return that Character to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《鈴鳴第一》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card70441-large.jpg"
+    },
+    {
+        "name": "動揺 別役 太一",
+        "code": "WTR/S85-060",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ととと止まんないっす！\nどどどどうします⁉",
+        "ability": [
+            "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room to Deck, shuffle the Deck afterwards.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《鈴鳴第一》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card70443-large.jpg"
+    },
+    {
+        "name": "生駒隊オペレーター 細井 真織",
+        "code": "WTR/S85-061",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "生駒「もしもし？かわいいかわいいマリオちゃん？」\n細井「やめろやそれ！」",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+            "【S】[(1) REST 2 of your Character] Look at up to X cards from your top Deck, choose up to 1 《トリオン》 Character or 「切り裂く一閃」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of opponent's Character."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《生駒隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card70444-large.jpg"
+    },
+    {
+        "name": "一騎打ち 照屋 文香",
+        "code": "WTR/S85-062",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《トリオン》 Character, this card gets +2000 Power.",
+            "【A】[Place 1 《トリオン》 Character from Hand into Waiting Room] When this card is being Front Attacked, you may pay the cost. If you did, during this turn, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《柿崎隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card70445-large.jpg"
+    },
+    {
+        "name": "爆撃に乗じて 樫尾 由多嘉",
+        "code": "WTR/S85-063",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 「合成弾の使い手 蔵内 和紀」, this card gets +1 Level and +1500 Power.",
+            "【C】All your other 「合成弾の使い手 蔵内 和紀」 gets +1 Level and +1500 Power.",
+            "【A】[Place 1 《トリオン》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「合成弾の使い手 蔵内 和紀」 and show it to opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《王子隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card70447-large.jpg"
+    },
+    {
+        "name": "柿崎隊オペレーター 宇井 真登華",
+        "code": "WTR/S85-064",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "香取隊がバッグワーム起動！",
+        "ability": [
+            "【A】When your other Character in battle becomes REVERSE, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】[REST this card] If this card has no Marker, choose 1 《トリオン》 Character from your Waiting Room, place it under this card face-up as Marker.",
+            "【S】[(1) REST this card] Return 1 Marker from this card to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《柿崎隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card70448-large.jpg"
+    },
+    {
+        "name": "合成弾の使い手 蔵内 和紀",
+        "code": "WTR/S85-065",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "誘導炸裂弾",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《王子隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card70449-large.jpg"
+    },
+    {
+        "name": "守りを崩す 巴 虎太郎",
+        "code": "WTR/S85-066",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "武富「柿崎隊巴隊員が敵陣の守りを崩した！」",
+        "ability": [
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』.",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《柿崎隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card70450-large.jpg"
+    },
+    {
+        "name": "屋上での戦闘 穂刈 篤",
+        "code": "WTR/S85-067",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《荒船隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card70451-large.jpg"
+    },
+    {
+        "name": "先輩たちの功績 日浦 茜",
+        "code": "WTR/S85-068",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "那須先輩と熊谷先輩が一人やっつけたって！",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +X Power. X is equal to the number of your 《トリオン》 Character x500.",
+            "【A】When this card is being Front Attacked, you may place the top card of your Deck into Waiting Room. If that card is a Climax, choose 1 of the Character facing this card, during this turn, it gets -1 Soul."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《那須隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card70452-large.jpg"
+    },
+    {
+        "name": "王子隊オペレーター 橘高 羽矢",
+        "code": "WTR/S85-069",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "弾道解析\n狙撃手の方角から死角になる道を表示するわ",
+        "ability": [
+            "【C】SUPPORT All your 《トリオン》 Character gets +X Power. X is equal to that Character's Level x500.",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《王子隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card70453-large.jpg"
+    },
+    {
+        "name": "身を挺したカバー 三浦 雄太",
+        "code": "WTR/S85-070",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If all your Character are 《トリオン》, this card gets +2000 Power.",
+            "【A】[Place this card into Waiting Room] When your other 《トリオン》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《香取隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card70454-large.jpg"
+    },
+    {
+        "name": "狙撃再開！ 半崎 義人",
+        "code": "WTR/S85-071",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "了解！",
+        "ability": [
+            "【A】[Place 1 「武闘派狙撃手 荒船 哲次」 from Hand into Waiting Room] When you use this card's 『ASSIST』, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle the Deck afterwards.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《荒船隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card70455-large.jpg"
+    },
+    {
+        "name": "おおらかな銃手 北添 尋",
+        "code": "WTR/S85-072",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "国近「解説席には当真くんとゾエさん」\n当真「うーっす」\n北添「どもー」",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《トリオン》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《トリオン》 Character x1000.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 2 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《影浦隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card70456-large.jpg"
+    },
+    {
+        "name": "トリッキーな戦術 水上 敏志",
+        "code": "WTR/S85-073",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "通常弾！",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gets +X Power. X is equal to the number of your other 《トリオン》 Character x1000.",
+            "【A】When this card attacks, you may declare 『アステロイド』."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《生駒隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card70457-large.jpg"
+    },
+    {
+        "name": "砲撃＆狙撃",
+        "code": "WTR/S85-074",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you have no 《トリオン》 Character, you cannot play this card from Hand.",
+            "Choose 1 opponent's Character, during this turn, it gets -2000 Power. Send this card to Memory.",
+            "【A】RECOLLECTION [Place 1 Climax from Hand into Waiting Room] At the beginning of your Main Phase, if this card is in Memory, you may pay the cost. If you did, return this card to Hand."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card70458-large.jpg"
+    },
+    {
+        "name": "切り裂く一閃",
+        "code": "WTR/S85-075",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose 1 of your 「唯一無二の技 生駒 達人」, during this turn, it gets +1 Soul, gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, you may STAND this card.』",
+            "Place this card to bottom Deck."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card70459-large.jpg"
+    },
+    {
+        "name": "変化が生まれた日",
+        "code": "WTR/S85-076",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この一瞬が……勝負‼",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card70460-large.jpg"
+    },
+    {
+        "name": "集中砲火",
+        "code": "WTR/S85-077",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card70462-large.jpg"
+    },
+    {
+        "name": "王子の強襲",
+        "code": "WTR/S85-078",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card70464-large.jpg"
+    },
+    {
+        "name": "生駒旋空",
+        "code": "WTR/S85-079",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "旋空弧月",
+        "ability": [
+            "【A】When this card is placed into Climax Slot from Hand, choose up to 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand, choose up to 2 of your Character, during this turn, they gets +1 Soul."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card70466-large.jpg"
+    },
+    {
+        "name": "膨大なトリオン量 雨取 千佳",
+        "code": "WTR/S85-080",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "追尾弾！",
+        "ability": [
+            "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more card is revealed, choose up to 1 《トリオン》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】[(1)] During opponent's turn, when this card becomes REVERSE, you may pay the cost. If you did, REST this card, at the beginning of your next Encore Step, place this card into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card70468-large.jpg"
+    },
+    {
+        "name": "目標に向かって 三雲 修",
+        "code": "WTR/S85-081",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card70470-large.jpg"
+    },
+    {
+        "name": "瞳の先の目標 空閑 遊真",
+        "code": "WTR/S85-082",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "3点目",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【C】【CXCOMBO】If 「チェックメイト」 is in your Climax Slot, this card gets +4000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may deal 1 Damage to opponent.』(Damage can be cancelled)",
+            "【A】[(2) Place 1 card from Hand into Waiting Room] At the beginning of your Encore Step, if this card is at Front Row, and all opponent's Character at Front Row is REVERSE or no Character at Front Row, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card70472-large.jpg"
+    },
+    {
+        "name": "新たなエース攻撃手 ヒュース",
+        "code": "WTR/S85-083",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "記録1.5秒",
+        "ability": [
+            "【A】When this card attacks, if you have 2 or more other 《トリオン》 Character, during this turn, this card gets +4000 Power.",
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card70474-large.jpg"
+    },
+    {
+        "name": "仲間との連携 諏訪 洸太郎",
+        "code": "WTR/S85-084",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "連携勝負でトリオン兵にゃ負けらんねーなぁ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《トリオン》 Character or 「緊急脱出」, during this turn, no Soul is deducted if this card Side Attacks. (Return revealed card to its original position)",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《諏訪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card70476-large.jpg"
+    },
+    {
+        "name": "玉狛支部所属オペレーター 宇佐美 栞",
+        "code": "WTR/S85-085",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "二人来るよ修くん",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【A】When your Character Trigger Checks a card with Soul Trigger Icon, choose 1 of your 《トリオン》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛支部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card70478-large.jpg"
+    },
+    {
+        "name": "貫き通る射撃 二宮 匡貴",
+        "code": "WTR/S85-086",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "徹甲弾",
+        "ability": [
+            "【C】If you have 4 or more 《トリオン》 Character, this card gets -1 Level in your Hand.",
+            "【A】[(2)] When this card attacks, you may pay the cost. If you did, place 4 cards from your top Deck into Waiting Room, deal X Damage to opponent. X is equal to the number of Climax among those cards. (Damage can be cancelled)",
+            "【A】When this card is placed into Waiting Room from Stage, you may return this card to Hand. If you did, choose 1 《トリオン》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《二宮隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card70480-large.jpg"
+    },
+    {
+        "name": "決めの一撃 三雲 修",
+        "code": "WTR/S85-087",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】EXPERIENCE For each 《トリオン》 Character in your Level Slot, this card gets +1 Level and +2000 Power.",
+            "【A】【CXCOMBO】At the beginning of your Encore Step, if 「スラスターON！」 is in your Climax Slot, and you have 2 or more other 《トリオン》 Character, look at up to 4 cards from your top Deck, choose up to 1 《トリオン》 Character or 「緊急脱出」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card70482-large.jpg"
+    },
+    {
+        "name": "嘘を見抜く 空閑 遊真",
+        "code": "WTR/S85-088",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "おまえつまんないウソ つくね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at opponent's Hand.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card70484-large.jpg"
+    },
+    {
+        "name": "アフトクラトルの近界民 ヒュース",
+        "code": "WTR/S85-089",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card's dealt Damage is cancelled, you may place this card into Stock.",
+            "【C】【CXCOMBO】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, if 「蝶の楯」 is in your Climax Slot, and you have other 《トリオン》 Character, look at up to 2 cards from your top Deck, choose up to 2 《トリオン》 Character or Event and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card70486-large.jpg"
+    },
+    {
+        "name": "玉狛の「大砲」 雨取 千佳",
+        "code": "WTR/S85-090",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】[Place 1 「砲撃炸裂」 from your Climax Slot into Waiting Room] At the beginning of your Encore Step, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle the Deck afterwards.",
+            "【S】[REST 2 of your Character] Choose 1 of your Character, until end of opponent's next turn, it gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card70488-large.jpg"
+    },
+    {
+        "name": "海老名隊オペレーター 武富 桜子",
+        "code": "WTR/S85-091",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "このたび本日昼の部の試合結果を受けて\nわが海老名隊初の中位グループ入りが確定しました！",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, you may look at the top card of your Deck. (Return looked card to its original position)",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《海老名隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card70490-large.jpg"
+    },
+    {
+        "name": "穏やかになだめる 堤 大地",
+        "code": "WTR/S85-092",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "まあまあ加古ちゃん",
+        "ability": [
+            "【C】All your other 「ピンチを救う 笹森 日佐人」 gets +1 Soul.",
+            "【S】[(1) Place 1 card from Hand into Waiting Room, REST this card] If your Level is 2 or higher, choose 1 「ピンチを救う 笹森 日佐人」 from your Waiting Room, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《諏訪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card70491-large.jpg"
+    },
+    {
+        "name": "狙いの先は 空閑 遊真",
+        "code": "WTR/S85-093",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】This card and the Character facing this card cannot Side Attack.",
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row with opponent's Character facing it."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card70492-large.jpg"
+    },
+    {
+        "name": "新たな戦い方 三雲 修",
+        "code": "WTR/S85-094",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ありがとう木虎\nおかげで心置きなく戦える……！",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】RECOLLECTION At the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gets +X Power. X is equal to the number of 「ワイヤートリガー「スパイダー」」 in your Memory x1000."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card70493-large.jpg"
+    },
+    {
+        "name": "追撃 犬飼 澄晴",
+        "code": "WTR/S85-095",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ノーガードいただき♪",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if all your Character are 《トリオン》, you may place the top card of your Deck into Stock.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《二宮隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card70494-large.jpg"
+    },
+    {
+        "name": "動きを封じる 雨取 千佳",
+        "code": "WTR/S85-096",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, during this turn, it gains the following Ability. 『【C】This card cannot return to Hand, cannot send to Memory.』",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card70495-large.jpg"
+    },
+    {
+        "name": "心強い援護 辻 新之助",
+        "code": "WTR/S85-097",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "二宮「辻　笹森を援護だ」\n辻「了解です」",
+        "ability": [
+            "【C】If you have 2 or more other 《トリオン》 Character, this card gets +1000 Power.",
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《二宮隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card70496-large.jpg"
+    },
+    {
+        "name": "ピンチを救う 笹森 日佐人",
+        "code": "WTR/S85-098",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "12000",
+        "soul": 0,
+        "flavor_text": "大丈夫！全然急所じゃないです！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《諏訪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card70497-large.jpg"
+    },
+    {
+        "name": "ワイヤートリガー「スパイダー」",
+        "code": "WTR/S85-099",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose 1 《トリオン》 Character from your Waiting Room, return it to Hand.",
+            "Send this card to Memory.",
+            "Reveal the top card of your Deck. If that card is Level 2 or higher, place it into Stock. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card70498-large.jpg"
+    },
+    {
+        "name": "緊急脱出",
+        "code": "WTR/S85-100",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "4",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "緊急脱出！",
+        "ability": [
+            "【COUNTER】If you have no 《トリオン》 Character, you cannot play this card from Hand. You can play this card from Hand without following Colour rule.",
+            "Choose 1 Character in battle, during this turn, it gains the following Ability. 『【C】This card cannot deal any Damage to opponent.』",
+            "You may choose 1 of your Character, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card70499-large.jpg"
+    },
+    {
+        "name": "チェックメイト",
+        "code": "WTR/S85-101",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card70500-large.jpg"
+    },
+    {
+        "name": "スラスターON！",
+        "code": "WTR/S85-102",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card70502-large.jpg"
+    },
+    {
+        "name": "砲撃炸裂",
+        "code": "WTR/S85-103",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card70504-large.jpg"
+    },
+    {
+        "name": "蝶の楯",
+        "code": "WTR/S85-104",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "レギンデッツ「う……動けねぇ……‼」",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card70506-large.jpg"
+    },
+    {
+        "name": "激情に隠した作戦 三輪 秀次",
+        "code": "WTR/S85-T01",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "おまえが上に出た時点でもう勝負はついてる",
+        "ability": [
+            "【C】All your other 「一番槍 米屋 陽介」 gains the following Ability. 『【A】When this card attacks, look at the top card of your Deck, place it on top or bottom Deck, during this turn, this card gets +1000 Power.』",
+            "【A】BOND／「一番槍 米屋 陽介」 ［(1)］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「一番槍 米屋 陽介」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《三輪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card70508-large.jpg"
+    },
+    {
+        "name": "戦闘終了 荒船 哲次",
+        "code": "WTR/S85-T02",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "今日はこれで終わりですか？",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your Character, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《荒船隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card70509-large.jpg"
+    },
+    {
+        "name": "戦いの始まり 那須 玲",
+        "code": "WTR/S85-T03",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "「戦闘開始」",
+        "ability": [
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw up to 1 card."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《那須隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card70510-large.jpg"
+    },
+    {
+        "name": "開幕速攻！ 香取 葉子",
+        "code": "WTR/S85-T04",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "勝てばいいんでしょ\n勝てば",
+        "ability": [
+            "【A】[(1) Place 1 《トリオン》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand or placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《香取隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card70511-large.jpg"
+    },
+    {
+        "name": "援護射撃 木虎 藍",
+        "code": "WTR/S85-T05",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《トリオン》 Character or 「緊急脱出」, during this turn, this card gets +2000 Power and +1 Soul. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《嵐山隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card70512-large.jpg"
+    },
+    {
+        "name": "慎重な選択 柿崎 国治",
+        "code": "WTR/S85-T06",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《トリオン》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《柿崎隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card70513-large.jpg"
+    },
+    {
+        "name": "熟達した剣の腕 太刀川 慶",
+        "code": "WTR/S85-T07",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "やっとこさ鎌一本か\nこいつは骨が折れる",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】[Place 2 《トリオン》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Stock in any order."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《太刀川隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card70514-large.jpg"
+    },
+    {
+        "name": "攻撃を掻い潜る 風間 蒼也",
+        "code": "WTR/S85-T08",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, this card gets +3000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《風間隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card70516-large.jpg"
+    },
+    {
+        "name": "一番槍 米屋 陽介",
+        "code": "WTR/S85-T09",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《三輪隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card70518-large.jpg"
+    },
+    {
+        "name": "迷わぬ判断 嵐山 准",
+        "code": "WTR/S85-T10",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "敵が市街地を襲うなら迅から何か指示が入るでしょう",
+        "ability": [
+            "【S】【COUNTER】 ASSIST 2500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《嵐山隊》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card70519-large.jpg"
+    },
+    {
+        "name": "最善の道は 迅 悠一",
+        "code": "WTR/S85-T11",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "さてどこを動かしに行くか……中のみんなを手伝ってもいいし……",
+        "ability": [
+            "【C】All your other 《トリオン》 Character gets +1000 Power.",
+            "【A】When your Character Trigger Checks a Climax, look at the top card of your Deck, place it on top or bottom Deck."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛支部》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card70520-large.jpg"
+    },
+    {
+        "name": "縦横無尽の戦闘 小南 桐絵",
+        "code": "WTR/S85-T12",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, for each of your other 《トリオン》 Character, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第1》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card70522-large.jpg"
+    },
+    {
+        "name": "渾身の“攻” 堅牢な“守”",
+        "code": "WTR/S85-T13",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card70524-large.jpg"
+    },
+    {
+        "name": "Fine Save",
+        "code": "WTR/S85-T14",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card70525-large.jpg"
+    },
+    {
+        "name": "帰国の画策 ヒュース",
+        "code": "WTR/S85-T15",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "今はこの機を逃さず属国と接触することが先決だ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 3 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, opponent cannot use 『【A】ENCORE』. (Cannot use 『【A】ENCORE [(3)]』 from rule also)",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《トリオン》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card70526-large.jpg"
+    },
+    {
+        "name": "曲がらない信念 三雲 修",
+        "code": "WTR/S85-T16",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ただ単に自分がそうするべきだと思ってるからです",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】【CXCOMBO】When 「B級ランク戦 ROUND5」 is placed into your Climax Slot, choose 1 of your 《トリオン》 Character, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card70528-large.jpg"
+    },
+    {
+        "name": "俊敏なエース攻撃手 空閑 遊真",
+        "code": "WTR/S85-T17",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「B級ランク戦 ROUND5」 is in your Climax Slot, and you have 4 or more other 《トリオン》 Character, you may choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card70529-large.jpg"
+    },
+    {
+        "name": "新技を備えて 雨取 千佳",
+        "code": "WTR/S85-T18",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "狙撃ポイントにつきました！",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】When this card attacks, choose 1 of your other 《トリオン》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《トリオン》 Character x500."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card70532-large.jpg"
+    },
+    {
+        "name": "真実の行方 ヒュース",
+        "code": "WTR/S85-T19",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "レギンデッツ「おまえは国に捨てられたんだよ‼」",
+        "ability": [
+            "【C】If you have 2 or more other 《トリオン》 Character, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《トリオン》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card70534-large.jpg"
+    },
+    {
+        "name": "空からの襲撃 空閑 遊真",
+        "code": "WTR/S85-T20",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 《トリオン》 Character, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may return all cards from your Waiting Room to Deck. If you did, shuffle the Deck afterwards, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T20",
+        "image": "https://images.littleakiba.com/tcg/card70535-large.jpg"
+    },
+    {
+        "name": "小さな狙撃手 雨取 千佳",
+        "code": "WTR/S85-T21",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「B級ランク戦 ROUND5」 is in your Climax Slot, during this turn, this card gets +9000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T21",
+        "image": "https://images.littleakiba.com/tcg/card70536-large.jpg"
+    },
+    {
+        "name": "成長する隊長 三雲 修",
+        "code": "WTR/S85-T22",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《トリオン》 Character, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 Character with Level same or lower than your Level from Hand, place it into any slot on Stage, during this turn, that Character gets +2000 Power."
+        ],
+        "attributes": [
+            "《トリオン》",
+            "《玉狛第2》"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T22",
+        "image": "https://images.littleakiba.com/tcg/card70537-large.jpg"
+    },
+    {
+        "name": "緊急脱出",
+        "code": "WTR/S85-T23",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "戦闘体活動限界　緊急脱出",
+        "ability": [
+            "【COUNTER】Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.",
+            "Choose 1 of your 《トリオン》 Character, during this turn, it gains the following Ability. 『【A】When this card is placed into Waiting Room from Stage, you may place this card to its previous slot on Stage in REST.』"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T23",
+        "image": "https://images.littleakiba.com/tcg/card70540-large.jpg"
+    },
+    {
+        "name": "B級ランク戦 ROUND5",
+        "code": "WTR/S85-T24",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T24",
+        "image": "https://images.littleakiba.com/tcg/card70541-large.jpg"
+    }
+]

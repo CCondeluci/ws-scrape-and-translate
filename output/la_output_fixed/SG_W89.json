@@ -1,0 +1,2948 @@
+[
+    {
+        "name": "わたしたちの絶唱 未来",
+        "code": "SG/W89-001",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "わたしも響と――みんなと一緒にッ！",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your Character, during this turn, it gets +500 Power.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card67221-large.jpg"
+    },
+    {
+        "name": "アマルガム 響",
+        "code": "SG/W89-002",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「花咲く勇気」 is in your Climax Slot, and you have 2 or more other 《音楽》 Character, choose and perform 1 of the following 2 effects.",
+            "『Look at up to 4 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.』",
+            "『During this attack, you perform Trigger Check 2 times during Trigger Step.』"
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card67223-large.jpg"
+    },
+    {
+        "name": "神を殺す力 響",
+        "code": "SG/W89-003",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "神殺しなんかじゃないッ！繋ぐこの手は、わたしのアームドギアだああああッ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, if 「METANOIA」 is in your Climax Slot, you may pay the cost. If you did, during this turn, this card gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, you may deal 3 Damage to opponent. If this Damage is cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card67225-large.jpg"
+    },
+    {
+        "name": "神様のヒカリ 響＆未来",
+        "code": "SG/W89-004",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "未来「あのね、響――ずっと、自分の言葉で響に伝えたいことがあったんだ」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax with Choice Trigger Icon among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card67227-large.jpg"
+    },
+    {
+        "name": "自動人形 レイア",
+        "code": "SG/W89-005",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ああ、いかせるわけにはいかないな",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「自動人形 ファラ」 from your Waiting Room, place it into any slot on Stage, until end of opponent's next turn, this card gets +1 Level.",
+            "【A】[(1) Place the top card of your Deck into Clock, send this card to Memory] When this card becomes REVERSE, you may pay the cost. If you did, choose 1 《錬金術》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Doll 《人形》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card67229-large.jpg"
+    },
+    {
+        "name": "聖詠 響",
+        "code": "SG/W89-006",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal 2 cards from your top Deck, opponent chooses 1 Character or Event among those cards, add it to your Hand, place the remaining cards into Waiting Room.",
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「ガングニール」 and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card67230-large.jpg"
+    },
+    {
+        "name": "戦姫絶唱 響",
+        "code": "SG/W89-007",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《音楽》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card67232-large.jpg"
+    },
+    {
+        "name": "たとえばの話 未来",
+        "code": "SG/W89-008",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "じゃあ――わたしが誰かを困らせてたら響はどうするの？",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「たとえばの話 未来」 from your Memory, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card67234-large.jpg"
+    },
+    {
+        "name": "渚の散歩道 未来",
+        "code": "SG/W89-009",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 SUPPORT All your Character with Level 3 or higher in front of this card gets ＋2000 Power.",
+            "【A】 When your Character Trigger Checks a Climax with Choice Trigger Icon, look at the top card of opponent's top Deck, place it on top or bottom Deck.",
+            "【S】［REST this card］ Choose 1 of your 《音楽》 Character, during this turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card67235-large.jpg"
+    },
+    {
+        "name": "渚の散歩道 響",
+        "code": "SG/W89-010",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】EXPERIENCE If 「ガングニール」 is in your Level Slot, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《音楽》 Character."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card67237-large.jpg"
+    },
+    {
+        "name": "握りしめた拳 響",
+        "code": "SG/W89-011",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card67239-large.jpg"
+    },
+    {
+        "name": "元気いっぱい 響",
+        "code": "SG/W89-012",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［Place this card into Waiting Room］ When your other 《音楽》 Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character to its previous slot on Stage in REST.",
+            "【S】［REST this card］ Choose 1 of your 《音楽》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card67240-large.jpg"
+    },
+    {
+        "name": "たとえばの話 響",
+        "code": "SG/W89-013",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "いじわるだよ、そんな質問",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card67241-large.jpg"
+    },
+    {
+        "name": "人が仰ぐべき神 シェム・ハ",
+        "code": "SG/W89-014",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 2,
+        "flavor_text": "遺憾である",
+        "ability": [
+            "【C】EXPERIENCE If the total Level in your Level Slot is 5 or higher, and you have no other Character, this card gets +12000 Power, gains 3 of the following Abilities.",
+            "『【C】During this card's battle, opponent cannot play Event and 『ASSIST』 from Hand.』",
+            "『【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 3 times during Trigger Step.』",
+            "『【A】[Place 3 cards from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent 2 times.』(Damage can be cancelled)",
+            "【S】[Place 1 of your Character from Stage into Waiting Room] Choose 1 of your Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "God 《神》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card67242-large.jpg"
+    },
+    {
+        "name": "\"また逢う日まで” エルフナイン",
+        "code": "SG/W89-015",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "たまにはいいですねッ！こういうのもッ！",
+        "ability": [
+            "【C】You can play this card from Hand without following Colour rule.",
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【S】[(1) REST this card] If your Memory has 5 or less cards, choose 1 《錬金術》 Character from your Waiting Room, send it to Memory."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card67243-large.jpg"
+    },
+    {
+        "name": "不安な表情 未来",
+        "code": "SG/W89-016",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "うん…響も、気を付けてね…",
+        "ability": [
+            "【C】 SUPPORT All your Character with Level 0 or lower in front of this card gets ＋1000 Power.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to Stock. If you did, place the bottom card from opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card67244-large.jpg"
+    },
+    {
+        "name": "邪悪な表情 シェム・ハ",
+        "code": "SG/W89-017",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "無粋に足搔くッ！だが、せめて散り際は白銀に煌めくがいいッ！",
+        "ability": [
+            "【C】During your turn, all your other 「ノノーブルレッド ヴァネッサ」 and 「ノーブルレッド ミラアルク」 and 「ノーブルレッド エルザ」 gets +2000 Power.",
+            "【C】All your other 《錬金術》 Character gets +500 Power."
+        ],
+        "attributes": [
+            "God 《神》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card67245-large.jpg"
+    },
+    {
+        "name": "決死の覚悟 未来",
+        "code": "SG/W89-018",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "逃げてッ！エルフナインちゃん",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if you have other 《音楽》 Character, during this turn, this card gets ＋2000 Power.",
+            "【A】【CXCOMBO】 When this card's battle opponent becomes REVERSE, if 「観覧車の中で」 is in your Climax Slot, place 3 cards from your top Deck into Waiting Room, choose up to 1 《音楽》 Character with Level Ｘ or lower from your Waiting Room, return it to Hand, choose 1 of your Character, during this turn, it gets ＋1000 Power. Ｘ is equal to the number of 《音楽》 Character placed into Waiting Room by this effect."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card67246-large.jpg"
+    },
+    {
+        "name": "休日の過ごし方 未来",
+        "code": "SG/W89-019",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During opponent's turn, all your 《音楽》 Character gets +1000 Power.",
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 4 or more 《音楽》 Character, at the beginning of your Climax Phase, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card67247-large.jpg"
+    },
+    {
+        "name": "休日の過ごし方 響",
+        "code": "SG/W89-020",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, if you draw cards during your Clock Phase, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card67248-large.jpg"
+    },
+    {
+        "name": "遊びの計画 未来",
+        "code": "SG/W89-021",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "じゃあ…前みたく思い切って翼さんとか誘っちゃおッ！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card67249-large.jpg"
+    },
+    {
+        "name": "胸の中の想い 響",
+        "code": "SG/W89-022",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if you have 4 or more other 《音楽》 Character, you may choose 1 《音楽》 Character from your Waiting Room, place it into Stock.",
+            "【A】［(1)］ This Ability can be activated up to 1 time each turn. When you play 「ガングニール」, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.",
+            "【A】 When this card attacks, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《音楽》 Character ×1000."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card67250-large.jpg"
+    },
+    {
+        "name": "ガングニール",
+        "code": "SG/W89-023",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Balwisyall Nescell gungnir tron…",
+        "ability": [
+            "If you have 3 or less 《音楽》 Character, you cannot play this card from Hand.",
+            "You may choose 1 of your STANDING 「聖詠 響」, send it to Memory. If you did, choose up to 1 Character with 「響」 in its name from your Hand, place it into any slot on Stage, at the beginning of your Climax Phase, choose 1 「聖詠 響」 from your Memory, return it to Hand.",
+            "You may choose 1 card from your Level Slot, place it into Waiting Room. If you did, place this card into Level Slot."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card67251-large.jpg"
+    },
+    {
+        "name": "METANOIA",
+        "code": "SG/W89-024",
+        "rarity": "CR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card67253-large.jpg"
+    },
+    {
+        "name": "花咲く勇気",
+        "code": "SG/W89-025",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card67255-large.jpg"
+    },
+    {
+        "name": "観覧車の中で",
+        "code": "SG/W89-026",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card67257-large.jpg"
+    },
+    {
+        "name": "アマルガム 切歌",
+        "code": "SG/W89-027",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《音楽》 Character, choose and perform 1 of the following 2 effects.",
+            "『You may place the top card of your Clock into Waiting Room.』",
+            "『You may place 1 card from your top Stock into Waiting Room. If you did, you draw up to 1 card, choose up to 1 「アマルガム 切歌」か「アマルガム 調」 from your Hand, place it into any slot on Stage.』",
+            "【A】【CXCOMBO】When this card attacks, if 「ポリフィリム鉄恋夢」 is in your Climax Slot, look at up to 2 cards from opponent's top Deck, choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card67258-large.jpg"
+    },
+    {
+        "name": "アマルガム 調",
+        "code": "SG/W89-028",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《音楽》 Character, choose and perform 1 of the following 2 effects.",
+            "『You may place the top card of your Clock into Waiting Room.』",
+            "『You may place 1 card from your top Stock into Waiting Room. If you did, you draw up to 1 card, choose up to 1 「アマルガム 切歌」 or 「アマルガム 調」 from your Hand, place it into any slot on Stage.』",
+            "【A】【CXCOMBO】EXPERIENCE [Place 1 《音楽》 Character from Hand into Waiting Room] When this card attacks, if 「ポリフィリム鉄恋夢」 is in your Climax Slot, and 「イガリマ」 or 「シュルシャガナ」 is in your Level Slot, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card67260-large.jpg"
+    },
+    {
+        "name": "戦姫絶唱 調",
+        "code": "SG/W89-029",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】At the beginning of opponent's Draw Phase, if you have other 《音楽》 Character, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. If you did, shuffle your Deck, you draw 1 card. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card67262-large.jpg"
+    },
+    {
+        "name": "バーニング・エクスドライブ 切歌",
+        "code": "SG/W89-030",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《音楽》 Character gets +500 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When your Character Trigger Checks a Climax with Gold Trigger Icon, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card67264-large.jpg"
+    },
+    {
+        "name": "バーニング・エクスドライブ 調",
+        "code": "SG/W89-031",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your Character Trigger Checks a Climax with Gold Trigger Icon, choose 1 of your Character, until end of opponent's next turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card67266-large.jpg"
+    },
+    {
+        "name": "間一髪 切歌",
+        "code": "SG/W89-032",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】At the beginning of your Encore Step, if 「凶鎖・スタaa魔忍ィイ」 is in your Climax Slot, and this card is at Front Row, and your Hand has 5 or less cards, if there is no Character or the Character is REVERSE facing this card, you may choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card67268-large.jpg"
+    },
+    {
+        "name": "戦姫絶唱 切歌",
+        "code": "SG/W89-033",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】[Place 1 card from Hand into Waiting Room] When your Character Trigger Checks a Climax with Gold Trigger Icon, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【S】EXPERIENCE [REST this card] If 「イガリマ」 or 「シュルシャガナ」 is in your Level Slot, choose 1 of your Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card67269-large.jpg"
+    },
+    {
+        "name": "聖詠 切歌",
+        "code": "SG/W89-034",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「イガリマ」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card67271-large.jpg"
+    },
+    {
+        "name": "聖詠 調",
+        "code": "SG/W89-035",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「シュルシャガナ」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card67273-large.jpg"
+    },
+    {
+        "name": "自動人形 ファラ",
+        "code": "SG/W89-036",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "この道は通行止めです。他を当たっていただきましょうッ!!",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「自動人形 レイア」 from your Waiting Room, place it into any slot on Stage, until end of opponent's next turn, this card gets +1 Level.",
+            "【A】[(1)] When this card becomes REVERSE, you may pay the cost. If you did, send this card to Memory."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Doll 《人形》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card67275-large.jpg"
+    },
+    {
+        "name": "繋いだ希望 調",
+        "code": "SG/W89-037",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《音楽》 Character, during this turn, it gets +1500 Power.",
+            "【A】When this card is placed into Waiting Room from Stage, you may reveal 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 《音楽》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card67276-large.jpg"
+    },
+    {
+        "name": "お気楽者？ 切歌",
+        "code": "SG/W89-038",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "違うのデスッ！この本はたまたまそこにあっただけで…全くもって無関係デスッ！",
+        "ability": [
+            "【C】 This card cannot Side Attack.",
+            "【C】 For each of your other 《音楽》 Character, this card gets ＋500 Power.",
+            "【A】 [(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card67277-large.jpg"
+    },
+    {
+        "name": "いつでも一緒 調＆切歌",
+        "code": "SG/W89-039",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】 [(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card67278-large.jpg"
+    },
+    {
+        "name": "圧倒的な力 キャロル",
+        "code": "SG/W89-040",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "オレの歌は、只の1人で70億の絶唱を凌駕するフォニックゲインだッ！",
+        "ability": [
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《錬金術》 Character x500.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「覚醒の鼓動」 is in your Climax Slot, look at up to 4 cards from your top Deck, choose up to 2 《錬金術》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card67279-large.jpg"
+    },
+    {
+        "name": "ロケット警護任務 調",
+        "code": "SG/W89-041",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 2,
+        "flavor_text": "内緒だけど、ちょっとだけ月に行けるかもと期待しちゃった",
+        "ability": [
+            "【C】During your turn, for each of your other 《音楽》 Character, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《音楽》 Character, you may choose 1 《音楽》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card67280-large.jpg"
+    },
+    {
+        "name": "ロケット警護任務 切歌",
+        "code": "SG/W89-042",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "それにしても近くで見るとでっかいデスね…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, until end of opponent's next turn, this card gains the following Ability. 『【C】During opponent's turn, this card gets +3000 Power.』",
+            "【S】[REST 1 of your other 《音楽》 Character] Place this STANDING card into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card67281-large.jpg"
+    },
+    {
+        "name": "見事な着地 切歌",
+        "code": "SG/W89-043",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "暁選手、見事な着地で金メダルデスッ！",
+        "ability": [
+            "【C】If this card is at the Center Slot of Front Row, this card gets +3000 Power.",
+            "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 opponent's Character, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card67282-large.jpg"
+    },
+    {
+        "name": "ジト目 調",
+        "code": "SG/W89-044",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ジー…",
+        "ability": [
+            "【A】 When this card's dealt Damage is not cancelled, during this turn, this card gets ＋3000 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card67283-large.jpg"
+    },
+    {
+        "name": "快美な旋律 切歌",
+        "code": "SG/W89-045",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card67284-large.jpg"
+    },
+    {
+        "name": "快美な旋律 調",
+        "code": "SG/W89-046",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Character with Level 0 or lower among those cards, during this turn, no Soul is deducted if this card Side Attacks.",
+            "【A】［(1)］ When this card becomes REVERSE, you may pay the cost. If you did, choose 1 「快美な旋律 切歌」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card67285-large.jpg"
+    },
+    {
+        "name": "β式獄糸乱舞 調",
+        "code": "SG/W89-047",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, both player perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards except for those chosen cards from Memory into Waiting Room.』",
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card67286-large.jpg"
+    },
+    {
+        "name": "神との対峙 キャロル",
+        "code": "SG/W89-048",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《錬金術》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《錬金術》 Character ×500."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card67287-large.jpg"
+    },
+    {
+        "name": "空からの襲撃 アルカ・ノイズ",
+        "code": "SG/W89-049",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When this card attacks, if 「未曾有の危機」 is in your Climax Slot, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Noise 《ノイズ》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card67288-large.jpg"
+    },
+    {
+        "name": "イガリマ",
+        "code": "SG/W89-050",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Zeios igalima raizen tron…",
+        "ability": [
+            "If you have 3 or less 《音楽》 Character, you cannot play this card from Hand.",
+            "You may choose 1 of your STANDING 「聖詠 切歌」, send it to Memory. If you did, choose up to 1 Character with 「切歌」 in its name from your Hand, place it into any slot on Stage, at the beginning of your Climax Phase, choose 1 「聖詠 切歌」 from your Memory, return it to Hand.",
+            "You may choose 1 card from your Level Slot, place it into Waiting Room. If you did, place this card into Level Slot."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card67289-large.jpg"
+    },
+    {
+        "name": "シュルシャガナ",
+        "code": "SG/W89-051",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Various shul shagana tron…",
+        "ability": [
+            "If you have 3 or less 《音楽》 Character, you cannot play this card from Hand.",
+            "You may choose 1 of your STANDING 「聖詠 調」, send it to Memory. If you did, choose up to 1 Character with 「調」 in its name from your Hand, place it into any slot on Stage, at the beginning of your Climax Phase, choose 1 「聖詠 調」 from your Memory, return it to Hand.",
+            "You may choose 1 card from your Level Slot, place it into Waiting Room. If you did, place this card into Level Slot."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card67291-large.jpg"
+    },
+    {
+        "name": "ポリフィリム鋏恋夢",
+        "code": "SG/W89-052",
+        "rarity": "CR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card67293-large.jpg"
+    },
+    {
+        "name": "凶鎖・スタaa魔忍ィイ",
+        "code": "SG/W89-053",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card67295-large.jpg"
+    },
+    {
+        "name": "アマルガム クリス",
+        "code": "SG/W89-054",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)",
+            "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card67296-large.jpg"
+    },
+    {
+        "name": "アマルガム マリア",
+        "code": "SG/W89-055",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】EXPERIENCE If 「アガートラーム」 or 「天羽々斬」 is in your Level Slot, this card gets +3000 Power.",
+            "【A】【CXCOMBO】[(1) Place 1 《音楽》 Character from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. At the end of this card's attack, if 「至高善・薔薇Ｘ字」 is in your Climax Slot, and you have other 《音楽》 Character, you may pay the cost. If you did, choose 1 of your 「復活の不死鳥 翼」 or this card, STAND it, during this turn, it gains 2 of the following Abilities.",
+            "『【C】During this card's battle, opponent cannot use 『ASSIST』 from Hand.』",
+            "『【C】This card cannot be chosen by opponent's effect.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card67298-large.jpg"
+    },
+    {
+        "name": "戦姫絶唱 クリス",
+        "code": "SG/W89-056",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】EXPERIENCE [(1) Place 1 card from Hand into Waiting Room] When this card attacks, if 「イチイバル」 is in your Level Slot, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card67300-large.jpg"
+    },
+    {
+        "name": "バーニング・エクスドライブ マリア",
+        "code": "SG/W89-057",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "まるで位相差障壁を突破するかのように…",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】［(1)］ When a Climax is placed into your Climax Slot, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. （Climax is considered Level 0）"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card67302-large.jpg"
+    },
+    {
+        "name": "準備運動はしっかり クリス",
+        "code": "SG/W89-058",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if you have 2 or more other 《音楽》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】［(2)］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card67304-large.jpg"
+    },
+    {
+        "name": "見据えた視線の先に マリア",
+        "code": "SG/W89-059",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card67305-large.jpg"
+    },
+    {
+        "name": "治療中 マリア",
+        "code": "SG/W89-060",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 2,
+        "flavor_text": "わたしはピンシャン",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】When your Character Trigger Checks a Climax with Switch Trigger Icon, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card67306-large.jpg"
+    },
+    {
+        "name": "戦姫絶唱 マリア",
+        "code": "SG/W89-061",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.",
+            "【A】ENCORE ［Place 1 《音楽》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card67307-large.jpg"
+    },
+    {
+        "name": "再誕の時 キャロル",
+        "code": "SG/W89-062",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "オレは奇跡の殺戮者だッ!!",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock.",
+            "【A】【CXCOMBO】RECOLLECTION When this card attacks, if 「四元素の錬金術」 is in your Climax Slot, and 「自動人形 レイア」 and 「自動人形 ファラ」 and 「自動人形 ミカ」 and 「自動人形 ガリィ」 are in your Memory, you may deal 2 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card67309-large.jpg"
+    },
+    {
+        "name": "一撃に込めた思い クリス",
+        "code": "SG/W89-063",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose up to 1 Character with Level same or lower than your Level from your Hand, place it into any slot on Stage, during this turn, that Character gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card67311-large.jpg"
+    },
+    {
+        "name": "聖詠 クリス",
+        "code": "SG/W89-064",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「イチイバル」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card67313-large.jpg"
+    },
+    {
+        "name": "聖詠 マリア",
+        "code": "SG/W89-065",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal 2 cards from your top Deck, opponent choose 1 Character or Event among those cards, add it to your Hand, place the remaining cards into Waiting Room.",
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「アガートラーム」 and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card67315-large.jpg"
+    },
+    {
+        "name": "自動人形 ミカ",
+        "code": "SG/W89-066",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】You can play this card from Hand without following Colour rule.",
+            "【A】When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 Character with 「自動人形」 in its name from your Waiting Room, send it to Memory.",
+            "【S】[(2) Send this STANDING card to Memory] Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Doll 《人形》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card67317-large.jpg"
+    },
+    {
+        "name": "真っ直ぐ見据える クリス",
+        "code": "SG/W89-067",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 During your turn, this card gets ＋1000 Power.",
+            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《音楽》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card67318-large.jpg"
+    },
+    {
+        "name": "バーニング・エクスドライブ クリス",
+        "code": "SG/W89-068",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ホントに効いてやがるッ⁉これってエクスドライブの力なのか？",
+        "ability": [
+            "【C】If opponent's Waiting Room has 3 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】【CXCOMBO】[(1) Place 1 「∀∀デ・レ・メタリカ」 from your Climax Slot into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 4 《音楽》 Character or 「イチイバル」 and show them to opponent, add them to Hand, place the remaining cards into Waiting Room, until end of opponent's next turn, this card gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card67319-large.jpg"
+    },
+    {
+        "name": "緊急招集 マリア",
+        "code": "SG/W89-069",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "お呼びでしょうか",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets －1000 Power.",
+            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card67320-large.jpg"
+    },
+    {
+        "name": "攻防戦 クリス",
+        "code": "SG/W89-070",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your other 《音楽》 Character gets ＋500 Power.",
+            "【A】【CXCOMBO】［REST this card］ When 「HORNET PISTOLS」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card67321-large.jpg"
+    },
+    {
+        "name": "優しい気遣い マリア",
+        "code": "SG/W89-071",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 2,
+        "flavor_text": "帰ろう、翼…みんなのところに――",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋2500 Power, gains the following Ability.『【A】 At the end of turn, place this card into Waiting Room.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card67322-large.jpg"
+    },
+    {
+        "name": "精密射撃 クリス",
+        "code": "SG/W89-072",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "焦るな…焦るな…焦らせるなッ！",
+        "ability": [
+            "【C】 This card cannot Side Attack.",
+            "【A】 When this card becomes REVERSE, opponent may draw 1 card. If he/she did, he/she chooses 1 card from his/her Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card67323-large.jpg"
+    },
+    {
+        "name": "再びのステージへ マリア",
+        "code": "SG/W89-073",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have other 「再びのステージへ 翼」, this card gets +4000 Power.",
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card67324-large.jpg"
+    },
+    {
+        "name": "繋いだ希望 マリア",
+        "code": "SG/W89-074",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ガングニールッ！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card67325-large.jpg"
+    },
+    {
+        "name": "プールサイドの一幕 クリス",
+        "code": "SG/W89-075",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If you have other 《音楽》 Character, this card gets ＋1500 Power, gains 2 of the following Abilities.",
+            "『【A】 When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.』",
+            "『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』",
+            "【A】 When this card Trigger Checks a card with Soul Trigger Icon, until end of opponent's next turn, this card gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card67326-large.jpg"
+    },
+    {
+        "name": "イチイバル",
+        "code": "SG/W89-076",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "killter Ichaival tron…",
+        "ability": [
+            "If you have 3 or less 《音楽》 Character, you cannot play this card from Hand.",
+            "You may choose 1 of your STANDING 「聖詠 クリス」, send it to Memory. If you did, choose up to 1 Character with 「クリス」 in its name from your Hand, place it into any slot on Stage, at the beginning of your Climax Phase, choose 1 「聖詠 クリス」 from your Memory, return it to Hand.",
+            "You may choose 1 card from your Level Slot, place it into Waiting Room. If you did, place this card into Level Slot."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card67327-large.jpg"
+    },
+    {
+        "name": "アガートラーム",
+        "code": "SG/W89-077",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Seilien coffin airget-lamh tron…",
+        "ability": [
+            "If you have 3 or less 《音楽》 Character, you cannot play this card from Hand.",
+            "You may choose 1 of your STANDING 「聖詠 マリア」, send it to Memory. If you did, choose up to 1 Character with 「マリア」 in its name from your Hand, place it into any slot on Stage, at the beginning of your Climax Phase, choose 1 「聖詠 マリア」 from your Memory, return it to Hand.",
+            "You may choose 1 card from your Level Slot, place it into Waiting Room. If you did, place this card into Level Slot."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card67329-large.jpg"
+    },
+    {
+        "name": "至高善・薔薇Ｘ字",
+        "code": "SG/W89-078",
+        "rarity": "CR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card67331-large.jpg"
+    },
+    {
+        "name": "四元素の錬金術",
+        "code": "SG/W89-079",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card67333-large.jpg"
+    },
+    {
+        "name": "∀∀デ・レ・メタリカ",
+        "code": "SG/W89-080",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card67335-large.jpg"
+    },
+    {
+        "name": "HORNET PISTOLS",
+        "code": "SG/W89-081",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card67337-large.jpg"
+    },
+    {
+        "name": "アマルガム 翼",
+        "code": "SG/W89-082",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "お父様あああああッ！",
+        "ability": [
+            "【C】During your turn, if you have other 《音楽》 Character, this card gets +1500 Power.",
+            "【A】【CXCOMBO】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「守るべき人の価値」 is in your Climax Slot, and you have other 《音楽》 Character, you may pay the cost. If you did, search your Deck for up to 2 《音楽》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card67338-large.jpg"
+    },
+    {
+        "name": "戦姫絶唱 翼",
+        "code": "SG/W89-083",
+        "rarity": "RR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】For each of your other 《音楽》 Character, this card gets +500 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card67340-large.jpg"
+    },
+    {
+        "name": "聖詠 翼",
+        "code": "SG/W89-084",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「天羽々斬」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card67342-large.jpg"
+    },
+    {
+        "name": "準備運動はしっかり 翼",
+        "code": "SG/W89-085",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】 At the beginning of your Encore Step, if 「炎乱逆鱗斬」is in your Climax Slot, and this card is at Front Row, if you have other 《音楽》 Character, and there is no Character or the Character is REVERSE facing this card, search your Deck for up to 2 《音楽》 Character and show them to opponent, place them into Stock, shuffle your Deck afterwards.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card67344-large.jpg"
+    },
+    {
+        "name": "復活の不死鳥 翼",
+        "code": "SG/W89-086",
+        "rarity": "R",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】EXPERIENCE If 「アガートラーム」 or 「天羽々斬」 is in your Level Slot, this card gets +4500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a 《音楽》 Character or 「アガートラーム」 or 「天羽々斬」, deal 1 Damage to opponent. (Damage can be cancelled. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card67345-large.jpg"
+    },
+    {
+        "name": "デコピン 翼",
+        "code": "SG/W89-087",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あいったーッ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your 《音楽》 Character, during this turn, it gets ＋1500 Power.",
+            "【A】 When this card attacks, choose 1 of your 《音楽》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card67347-large.jpg"
+    },
+    {
+        "name": "自動人形 ガリィ",
+        "code": "SG/W89-088",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "目的地までの道のりはココに叩きこんでるからッ！",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room, send this card to Memory] When this card becomes REVERSE, you may pay the cost. If you did, draw 1 card.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《錬金術》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Doll 《人形》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card67348-large.jpg"
+    },
+    {
+        "name": "覚悟の表情 翼",
+        "code": "SG/W89-089",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card67349-large.jpg"
+    },
+    {
+        "name": "みんなの為に出来る事 エルフナイン",
+        "code": "SG/W89-090",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ガリィ…みんな…",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】【CXCOMBO】[Place this card into Waiting Room] When 「覚醒の鼓動」 is placed into your Climax Slot, you may pay the cost. If you did, choose up to 1 「圧倒的な力 キャロル」 from your Hand, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card67350-large.jpg"
+    },
+    {
+        "name": "ノーブルレッド エルザ",
+        "code": "SG/W89-091",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "…ガンスッ！",
+        "ability": [
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card67351-large.jpg"
+    },
+    {
+        "name": "再びのステージへ 翼",
+        "code": "SG/W89-092",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have other 「再びのステージへ マリア」, this card gets +3000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card67352-large.jpg"
+    },
+    {
+        "name": "ノーブルレッド ミラアルク",
+        "code": "SG/W89-093",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "そっちにかわってこっちがユニゾンッ!!",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《神》 or 《錬金術》 Character, during this turn, it gets +1000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card67353-large.jpg"
+    },
+    {
+        "name": "鬼気迫る姿 翼",
+        "code": "SG/W89-094",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, if you have other 《音楽》 Character, until end of opponent's next turn, this card gains 1 of the following 2 Abilities.",
+            "『【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《音楽》 Character, REST it, move it to an empty slot at Back Row.』",
+            "『【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card67354-large.jpg"
+    },
+    {
+        "name": "バーニング・エクスドライブ 翼",
+        "code": "SG/W89-095",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "不条理の執行に無効化されない？",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《音楽》 Character.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card67355-large.jpg"
+    },
+    {
+        "name": "ノーブルレッド ヴァネッサ",
+        "code": "SG/W89-096",
+        "rarity": "C",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "あなた達が不甲斐ないから、余計な被害者出しちゃったかも",
+        "ability": [
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】[Place 1 of each 「ノーブルレッド ミラアルク」 and 「ノーブルレッド エルザ」 from Hand into Waiting Room, place this card into Waiting Room] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 opponent's Character, REST it."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card67356-large.jpg"
+    },
+    {
+        "name": "天羽々斬",
+        "code": "SG/W89-097",
+        "rarity": "U",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Imyuteus amenohabakiri tron…",
+        "ability": [
+            "If you have 3 or less 《音楽》 Character, you cannot play this card from Hand.",
+            "You may choose 1 of your STANDING 「聖詠 翼」, send it to Memory. If you did, choose up to 1 Character with 「翼」 in its name from your Hand, place it into any slot on Stage, at the beginning of your Climax Phase, choose 1 「聖詠 翼」 from your Memory, return it to Hand.",
+            "You may choose 1 card from your Level Slot, place it into Waiting Room. If you did, place this card into Level Slot."
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card67357-large.jpg"
+    },
+    {
+        "name": "守るべき人の価値",
+        "code": "SG/W89-098",
+        "rarity": "CR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card67359-large.jpg"
+    },
+    {
+        "name": "炎乱逆鱗斬",
+        "code": "SG/W89-099",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card67361-large.jpg"
+    },
+    {
+        "name": "覚醒の鼓動",
+        "code": "SG/W89-100",
+        "rarity": "CC",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SG",
+        "release": "W89",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card67362-large.jpg"
+    },
+    {
+        "name": "明日の世界へ 響",
+        "code": "SG/W89-108",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《音楽》 Character x500.",
+            "【S】[(1)] If you have 2 or more other 《音楽》 Character, during this turn, this card gets +1000 Power, opponent cannot use 『【A】ENCORE』. (Cannot use 『【A】ENCORE [(3)]』 from rule also)"
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card67370-large.jpg"
+    },
+    {
+        "name": "明日の世界へ 調",
+        "code": "SG/W89-109",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock.",
+            "【S】[REST 2 of your Characters] Choose 1 of your 《音楽》 Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card67371-large.jpg"
+    },
+    {
+        "name": "明日の世界へ 切歌",
+        "code": "SG/W89-110",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card67372-large.jpg"
+    },
+    {
+        "name": "明日の世界へ マリア",
+        "code": "SG/W89-111",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your other 《音楽》 Character attacks, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card67373-large.jpg"
+    },
+    {
+        "name": "明日の世界へ クリス",
+        "code": "SG/W89-112",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《音楽》 Character x1000."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "112",
+        "image": "https://images.littleakiba.com/tcg/card67374-large.jpg"
+    },
+    {
+        "name": "明日の世界へ 翼",
+        "code": "SG/W89-113",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During opponent's turn, if your Hand has 5 or more cards, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "113",
+        "image": "https://images.littleakiba.com/tcg/card67375-large.jpg"
+    },
+    {
+        "name": "親密な仲 響＆未来",
+        "code": "SG/W89-P01",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 During your turn, this card gets ＋1000 Power.",
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card67376-large.jpg"
+    },
+    {
+        "name": "海辺の輝き クリス＆翼",
+        "code": "SG/W89-P02",
+        "rarity": "PR",
+        "expansion": "Senki Zessho Symphogear XV",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If you have no other Character, this card gets ＋1500 Power, gains the following Ability.『【A】 At the beginning of opponent's Attack Phase, you may move this card to the empty Center Slot of Front Row.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "SG",
+        "release": "W89",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card67377-large.jpg"
+    }
+]

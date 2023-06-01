@@ -1,0 +1,29 @@
+{
+  "name": "ws-scrape-poc",
+  "version": "1.0.0",
+  "description": "a proof-of-concept english weiss schwarz card data scraper",
+  "main": "/",
+  "dependencies": {
+    "html-entities": "^2.3.3",
+    "iconv-lite": "^0.4.24",
+    "imagemin": "^6.1.0",
+    "imagemin-keep-folder": "^5.3.2",
+    "imagemin-pngquant": "^7.0.0",
+    "lodash": "^4.17.20",
+    "node-html-parser": "^1.1.12",
+    "prompt": "^1.0.0",
+    "read-excel-file": "^5.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "sharp": "^0.30.7",
+    "xlsx": "^0.16.9",
+    "xlsx-parse-json": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node ./get-bushi-data.js && node ./normalize-data.js && node ./get-en-images.js",
+    "data": "node ./get-bushi-data.js && node ./normalize-data.js",
+    "img": "node ./get-en-images.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

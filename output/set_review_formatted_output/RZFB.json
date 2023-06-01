@@ -1,0 +1,202 @@
+[
+    {
+        "code": "RZ/SE35-01",
+        "text": "[A] When a Climax is placed to your Climax Zone, if that Climax has a Treasure icon, choose 1 of your Characters, and until the next end of your Opponent's turn that Character gains +1000 Power.\n[A] [(1)] When a Climax is placed to your Climax Zone, you may pay cost. If so, look at up to 4 cards from the top of your Library, choose up to 1 Character with \"Emilia\" or \"Puck\" in name, show it to your Opponent, put it in your hand, and put the remaining cards in your Waiting Room."
+    },
+    {
+        "code": "RZ/SE35-02",
+        "text": "[C] During your turn if you have 2 or more Characters with \"Emilia\" and/or \"Puck\" in name, this gains +1 Level and +1500 Power.\n[A] When the Battle Opponent of this becomes Reversed, choose 1 of your other Characters with either ::Magic:: or ::Weapon::, Rest it, and move it to an empty Slot in the Back Row."
+    },
+    {
+        "code": "RZ/SE35-03",
+        "text": "[A] CX COMBO [Discard a GREEN card from hand to the Waiting Room] When the Battle Opponent of this becomes Reversed, if \"Sacred Question\" is in your Climax Zone and you have another ::Magic:: or ::Weapon:: Characters, you may pay cost. If so, search your Library for up to 2 Characters with ::Magic:: and/or ::Weapon::, show them to your Opponent, put them in your hand, and shuffle your Library."
+    },
+    {
+        "code": "RZ/SE35-04",
+        "text": "[C] RECOLLECTION If you have 2 or more Character with ::Magic:: and/or ::Weapon:: in Memory, this gains +3000 Power.\n[A] When this is placed from hand to the Stage, you may put the top card of your Clock in the Waiting Room.\n[A] CX COMBO When \"Future of the Two\" is placed to your Climax Zone, for the turn this gains the following 2 abilities. \"[A] When the Battle Opponent of this becomes Reversed, you may put that Character in your Opponent's Clock.\" \"[A] [Discard a card from hand to the Waiting Room] When this Direct Attacks, you may pay cost. If so, deal 2 Damage to your Opponent.\" (Damage Cancel may occur)"
+    },
+    {
+        "code": "RZ/SE35-05",
+        "text": "[C] If there are 2 or fewer Climax cards in your Waiting Room, this gets -1 Level while in your hand.\n[C] For each of your other Characters with either ::Magic:: or ::Weapon::, this gains +500 Power.\n[A] [Discard a card from your hand to the Waiting Room] When this is placed from hand to the Stage, you may pay cost. If so, put the top card of your Clock in your Stock."
+    },
+    {
+        "code": "RZ/SE35-06",
+        "text": "[A] When this attacks, choose 1 of your Characters with ::Magic:: or ::Weapon:: and for the turn that Character gains +1500 Power.\n[S] [Discard a card from your hand to the Waiting Room, put this in the Waiting Room] Choose a Character with either ::Magic:: or ::Weapon:: in your Waiting Room and return it to your hand."
+    },
+    {
+        "code": "RZ/SE35-07",
+        "text": "[A] [Put this in the Waiting Room] When your other Character with \"Emilia\" in name is placed from the Stage to the Waiting Room, if this is in the Back Row, you may pay cost. If so, put that Character Rested in the Slot it was in.\n[S] [Rest this] Choose 1 of your Characters with \"Emilia\" in name, and that Character gains +1500 Power for the turn."
+    },
+    {
+        "code": "RZ/SE35-08",
+        "text": "[C] If you do not have another Character with \"Emilia\" or \"Puck\" in name, this does not Stand during your Stand Phase.\n[S] [(1) Send this to Memory] Look at up to 4 cards from the top of your Library, choose up to 1 Character with \"Emilia\" or \"Puck\" in name, show it to your Opponent, put it in your hand, and put the remaining cards in your Waiting Room."
+    },
+    {
+        "code": "RZ/SE35-09",
+        "text": "[C] RECOLLECTION If there is a card in your Memory, this gains +3000 Power.\n[A] [Discard a Climax with a Treasure Icon from hand to the Waiting Room] When this attacks, you may pay cost. If so, for the turn this gets +1500 Power and the following ability. \"[A] When the Battle Opponent of this becomes Reversed, you may draw a card.\""
+    },
+    {
+        "code": "RZ/SE35-10",
+        "text": "[A] CX COMBO When \"The Two Meet\" is placed to your Climax Zone, if you have another ::Magic:: or ::Weapon:, character, for the turn this gains the following 2 abilities. \"[A] When this attacks, you may choose a ::Magic:: or ::Weapon:: Character in your Waiting Room and put it to Stock.\" \"[A] [(1) When this attacks, you may pay cost. If so, perform Trigger Check twice during this attack's Trigger Step.\"\n[A] When this card triggers a Climax during the Trigger Step, if that card has a Stock (Bag) Icon, you may choose a Character from your Waiting Room and return it to your hand."
+    },
+    {
+        "code": "RZ/SE35-11",
+        "text": "[C] All your other '\"Call My Name\" Puck' gain +1000 Power.\n[C] ASSIST All your Characters with either :Magic:: or ::Weapon:: in front of this gain +X Power. X = 500 times Level of that Character.\n[S] [(1) Put the top card of your Library to your Clock, Rest this] Search your Library for up to 1 Character with \"Emilia\" or \"Puck\" in name, shot it to your Opponent, put it in your hand, shuffle your Library, choose 1 of your Characters, and for the turn that Character gains +1000 Power."
+    },
+    {
+        "code": "RZ/SE35-12",
+        "text": "[A] When this becomes Reversed, if the Level of the Battle Opponent of this is higher than the Level of the Opponent, you may put the top card of your Opponent's Clock in the Waiting Room. If so, put that Character in Clock."
+    },
+    {
+        "code": "RZ/SE35-13",
+        "text": "[A] When you use the BACKUP of this, reveal the top card of your Library. If it's a Character with either ::Magic:: or ::Weapon::, put it in your hand and discard a card from your hand to the Waiting Room. (Otherwise put it back where it was)\n[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from your hand to the Waiting Room]"
+    },
+    {
+        "code": "RZ/SE35-14",
+        "text": "[C] RECOLLECTION If \"Emilia Alone\" is in your Memory, this gains the following ability. \"[C] This cannot be chosen by your Opponent's effects.\"\n[S] RECOLLECTION If you have 3 or more cards in Memory, this gains \"[C] ASSIST All Characters in front of this gain +X Power. X equals that Character's Level times 1000.\"\n[A] When this is placed from hand to the Stage or by the [S] effect of '\"Call My Name\" Puck' to the Stage, you may choose a ::Magic:: or ::Weapon:: Character in your Waiting Room and return it to hand."
+    },
+    {
+        "code": "RZ/SE35-15",
+        "text": "[A] When this is placed from hand to the Stage, you may put the top card of your Clock in the Waiting Room.\n[A] [(3) Discard 2 cards from your hand to the Waiting Room] When this attacks, you may pay cost. If so, deal 5 Damage to your Opponent. (Damage Cancel can occur)"
+    },
+    {
+        "code": "RZ/SE35-16",
+        "text": "[C] All your other \"Emilia, Desperate Resistance\" gain +1000 Power.\n[A] When this is placed from hand to the Stage, choose up to 1 Character in your hand whose Level is equal to or lower than your Level and put it in any Slot on the Stage, and this gains +2000 Power for the turn.\n[A] CX COMBO When this attacks, if \"Clash of the Great Spirits\" is in your Climax Zone, put all of your Opponent's Stock in the Waiting Room, and put an equal number cards from the top of their Library into their Stock."
+    },
+    {
+        "code": "RZ/SE35-17",
+        "text": "[A] When your Character's Trigger Check reveals a \"Emilia, Glittering Mining\" or '\"Your Father\" Puck', you may return the top card of your Stock to your hand.\n[S] BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, choose up to 1 Character in your Waiting Room and return it to your hand."
+    },
+    {
+        "code": "RZ/SE35-18",
+        "text": "[A] [Discard a card from your hand to the Waiting Room] When this is placed from hand to the Stage, put the top 2 cards of your Library in the Waiting Room. If there's at least 1 Climax card among them, you may pay cost. If so, choose a Character in your Waiting Room and return it to your hand.\n[A] [Discard a card from your hand to the Waiting Room] When this is placed from hand to the Stage, you may pay cost. If so, choose a \"Glittering Stone\" in your Waiting Room and return it to your hand."
+    },
+    {
+        "code": "RZ/SE35-19",
+        "text": "[A] [Discard a Climax card from your hand to the Waiting Room] When this is placed from hand to the Stage, you may pay cost. If so, choose a Character in your Waiting Room with either ::Magic:: or ::Weapon:: and return it to your hand."
+    },
+    {
+        "code": "RZ/SE35-20",
+        "text": "[A] When you use the BACKUP of this, if you have a Character with \"Emilia\" or \"Puck\" in name, choose 1 of your Battling Characters, and for the turn that Character gains +1000 Power.\n[S] [Counter] BACKUP 1000, Level 1 [Discard this card from your hand to the Waiting Room]"
+    },
+    {
+        "code": "RZ/SE35-21",
+        "text": "[C] If you are Level 2 or higher, this gains the following ability. \"[S] [(1) Send an \"Emilia Alone\" and this to Memory] Choose a '\"Just\" Emilia' in your Waiting Room and place it to the Slot this was in.\"\n[A] [Discard a card from hand to the Waiting Room] During your Opponent's turn, when this becomes Reversed in Battle, you may pay cost. If so, Rest this, and at the start of your next Encore Step, put this in the Waiting Room."
+    },
+    {
+        "code": "RZ/SE35-22",
+        "text": "[C] If there's a Marker under this, this gains +2500 Power.\n[A] When this is placed from hand to the Stage, draw a card, discard a card from your hand to the Waiting Room, and choose up to 1 of your Opponent's Characters and return it to hand.\n[A] When this is placed from hand to the Stage, you may choose an \"Emilia, Pure and Innocent\" or \"Emilia, Girl Trapped in Ice\" in your Waiting Room and place it facedown under this as Marker."
+    },
+    {
+        "code": "RZ/SE35-23",
+        "text": "[A] When this is placed from hand to the Stage, choose 1 of your Opponent's Front Row Characters, and for the turn that Character gets -500 Power.\n[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so, search your Library for up to 1 Character with \"Emilia\" or \"Puck\" in name, show it to your Opponent, pt it in your hand, and Shuffle your Library."
+    },
+    {
+        "code": "RZ/SE35-24",
+        "text": "[C] ASSIST All your Characters in front of this gain +500 Power.\n[C] RECOLLECTION If you have a card in Memory, this gains the following ability. \"[S] [(2) Rest this] Choose a Character in your Waiting Room and return it to hand.\"\n[A] At the beginning of your Main Phase, you may choose 1 of your Stock and look at it. (put the revealed card back)"
+    },
+    {
+        "code": "RZ/SE35-25",
+        "text": "[C] All your other Characters with either ::Magic:: or ::Weapon:: gain +500 Power.\n[S] [Rest this] Look at the top card of your Library. (Put the card back where it was)"
+    },
+    {
+        "code": "RZ/SE35-26",
+        "text": "[A] [(1) Discard a card from your hand to the Waiting Room] When this is placed from hand to the Stage, you may pay cost. If so, search your Library for up to 1 Character with either ::Magic:: or ::Weapon::, reveal it, put it in your hand, and shuffle your Library."
+    },
+    {
+        "code": "RZ/SE35-27",
+        "text": "[C] Character Opposite this cannot move to another Slot.\n[A] At the beginning of your Climax Phase, your Opponent may put the top 2 cards of their Stock in the Waiting Room. If they do, for the turn, this cannot Front Attack."
+    },
+    {
+        "code": "RZ/SE35-28",
+        "text": "[C] If you do not have another Character with \"Emilia\" or \"Puck\" in name, this does not Stand during your Stand Phase.\n[A] When this is placed from hand to the Stage, if there are 5 or more Climax cards in your Opponent's Waiting Room, Rest this."
+    },
+    {
+        "code": "RZ/SE35-29",
+        "text": "[C] During battles involving this, no player may play BACKUP from hand.\n[A] [(1) Send this to Memory] When this is Front Attacked, you may pay cost. If so, choose up to 1 '\"Call My Name\" Puck' in your hand and place it to the slot this was in as the Defending Character.\n[S] [Rest 1 of your ::Magic:: or ::Weapon:: Characters] For the turn this gains +1000 Power."
+    },
+    {
+        "code": "RZ/SE35-30",
+        "text": "[C] If you have another Character with \"Emilia\" in name, this gains +3000 Power.\n[A] [Clock] ALARM If this is on top of your Clock, at the start of Climax Phase, choose 1 of your Characters, and that Character gains the following ability for the turn. \"[A] When the Battle Opponent of this becomes Reversed, you may put the top card of your Opponent's Clock into their Waiting Room. If so, put that Character to your Opponent's Clock.\""
+    },
+    {
+        "code": "RZ/SE35-31",
+        "text": "[C] RECOLLECTION On your turn, if you have a card in Memory, this gains +2500 Power and the following ability. \"[A] When this attacks, if the Character across from this is Level 2, for the turn this gains +6000 Power.\"\n[A] ENCORE [Put the top card of your Library in your Clock]"
+    },
+    {
+        "code": "RZ/SE35-32",
+        "text": "[C] If there are 6 or more cards in your Stock, this gains +3000 Power.\n[A] ENCORE [Discard a Character card from your hand to the Waiting Room]"
+    },
+    {
+        "code": "RZ/SE35-33",
+        "text": "[A] This ability activates up to once per turn. When you use an [S] ability, this gains the following ability for the turn. \"[A] When the Battle Opponent of this becomes Reverse, you may put the top card of your Library to Stock.\""
+    },
+    {
+        "code": "RZ/SE35-34",
+        "text": "[C] If you have 2 or more other Characters with ::Magic:: and/or ::Weapon::, This gains +2000 Power.\n[A] ENCORE [Discard a Character card from your hand to the Waiting Room]"
+    },
+    {
+        "code": "RZ/SE35-35",
+        "text": "[C] If you have another \"Puck, Thinking of Emilia\", this gains \"[A] ENCORE [Discard a Character card from your hand to the Waiting Room].\"\n[C] RECOLLECTION If you have 3 or more cards in Memory, this gains +4000 Power and +1 Soul."
+    },
+    {
+        "code": "RZ/SE35-36",
+        "text": "[C] During your turn, if you have another \"Emilia, Dyed in the Setting Sun\", this gains +4000 Power.\n[A] [Discard a GREEN card from hand to the Waiting Room] When this is placed from hand to the Stage, you may pay cost. If so, choose an \"Emilia, Dyed in the Setting Sun\" in your Waiting Room and place it to any slot on the Stage.\n[A] When this attacks, if the Level of the Character Opposite this is 3 or higher, this gains +6000 Power for the turn."
+    },
+    {
+        "code": "RZ/SE35-37",
+        "text": "If you don't have a Character with \"Emilia\" in name, you cannot play this from hand.\nChoose 1 of the following effects and perform it.\n\"Put 3 cards from the top of your Stock in the Waiting Room. if you do, choose 1 of your Opponent's Front Row Level 3 or Lower Characters and put it on the bottom of their Library.\"\n\"For the turn all of your Opponent's Characters get -500 Power. Send this to Memory.\""
+    },
+    {
+        "code": "RZ/SE35-38",
+        "text": "If you don't have a Character with \"Emilia\" in name, you cannot play this from hand.\nRest 1 of your Standing Characters. If you do, search your Stock for up to 1 Climax with a Stock Icon, show it to your Opponent, put it in your hand, and shuffle your Stock."
+    },
+    {
+        "code": "RZ/SE35-39",
+        "text": "[C] All your Characters gain +1000 Power and +1 Soul."
+    },
+    {
+        "code": "RZ/SE35-40",
+        "text": "[C] All your Characters gain +1000 Power and +1 Soul."
+    },
+    {
+        "code": "RZ/SE35-41",
+        "text": "[C] All your Characters gain +1000 Power and +1 Soul."
+    },
+    {
+        "code": "RZ/SE35-42",
+        "text": "[C] All your Characters gain +1000 Power and +1 Soul."
+    },
+    {
+        "code": "RZ/SE35-43",
+        "text": "[C] If you have 2 or more other Characters with \"Rem\" or \"Ram\" in name, this gains +1000 Power.\n[A] CX COMBO When the Battle Opponent of this becomes Reversed, if \"Natsuki Subaru Decoy Operation\" is in your Climax Zone, put up to 1 card from the top of your Library to your Stock, choose up to 1 \"Ram, Pink-Haired Maid\" in your Waiting Room and return it to your hand."
+    },
+    {
+        "code": "RZ/SE35-44",
+        "text": "[C] If you are Level 2 or higher, this gains the following ability. '[S] [Place this in the Waiting Room] Choose up to 1 \"Chap, Avenger\" from your hand and place it to the Slot this was in.'\n[S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, choose up to 2 \"Black Water\" in your Waiting Room and return them to your hand."
+    },
+    {
+        "code": "RZ/SE35-45",
+        "text": "[C] You may have up to 7 cards sharing the same name as this in your Deck.\n[C] EXPERIENCE For each '\"Arbitrator\" Melakuera' in your Level Zone this gains +2000 Power.\n[A] CX COMBO When this attacks, if \"World-Ending Blaze Burning Up\" is in your Climax Zone, deal 1 Damage to your Opponent, and until the next end of your Opponent's turn this gains +1000 Power and the following ability. \"[A] When the Battle Opponent of this is Reversed, you may put that Character on top of your Opponent's Library.\" (Damage Cancel can occur)\n[A] When this becomes Reversed in battle, Send this to Memory."
+    },
+    {
+        "code": "RZ/SE35-46",
+        "text": "[C] You may have as many copies of cards with the same name as this in your deck.\n[C] EXPERIENCE For each '\"Arbitrator\" Melakuera' in your Level Zone, this gains +1500 Power.\n[A] RESONANCE [Reveal a \"Black Water\" in your hand] At the start of your Climax Phase, you may pay cost. If so, this gains the following ability for the turn. \"[A] When the Battle Opponent of this is Reversed, you may put that Character on top of your Opponent's Library.\""
+    },
+    {
+        "code": "RZ/SE35-47",
+        "text": "[C] If there are 2 or more \"Black Water\" in your Waiting Room, this gets -1 Level while in your hand.\n[C] All your other RED Characters gain +1000 Power.\n[C] RECOLLECTION If you are Level 3 or higher, and '\"Arbitrator\" Melakuera' is in your Memory, this gains the following ability. \"[S] [(1)] Choose an '\"Arbitrator\" Melakuera in your Level and this and Swap them.\""
+    },
+    {
+        "code": "RZ/SE35-48",
+        "text": ""
+    },
+    {
+        "code": "RZ/SE35-49",
+        "text": "[C] All your Characters gain +1000 Power and +1 Soul."
+    },
+    {
+        "code": "RZ/SE35-50",
+        "text": "[A] At the start of your Climax Phase, you may look at the top card of your Library. (Put it back where it was)\n[S] BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, search your Library for up to 1 ::Magic:: or ::Weapon:: character, show it to your Opponent, put it in your hand, and shuffle your Library."
+    }
+]

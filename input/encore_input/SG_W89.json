@@ -1,0 +1,4121 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 経験 あなたのレベル置場に「ガングニール」があるなら、このカードのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。"
+                ],
+                "name": "渚の散歩道 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc58",
+        "sid": "010",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "SG/W89-010",
+        "imagepath": "JP/W89/010.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「たとえばの話 未来」を1枚選び、舞台の好きな枠に置く。"
+                ],
+                "name": "たとえばの話 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc5d",
+        "sid": "008",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-008",
+        "imagepath": "JP/W89/008.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+                ],
+                "name": "戦姫絶唱 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc62",
+        "sid": "007",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-007",
+        "imagepath": "JP/W89/007.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000。",
+                    "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "見事な着地 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc67",
+        "sid": "043",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-043",
+        "imagepath": "JP/W89/043.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたは自分のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは1枚まで引き、自分の手札の、「アマルガム 切歌」か「アマルガム 調」を1枚まで選び、舞台の好きな枠に置く。』",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ポリフィリム鋏恋夢」があるなら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
+                ],
+                "name": "アマルガム 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc6c",
+        "sid": "027",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "SG/W89-027",
+        "imagepath": "JP/W89/027.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "ポリフィリム鋏恋夢"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "60c3e05df4b33b545d78cc71",
+        "sid": "052",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "SG/W89-052",
+        "imagepath": "JP/W89/052.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の《錬金術》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《錬金術》のキャラの枚数×500に等しい。"
+                ],
+                "name": "神との対峙 キャロル"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc76",
+        "sid": "048",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-048",
+        "imagepath": "JP/W89/048.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+                    "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "バーニング・エクスドライブ マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc7b",
+        "sid": "057",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-057",
+        "imagepath": "JP/W89/057.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の、《神》か《錬金術》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "ノーブルレッド ミラアルク"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc80",
+        "sid": "093",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-093",
+        "imagepath": "JP/W89/093.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+                ],
+                "name": "親密な仲 響＆未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc85",
+        "sid": "P01",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-P01",
+        "imagepath": "JP/W89/P01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+                    "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "デコピン 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc8a",
+        "sid": "087",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-087",
+        "imagepath": "JP/W89/087.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+                    "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+                ],
+                "name": "明日の世界へ 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc8f",
+        "sid": "109",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-109",
+        "imagepath": "JP/W89/109.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「イチイバル」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+                    "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+                ],
+                "name": "聖詠 クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc94",
+        "sid": "064",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-064",
+        "imagepath": "JP/W89/064.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+                ],
+                "name": "覚悟の表情 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc99",
+        "sid": "089",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-089",
+        "imagepath": "JP/W89/089.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、あなたのクロックフェイズであなたがカードを引いていたなら、このカードのパワーを＋3000。"
+                ],
+                "name": "休日の過ごし方 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc9e",
+        "sid": "020",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-020",
+        "imagepath": "JP/W89/020.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+                ],
+                "name": "快美な旋律 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cca3",
+        "sid": "045",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-045",
+        "imagepath": "JP/W89/045.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500し、このカードは次の2つの能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』",
+                    "【自】 このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、次の相手のターンの終わりまで、このカードのパワーを＋1000。"
+                ],
+                "name": "プールサイドの一幕 クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78cca8",
+        "sid": "075",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-075",
+        "imagepath": "JP/W89/075.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+                    "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+                ],
+                "name": "バーニング・エクスドライブ 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccad",
+        "sid": "095",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-095",
+        "imagepath": "JP/W89/095.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+                    "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+                ],
+                "name": "遊びの計画 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccb2",
+        "sid": "021",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-021",
+        "imagepath": "JP/W89/021.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+                ],
+                "name": "ロケット警護任務 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccb6",
+        "sid": "041",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "SG/W89-041",
+        "imagepath": "JP/W89/041.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+                    "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「快美な旋律 切歌」を1枚選び、手札に戻す。"
+                ],
+                "name": "快美な旋律 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccb7",
+        "sid": "046",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-046",
+        "imagepath": "JP/W89/046.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《音楽》のキャラが3枚以下なら、手札からプレイできない。",
+                    "あなたは自分の【スタンド】している「聖詠 調」を1枚選び、思い出にしてよい。そうしたら、あなたは自分の手札のカード名に「調」を含むキャラを1枚まで選び、舞台の好きな枠に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「聖詠 調」を1枚選び、手札に戻す。",
+                    "あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。"
+                ],
+                "name": "シュルシャガナ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccb8",
+        "sid": "051",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "SG/W89-051",
+        "imagepath": "JP/W89/051.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】 経験 ［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたのレベル置場に「イチイバル」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+                ],
+                "name": "戦姫絶唱 クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccb9",
+        "sid": "056",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "SG/W89-056",
+        "imagepath": "JP/W89/056.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "人形"
+                ],
+                "ability": [
+                    "【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室のカード名に「自動人形」を含むキャラを1枚選び、思い出にしてよい。",
+                    "【起】［(2) 【スタンド】しているこのカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "自動人形 ミカ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccba",
+        "sid": "066",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-066",
+        "imagepath": "JP/W89/066.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
+                ],
+                "name": "優しい気遣い マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccbb",
+        "sid": "071",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "SG/W89-071",
+        "imagepath": "JP/W89/071.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《音楽》のキャラが3枚以下なら、手札からプレイできない。",
+                    "あなたは自分の【スタンド】している「聖詠 クリス」を1枚選び、思い出にしてよい。そうしたら、あなたは自分の手札のカード名に「クリス」を含むキャラを1枚まで選び、舞台の好きな枠に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「聖詠 クリス」を1枚選び、手札に戻す。",
+                    "あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。"
+                ],
+                "name": "イチイバル"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccbc",
+        "sid": "076",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "SG/W89-076",
+        "imagepath": "JP/W89/076.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "HORNET PISTOLS"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccbd",
+        "sid": "081",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-081",
+        "imagepath": "JP/W89/081.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「ガングニール」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "聖詠 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc59",
+        "sid": "006",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-006",
+        "imagepath": "JP/W89/006.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+                ],
+                "name": "たとえばの話 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc5e",
+        "sid": "013",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-013",
+        "imagepath": "JP/W89/013.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+                    "【起】 経験 ［このカードを【レスト】する］ あなたのレベル置場に「イガリマ」か「シュルシャガナ」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "戦姫絶唱 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc63",
+        "sid": "033",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-033",
+        "imagepath": "JP/W89/033.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術"
+                ],
+                "ability": [
+                    "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+                ],
+                "name": "ノーブルレッド エルザ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccbe",
+        "sid": "091",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-091",
+        "imagepath": "JP/W89/091.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《音楽》のキャラが3枚以下なら、手札からプレイできない。",
+                    "あなたは自分の【スタンド】している「聖詠 響」を1枚選び、思い出にしてよい。そうしたら、あなたは自分の手札のカード名に「響」を含むキャラを1枚まで選び、舞台の好きな枠に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「聖詠 響」を1枚選び、手札に戻す。",
+                    "あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。"
+                ],
+                "name": "ガングニール"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc68",
+        "sid": "023",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "SG/W89-023",
+        "imagepath": "JP/W89/023.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「凶鎖・スタaa魔忍ィイ」があり、前列にこのカードがいて、あなたの手札が5枚以下で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。"
+                ],
+                "name": "間一髪 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc6d",
+        "sid": "032",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-032",
+        "imagepath": "JP/W89/032.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。"
+                ],
+                "name": "一撃に込めた思い クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc72",
+        "sid": "063",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "SG/W89-063",
+        "imagepath": "JP/W89/063.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "人形"
+                ],
+                "ability": [
+                    "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+                    "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《錬金術》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "自動人形 ガリィ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc77",
+        "sid": "088",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-088",
+        "imagepath": "JP/W89/088.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+                    "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+                ],
+                "name": "至高善・薔薇Ｘ字"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "60c3e05df4b33b545d78cc7c",
+        "sid": "078",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "SG/W89-078",
+        "imagepath": "JP/W89/078.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+                ],
+                "name": "明日の世界へ 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc81",
+        "sid": "110",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-110",
+        "imagepath": "JP/W89/110.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 このカードはサイドアタックできない。",
+                    "【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "精密射撃 クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc86",
+        "sid": "072",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-072",
+        "imagepath": "JP/W89/072.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《音楽》のキャラが3枚以下なら、手札からプレイできない。",
+                    "あなたは自分の【スタンド】している「聖詠 翼」を1枚選び、思い出にしてよい。そうしたら、あなたは自分の手札のカード名に「翼」を含むキャラを1枚まで選び、舞台の好きな枠に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「聖詠 翼」を1枚選び、手札に戻す。",
+                    "あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。"
+                ],
+                "name": "天羽々斬"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc8b",
+        "sid": "097",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "SG/W89-097",
+        "imagepath": "JP/W89/097.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードの与えたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋3000。",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "ジト目 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc90",
+        "sid": "044",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-044",
+        "imagepath": "JP/W89/044.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+                    "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "緊急招集 マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc95",
+        "sid": "069",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-069",
+        "imagepath": "JP/W89/069.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたのクライマックスフェイズの始めに、他のあなたの《音楽》のキャラがいるなら、次の相手のターンの終わりまで、このカードは次の2つの能力のうちあなたが選んだ1つを得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。』『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
+                ],
+                "name": "鬼気迫る姿 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc9a",
+        "sid": "094",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-094",
+        "imagepath": "JP/W89/094.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "花咲く勇気"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc9f",
+        "sid": "025",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-025",
+        "imagepath": "JP/W89/025.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《音楽》のキャラが3枚以下なら、手札からプレイできない。",
+                    "あなたは自分の【スタンド】している「聖詠 切歌」を1枚選び、思い出にしてよい。そうしたら、あなたは自分の手札のカード名に「切歌」を含むキャラを1枚まで選び、舞台の好きな枠に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「聖詠 切歌」を1枚選び、手札に戻す。",
+                    "あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。"
+                ],
+                "name": "イガリマ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cca4",
+        "sid": "050",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "SG/W89-050",
+        "imagepath": "JP/W89/050.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+                    "【自】【CXコンボ】［このカードを【レスト】する］ あなたのクライマックス置場に「HORNET PISTOLS」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置く。"
+                ],
+                "name": "攻防戦 クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78cca9",
+        "sid": "070",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-070",
+        "imagepath": "JP/W89/070.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "覚醒の鼓動"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccae",
+        "sid": "100",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-100",
+        "imagepath": "JP/W89/100.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "観覧車の中で"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccb3",
+        "sid": "026",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-026",
+        "imagepath": "JP/W89/026.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「METANOIA」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。このダメージがキャンセルされたなら、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "神を殺す力 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc56",
+        "sid": "003",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "SG/W89-003",
+        "imagepath": "JP/W89/003.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "神"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの、「ノーブルレッド ヴァネッサ」と「ノーブルレッド ミラアルク」と「ノーブルレッド エルザ」すべてに、パワーを＋2000。",
+                    "【永】 他のあなたの《錬金術》のキャラすべてに、パワーを＋500。"
+                ],
+                "name": "邪悪な表情 シェム・ハ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc5b",
+        "sid": "017",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-017",
+        "imagepath": "JP/W89/017.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+                    "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[CHOICE]のクライマックスがでた時、あなたは相手の山札を上から1枚見て、山札の上か下に置く。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "渚の散歩道 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc60",
+        "sid": "009",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-009",
+        "imagepath": "JP/W89/009.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 このカードはサイドアタックできない。",
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+                ],
+                "name": "お気楽者？ 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc65",
+        "sid": "038",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-038",
+        "imagepath": "JP/W89/038.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+                    "【起】［(1)］ 他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+                ],
+                "name": "明日の世界へ 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccbf",
+        "sid": "108",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-108",
+        "imagepath": "JP/W89/108.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+                    "【自】［(1)］ この能力は1ターンにつき1回まで発動する。あなたが「ガングニール」をプレイした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+                    "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+                ],
+                "name": "胸の中の想い 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc6a",
+        "sid": "022",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-022",
+        "imagepath": "JP/W89/022.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+                ],
+                "name": "β式獄糸乱舞 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc6f",
+        "sid": "047",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-047",
+        "imagepath": "JP/W89/047.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】 相手のドローフェイズの始めに、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを山札に戻してよい。そうしたら、その山札をシャッフルし、あなたは1枚引く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "戦姫絶唱 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc74",
+        "sid": "029",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-029",
+        "imagepath": "JP/W89/029.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 相手の控え室のクライマックスが3枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【自】【CXコンボ】［(1) あなたのクライマックス置場の「∀∀デ・レ・メタリカ」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラか「イチイバル」を4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+                ],
+                "name": "バーニング・エクスドライブ クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc79",
+        "sid": "068",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-068",
+        "imagepath": "JP/W89/068.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "守るべき人の価値"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "60c3e05df4b33b545d78cc7e",
+        "sid": "098",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "SG/W89-098",
+        "imagepath": "JP/W89/098.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。",
+                    "【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「四元素の錬金術」があり、あなたの思い出置場に「自動人形 レイア」と「自動人形 ファラ」と「自動人形 ミカ」と「自動人形 ガリィ」があるなら、あなたは相手に2ダメージを与えてよい。（ダメージキャンセルは発生する）"
+                ],
+                "name": "再誕の時 キャロル"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc83",
+        "sid": "062",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "SG/W89-062",
+        "imagepath": "JP/W89/062.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+                    "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "アマルガム クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc88",
+        "sid": "054",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "SG/W89-054",
+        "imagepath": "JP/W89/054.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+                    "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+                ],
+                "name": "いつでも一緒 調＆切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc8d",
+        "sid": "039",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-039",
+        "imagepath": "JP/W89/039.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "ノイズ"
+                ],
+                "ability": [
+                    "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「未曾有の危機」があるなら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+                ],
+                "name": "空からの襲撃 アルカ・ノイズ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc92",
+        "sid": "049",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "SG/W89-049",
+        "imagepath": "JP/W89/049.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「シュルシャガナ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+                    "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+                ],
+                "name": "聖詠 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc97",
+        "sid": "035",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-035",
+        "imagepath": "JP/W89/035.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+                ],
+                "name": "炎乱逆鱗斬"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc9c",
+        "sid": "099",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-099",
+        "imagepath": "JP/W89/099.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「炎乱逆鱗斬」があり、前列にこのカードがいて、他のあなたの《音楽》のキャラがいて、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、ストック置場に好きな順番で置き、その山札をシャッフルする。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+                ],
+                "name": "準備運動はしっかり 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cca1",
+        "sid": "085",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-085",
+        "imagepath": "JP/W89/085.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 経験 あなたのレベル置場に「アガートラーム」か「天羽々斬」があるなら、このカードのパワーを＋3000。",
+                    "【自】【CXコンボ】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「至高善・薔薇Ｘ字」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の「復活の不死鳥 翼」かこのカードを1枚選び、【スタンド】し、そのターン中、次の2つの能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』『【永】 このカードは相手の効果に選ばれない。』"
+                ],
+                "name": "アマルガム マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cca6",
+        "sid": "055",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "SG/W89-055",
+        "imagepath": "JP/W89/055.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+                    "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+                ],
+                "name": "∀∀デ・レ・メタリカ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccab",
+        "sid": "080",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-080",
+        "imagepath": "JP/W89/080.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+                ],
+                "name": "明日の世界へ クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccb0",
+        "sid": "112",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-112",
+        "imagepath": "JP/W89/112.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 経験 あなたのレベル置場に「アガートラーム」か「天羽々斬」があるなら、このカードのパワーを＋4500。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラか「アガートラーム」か「天羽々斬」なら、相手に1ダメージを与える。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+                ],
+                "name": "復活の不死鳥 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccb5",
+        "sid": "086",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 5500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "SG/W89-086",
+        "imagepath": "JP/W89/086.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたは自分のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは1枚まで引き、自分の手札の、「アマルガム 切歌」か「アマルガム 調」を1枚まで選び、舞台の好きな枠に置く。』",
+                    "【自】【CXコンボ】 経験 ［手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ポリフィリム鋏恋夢」があり、あなたのレベル置場に「イガリマ」か「シュルシャガナ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+                ],
+                "name": "アマルガム 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc5a",
+        "sid": "028",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "SG/W89-028",
+        "imagepath": "JP/W89/028.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "人形"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下の「自動人形 ファラ」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、このカードのレベルを＋1。",
+                    "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《錬金術》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "自動人形 レイア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc5f",
+        "sid": "005",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-005",
+        "imagepath": "JP/W89/005.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 相手のターン中、このカードのパワーを＋3000。』",
+                    "【起】［他のあなたの《音楽》のキャラを1枚【レスト】する］ 【スタンド】しているこのカードをストック置場に置く。"
+                ],
+                "name": "ロケット警護任務 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc64",
+        "sid": "042",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-042",
+        "imagepath": "JP/W89/042.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術"
+                ],
+                "ability": [
+                    "【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+                    "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+                    "【起】［(1) このカードを【レスト】する］ あなたの思い出が5枚以下なら、あなたは自分の控え室の《錬金術》のキャラを1枚選び、思い出にする。"
+                ],
+                "name": "\"また逢う日まで\" エルフナイン"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc69",
+        "sid": "015",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-015",
+        "imagepath": "JP/W89/015.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+                    "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《音楽》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "繋いだ希望 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc6e",
+        "sid": "037",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-037",
+        "imagepath": "JP/W89/037.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+                    "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+                ],
+                "name": "休日の過ごし方 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc73",
+        "sid": "019",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-019",
+        "imagepath": "JP/W89/019.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+                    "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "準備運動はしっかり クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc78",
+        "sid": "058",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-058",
+        "imagepath": "JP/W89/058.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+                ],
+                "name": "戦姫絶唱 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc7d",
+        "sid": "083",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "SG/W89-083",
+        "imagepath": "JP/W89/083.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。』"
+                ],
+                "name": "海辺の輝き クリス＆翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc82",
+        "sid": "P02",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-P02",
+        "imagepath": "JP/W89/P02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "このカードは、あなたの《音楽》のキャラが3枚以下なら、手札からプレイできない。",
+                    "あなたは自分の【スタンド】している「聖詠 マリア」を1枚選び、思い出にしてよい。そうしたら、あなたは自分の手札のカード名に「マリア」を含むキャラを1枚まで選び、舞台の好きな枠に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「聖詠 マリア」を1枚選び、手札に戻す。",
+                    "あなたは自分のレベル置場のカードを1枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置く。"
+                ],
+                "name": "アガートラーム"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc87",
+        "sid": "077",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "rarity": "U",
+        "cardcode": "SG/W89-077",
+        "imagepath": "JP/W89/077.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「イガリマ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "聖詠 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc8c",
+        "sid": "034",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-034",
+        "imagepath": "JP/W89/034.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
+                ],
+                "name": "明日の世界へ マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc91",
+        "sid": "111",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-111",
+        "imagepath": "JP/W89/111.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+                    "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+                ],
+                "name": "繋いだ希望 マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc96",
+        "sid": "074",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-074",
+        "imagepath": "JP/W89/074.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "元気いっぱい 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc9b",
+        "sid": "012",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-012",
+        "imagepath": "JP/W89/012.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+                    "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "バーニング・エクスドライブ 切歌"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cca0",
+        "sid": "030",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-030",
+        "imagepath": "JP/W89/030.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "握りしめた拳 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cca5",
+        "sid": "011",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-011",
+        "imagepath": "JP/W89/011.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "人形"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「自動人形 レイア」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、このカードのレベルを＋1。",
+                    "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。"
+                ],
+                "name": "自動人形 ファラ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccaa",
+        "sid": "036",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-036",
+        "imagepath": "JP/W89/036.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+                    "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
+                    "【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "戦姫絶唱 マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccaf",
+        "sid": "061",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 5500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "SG/W89-061",
+        "imagepath": "JP/W89/061.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "バーニング・エクスドライブ 調"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccb4",
+        "sid": "031",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-031",
+        "imagepath": "JP/W89/031.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+                    "【自】［手札の、「ノーブルレッド ミラアルク」と「ノーブルレッド エルザ」を1枚ずつ控え室に置き、このカードを控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。"
+                ],
+                "name": "ノーブルレッド ヴァネッサ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ff4b33b545d78ccc0",
+        "sid": "096",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-096",
+        "imagepath": "JP/W89/096.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[CHOICE]のクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "神様のヒカリ 響＆未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc57",
+        "sid": "004",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-004",
+        "imagepath": "JP/W89/004.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 相手のターン中、あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
+                ],
+                "name": "明日の世界へ 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccc1",
+        "sid": "113",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "PR",
+        "cardcode": "SG/W89-113",
+        "imagepath": "JP/W89/113.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+                    "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "わたしたちの絶唱 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc5c",
+        "sid": "001",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "SG/W89-001",
+        "imagepath": "JP/W89/001.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「花咲く勇気」があり、他のあなたの《音楽》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+                ],
+                "name": "アマルガム 響"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc61",
+        "sid": "002",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "SG/W89-002",
+        "imagepath": "JP/W89/002.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「観覧車の中で」があるなら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはこの効果で控え室に置かれた《音楽》のキャラの枚数に等しい。"
+                ],
+                "name": "決死の覚悟 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc66",
+        "sid": "018",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-018",
+        "imagepath": "JP/W89/018.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "METANOIA"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "60c3e05df4b33b545d78cc6b",
+        "sid": "024",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CR",
+        "cardcode": "SG/W89-024",
+        "imagepath": "JP/W89/024.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "神"
+                ],
+                "ability": [
+                    "【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上で、他のあなたのキャラがいないなら、このカードのパワーを＋12000し、このカードは次の3つの能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』『【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを3回行う。』『【自】［手札を3枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。』（ダメージキャンセルは発生する）",
+                    "【起】［あなたの舞台のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+                ],
+                "name": "人が仰ぐべき神 シェム・ハ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05df4b33b545d78cc70",
+        "sid": "014",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "rarity": "U",
+        "cardcode": "SG/W89-014",
+        "imagepath": "JP/W89/014.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "凶鎖・スタaa魔忍ィイ"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "60c3e05df4b33b545d78cc75",
+        "sid": "053",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-053",
+        "imagepath": "JP/W89/053.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「再びのステージへ 翼」がいるなら、このカードのパワーを＋4000。",
+                    "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+                ],
+                "name": "再びのステージへ マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc7a",
+        "sid": "073",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-073",
+        "imagepath": "JP/W89/073.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】［手札の《音楽》のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「守るべき人の価値」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "アマルガム 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05df4b33b545d78cc7f",
+        "sid": "082",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "SG/W89-082",
+        "imagepath": "JP/W89/082.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 あなたのターン中、このカードのパワーを＋1000。",
+                    "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。"
+                ],
+                "name": "真っ直ぐ見据える クリス"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc84",
+        "sid": "067",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-067",
+        "imagepath": "JP/W89/067.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 他のあなたの「再びのステージへ マリア」がいるなら、このカードのパワーを＋3000。",
+                    "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+                ],
+                "name": "再びのステージへ 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc89",
+        "sid": "092",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-092",
+        "imagepath": "JP/W89/092.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "四元素の錬金術"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc8e",
+        "sid": "079",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "CC",
+        "cardcode": "SG/W89-079",
+        "imagepath": "JP/W89/079.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "見据えた視線の先に マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc93",
+        "sid": "059",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-059",
+        "imagepath": "JP/W89/059.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「天羽々斬」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+                ],
+                "name": "聖詠 翼"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cc98",
+        "sid": "084",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "SG/W89-084",
+        "imagepath": "JP/W89/084.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+                    "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[STANDBY]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+                ],
+                "name": "治療中 マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cc9d",
+        "sid": "060",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 4000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "SG/W89-060",
+        "imagepath": "JP/W89/060.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術",
+                    "音楽"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《錬金術》のキャラの枚数×500に等しい。",
+                    "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「覚醒の鼓動」があるなら、あなたは自分の山札を上から4枚まで見て、《錬金術》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "圧倒的な力 キャロル"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60c3e05ef4b33b545d78cca2",
+        "sid": "040",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-040",
+        "imagepath": "JP/W89/040.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "武器"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
+                    "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「アガートラーム」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "聖詠 マリア"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ef4b33b545d78cca7",
+        "sid": "065",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-065",
+        "imagepath": "JP/W89/065.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "錬金術"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+                    "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「覚醒の鼓動」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「圧倒的な力 キャロル」を1枚まで選び、このカードがいた枠に置く。"
+                ],
+                "name": "みんなの為に出来る事 エルフナイン"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccac",
+        "sid": "090",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "SG/W89-090",
+        "imagepath": "JP/W89/090.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+                ],
+                "name": "不安な表情 未来"
+            }
+        },
+        "series": "60c3dffa1e41dfffbdf21dd1",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60c3e05ff4b33b545d78ccb1",
+        "sid": "016",
+        "set": "SG",
+        "side": "W",
+        "release": "89",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "SG/W89-016",
+        "imagepath": "JP/W89/016.gif",
+        "__v": 0
+    }
+]

@@ -1,0 +1,3343 @@
+[
+    {
+        "name": "至福の時 千花",
+        "code": "KGL/S79-001",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "これうまいやつー!!",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《秀知院》 Character, choose 1 of your Character, during this turn, it gets +2000 Power. (Return revealed card to its original position)",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card63440-large.jpg"
+    },
+    {
+        "name": "天才たちの真剣勝負 千花",
+        "code": "KGL/S79-002",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ドーンだYO～!!",
+        "ability": [
+            "【C】If all your Character are 《秀知院》, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When 「ヨー！メーン♪」 is placed into your Climax Slot, if you have other 《秀知院》 Character, during this turn, this card gains 1 of the following 2 Abilities.",
+            "『【A】When this card attacks, choose 1 opponent's Character with Cost 0 or lower at Front Row, place it into Waiting Room, during this turn, this card gets +1000 Power.』",
+            "『【A】When this card's battle opponent becomes REVERSE, you may choose 1 Character from your Waiting Room, return it to Hand.』"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card63442-large.jpg"
+    },
+    {
+        "name": "会心の一撃 千花",
+        "code": "KGL/S79-003",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "石上くん…きもーっ！あはは",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ラブ探偵」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card63444-large.jpg"
+    },
+    {
+        "name": "赤っ恥 千花",
+        "code": "KGL/S79-004",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "優「せこっ！姑息！ちっとも懲りてない！恥知らず！どこで買えるのその図太さ！そんでバレて逆に利用されるとかいっちばん恥ずかしいやつ！」",
+        "ability": [
+            "【C】If you have 2 or more other 《秀知院》 Character, this card gets +4000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, both player return all cards from their Waiting Room to Deck, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card63446-large.jpg"
+    },
+    {
+        "name": "花火大会 優",
+        "code": "KGL/S79-005",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "会長、車捕まえときました",
+        "ability": [
+            "【C】For each of your other 《秀知院》 Character, this card gets +1000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card63447-large.jpg"
+    },
+    {
+        "name": "喰う側 千花",
+        "code": "KGL/S79-006",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《秀知院》 Character, this card gets +1000 Power.",
+            "【C】The Character facing this card gets -1 Soul.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「ラーメン喰い」 is in your Climax Slot, and you have other 《秀知院》 Character, you may pay the cost. If you did, choose up to 1 opponent's Character, return it to Hand, place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card63449-large.jpg"
+    },
+    {
+        "name": "現実からの逃避 優",
+        "code": "KGL/S79-007",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "死にたいので帰ります",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《秀知院》 Character, during this turn, it gets +2000 Power.",
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, move this card to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card63451-large.jpg"
+    },
+    {
+        "name": "戦車級 千花",
+        "code": "KGL/S79-008",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "― それに引き換え藤原書記の攻撃力は戦車級！ ―",
+        "ability": [
+            "【C】All your other 《秀知院》 Character gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from his/her Memory into any slot on Stage."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card63452-large.jpg"
+    },
+    {
+        "name": "カミナリ様 千花",
+        "code": "KGL/S79-009",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have no other 《秀知院》 Character, place this card into Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 《秀知院》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card63453-large.jpg"
+    },
+    {
+        "name": "追い打ち 優",
+        "code": "KGL/S79-010",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うーわ、マジじゃないですか",
+        "ability": [
+            "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card63454-large.jpg"
+    },
+    {
+        "name": "衣替え 千花",
+        "code": "KGL/S79-011",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "衣替えでーす！",
+        "ability": [
+            "【C】 If all your Character are 《秀知院》, this card gets ＋1000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card63455-large.jpg"
+    },
+    {
+        "name": "あたふた 千花",
+        "code": "KGL/S79-012",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 3 cards from your top Deck, place them on top Deck in any order, choose up to 1 opponent's Character, return it to Hand.",
+            "【S】［Place 1 「ラブ探偵」 from Hand into Waiting Room］ Choose up to 2 of your Character, during this turn, they get ＋2000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card63456-large.jpg"
+    },
+    {
+        "name": "幸せ税 優",
+        "code": "KGL/S79-013",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "部活ってちょーくだらないですよね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《秀知院》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【A】When this card becomes REVERSE, you may choose 1 card from opponent's Clock, place it into Waiting Room. If you did, opponent place the top card of his/her Deck into Clock."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card63457-large.jpg"
+    },
+    {
+        "name": "おせっかい 千花",
+        "code": "KGL/S79-014",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "次から気を付けてくださいよ、かぐやさんのうっかりやさん！",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《秀知院》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《秀知院》 Character ×500."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card63458-large.jpg"
+    },
+    {
+        "name": "想いを馳せる千花",
+        "code": "KGL/S79-015",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "恐山に行きたいです",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card63459-large.jpg"
+    },
+    {
+        "name": "アクセル全開！ 優",
+        "code": "KGL/S79-016",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "はぁー？なんすかそのクソ女",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【A】When opponent uses 『CONCENTRATE』, if Climax is placed into Waiting Room by that effect, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card63460-large.jpg"
+    },
+    {
+        "name": "とまらない優",
+        "code": "KGL/S79-017",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "こんなですもん、こんな!!",
+        "ability": [
+            "【C】If you have 4 or more 《秀知院》 Character, this card gets -1 Level in your Hand.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「壊れたブレーキ」 is in your Climax Slot, and all your Character are 《秀知院》, you may pay the cost. If you did, search your Deck for up to 2 《秀知院》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card63461-large.jpg"
+    },
+    {
+        "name": "ラブ探偵",
+        "code": "KGL/S79-018",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ラブ探偵参上！",
+        "ability": [
+            "If you have no Character with 「千花」 in its name, you cannot play this card from Hand.",
+            "Look at up to 4 cards from your top Deck, choose up to 1 《秀知院》 Character, and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.",
+            "You may choose 1 opponent's Character with Cost 0 or lower at Front Row, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card63462-large.jpg"
+    },
+    {
+        "name": "うるせぇバーカ!!",
+        "code": "KGL/S79-019",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "うるせぇバーカ!!",
+        "ability": [
+            "If you have no Character with 「御行」 or 「優」 in its name, you cannot play this card from Hand.",
+            "Choose and perform 1 of the following 3 effects.",
+            "『During this turn, all your Character gets +1 Soul.』",
+            "『Choose up to 5 opponent's Character, send them to Memory, opponent then place those Character from Memory in separate slot on Stage.』",
+            "『If opponent has 5 or more cards in his/her Memory, place all Character from his/her Memory into Waiting Room.』"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card63464-large.jpg"
+    },
+    {
+        "name": "イカサマトランプ",
+        "code": "KGL/S79-020",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "じゃあ誰が行くか神経衰弱で決めましょう",
+        "ability": [
+            "Choose 1 of your 《秀知院》 Character, during this turn, it gets +3000 Power.",
+            "Place this card into Stock.",
+            "Both player reveal the top card of their Deck. If your revealed card's Level is higher than opponent's revealed card's Level, choose 1 《秀知院》 Character from your Waiting Room, return it to Hand. If opponent's revealed card's Level is higher, opponent chooses 1 of his/her Character, during this turn, it gets +5000 Power. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card63465-large.jpg"
+    },
+    {
+        "name": "ヨー！メーン♪",
+        "code": "KGL/S79-021",
+        "rarity": "CR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "残念だったなメーン！",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card63466-large.jpg"
+    },
+    {
+        "name": "ラーメン喰い",
+        "code": "KGL/S79-022",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card63468-large.jpg"
+    },
+    {
+        "name": "壊れたブレーキ",
+        "code": "KGL/S79-023",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card63470-large.jpg"
+    },
+    {
+        "name": "天才たちの真剣勝負 圭",
+        "code": "KGL/S79-024",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あんまり上手にお話出来なかった…",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《秀知院》 Character, REST it, move it to an empty slot at Back Row.",
+            "【A】At the beginning of opponent's Attack Phase, you may place the top card of your Deck into Waiting Room. If that card is a 《秀知院》 Character or 「恋愛頭脳戦」, you may move this card to an empty slot at Front Row."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card63472-large.jpg"
+    },
+    {
+        "name": "ラブ探偵 千花",
+        "code": "KGL/S79-025",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "ではその恋という名の落とし物、この名探偵が見つけ出して差し上げます",
+        "ability": [
+            "【C】For each of your other 《秀知院》 Character, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(3) Place 2 cards from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「社会への叛逆」 is in your Climax Slot, you may pay the cost. If you did, perform the following Action 2 times. 『Deal X Damage to opponent. X is equal to the number of 「ラブ探偵」 in your Waiting Room.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card63474-large.jpg"
+    },
+    {
+        "name": "貫く信条 御行",
+        "code": "KGL/S79-026",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ここからは、本気でやらせてもらうぞ",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, until end of opponent's next turn, this card gets +4500 Power, gains the following Ability. 『【C】 During this card's battle, both players cannot play 『ASSIST』 from Hand.』",
+            "【A】EXPERIENCE [(2) Place 1 card from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if the total Level in your Level Slot is 4 or higher, you may pay the cost. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card63476-large.jpg"
+    },
+    {
+        "name": "フラグ？ 千花",
+        "code": "KGL/S79-027",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「おに特訓」 from your Waiting Room, return it to Hand.",
+            "【A】At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card63478-large.jpg"
+    },
+    {
+        "name": "主席のプレッシャー 御行",
+        "code": "KGL/S79-028",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "四宮、やるではないか",
+        "ability": [
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "【A】[(1)] This Ability can be activated up to 1 time each turn. When your card is placed into Level Slot, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 《秀知院》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card63479-large.jpg"
+    },
+    {
+        "name": "心理テスト 千花",
+        "code": "KGL/S79-029",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 SUPPORT All your Character in front of this card gets ＋2000 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Event and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】 This Ability can be activated up to 1 time each turn. When you play Event, choose 1 of your 《秀知院》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card63481-large.jpg"
+    },
+    {
+        "name": "ある夏の日 圭",
+        "code": "KGL/S79-030",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card63483-large.jpg"
+    },
+    {
+        "name": "溢れる笑顔 圭",
+        "code": "KGL/S79-031",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《秀知院》 Character gets +500 Power.",
+            "【A】[(1)] When your Character Trigger Checks a Climax with Bag Trigger Icon, you may pay the cost. If you did, you draw 1 card."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card63485-large.jpg"
+    },
+    {
+        "name": "花火大会 千花",
+        "code": "KGL/S79-032",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "かぐやさーん！",
+        "ability": [
+            "【C】All your other 「副会長 かぐや」 and 「不安と期待 かぐや」 gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each 「恵まれた私」 or 「花火の音は聞こえない」 among those cards, search your Deck for up to 1 《秀知院》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card63486-large.jpg"
+    },
+    {
+        "name": "現代が生んだ歪み 御行",
+        "code": "KGL/S79-033",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "― そうこの男こそ底なしの自信と無垢な貞操を兼ね備える現代が生んだ歪み、モンスター童貞なのである！ ―",
+        "ability": [
+            "【A】【CXCOMBO】[Place 1 「会長のプライド」 or 「もっと上手に…」 from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「会長のプライド」 or 「もっと上手に…」 from your Waiting Room, return it to Hand.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card63488-large.jpg"
+    },
+    {
+        "name": "育ての母!? 千花",
+        "code": "KGL/S79-034",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "あの子私が育てたんですよ",
+        "ability": [
+            "【C】If you have 2 or more other 《秀知院》 Character, this card gets +1500 Power, gains 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』.",
+            "【A】This Ability can be activated up to 1 time each turn. When you play Event, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card63489-large.jpg"
+    },
+    {
+        "name": "ハワイ旅行 千花",
+        "code": "KGL/S79-035",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "アローハー♪",
+        "ability": [
+            "【C】SUPPORT All your 《秀知院》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】[REST 2 of your 《秀知院》 Character] Choose 1 card from your Level Slot and 1 card from Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card63490-large.jpg"
+    },
+    {
+        "name": "男の矜持 御行",
+        "code": "KGL/S79-036",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "見せるならやっぱカッコ良い所だろう",
+        "ability": [
+            "【C】EXPERIENCE If the total Level in your Level Slot is 5 or higher, this card gets +3000 Power.",
+            "【A】【CXCOMBO】When 「会長のプライド」 is placed into your Climax Slot, if this card is at Front Row, choose up to 1 《秀知院》 Character from your Waiting Room, place it into Stock, until end of opponent's next turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card63491-large.jpg"
+    },
+    {
+        "name": "こんにち殺法 千花",
+        "code": "KGL/S79-037",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "こんにち殺法！",
+        "ability": [
+            "【C】All your other 「こんにち殺法返し 圭」 gets +1 Level, gains the following Ability. 『【C】During your turn, for each of your other 《秀知院》 Character, this card gets +500 Power.』",
+            "【S】[(1) REST this card] Reveal the top card of your Deck. If that card is a 《秀知院》 Character or Event, add it to Hand. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card63492-large.jpg"
+    },
+    {
+        "name": "イカサマトランプ 千花",
+        "code": "KGL/S79-038",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your other 《秀知院》 Character or this card is placed on Stage from Hand, you may look at the top card of your Deck. (Return looked card to its original position)",
+            "【S】[(1)] Place the top card of opponent's Deck into Waiting Room, choose 1 card from opponent's Waiting Room, okace it on top Deck."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card63493-large.jpg"
+    },
+    {
+        "name": "賄賂 千花",
+        "code": "KGL/S79-039",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "コーラあげますので",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, place this card into Stock. （Return revealed card to its original position）",
+            "【A】［REST 1 of your other 《秀知院》 Character］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card each from your Level Slot and Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card63494-large.jpg"
+    },
+    {
+        "name": "あっけにとられる御行",
+        "code": "KGL/S79-040",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "これが噂の四宮別邸…ネットで見たことあったけど実際すげぇな",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, opponent may place 2 cards from his/her top Stock into Waiting Room. If he/she did, during this turn, this card cannot Front Attack."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card63495-large.jpg"
+    },
+    {
+        "name": "見守る御行",
+        "code": "KGL/S79-041",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "どうやら、俺の出る幕は無さそうだな",
+        "ability": [
+            "【C】EXPERIENCE If the total Level in your Level Slot is 2 or higher, this card gets +2000 Power.",
+            "【A】This Ability can be activated up to 1 time each turn. When you play Event, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card63496-large.jpg"
+    },
+    {
+        "name": "首をかしげる圭",
+        "code": "KGL/S79-042",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "どうって何が？",
+        "ability": [
+            "【C】For each of your other 《秀知院》 Character at Back Row, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「もっと上手に…」 is in your Climax Slot, reveal the top card of your Deck. If that card is a 《秀知院》 Character, add it to Hand. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card63497-large.jpg"
+    },
+    {
+        "name": "こんにち殺法返し 圭",
+        "code": "KGL/S79-043",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "こんにち殺法返し!!",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card63498-large.jpg"
+    },
+    {
+        "name": "それな！",
+        "code": "KGL/S79-044",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ははっ！それな！",
+        "ability": [
+            "【COUNTER】Choose 1 of your Character, during this turn, it gains 2 of the following Abilities.",
+            "『【C】During this card's battle, you will not receive Damage from opponent's Character 【A】 effect.』",
+            "『【C】This card cannot become REVERSE.』"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card63499-large.jpg"
+    },
+    {
+        "name": "おに特訓",
+        "code": "KGL/S79-045",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【COUNTER】If you have no Character with 「御行」 or 「千花」 in its name, you cannot play this card from Hand.",
+            "Choose 1 card from your Level Slot and 1 Climax from Waiting Room, exchange them.",
+            "Choose 1 of your Character, during this turn, it gets +3500 Power."
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card63501-large.jpg"
+    },
+    {
+        "name": "社会への叛逆",
+        "code": "KGL/S79-046",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この社会です!!",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card63502-large.jpg"
+    },
+    {
+        "name": "会長のプライド",
+        "code": "KGL/S79-047",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "男子生徒「え……あの死にかけのアルパカみたいなの会長？」",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card63504-large.jpg"
+    },
+    {
+        "name": "もっと上手に…",
+        "code": "KGL/S79-048",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card63506-large.jpg"
+    },
+    {
+        "name": "スキル『純真無垢』 かぐや",
+        "code": "KGL/S79-049",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "行くならせめてもっと情熱的にお誘いいただきたいです",
+        "ability": [
+            "【A】[(3)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card63508-large.jpg"
+    },
+    {
+        "name": "天才たちの真剣勝負 かぐや",
+        "code": "KGL/S79-050",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "会長のそういう所が…ですよ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1)] When this card attacks, if 「交流会の後で」 is in your Climax Slot, and you have other 《秀知院》 Character, you may pay the cost. If you did, deal 1 Damage to opponent, until end of opponent's next turn, this card gets +2000 Power. (Damage can be cancelled)",
+            "【A】RESONANCE [Place 1 card from Hand into Waiting Room, reveal 1 「勇気を与える愛」 from Hand] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card63510-large.jpg"
+    },
+    {
+        "name": "動揺 かぐや",
+        "code": "KGL/S79-051",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私が、会長をっ⁉",
+        "ability": [
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card63512-large.jpg"
+    },
+    {
+        "name": "大慌て かぐや",
+        "code": "KGL/S79-052",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "会長⁉なんで私のベッドに入ってるんですか⁉",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《秀知院》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card63514-large.jpg"
+    },
+    {
+        "name": "黄昏の廊下 かぐや",
+        "code": "KGL/S79-053",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「お返し」 is in your Climax Slot, and you have other 《秀知院》 Character, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker.",
+            "【A】[Place 1 Marker from this card into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 《秀知院》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card63515-large.jpg"
+    },
+    {
+        "name": "ITオンチ かぐや",
+        "code": "KGL/S79-054",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "パスワードって銀行のでいいの？",
+        "ability": [
+            "【C】SUPPORT All your 《秀知院》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】RESONANCE [(1) Reveal 1 「勇気を与える愛」 from Hand, REST this card] Look at up to 3 cards from your top Deck, choose up to 1 《秀知院》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card63517-large.jpg"
+    },
+    {
+        "name": "花火大会 御行",
+        "code": "KGL/S79-055",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "来い四宮",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When 「花火の音は聞こえない」 is placed into your Climax Slot, if this card is at Front Row, choose 1 of your other 《秀知院》 Character, STAND it.",
+            "【A】【CXCOMBO】When this card attacks, if 「花火の音は聞こえない」 is in your Climax Slot, and you have other 「副会長 かぐや」 and 「花火大会 優」 and 「花火大会 千花」, you may deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card63518-large.jpg"
+    },
+    {
+        "name": "“20の質問”かぐや",
+        "code": "KGL/S79-056",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card63520-large.jpg"
+    },
+    {
+        "name": "ブラフ かぐや",
+        "code": "KGL/S79-057",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "この私をデートに誘いたいなら国の一つでも差し出して初めて検討に値するのよ",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「恋愛頭脳戦」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card63521-large.jpg"
+    },
+    {
+        "name": "凛とした佇まい かぐや",
+        "code": "KGL/S79-058",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "まったく、会長にも困ったものね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card63522-large.jpg"
+    },
+    {
+        "name": "ドギマギ 御行",
+        "code": "KGL/S79-059",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "その好きってのはどういう意味の好きなんだ？",
+        "ability": [
+            "【C】If you have other Character with 「かぐや」 in its name, this card gets +1 Level and +2500 Power.",
+            "【C】EXPERIENCE If the total Level in your Level Slot is 2 or higher, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card63523-large.jpg"
+    },
+    {
+        "name": "スキル『乙女の涙』 かぐや",
+        "code": "KGL/S79-060",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "会長はひどいひとです",
+        "ability": [
+            "【C】 If you have 2 or more other 《秀知院》 Character, this card gets ＋2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card63524-large.jpg"
+    },
+    {
+        "name": "ミッション遂行 かぐや",
+        "code": "KGL/S79-061",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "い、いえ…ちょっと軽い運動を…",
+        "ability": [
+            "【A】When this card's battle opponent with Level 2 or higher becomes REVERSE, you may place the top card of your Deck into Stock.",
+            "【A】RESONANCE [Reveal 1 「勇気を与える愛」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card63525-large.jpg"
+    },
+    {
+        "name": "兄として 御行",
+        "code": "KGL/S79-062",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "そういや圭ちゃんうちの生徒会来たんだって？",
+        "ability": [
+            "【C】All your other Character with 「圭」 in its name gets +500 Power.",
+            "【A】BOND／「首をかしげる圭」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「首をかしげる圭」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card63526-large.jpg"
+    },
+    {
+        "name": "壁ダァン 御行",
+        "code": "KGL/S79-063",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "この技を俺は『壁ダァン』と名づけた",
+        "ability": [
+            "【C】The Character facing this card cannot move to other slot.",
+            "【C】For each of your other 《秀知院》 Character, this card gets +500 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card63527-large.jpg"
+    },
+    {
+        "name": "恋愛相談 渚",
+        "code": "KGL/S79-064",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "それが、彼からは突然告白されて",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 0 or lower in front of this card gets +1000 Power.",
+            "【A】[Place this card into Waiting Room] When your other Character with 「かぐや」 in its name is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character into its previous slot on Stage in REST."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《ボランティア》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card63528-large.jpg"
+    },
+    {
+        "name": "スマホデビュー 御行",
+        "code": "KGL/S79-065",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "千花「か、会長ついにスマホ買ったんですか？」",
+        "ability": [
+            "【C】EXPERIENCE During your turn, if the total Level in your Level Slot is 1 or higher, this card gets +2500 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power.』"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card63529-large.jpg"
+    },
+    {
+        "name": "告られ!! かぐや",
+        "code": "KGL/S79-066",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "告られ!!",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《秀知院》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card63530-large.jpg"
+    },
+    {
+        "name": "弱気 かぐや",
+        "code": "KGL/S79-067",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "いやだぁ、そばにいてよはやさかぁ…",
+        "ability": [
+            "【C】EXPERIENCE If the total Level in your Level Slot is 5 or higher, this card gets +3000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 opponent's Character, move it to an empty slot on opponent's Stage, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card63531-large.jpg"
+    },
+    {
+        "name": "恋愛頭脳戦",
+        "code": "KGL/S79-068",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "― 好きになったほうが負けなのである!! ―",
+        "ability": [
+            "You cannot play this card from Hand if you have no Character with 「かぐや」 or 「御行」 in its name.",
+            "You perform 【恋愛頭脳戦を開始する】.",
+            "【REPLAY】 【恋愛頭脳戦を開始する】You draw up to 1 card, choose up to 3 of your Characters, until end of opponent's next turn, they gain 2 of the following Abilities.",
+            "『【C】The Character facing this card cannot Side Attack.』",
+            "『【C】No Soul is deducted even if this card Side Attack.』"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card63532-large.jpg"
+    },
+    {
+        "name": "絶交です",
+        "code": "KGL/S79-069",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "さよなら藤原さん、絶交よ",
+        "ability": [
+            "If you have no 《秀知院》 Character, you cannot play this card from Hand.",
+            "Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, choose 1 《秀知院》 Character from your Waiting Room, return it to Hand, choose 1 of your Character, during this turn, it gets +1500 Power.』",
+            "Choose 1 opponent's Character, during this turn, it gets -500 Power."
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card63534-large.jpg"
+    },
+    {
+        "name": "交流会の後で",
+        "code": "KGL/S79-070",
+        "rarity": "CR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card63535-large.jpg"
+    },
+    {
+        "name": "お返し",
+        "code": "KGL/S79-071",
+        "rarity": "CR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "かぐや「お返しです」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card63538-large.jpg"
+    },
+    {
+        "name": "花火の音は聞こえない",
+        "code": "KGL/S79-072",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それだけでこんな夏休みもいろんなこと全部ひっくるめて好きになれると思う",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card63540-large.jpg"
+    },
+    {
+        "name": "奇跡的相性 かぐや",
+        "code": "KGL/S79-073",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《秀知院》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card63542-large.jpg"
+    },
+    {
+        "name": "主従関係 愛",
+        "code": "KGL/S79-074",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "つまりですね、アカウントを家だと思ってください",
+        "ability": [
+            "【C】For each of your other Character with 「かぐや」 in its name at Back Row, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「束の間の休息」 is in your Climax Slot, search your Deck for up to 1 《秀知院》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card63544-large.jpg"
+    },
+    {
+        "name": "天才たちの真剣勝負 愛",
+        "code": "KGL/S79-075",
+        "rarity": "RR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "つまりですね、アカウントを家だと思ってください",
+        "ability": [
+            "【C】If you have 4 or more 《秀知院》 Character, this card gets -1 Level in your Hand.",
+            "【C】If you have 2 or more other 《秀知院》 Character, this card gets +1500 Power, gains the following Ability. 『【C】During this card's battle, opponent cannot play Event from Hand.』",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card63546-large.jpg"
+    },
+    {
+        "name": "初めての電話 かぐや",
+        "code": "KGL/S79-076",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】RESONANCE [(1) Reveal 1 「世紀の大事件」 from Hand, REST this card] Search your Deck for up to 1 「主従関係 愛」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】RESONANCE [(1) Reveal 1 「世紀の大事件」 from Hand, REST this card] Choose 1 「主従関係 愛」 from your Waiting Room, return it to Hand, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card63548-large.jpg"
+    },
+    {
+        "name": "勇気を与える愛",
+        "code": "KGL/S79-077",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《秀知院》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card63550-large.jpg"
+    },
+    {
+        "name": "悩殺ポーズ♪ かぐや",
+        "code": "KGL/S79-078",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［(2)］ When you used this card's 『ASSIST』, you may pay the Cost. If you did, return all cards from your Waiting Room into the Deck, shuffle the Deck afterwards.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card63552-large.jpg"
+    },
+    {
+        "name": "校門前で 愛",
+        "code": "KGL/S79-079",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "その場合私はどうやって帰るんですか？",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「雨の日」 is in your Climax Slot, and you have 2 or more other 《秀知院》 Character, until end of opponent's next turn, this card gets +1000 Power, perform the following Action 2 times. 『Look at up to 3 cards from your top Deck, choose up to 1 《秀知院》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.』"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card63554-large.jpg"
+    },
+    {
+        "name": "賢い提案 かぐや",
+        "code": "KGL/S79-080",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "そうです！私も鍵アカにします！",
+        "ability": [
+            "【C】If you have 2 or more other 《秀知院》 Character, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《秀知院》 Character.",
+            "【A】【CXCOMBO】[(3) Place 2 cards from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. At the end of this card's attack, if 「うれし恥ずかし初メール」 is in your Climax Slot, you may pay the cost. If you did, STAND this card."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card63555-large.jpg"
+    },
+    {
+        "name": "念押し ハーサカ",
+        "code": "KGL/S79-081",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "変なコトをしては絶対にいけませんよ？",
+        "ability": [
+            "【C】All your other 《秀知院》 Character gets +500 Power.",
+            "【A】When opponent's Character is placed on Stage from his/her Character Trigger Checks a Switch, if you have other 《秀知院》 Character, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card63556-large.jpg"
+    },
+    {
+        "name": "不敵な笑み かぐや",
+        "code": "KGL/S79-082",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "人の居ない場所で、私と石上くんだけで",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card from your Hand and 1 card from Level Slot, exchange them.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《秀知院》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card63557-large.jpg"
+    },
+    {
+        "name": "サムズアップ！ 愛",
+        "code": "KGL/S79-083",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 《秀知院》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「世紀の大事件」 from your Deck and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card63558-large.jpg"
+    },
+    {
+        "name": "出し抜かれ マキ",
+        "code": "KGL/S79-084",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《秀知院》 Character among those cards x1000.",
+            "【A】When this card becomes REVERSE, place this card to bottom Deck."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《ボランティア》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card63559-large.jpg"
+    },
+    {
+        "name": "羨望の眼差し かれん&エリカ",
+        "code": "KGL/S79-085",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "かれん「皆さん…！ご覧になって！」",
+        "ability": [
+            "【C】During opponent's turn, all your other 《秀知院》 Character gets +1000 Power.",
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 4 or more 《秀知院》 Character, at the beginning of your Climax Phase, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《マスメディア》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card63560-large.jpg"
+    },
+    {
+        "name": "友達の話 かぐや",
+        "code": "KGL/S79-086",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "そうよね！あまりにも無責任よね!?",
+        "ability": [
+            "【A】When this card is placed into Waiting Room from Stage, you may reveal up to 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 《秀知院》 Character, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】RESONANCE [Reveal 1 「勇気を与える愛」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card63561-large.jpg"
+    },
+    {
+        "name": "心理テスト かぐや",
+        "code": "KGL/S79-087",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "私は大好きな花束を作れるくらいでしょうか",
+        "ability": [
+            "【C】 SUPPORT All your Character with Level 3 or higher in front of this card gets ＋2000 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When your Character Trigger Checks a Climax with Book Trigger Icon, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card63562-large.jpg"
+    },
+    {
+        "name": "スミシー・A・ハーサカ",
+        "code": "KGL/S79-088",
+        "rarity": "U",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "人間の行動は『欲望―イド―』と『理性―エゴ―』に拠って決定されるそうです",
+        "ability": [
+            "【C】For each of your other 《秀知院》 Character, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card63563-large.jpg"
+    },
+    {
+        "name": "浴衣のかぐや",
+        "code": "KGL/S79-089",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "今日は花火大会に行くの",
+        "ability": [
+            "【A】BOND／「花火大会 御行」 ［(1)］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「花火大会 御行」 from your Waiting Room, return it to Hand)",
+            "【A】CHANGE [(1) Place this card into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「不本意な呼び出し 愛」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card63564-large.jpg"
+    },
+    {
+        "name": "いつもと違う朝 愛",
+        "code": "KGL/S79-090",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other Character with 「かぐや」 in its name gets +500 Power.",
+            "【S】[Place 1 「いつもと違う朝 かぐや」 from Hand into Waiting Room, REST this card] Search your Deck for up to 1 Character with 「かぐや」 in its name and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card63565-large.jpg"
+    },
+    {
+        "name": "撃墜王 かぐや",
+        "code": "KGL/S79-091",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "会長⁉言いたいことが―",
+        "ability": [
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《秀知院》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card63566-large.jpg"
+    },
+    {
+        "name": "いつもと違う朝 かぐや",
+        "code": "KGL/S79-092",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card63567-large.jpg"
+    },
+    {
+        "name": "回答を濁す愛",
+        "code": "KGL/S79-093",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "男子に…",
+        "ability": [
+            "【C】For each of your other 《秀知院》 Character, this card gets +500 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card63568-large.jpg"
+    },
+    {
+        "name": "放課後 愛",
+        "code": "KGL/S79-094",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "まじごめーん、今日もバイト入ってて～チョッコー",
+        "ability": [
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[(1) Place 1 card from Hand into Waiting Room] Choose 1 「スミシー・A・ハーサカ」 from your Waiting Room, place it into this card's previous slot on Stage.』",
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「回答を濁す愛」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card63569-large.jpg"
+    },
+    {
+        "name": "不本意な呼び出し 愛",
+        "code": "KGL/S79-095",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《秀知院》 Character, this card gets +2000 Power.",
+            "【C】If the Character facing this card is Cost 0 or lower, this card cannot become REVERSE."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card63570-large.jpg"
+    },
+    {
+        "name": "いたずら心 かぐや",
+        "code": "KGL/S79-096",
+        "rarity": "C",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "演劇部の助っ人に借り出されてるって言ったじゃないですか",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level in your Level Slot is 3 or higher, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 When this card attacks, choose 1 of your other 《秀知院》 Character, during this turn, it gets ＋Ｘ. Ｘ is equal to the number of Event in your Waiting Room ×1500."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card63571-large.jpg"
+    },
+    {
+        "name": "世紀の大事件",
+        "code": "KGL/S79-097",
+        "rarity": "R",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "かぐや「インターネットが壊れたの!!」",
+        "ability": [
+            "Choose 1 of your Character, during this turn, it gets +500 Power, gains 2 of the following Abilities.",
+            "『【A】 [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+            "『【A】At the end of turn, if this card is at Front Row, choose up to 1 《秀知院》 Character from your Waiting Room, place it into Stock.』"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card63572-large.jpg"
+    },
+    {
+        "name": "束の間の休息",
+        "code": "KGL/S79-098",
+        "rarity": "CR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "かぐや「早坂!!今すぐ来て!!」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card63574-large.jpg"
+    },
+    {
+        "name": "雨の日",
+        "code": "KGL/S79-099",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "愛「あのーかぐや様」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card63576-large.jpg"
+    },
+    {
+        "name": "うれし恥ずかし初メール",
+        "code": "KGL/S79-100",
+        "rarity": "CC",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "愛「良かったですね、初メール」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card63578-large.jpg"
+    },
+    {
+        "name": "満面の笑み 千花",
+        "code": "KGL/S79-101",
+        "rarity": "PR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "うれしい!!",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《書記》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card63580-large.jpg"
+    },
+    {
+        "name": "きょとんとする圭",
+        "code": "KGL/S79-102",
+        "rarity": "PR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《会計》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card63581-large.jpg"
+    },
+    {
+        "name": "全力疾走 かぐや",
+        "code": "KGL/S79-103",
+        "rarity": "PR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1)］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Choose 1 《秀知院》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "《秀知院》",
+            "《副会長》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card63582-large.jpg"
+    },
+    {
+        "name": "横ピース 愛",
+        "code": "KGL/S79-104",
+        "rarity": "PR",
+        "expansion": "Kaguya-sama Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other Character with 「かぐや」 in its name, during this turn, it gets +1000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "《秀知院》",
+            "Maid 《メイド》"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card63583-large.jpg"
+    },
+    {
+        "name": "0/0 Yuu",
+        "code": "KGL/S79-T01",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other {1/1 Miyuki vanilla - T05} get +1500 power and gains \"AUTO - ENCORE [Discard 1 character]\".",
+            "AUTO - BOND [Discard 1 card] to 1/1 Miyuki vanilla - T05"
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Treasurer"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201207_bk05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miyuki",
+        "code": "KGL/S79-T02",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - (1) Choose 1 of your <Shuchiin> characters, this turn, it gets +1500 Power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "President"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Chika",
+        "code": "KGL/S79-T03",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <Shuchiin> characters get +500 power.",
+            "AUTO - When this is placed on stage from hand, you may mill the top 3 cards of your deck."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Secretary"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Chika",
+        "code": "KGL/S79-T04",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you do not have another <Shuchiin> character, this does not Stand during your Stand Phase.",
+            "CONT - This card cannot Side Attack."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Secretary"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t04.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Miyuki",
+        "code": "KGL/S79-T05",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201207_bk06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Chika",
+        "code": "KGL/S79-T06",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card attacks, For each of your other <Shuchiin> characters, this turn, this gets +1000 power.",
+            "AUTO - ENCORE [Discard 1 <Shuchiin> character]"
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Secretary"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t06.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Chika",
+        "code": "KGL/S79-T07",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, all of your <Shuchiin> characters get +500 power and +1 Soul, until the end of the turn."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Secretary"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201207_bk07.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "KGL/S79-T08",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T08",
+        "image": "https://i.imgur.com/oRtAcor.png?1",
+        "community": true
+    },
+    {
+        "name": "+2Soul CX",
+        "code": "KGL/S79-T09",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T09",
+        "image": "https://i.imgur.com/iTAtpgV.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ai",
+        "code": "KGL/S79-T10",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (2) When this is sent from stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 <Shuchiin> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Maid"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201207_bk08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kaguya",
+        "code": "KGL/S79-T11",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 5 or more hand, this gets +2000 power."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Vice President"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201120_sm07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ai",
+        "code": "KGL/S79-T12",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 3 or less Stock, this gets +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Shuchiin> character from your Waiting Room, add it to hand, then choose 1 of your other characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Maid"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201130_ke06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Kaguya",
+        "code": "KGL/S79-T13",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - {CX COMBO} At the start of your Encore Step, if you have the Pants CX (T19) in the Climax Area, this is in the Front Row, and you have 6 or less hand, look at up to 3 cards from the top of your deck, choose up to 1 <Shuchiin> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Vice President"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t13.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ai",
+        "code": "KGL/S79-T14",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Shuchiin> characters times 500."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Maid"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201130_ke07.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Ai",
+        "code": "KGL/S79-T15",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Maid"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201130_ke08.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Kei",
+        "code": "KGL/S79-T16",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <Shuchiin> characters get +1000 power.",
+            "ACT - [(1) Discard 1 Climax] Choose 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Secretary"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t16.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Kaguya",
+        "code": "KGL/S79-T17",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this is in your Front Row, all of your <Shuchiin> characters get +1500 power.",
+            "AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, send the bottom 3 cards of your opponent's deck to Waiting Room, and deal X damage to your opponent. X equals the number of Climaxes sent to Waiting Room by this effect."
+        ],
+        "attributes": [
+            "Shuchiin",
+            "Vice President"
+        ],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201120_sm09.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Event",
+        "code": "KGL/S79-T18",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Event",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Look at up to X cards from the top of your deck, choose up to 2 cards from among them, add them to hand, and send the rest to Waiting Room. X equals the number of your <Shuchiin> characters."
+        ],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201120_sm10.png",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "KGL/S79-T19",
+        "rarity": "TD",
+        "expansion": "Kaguya-sama: Love is War",
+        "side": "S",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "KGL",
+        "release": "S79",
+        "sid": "T19",
+        "image": "https://i.imgur.com/VVMuWVV.png?1",
+        "community": true
+    }
+]

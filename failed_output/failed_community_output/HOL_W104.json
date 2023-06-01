@@ -1,0 +1,4112 @@
+[
+    {
+        "name": "0/0 Kanata",
+        "code": "HOL/W104-001",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your opponent's turn, if you have 5 or more hand, this gets +1 Level and +1500 power.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230301_zi05.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Calliope",
+        "code": "HOL/W104-002",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Hololive> characters, this gets +3000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the  (037) in your Climax Area, and all of your characters are <Hololive>, Mill up to 4, choose up to 1 Level X or lower <Hololive> character from your Waiting Room, add it to hand, and this turn, this gets +500 power. X equals the number of cards with a Soul Trigger milled. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230313_en06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Subaru",
+        "code": "HOL/W104-003",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - {CX COMBO} When the Choice CX (038) is placed on your Climax Area, if you have another <Hololive> character, until the end of your opponent's turn, this gains the following 2 abilities,",
+            "- \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
+            "- \"AUTO - When this is Front Attacked, you may return this to hand.\"",
+            "AUTO - When this attacks, if all of your characters are <Hololive>, choose 1 of your <Hololive> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 La+ Darknesss",
+        "code": "HOL/W104-004",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} When this attacks, if you have the Choice CX (039) in your Climax Area, this turn, this gains the following ability, \"AUTO - This ability can only be activated up to once per turn. When this card's damage is cancelled, you may deal 1 damage to your opponent X times. X is equal to 1 if the total number of {this card} you have is 1 or less, 2 if you have 2 or more.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Mel",
+        "code": "HOL/W104-005",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, choose 1 of your <Hololive> characters, this turn, it gets +1000 power.",
+            "ACT - [(1) Rest this] Choose 1 of your <Hololive> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 character in your Waiting Room, you may add it to hand.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Iroha",
+        "code": "HOL/W104-006",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Hololive> character or \"#SecretSocietyHoloX\" (036), choose 1 of your characters, this turn, it gets +2000 power.",
+            "AUTO - At the start of your opponent's Draw Phase, mill 2. If there is a Level 2 or higher card among those cards, you may return this card to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Matsuri",
+        "code": "HOL/W104-007",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or less Stock, this gets +1 Level and +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Amelia",
+        "code": "HOL/W104-008",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is sent from Stage to Waiting Room, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 card with a Soul Trigger from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_008.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Watame",
+        "code": "HOL/W104-009",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other <Hololive> characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, mill 2. If there is a Climax(es) among those cards, choose up to 3 of your characters, this turn, they get +1 Soul."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230301_zi08.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Kiara",
+        "code": "HOL/W104-010",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <Hololive> characters.",
+            "AUTO - At the start of your Climax Phase, you may look at the top card of your deck.",
+            "AUTO - [Rest this] When you use ACCELERATE, if this is Standing, you may pay cost. If you do, choose 1 <Hololive> character in your Waiting Room, you may send it to Stock. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230313_en07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Korone",
+        "code": "HOL/W104-011",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more \"#hololiveGamers - HOL/W91-T064\" in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Hololive> characters times 1000.",
+            "AUTO - [(1) Discard 1 <Hololive> character] When this is Reversed, you may pay cost. If you do, Rest this, then Reverse this card's battle opponent.\n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Koyori",
+        "code": "HOL/W104-012",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more {copy of this} in your Waiting Room, this gets -1 Level in hand.",
+            "CONT - If you have 2 or more other <Hololive> characters, this gets +1500 power and \"AUTO - ENCORE [Discard 1 <Hololive> character]\"",
+            "AUTO - When this is placed on stage from hand, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Flare",
+        "code": "HOL/W104-013",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have {0/0 Noel - 117} in your Clock, this gets -1 level in hand.",
+            "AUTO - When this is placed on stage from hand, if you have another <Hololive> character, choose 1 of the following 2 effects and resolve it,",
+            "a) \"You may Heal 1.\"",
+            "b) \"You may put the top card of your stock to Waiting Room. If you do, draw up to 1 card, then choose up to 1 \"Towards the Future Together, Shirogane Noel - HOL/W91-114\" in your hand, place it on stage in any slot.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230227_ie07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Korone",
+        "code": "HOL/W104-014",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - MEMORY - If this is in Memory, and you have 2 or more <Hololive> characters, your \"#hololiveGamers - HOL/W91-T064\" in your hand gains COUNTER.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your other <Hololive> characters, this turn, it gets +1000 power.",
+            "ACT - [(1) Send this Standing character to Memory] Choose 1 \"Birthday Party, Inugami Korone - HOL/W91-T060\" or {3/2 Korone - 011} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Flare",
+        "code": "HOL/W104-015",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Hololive> character, this turn, this gets +4000 power.",
+            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, choose 1 of your other <Hololive> characters, return it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230227_ie08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kanata",
+        "code": "HOL/W104-016",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - When you pay the cost of \"#hololive4thGeneration - HOL/W91-T099\" in your hand, you may send 1 Marker underneath this card to Waiting Room instead of 1 Stock.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand. If \"#hololive4thGeneration - HOL/W91-T099\" is sent to the Waiting Room by this effect, and the total number of cards you have as Markers is 4 or less, choose up to 1 <4th Gen> character in your Waiting Room, place it underneath this card face-up as a Marker."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230301_zi06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Watame",
+        "code": "HOL/W104-017",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's front row cost 0 or lower Green or <Green Pepper> characters, you may send it to Waiting Room.",
+            "AUTO - When this is Reversed, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <Hololive> character from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230301_zi09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Subaru",
+        "code": "HOL/W104-018",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may mill 3.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Matsuri",
+        "code": "HOL/W104-019",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Hololive> characters, this gains the following 2 abilities, ",
+            "- \"CONT - When this attacks, choose 1 of your characters, this turn, it gets +1500 power.\"",
+            "- \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, this turn, this gets +1 Soul."
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc09.png",
+        "community": true
+    },
+    {
+        "name": "1/0 La+ Darknesss",
+        "code": "HOL/W104-020",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - RESONATE [Discard 1 card, Reveal {3/2 La+ Darkness - 004} from your hand] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 <Secret Society HoloX> character or \"#SecretSocietyHoloX\" (036) from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, and this turn, this gets +500 power. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa07.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Mel",
+        "code": "HOL/W104-021",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 \"#MelArt, Yozora Mel - HOL/W91-018\", place it on stage in any slot, and shuffle your deck afterwards.",
+            "ACT - [Rest this] Choose 1 of your <Hololive> characters, until the end of your opponent's next turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an02.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Koyori",
+        "code": "HOL/W104-022",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "ACT - RESONATE [Reveal {3/2 La+ Darkness - 004} from your hand, Rest this]  Choose 1 of your opponent's front row characters, this turn, it gets -1000 power and the following ability, \"CONT - During this card's battle, you cannot play BACKUPs from hand.\"\n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx05.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Iroha",
+        "code": "HOL/W104-023",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this card's Level 2 or higher battle opponent is Reversed, you may put the top card of your deck to Stock.",
+            "AUTO - RESONATE [Reveal {3/2 La+ Darkness - 004} from your hand] At the Start of your Climax Phase, you may pay cost. If you do, this turn, this gets +6000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx12.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Amelia",
+        "code": "HOL/W104-024",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Hololive> characters times 1000.",
+            "AUTO - ACCELERATE [Put 1 <Hololive> character from your Waiting Room on the bottom of your Clock] At the start of your Climax Phase, you may pay cost. If you do, this turn, this gets +1000 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, put up to 2 cards from the top of your deck to Stock.\" \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_024.png",
+        "community": true
+    },
+    {
+        "name": "0/0 La+ Darknesss",
+        "code": "HOL/W104-025",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 <Hololive> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 \"#SecretSocietyHoloX\" (036), show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kiara",
+        "code": "HOL/W104-026",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this card has a Marker underneath it, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is an <Hololive> character or Event, you may put it underneath this card Face-down as a Marker.\n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230313_en08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Watame",
+        "code": "HOL/W104-027",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - When you discard <Hololive> characters for the effect of \"#hololive4thGeneration - HOL/W91-T099\", you may discard this card instead of 2 <Hololive> characters.",
+            "AUTO - At the start of your opponent's Attack Phase, if there is a character in the slot across from this, you may move this to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230301_zi10.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Mel",
+        "code": "HOL/W104-028",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - This cannot Side Attack.",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, this turn, this gets +1500 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Flare",
+        "code": "HOL/W104-029",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Hololive> characters times 1000.",
+            "AUTO - BOND (1) to \"Towards the Future Together, Shirogane Noel - HOL/W91-114\" or {2/1 Noel - 141}."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230227_ie09.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Iroha",
+        "code": "HOL/W104-030",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, your other character in the front row center slot gets +1500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx13.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Korone",
+        "code": "HOL/W104-031",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Hololive> characters times 500.",
+            "AUTO - When this card's battle opponent is Reversed, if you have another <Hololive> character, you may draw 1 card. If you do, discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs09.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Matsuri",
+        "code": "HOL/W104-032",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (1) When you use this card's BACKUP, you may pay cost. If you do, choose 1 {this card} from your Waiting Room, and add it to hand.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc10.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Koyori",
+        "code": "HOL/W104-033",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Subaru",
+        "code": "HOL/W104-034",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other back row <Hololive> characters, this get +2000 power.",
+            "AUTO - EXPERIENCE - When this card's battle opponent is Reversed, if you have a Red card and a blue card in your Level Zone, reveal the top card of your deck. If that card is Level 1 or higher, add it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on09.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Kanata",
+        "code": "HOL/W104-035",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Hololive> characters times 1000.",
+            "AUTO - (1) At the start of your opponent's Attack Phase, you may pay cost. If you do, choose 1 of your <Hololive> characters and this card, Stand and swap them."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230301_zi07.png",
+        "community": true
+    },
+    {
+        "name": "1/1 #SecretSocietyHoloX",
+        "code": "HOL/W104-036",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If you have a 2 or less <Secret Society HoloX> character, this cannot be played from hand.",
+            "Search your deck for up to 1 Climax, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "Choose 1 of your characters, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa09.png",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "HOL/W104-037",
+        "rarity": "CR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "037",
+        "image": "https://i.imgur.com/AUuRwMd.png?1",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "HOL/W104-038",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "038",
+        "image": "https://i.imgur.com/sIhb9oH.png?1",
+        "community": true
+    },
+    {
+        "name": "Choice CX",
+        "code": "HOL/W104-039",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "039",
+        "image": "https://i.imgur.com/LGtkHzT.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Mio",
+        "code": "HOL/W104-040",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, place them on top of your deck in any order, and send the rest to Waiting Room.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 IRyS",
+        "code": "HOL/W104-041",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your character's Trigger Check reveals a Soul Trigger, choose 1 of your <Hololive> characters, this turn, it gets +1000 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English Project: HOPE"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_041.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Towa",
+        "code": "HOL/W104-042",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Bar CX (065) in your Climax Area, you may pay cost. If you do, look at 1 card from the top of your opponent's deck, place it on top or bottom of their deck, then send the bottom 3 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent, and this turn, this gets +1000 power. X equals the number of Level 0 or lower cards sent to Waiting Room by this effect. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230302_sg05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Sora",
+        "code": "HOL/W104-043",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may choose 1 card in your clock, add it to your hand. If you do, choose 1 card in your hand and put it into Clock.",
+            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it to your opponent’s Waiting Room. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Fauna",
+        "code": "HOL/W104-044",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <Hololive> characters get +500 power.",
+            "AUTO - {CX Combo} [Send 1 {Bar CX - 066} in your Climax Area to Waiting Room] At the start of your Encore Step, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Hololive> character or Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Council-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_044.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Okayu",
+        "code": "HOL/W104-045",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you play an Event, you may send this to Stock.",
+            "ACT - [Rest this] Choose 1 of your <Hololive> characters, this turn, it gets +500 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.\" \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs04.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Baelz",
+        "code": "HOL/W104-046",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Hololive>, this gets +2000 power.",
+            "AUTO - {CX Combo} When the Bar CX (067) is placed in your Climax Area, if you have 2 or more other <Hololive> characters. until the end of your opponent's next turn, this gains the following 2 abilities,",
+            "- \"CONT - During your opponent's turn, this cannot be Reversed.\"",
+            "- \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Council-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_046.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Aki",
+        "code": "HOL/W104-047",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you don't have another <Hololive> character, this does not Stand during your Stand Phase.",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, this turn, this gains the following ability, \"AUTO - (1) When this card's battle opponent is Reversed, you may pay cost. If you do, choose 1 character in your Waiting Room, add it to hand.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Fubuki",
+        "code": "HOL/W104-048",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.",
+            "AUTO - {CX Combo} [(1) Discard 2 cards] When this attacks, if you have the Bar CX (068) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent, then choose up to 2 cards in your Opponent’s Waiting Room, your opponent shuffles them into their deck. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Luna",
+        "code": "HOL/W104-049",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 6 or more Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "CONT - This card on stage gets -3 Level. The character across from this cannot Side Attack.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Hololive> character in your Clock, add it to hand.\n"
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230302_sg09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Luna",
+        "code": "HOL/W104-050",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top or bottom of your deck.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room. X equals the number of your other <Hololive> characters."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230302_sg10.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Okayu",
+        "code": "HOL/W104-051",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other back row <Hololive> characters, this get +1000 power.",
+            "AUTO - This ability can only be activated up to once per turn. When you play an event, this turn, this gains the following ability, \"AUTO - When this is card's battle opponent is reversed, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room, then discard 1 card.\" \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs05.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Sora",
+        "code": "HOL/W104-052",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other back row <Hololive> characters, this gets +1000 power.",
+            "AUTO - When a Climax is placed in your Opponent's Climax Area, you may send this to Stock. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex02.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Mio",
+        "code": "HOL/W104-053",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Hololive> characters, choose 1 <Hololive> character in your Waiting Room, you may send it to Stock.",
+            "AUTO - When this card or this card's battle opponent is Reversed, this turn, that character cannot use use \"AUTO - ENCORE\". \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs02.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Towa",
+        "code": "HOL/W104-054",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <Hololive> characters get +1000 power.",
+            "AUTO - When this is placed on stage from hand, you may choose 1 <Hololive> character from your Waiting Room, and place it Face-down underneath this card as a Marker.",
+            "AUTO - [Discard 1 <Hololive> character, Send 1 Marker underneath this to Waiting Room] At the start of your Attack Phase, you may pay cost. If you do, choose 1 of your {New 3/2 Aqua - 132}, this turn, it gains the following ability, \"CONT - When this attacks, choose 1 of your opponent's Back Row characters, this card may Front Attack that character as the Defending character instead.”"
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230302_sg06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Fubuki",
+        "code": "HOL/W104-055",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
+            "AUTO - When this card's battle opponent is Reversed, if you have a Climax in your Climax Area, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc05.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Aki",
+        "code": "HOL/W104-056",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT -  For each of your other front row {copies of this}, this gets +2000 power.",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, this turn, this gets +1500 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Towa",
+        "code": "HOL/W104-057",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <Hololive> characters, until the end of your opponent's next turn, it gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230302_sg07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Fubuki",
+        "code": "HOL/W104-058",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 1. If that card is a Climax, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards, and this turn, this gets <Gold>. If it's not, this turn, this gets <Red>. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Aki",
+        "code": "HOL/W104-059",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2, until the end of your opponent's next turn, this gets +X power. X equals the number of <Hololive> characters milled times 1000.",
+            "AUTO - At the start of your Climax Phase, your opponent may send the top 2 cards of their Stock to Waiting Room. If they do, this turn, this cannot Front Attack."
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Mio",
+        "code": "HOL/W104-060",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, reveal the top card of your deck. If that card is <Hololive> character or an Event, choose 1 of your characters, this turn, it gets +3000 power. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Luna",
+        "code": "HOL/W104-061",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - This card on stage gets -1 Level.",
+            "CONT - During your turn, this gets +4000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "4th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230302_sg11.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Sora",
+        "code": "HOL/W104-062",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters. If you do, your opponent chooses 1 Level X or lower character from their Waiting Room, and swap them. X equals the Level of the character chosen by you -1."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex03.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Okayu",
+        "code": "HOL/W104-063",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, send X cards from the bottom of your opponent's deck to Waiting Room. X equals the number of your <Hololive> characters.",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Hololive",
+            "Gamers"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230224_gs06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 IRyS",
+        "code": "HOL/W104-064",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Hololive> characters times 1000.",
+            "AUTO - When this card's battle opponent is Reversed, if you have a Climax in your Climax Area, choose 1 <Hololive> character in your Waiting Room, you may send it to Stock."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English Project: HOPE"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_064.png",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "HOL/W104-065",
+        "rarity": "CR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "065",
+        "image": "https://i.imgur.com/AzmJKSo.png?1",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "HOL/W104-066",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "066",
+        "image": "https://i.imgur.com/5vv6zC2.png?1",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "HOL/W104-067",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "067",
+        "image": "https://i.imgur.com/oLgbXHp.png?1",
+        "community": true
+    },
+    {
+        "name": "Bar CX",
+        "code": "HOL/W104-068",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "068",
+        "image": "https://i.imgur.com/tawhzkd.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Polka",
+        "code": "HOL/W104-069",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Return this to hand] When your Climax is placed on the Climax Area, you may pay cost. If you do, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then choose 1 of your characters, this turn, it gets +1500 power.",
+            "AUTO - (1) When your Climax is placed on the Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Hololive> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230306_od08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Chloe",
+        "code": "HOL/W104-070",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Hololive> character, this turn, this gets +3000 power.",
+            "AUTO - {CX Combo} RESONATE [Reveal {3/2 La+ Darkness - 004} from your hand] When this attacks, if you have the Door CX (106) in your Climax Area, and all of your characters are <Hololive> you may pay cost. If you do, choose up to 1 <Hololive> character in your Waiting Room, add it to hand, then reveal the top card of your deck. If that card is Level 1 or higher, send it to Stock."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx08.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Ayame",
+        "code": "HOL/W104-071",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, if you have another <Hololive> character, until the end of your opponent's next turn, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.\"",
+            "b) \"You may Heal 1.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on01.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Ollie",
+        "code": "HOL/W104-072",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or by the {CX Combo} effect of {this card}, you may Heal 1.",
+            "AUTO - {CX Combo} [(1) Discard 1 <Hololive> character] While this is in your Waiting Room, at the start of your Attack Phase, if you have the Door CX (107) in your Climax Area, and you are Level 2 or higher, and all of your characters are <Hololive>, you may pay cost. If you do, place this on stage in any slot."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230310_ho06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Roboco",
+        "code": "HOL/W104-073",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this attacks, mill 2 cards, if you milled a Climax, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand.",
+            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Reine",
+        "code": "HOL/W104-074",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230310_ho09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Choco",
+        "code": "HOL/W104-075",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Hololive> character or Event, add it to hand and discard 1 card.",
+            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Hololive> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Haato",
+        "code": "HOL/W104-076",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your <Hololive> characters, this turn, it gets +1500 power.",
+            "AUTO - When this card's battle opponent is Reversed, you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot."
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc01.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Lui",
+        "code": "HOL/W104-077",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your character's Trigger Check reveals a  Climax, if there is no Markers underneath this card, you may choose up to 1 card from Waiting Room and put it underneath this card Face-down as a Marker.",
+            "ACT - [Send 1 Marker underneath this to Waiting Room] Choose 1 of your other characters, this turn, it gets +1 Soul.",
+            "ACT - RESONATE [(1) Reveal {3/2 La+ Darkness - 004} from your hand, Rest this] Look at up to 3 cards from the top of your deck, choose up to 1 <Hololive> character or \"#SecretSocietyHoloX\" (036) from among them, show it to your opponent, add it to your hand, and put the rest into the Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa10.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Anya",
+        "code": "HOL/W104-078",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230310_ho07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Nene",
+        "code": "HOL/W104-079",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have 2 or more other <Hololive> Characters, this turn, this gets +2000 power.",
+            "AUTO - [(1) Send this to Memory] When your other <Hololive> character is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +2500 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230303_qm07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Miko",
+        "code": "HOL/W104-080",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - When this is Reversed, you may return this to hand.",
+            "AUTO - When this is Reversed, if you have another <Hololive> character, and the battle opponent's Level is 3 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex10.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Marine",
+        "code": "HOL/W104-081",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 4 or more <Hololive> characters, this gets -1 Level in hand.",
+            "AUTO - [Send 1 of your other <Hololive> characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do,  look at 1 card from the top of your deck, choose up to 1 Level 1 or higher card, show it to your opponent, add it to hand, and send the rest to Waiting Room, then Heal up to 1. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230228_aw08.png",
+        "community": true
+    },
+    {
+        "name": "3/2 AZKi",
+        "code": "HOL/W104-082",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other <Hololive> characters get +1500 power.",
+            "AUTO - [Discard 2 cards] At the start of your Encore Step, if this is in your front row, and all of your opponent's Front Row slots are empty, or if all of your opponent's Front Row characters are Reversed, you may pay cost. If you do, deal 1 damage to your opponent, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, and until the end of your opponent's next turn, this gets +1000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ayame",
+        "code": "HOL/W104-083",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 card from your Level Zone and 1 card in your Waiting Room, you may swap them.",
+            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Choco",
+        "code": "HOL/W104-084",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When your characters Trigger Check reveals a Climax, choose 1 of your characters, this turn, it gets +1000 power.",
+            "AUTO - (1) This ability can only be activated up to once per turn. When a card is placed in your Level Zone, you may pay cost. If you do,  look at up to 3 cards from the top of your deck, choose up to 1 <2nd Gen> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Chloe",
+        "code": "HOL/W104-085",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 <Hololive> character] When this is sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 {3/2 La+ Darkness - 004} or {R 0/0 Lui - 077}, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 AZKi",
+        "code": "HOL/W104-086",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your other <Hololive> characters, this turn, it gets +1000 power.",
+            "AUTO - {CX Combo} [Return this to hand, send 1 Standby CX (108) in your Climax Area to Waiting Room] When Standby CX (108) is placed in your Climax Area, you may pay cost. If you do, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex08.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Haato",
+        "code": "HOL/W104-087",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this card has a Marker underneath it, this gets +5000 power. and +1 Soul",
+            "AUTO - When this is placed on stage from hand, choose 1 {copy of this card} in your Waiting Room, you may put it underneath this card Face-up as a Marker.\n"
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc02.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Reine",
+        "code": "HOL/W104-088",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Cost 0 or lower character from your Waiting Room, place it on stage in any slot.",
+            "AUTO - When this attacks, choose 1 of your other <Hololive> characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230310_ho10.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Miko",
+        "code": "HOL/W104-089",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (2) When this is placed on stage from hand or sent from stage to Waiting Room, you may pay cost. If you do, choose 1 <Hololive> character from your Waiting Room, add it to hand.",
+            "AUTO - When this attacks, if you have another <Hololive> character, this turn, this gets +3000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex11.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Marine",
+        "code": "HOL/W104-090",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Send 1 of your other <Hololive> characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck. If that card is a <Hololive> character or \"#hololive3rdGeneration - HOL/W91-T091\", add it to hand.",
+            "AUTO - When this attacks, if all of your characters are <Hololive>, choose 1 of your characters, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230228_aw09.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Polka",
+        "code": "HOL/W104-091",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Hololive> characters, this gets +2000 power.",
+            "AUTO - {CX Combo} Memory - When this attacks, if you have the Standby CX (109) in your Climax Area, choose 1 Level X or lower <Hololive> character in your Waiting Room, add it to hand, and this turn, this gets +1000 power. X is equal to the number of cards in your Memory with different names."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230306_od09.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Lui",
+        "code": "HOL/W104-092",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa11.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Roboco",
+        "code": "HOL/W104-093",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +2000 to Level 3 or higher characters.",
+            "AUTO - [Rest this] At the start of your Attack Phase, if this is Standing, you may pay cost. If you do, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send that character to the top of your opponent's deck.\"  This does not stand during your next Stand Phase."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex05.png",
+        "community": true
+    },
+    {
+        "name": "2/2 Nene",
+        "code": "HOL/W104-094",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - CHANGE [(1) Discard 1 card, Send this to Memory] At the start of your Climax Phase, you may pay cost. If you do, choose 1 \"Towards the Future Together, Momosuzu Nene - HOL/W91-084\" in your Waiting Room, place it on stage in this card's former slot."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230303_qm08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Haato",
+        "code": "HOL/W104-095",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or sent from Stage to Waiting Room, choose 1 of your opponent's characters, until the end of the next turn, it gains the following ability: \"CONT - This cannot move to other slots.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230220_hc03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Nene",
+        "code": "HOL/W104-096",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Place 1 {RR 0/0 Lamy - 110} in your Memory underneath this card face-up as a Marker] When this attacks, you may pay cost. If you do, this turn, this gets +1000 power and +2 Soul.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230303_qm09.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Polka",
+        "code": "HOL/W104-097",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you 2 or less cards in Memory, you may choose 1 {copy of this} from your Waiting Room, and send it to Memory. ",
+            "AUTO - When this is Reversed, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <5th Gen> character or \"#hololive5thGeneration - HOL/W91-T128\" from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230306_od10.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Miko",
+        "code": "HOL/W104-098",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your characters gain the following ability, \"CONT - This cannot Side Attack.\"",
+            "AUTO - When this card's battle opponent is Reversed, if you have another <Hololive> character, choose 1 of your opponent's Front Row level 0 or lower character, you may send it to Waiting Room. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex12.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ayame",
+        "code": "HOL/W104-099",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - EXPERIENCE - If you have a Blue card in your Level Zone, this gets +3000 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand or deck, you may pay cost. If you do, search your deck for up to 1 {copy of this}, show it to your opponent, place it on stage in any slot, and shuffle your deck afterwards. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on03.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Roboco",
+        "code": "HOL/W104-100",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, this gets +2000 power.",
+            "AUTO - [(1) Send this to Waiting Room] When your other <Hololive> character is Front Attacked, you may pay cost. If you do, return that character to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Lui",
+        "code": "HOL/W104-101",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - For each of your other back row <Hololive> character, this gets +1000 power.",
+            "AUTO - When this attacks, if you have 2 or more other <Hololive> character, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230307_aa12.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Choco",
+        "code": "HOL/W104-102",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 card from your Level Zone and 1 Climax in your Waiting Room, swap them.",
+            "ACT - BACKUP +4000 \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230222_on06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Chloe",
+        "code": "HOL/W104-103",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have another front row {2/1 Marine - 104}, this gets +4000 power.",
+            "AUTO - [Discard 1 <Hololive> character] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {2/1 Marine - 104} in your Waiting Room, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Hololive",
+            "Secret Society HoloX"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230308_hx10.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Marine",
+        "code": "HOL/W104-104",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have another front row {2/1 Chloe - 103}, this gains the following 2 abilities,",
+            "- \"CONT - During your turn, this gets +5000 power.\"",
+            "- \"AUTO - During your opponent's turn, when this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character.",
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your {2/1 Chloe - 103} and this card, you may Stand and swap them."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230228_aw10.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Anya",
+        "code": "HOL/W104-105",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have 4 or more other <Hololive> characters, this gets +5000 power and the following ability, \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Climax with a Door Trigger, show it to your opponent, add it to hand, and shuffle your deck afterwards. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230310_ho08.png",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "HOL/W104-106",
+        "rarity": "CR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "106",
+        "image": "https://i.imgur.com/YiIvMdU.png?1",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "HOL/W104-107",
+        "rarity": "CR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "107",
+        "image": "https://i.imgur.com/RuamR8j.png?1",
+        "community": true
+    },
+    {
+        "name": "Standby CX",
+        "code": "HOL/W104-108",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "108",
+        "image": "https://i.imgur.com/jTRIVkG.png?1",
+        "community": true
+    },
+    {
+        "name": "Standby CX",
+        "code": "HOL/W104-109",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "109",
+        "image": "https://i.imgur.com/0nWhyX8.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Lamy",
+        "code": "HOL/W104-110",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if all of your characters are <Hololive>, choose 1 of your characters, this turn, it gets +1000 power.",
+            "AUTO - [(1) Put 1 <Hololive> character from your Waiting Room on the bottom of your Clock, Send this to Memory] When this is Reversed, if all of your characters are <Hololive>, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "110",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230303_qm04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Moona",
+        "code": "HOL/W104-111",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 card] When a Climax is placed in your Climax Area, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "111",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230309_id08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Shion",
+        "code": "HOL/W104-112",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your opponent’s characters get “AUTO - ENCORE (2)”.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to your empty Front Row Center Slot.\n"
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "112",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk04.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Gura",
+        "code": "HOL/W104-113",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If all of your characters are <Hololive>, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [(2) Discard 1 card] When this attacks, if you have the Pants CX (142) in your Climax Area, and you have 6 or less hand, you may pay cost. If you do, deal 2 damage to your opponent, then resolve the following effect twice, \"Mill the top card of your deck. If that card has a Soul Trigger, deal 1 damage to your opponent.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "113",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig20.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Risu",
+        "code": "HOL/W104-114",
+        "rarity": "RR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} At the start of your Attack Phase, if you have the Pants CX (143) in your Climax Area, and you have another <Hololive> character, this turn, this gains 1 of the following 2 abilities of your choice,",
+            "a) \"AUTO - When this attacks, choose up to 1 character in your Waiting Room, add it to hand, then choose up to 1 <Hololive> character in your Waiting Room, send it to Stock.\"",
+            "b) \"AUTO - When this card's battle opponent is Reversed, you may send it to Clock.\" \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "114",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230309_id07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Pekora",
+        "code": "HOL/W104-115",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - (1) At the start of your Main Phase, you may pay cost. If you do, reveal 3 cards from the top of your deck, then shuffle your deck. If you revealed a Climax among them, send up to 2 cards from the top of your deck to Stock.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "115",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230227_ie04.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Ina'nis",
+        "code": "HOL/W104-116",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand.",
+            "Note: has a Soul trigger. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "116",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig17.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Noel",
+        "code": "HOL/W104-117",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If this card has a Marker underneath it, this gets +1 Level and +1500 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is an <Hololive> character, you may put it underneath this card Face-down as a Marker.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot with a character in the slot across from it."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "117",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230228_aw05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kronii",
+        "code": "HOL/W104-118",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Hololive>, this gets +1 Level and +1500 power.",
+            "AUTO - [(1) Send this to Waiting Room] When your other <Hololive> character is Front Attacked, you may pay cost. If you do, return that character to hand."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Council-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "118",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_118.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Aqua",
+        "code": "HOL/W104-119",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Hololive> characters times 500.",
+            "AUTO - When this attacks, this turn, all of your characters gain the following ability, \"AUTO - (1) When this card's Trigger Check reveals a Climax, you may pay cost. If you do, put the top card of your deck to Stock, then draw up to 1 card. If you draw 1, discard 1 card.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "119",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk01.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Mumei",
+        "code": "HOL/W104-120",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Hololive> character, this turn, this gets +1500 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (144) in your Climax Area, and all of your characters are <Hololive>, look at 1 card from the top of your deck, choose up to 1 <Hololive> character or Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, then choose 1 <Hololive> character in your Waiting Room, add it to hand, and discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Council-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "120",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_120.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Botan",
+        "code": "HOL/W104-121",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "ACT - BACKUP +2000 [(1) Send this from your hand to Memory]"
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "121",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230306_od05.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Iofi",
+        "code": "HOL/W104-122",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <Hololive> characters.",
+            "AUTO - At the start of your Climax Phase, choose 1 of your <Hololive> characters, this turn, it gets +X power. X is equal to that character's Level times 1000.",
+            "ACT - [Rest this] Choose 1 other character, until the end of your opponent's next turn, it gets +1 Level. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "122",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230309_id10.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Suisei",
+        "code": "HOL/W104-123",
+        "rarity": "R",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO  - {CX Combo} At the start of your Attack Phase, if you have Pants CX (145) in your Climax Area, and this is in your front row, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Send all of your opponent's characters to Memory, then placed them on your opponent's stage in separate slots.\"",
+            "b) \"This turn, this gains the following ability, \"AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, deal 2 damage to your opponent.\"\""
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "123",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex13.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Lamy",
+        "code": "HOL/W104-124",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Back Row characters whose Level is higher than your opponent's Level, during your opponent's next Stand Phase, that character does not Stand.",
+            "AUTO - [Discard 1 <Hololive> character] When this is placed on stage from hand or when this attacks, you may pay cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "124",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230303_qm05.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Kronii",
+        "code": "HOL/W104-125",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "AUTO - SHIFT Lv0"
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Council-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "125",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_125.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Noel",
+        "code": "HOL/W104-126",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 Climax, Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand.",
+            "AUTO - When this attacks, this turn, this gets +X power. X is equal to the number of your opponent's characters times 500."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "126",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230228_aw06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Moona",
+        "code": "HOL/W104-127",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Hololive> character, this turn, this gets +2000 power.",
+            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "127",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230309_id09.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Shion",
+        "code": "HOL/W104-128",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <2nd Gen> characters.",
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1000 power.",
+            "ACT - [Rest this] Choose 1 card in your Level Zone and 1 <2nd Gen> character in your Waiting Room, and swap them."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "128",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk05.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Botan",
+        "code": "HOL/W104-129",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 3. If there is a Climax(es) among them, choose 1 of your opponent's Level 3 or lower Front Row characters, you may send it to Waiting Room.",
+            "AUTO - When this is Reversed, send this to Memory.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to the bottom of your opponent's deck. "
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "129",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230306_od06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Pekora",
+        "code": "HOL/W104-130",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +1500",
+            "AUTO - When this is placed on stage from hand, you may choose 1 <Hololive> character from your Waiting Room, and place it Face-down underneath this card as a Marker.",
+            "AUTO - During your turn, when this card with a Marker is sent from Stage to Waiting Room, if you have another <Hololive> character, you may return this to stage in its former slot Rested."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "130",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230227_ie05.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Suisei",
+        "code": "HOL/W104-131",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, for each of your other <Hololive> characters, this gets +1500 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {New 2/1 Towa - 054} or {New 3/2 Aqua - 132} in your Waiting Room, add it to hand.",
+            "AUTO - [(1) Discard 1 card, Return this to hand] At the start of your opponent's Attack Phase, you may pay cost. If you do, choose 1 of your other <Hololive> characters, and return it to hand. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "131",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex14.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Aqua",
+        "code": "HOL/W104-132",
+        "rarity": "U",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have a {New 2/1 Towa - 054} and a {New 2/1 Suisei - 131}, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, draw up to 2 cards, then discard 1 card.",
+            "AUTO - [(1) Discard 2 cards] This ability can only be activated up to once per turn. When your character in the front row center slot attacks, you may pay cost. If you do, reveal the top card of your deck. If that card is a <Hololive> character, Stand this."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "132",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk02.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Aqua",
+        "code": "HOL/W104-133",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Hololive> character from your Waiting Room, and add it to hand.",
+            "AUTO - EXPERIENCE 2 - When this is placed on stage from hand, if the sum of Levels of cards in your Level Zone is 2 or more, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, send the rest to Waiting Room, then discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "133",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk03.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Iofi",
+        "code": "HOL/W104-134",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you are Level 2 or higher, this gains the following ability, \"ACT - [(1) Discard 1 card, send this to Waiting Room] Choose up to 1 {3/2 Risu - 114} from your hand, place it on stage in this card's former slot.\"",
+            "CONT - During your turn, if all of your characters are <Hololive>, this gets +1 Level and +3500 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 <Hololive > character from your Waiting Room, add it to hand, then discard 1 card."
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive Indonesia 1st Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "134",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230309_id11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Suisei",
+        "code": "HOL/W104-135",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gets +2000 power.",
+            "AUTO - {CX Combo} [(1) Send this to Waiting Room] When Pants CX (145) is placed in your Climax Area, if you are Level 2 or higher, you may pay cost. If you do, choose up to 1 {3/2 Suisei - 123} in your hand, place it on stage in this card's former slot. \n"
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "135",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230216_ex15.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Botan",
+        "code": "HOL/W104-136",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is palced on stage from hand, if you have 4 or less Memory, choose 1 <5th Gen> character in your Waiting Room and 1 card in your Memory, you may swap them.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Hololive> character from your Waiting Room, add it to hand, then choose 1 of your other <Hololive> characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "136",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230306_od07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Pekora",
+        "code": "HOL/W104-137",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your <Hololive> characters, this turn, it gets +1500 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "137",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230227_ie06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Shion",
+        "code": "HOL/W104-138",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your opponent's turn, for each of your other back row <Hololive> characters, this gets +1000 power.",
+            "AUTO - When this attacks, choose 1 of your other characters, this turn, it gets +X power. X equals that character's Soul times 1000."
+        ],
+        "attributes": [
+            "Hololive",
+            "2nd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "138",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230221_lk06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ina'nis",
+        "code": "HOL/W104-139",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Hololive>, this gets +2000 power.",
+            "AUTO - ACCELERATE [Put 1 <Hololive> character from your Waiting Room on the bottom of your Clock] At the start of your Climax Phase, you may pay cost. If you do, look at the top card of your deck, and put it on top or bottom of your deck, then this turn, this gains the following ability, \"AUTO - When this card's battle opponent is Reversed. choose 1 <Hololive> character in your Waiting Room, you may add it to hand.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English-Myth-"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "139",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230314_ig18.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Lamy",
+        "code": "HOL/W104-140",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If the Cost of the character across from this is 0 or lower, this cannot be Reversed. ",
+            "AUTO - MEMORY - When this attacks, If you have 2 or more cards in your Memory with different names, choose up to 2 of your characters, this turn, they get +2000 power."
+        ],
+        "attributes": [
+            "Hololive",
+            "5th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "140",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230303_qm06.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Noel",
+        "code": "HOL/W104-141",
+        "rarity": "C",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "AUTO - When this is placed on stage from hand, choose 1 card from the bottom of your clock and 1 <Hololive> character in your Waiting Room, you may swap them.",
+            "AUTO - BOND [Discard 1 card] to \"#Shiranuillust, Shiranui Flare - HOL/W91-019\" or {3/2 Flare - 013}."
+        ],
+        "attributes": [
+            "Hololive",
+            "3rd Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "141",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230228_aw07.png",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "HOL/W104-142",
+        "rarity": "CR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "142",
+        "image": "https://i.imgur.com/Cvg0pJL.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "HOL/W104-143",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "143",
+        "image": "https://i.imgur.com/mJVrA0E.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "HOL/W104-144",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "144",
+        "image": "https://i.imgur.com/ZzaL3nl.png?1",
+        "community": true
+    },
+    {
+        "name": "Pants CX",
+        "code": "HOL/W104-145",
+        "rarity": "CC",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "145",
+        "image": "https://i.imgur.com/xnoltff.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Nodoka",
+        "code": "HOL/W104-P01",
+        "rarity": "PR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 <Hololive> character] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Hololive"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230217_an07.png",
+        "community": true
+    },
+    {
+        "name": "3/2 IRyS",
+        "code": "HOL/W104-P02",
+        "rarity": "PR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
+            "AUTO - During the turn this was placed on stage from hand, when this attacks, this turn, all of your characters get +2500 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.\""
+        ],
+        "attributes": [
+            "Hololive",
+            "Hololive English Project: HOPE"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "P02",
+        "image": "https://i.imgur.com/3yh44RX.png",
+        "community": true
+    },
+    {
+        "name": "0/0 A-Chan",
+        "code": "HOL/W104-P04",
+        "rarity": "PR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Hololive> character, choose up to 2 cards in your hand, send them to Stock in any order.",
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power."
+        ],
+        "attributes": [
+            "Hololive"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "P04",
+        "image": "https://i.imgur.com/mviW7oZ.png",
+        "community": true
+    },
+    {
+        "name": "0/0 AZKi",
+        "code": "HOL/W104-P05",
+        "rarity": "PR",
+        "expansion": "Hololive vol.2",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your opponent’s characters get “AUTO - ENCORE (2)”.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Hololive> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Hololive",
+            "0th Gen"
+        ],
+        "set": "HOL",
+        "release": "W104",
+        "sid": "P05",
+        "image": "https://i.imgur.com/NGGrmTW.png",
+        "community": true
+    }
+]

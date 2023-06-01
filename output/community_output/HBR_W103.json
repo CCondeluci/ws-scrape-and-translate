@@ -1,0 +1,566 @@
+[
+    {
+        "name": "0/0 Tama",
+        "code": "HBR/W103-T01",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST +500",
+            "AUTO - When this is placed on stage from hand, choose 1 of your other characters with ACCELERATE, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220113_kn08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Karen",
+        "code": "HBR/W103-T02",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2. If there is a Climax(es) among those cards, this turn, this gets +1000 power and +1 Soul."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230117_si11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Karen",
+        "code": "HBR/W103-T03",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Seraph> character from your Waiting Room, add it to hand, then choose 1 of your other <Seraph> characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220116_wi06.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Tsukasa",
+        "code": "HBR/W103-T04",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your opponent's characters get \"AUTO - ENCORE (2)\"",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to your empty Front Row Center Slot."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220116_wi05.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Tsukasa",
+        "code": "HBR/W103-T05",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your characters, this turn, it gets +2500 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220116_wi07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Tama",
+        "code": "HBR/W103-T06",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if you have an <Seraph> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "ACT - BACKUP +1000"
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230118_ad06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Megumi",
+        "code": "HBR/W103-T07",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Seraph> characters, this gets +2000 power.",
+            "AUTO - ACCELERATE [(1) Put 1 <Seraph> character from your Waiting Room on the bottom of your Clock] When this is placed on stage from hand, you may pay cost. if you do, search your deck for up to 1 <Seraph> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220113_kn07.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Yuki",
+        "code": "HBR/W103-T08",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If you have 2 or more other <Seraph> characters, this gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - When this attacks, choose 1 of your other <Seraph> characters, this turn, it gets +X power. X equals that character's Soul times 1000."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220112_hc06.png",
+        "community": true
+    },
+    {
+        "name": "1/0 Ruka",
+        "code": "HBR/W103-T09",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <Seraph> characters, this turn, it gets +X power. X equals the number of your other <Seraph> characters times 500.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Door CX (T13) in the Climax Area, mill 2, then choose up to 1 Level X or lower <Seraph> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect. "
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220110_hb14.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Karen",
+        "code": "HBR/W103-T10",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, if you have 4 or more other <Seraph> characters, this gets +5000 power, and gains the following ability: \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+            "AUTO - When this attacks, reveal the top card of your deck. If that card is a <Seraph> character, you may deal 1 damage to your opponent."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230117_si09.png",
+        "community": true
+    },
+    {
+        "name": "1/1 Event",
+        "code": "HBR/W103-T11",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Event",
+        "color": "",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Search your deck for up to 1 <Seraph> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. Send this to Memory."
+        ],
+        "attributes": [],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220112_hc07.png",
+        "community": true
+    },
+    {
+        "name": "Level 1 or Lower Stock Soul CX",
+        "code": "HBR/W103-T12",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T12",
+        "image": "https://i.imgur.com/oBAaILz.png?1",
+        "community": true
+    },
+    {
+        "name": "Door CX",
+        "code": "HBR/W103-T13",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Climax",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T13",
+        "image": "https://i.imgur.com/nZmONiA.png?1",
+        "community": true
+    },
+    {
+        "name": "0/0 Yuki",
+        "code": "HBR/W103-T14",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - All of your other {TD 3/2 Ruka - T21} and {0/0 Vanilla Ruka - T18} gets +1000 power.",
+            "AUTO - BOND [Discard 1 card] to {TD 3/2 Ruka - T21} or {0/0 Vanilla Ruka - T18}"
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220111_kn11.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Megumi",
+        "code": "HBR/W103-T15",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - During your turn, all of your other <Seraph> characters get +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230118_ad07.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Tama",
+        "code": "HBR/W103-T16",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <Seraph> characters, you may draw 1 card, if you do, discard 1 card.",
+            "AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230118_ad08.png",
+        "community": true
+    },
+    {
+        "name": "0/0 Megumi",
+        "code": "HBR/W103-T17",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Seraph> character, this turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220113_kn09.png",
+        "community": true
+    },
+    {
+        "name": "(NAME NOT FOUND)",
+        "code": "HBR/W103-T18",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "(UNKNOWN)",
+        "color": "",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [],
+        "attributes": [],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220111_kn10.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Tsukasa",
+        "code": "HBR/W103-T19",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20230117_si10.png",
+        "community": true
+    },
+    {
+        "name": "2/1 Yuki",
+        "code": "HBR/W103-T20",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONT - If the Level of the character across from this is 3 or higher, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Seraph> characters times 1000."
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220111_kn30.png",
+        "community": true
+    },
+    {
+        "name": "3/2 Ruka",
+        "code": "HBR/W103-T21",
+        "rarity": "TD",
+        "expansion": "Heaven Burns Red",
+        "side": "W",
+        "type": "Character",
+        "color": "",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power, then choose 1 of the following 2 effects and resolve it:",
+            "a) \" Look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <Seraph> characters.\"",
+            "b) \"[Discard 1 card] You may pay cost. If you do, put the top card of your Clock into Stock.\""
+        ],
+        "attributes": [
+            "Seraph",
+            "31A Unit"
+        ],
+        "set": "HBR",
+        "release": "W103",
+        "sid": "T21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/today_card/20220111_kn08.png",
+        "community": true
+    }
+]

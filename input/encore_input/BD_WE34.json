@@ -1,0 +1,2696 @@
+[
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたの手札が4枚以上なら、そのターン中、このカードのパワーを＋3000。"
+                ],
+                "name": "\"いつも自信満々\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970ead",
+        "sid": "T12",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T12",
+        "imagepath": "JP/WE34/T12.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「\"ネガティブガール\"倉田ましろ」の枚数に等しい。"
+                ],
+                "name": "普通カモフラージュ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eb2",
+        "sid": "T18",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "EV",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T18",
+        "imagepath": "JP/WE34/T18.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。"
+                ],
+                "name": "\"傑作完成！\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60bd4db88e722f776d970eb4",
+        "sid": "T05",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T05",
+        "imagepath": "JP/WE34/T05.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+                ],
+                "name": "傑作完成！"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "_id": "60bd4db88e722f776d970eb5",
+        "sid": "T07",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T07",
+        "imagepath": "JP/WE34/T07.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたの、「\"頼れる委員長\"桐ヶ谷透子」と「\"頼れる委員長\"倉田ましろ」すべてに、パワーを＋1000。",
+                    "【自】 絆／「\"頼れる委員長\"桐ヶ谷透子」「\"頼れる委員長\"倉田ましろ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"頼れる委員長\"桐ヶ谷透子」か「\"頼れる委員長\"倉田ましろ」を1枚選び、手札に戻す）"
+                ],
+                "name": "\"頼れる委員長\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eb0",
+        "sid": "T08",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T08",
+        "imagepath": "JP/WE34/T08.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から3枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+                    "【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+                ],
+                "name": "\"青空に見えた星\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60bd4db88e722f776d970eb6",
+        "sid": "T17",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T17",
+        "imagepath": "JP/WE34/T17.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "\"ふふん、任せて！\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eb7",
+        "sid": "T10",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T10",
+        "imagepath": "JP/WE34/T10.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×3000に等しい。"
+                ],
+                "name": "\"才能と見切り\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60bd4db88e722f776d970eb8",
+        "sid": "T15",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T15",
+        "imagepath": "JP/WE34/T15.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+                ],
+                "name": "\"一目置かれる存在\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eb9",
+        "sid": "T09",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T09",
+        "imagepath": "JP/WE34/T09.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+                ],
+                "name": "輝き、ふたたび"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "DRAW"
+        ],
+        "_id": "60bd4db88e722f776d970eba",
+        "sid": "T19",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T19",
+        "imagepath": "JP/WE34/T19.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+                    "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "\"選ばなかった道\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970ebb",
+        "sid": "T11",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T11",
+        "imagepath": "JP/WE34/T11.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[SOUL]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+                ],
+                "name": "Morfonica"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "_id": "60bd4db88e722f776d970ebc",
+        "sid": "T20",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T20",
+        "imagepath": "JP/WE34/T20.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+                    "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"青空に見えた星\"倉田ましろ」を1枚選び、このカードがいた枠に置く。"
+                ],
+                "name": "\"才能と見切り\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60bd4db88e722f776d970ebd",
+        "sid": "T16",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T16",
+        "imagepath": "JP/WE34/T16.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+                ],
+                "name": "\"頼れる委員長\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eaf",
+        "sid": "T02",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T02",
+        "imagepath": "JP/WE34/T02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「輝き、ふたたび」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "\"ネガティブガール\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970ebe",
+        "sid": "T13",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T13",
+        "imagepath": "JP/WE34/T13.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+                    "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+                ],
+                "name": "\"学園の人気者\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eac",
+        "sid": "T04",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T04",
+        "imagepath": "JP/WE34/T04.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+                    "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "\"広がる景色\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eb1",
+        "sid": "T01",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T01",
+        "imagepath": "JP/WE34/T01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
+                ],
+                "name": "\"普通が一番\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970eae",
+        "sid": "T03",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T03",
+        "imagepath": "JP/WE34/T03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+                ],
+                "name": "\"みんなにお披露目！\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60bd4db88e722f776d970eb3",
+        "sid": "T06",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T06",
+        "imagepath": "JP/WE34/T06.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "-"
+                ],
+                "name": "\"頼れる委員長\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60bd4db88e722f776d970ebf",
+        "sid": "T14",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "TD",
+        "cardcode": "BD/WE34-T14",
+        "imagepath": "JP/WE34/T14.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのソウルを＋1。",
+                    "【自】［(4)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に同じダメージを与えてよい。』（ダメージキャンセルは発生する）"
+                ],
+                "name": "\"Summerly Tone♪\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d14c",
+        "sid": "04",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "BD/WE34-04",
+        "imagepath": "JP/WE34/04.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《RAISE A SUILEN》のキャラを1枚まで選び、手札に戻す。"
+                ],
+                "name": "\"THE DEPTHS\"パレオ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d151",
+        "sid": "31",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-31",
+        "imagepath": "JP/WE34/31.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+                ],
+                "name": "\"Summerly Tone♪\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d15c",
+        "sid": "35",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "BD/WE34-35",
+        "imagepath": "JP/WE34/35.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+                    "【自】 アンコール ［(1) あなたの舞台のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+                ],
+                "name": "新しいステージへ ロック"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d163",
+        "sid": "23",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-23",
+        "imagepath": "JP/WE34/23.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。"
+                ],
+                "name": "\"Morfonica\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d167",
+        "sid": "48",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-48",
+        "imagepath": "JP/WE34/48.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】［手札の《音楽》のキャラを2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。",
+                    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+                ],
+                "name": "\"Daylight\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d16d",
+        "sid": "39",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-39",
+        "imagepath": "JP/WE34/39.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。（公開したカードは元に戻す）",
+                    "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+                ],
+                "name": "\"Rausch und/and Craziness Ⅱ\"パレオ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d174",
+        "sid": "27",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "BD/WE34-27",
+        "imagepath": "JP/WE34/27.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+                    "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Daylight\"桐ヶ谷透子」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
+                    "【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+                ],
+                "name": "\"Morfonica\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d149",
+        "sid": "06",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-06",
+        "imagepath": "JP/WE34/06.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+                    "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の左のキャラのいない枠に動かしてよい。（1番左の枠にしか動かせない）"
+                ],
+                "name": "\"Daylight\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d14e",
+        "sid": "05",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-05",
+        "imagepath": "JP/WE34/05.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【起】［手札を2枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルの《音楽》のキャラを1枚選び、このカードがいた枠に置く。",
+                    "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+                ],
+                "name": "\"Astral Harmony\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d153",
+        "sid": "26",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "BD/WE34-26",
+        "imagepath": "JP/WE34/26.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+                    "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Summerly Tone♪\"八潮瑠唯」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+                ],
+                "name": "\"Daylight\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d156",
+        "sid": "41",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-41",
+        "imagepath": "JP/WE34/41.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分の《Morfonica》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+                    "【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+                ],
+                "name": "\"Summerly Tone♪\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d15e",
+        "sid": "30",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-30",
+        "imagepath": "JP/WE34/30.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+                    "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
+                ],
+                "name": "\"音は嘘つかねえ\"マスキング"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d165",
+        "sid": "18",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-18",
+        "imagepath": "JP/WE34/18.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+                ],
+                "name": "\"ドラム担当\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d168",
+        "sid": "43",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-43",
+        "imagepath": "JP/WE34/43.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "Beautiful Birthday"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "60df535e8388fa6f9773d16b",
+        "sid": "24",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "BD/WE34-24",
+        "imagepath": "JP/WE34/24.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【起】［このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、ストック置場に置く。"
+                ],
+                "name": "決戦は武道館 チュチュ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d16f",
+        "sid": "49",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-49",
+        "imagepath": "JP/WE34/49.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】［(2)］ このカードが手札から舞台に置かれた時、他のあなたの《RAISE A SUILEN》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+                ],
+                "name": "\"THE DEPTHS\"レイヤ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d171",
+        "sid": "15",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-15",
+        "imagepath": "JP/WE34/15.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の「押しかけ勧誘 チュチュ」1枚につき、このカードのパワーを＋2000。"
+                ],
+                "name": "押しかけ勧誘 パレオ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d176",
+        "sid": "44",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-44",
+        "imagepath": "JP/WE34/44.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+                    "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+                ],
+                "name": "メンバー紹介 パレオ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d178",
+        "sid": "47",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-47",
+        "imagepath": "JP/WE34/47.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+                    "【自】【CXコンボ】［手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「私達の音楽」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+                ],
+                "name": "\"Astral Harmony\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d148",
+        "sid": "01",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "RR",
+        "cardcode": "BD/WE34-01",
+        "imagepath": "JP/WE34/01.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+                    "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+                ],
+                "name": "\"ギター担当\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d14d",
+        "sid": "08",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-08",
+        "imagepath": "JP/WE34/08.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。",
+                    "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Morfonica\"桐ヶ谷透子」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+                ],
+                "name": "\"Daylight\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d152",
+        "sid": "07",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-07",
+        "imagepath": "JP/WE34/07.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+                    "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの《音楽》のキャラを1枚まで選び、このカードがいた枠に置く。"
+                ],
+                "name": "\"ヴァイオリン担当\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d155",
+        "sid": "36",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-36",
+        "imagepath": "JP/WE34/36.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《Poppin&#39;Party》か《RAISE A SUILEN》のキャラかイベントなら、あなたは他の自分の、《Poppin&#39;Party》か《RAISE A SUILEN》のキャラを1枚選び、そのターン中、パワーを＋3000。"
+                ],
+                "name": "夢を追いかけて ロック"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d159",
+        "sid": "20",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-20",
+        "imagepath": "JP/WE34/20.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の「押しかけ勧誘 パレオ」1枚につき、このカードのパワーを＋2000。"
+                ],
+                "name": "押しかけ勧誘 チュチュ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d15d",
+        "sid": "45",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-45",
+        "imagepath": "JP/WE34/45.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+                    "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+                ],
+                "name": "\"Astral Harmony\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d164",
+        "sid": "33",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-33",
+        "imagepath": "JP/WE34/33.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+                    "【自】［このカードを【レスト】する］ あなたが『加速』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+                ],
+                "name": "\"THE DEPTHS\"ロック"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d16a",
+        "sid": "14",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-14",
+        "imagepath": "JP/WE34/14.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 応援 このカードの前のあなたの《Morfonica》のキャラすべてに、パワーを＋1500。",
+                    "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Daylight\"八潮瑠唯」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+                ],
+                "name": "\"Summerly Tone♪\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d16e",
+        "sid": "34",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-34",
+        "imagepath": "JP/WE34/34.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+                    "【自】 このカードのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+                ],
+                "name": "最高のライブ レイヤ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d175",
+        "sid": "22",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-22",
+        "imagepath": "JP/WE34/22.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+                    "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+                ],
+                "name": "\"Summerly Tone♪\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d14b",
+        "sid": "02",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-02",
+        "imagepath": "JP/WE34/02.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 このカードのバトル中、相手はイベントを手札からプレイできない。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+                    "【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「Beautiful Birthday」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の山札を上から1枚見て、山札の上か下に置く。（ダメージキャンセルは発生する）"
+                ],
+                "name": "\"Rausch und/and Craziness Ⅱ\"レイヤ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d150",
+        "sid": "11",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "BD/WE34-11",
+        "imagepath": "JP/WE34/11.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 舞台のこのカードのレベルを－2。",
+                    "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+                ],
+                "name": "\"Morfonica\"広町七深"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d158",
+        "sid": "09",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "C",
+        "cardcode": "BD/WE34-09",
+        "imagepath": "JP/WE34/09.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+                ],
+                "name": "決勝のステージ マスキング"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d15b",
+        "sid": "21",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-21",
+        "imagepath": "JP/WE34/21.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+                    "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。"
+                ],
+                "name": "\"Morfonica\"八潮瑠唯"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d160",
+        "sid": "46",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 6000,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-46",
+        "imagepath": "JP/WE34/46.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+                    "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+                ],
+                "name": "\"Rausch und/and Craziness Ⅱ\"ロック"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d162",
+        "sid": "12",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-12",
+        "imagepath": "JP/WE34/12.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 他のあなたの前列の「\"Rausch und/and Craziness Ⅱ\"チュチュ」がいるなら、このカードのパワーを＋5500し、このカードは『【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］』を得る。",
+                    "【永】 他のあなたの「\"Rausch und/and Craziness Ⅱ\"チュチュ」すべてに、パワーを＋2000し、次の3つの能力を与える。『【永】 このカードは相手の効果に選ばれない。』『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+                ],
+                "name": "驚きの速さ パレオ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d166",
+        "sid": "40",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-40",
+        "imagepath": "JP/WE34/40.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+                    "【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+                    "【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+                ],
+                "name": "\"Rausch und/and Craziness Ⅱ\"チュチュ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d169",
+        "sid": "29",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "BD/WE34-29",
+        "imagepath": "JP/WE34/29.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、他のあなたのレベル0以下のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』",
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《音楽》のキャラの枚数に等しい。"
+                ],
+                "name": "MV撮影 ロック"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d170",
+        "sid": "17",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-17",
+        "imagepath": "JP/WE34/17.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+                    "【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台の好きな枠に置く。（そうでないなら元に戻す）"
+                ],
+                "name": "\"Morfonica\"二葉つくし"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d173",
+        "sid": "42",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "rarity": "C",
+        "cardcode": "BD/WE34-42",
+        "imagepath": "JP/WE34/42.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+                    "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+                ],
+                "name": "メンバー紹介 チュチュ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d177",
+        "sid": "37",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-37",
+        "imagepath": "JP/WE34/37.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
+                    "【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
+                ],
+                "name": "\"THE DEPTHS\"チュチュ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d179",
+        "sid": "32",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-32",
+        "imagepath": "JP/WE34/32.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《Morfonica》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+                ],
+                "name": "\"Astral Harmony\"桐ヶ谷透子"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d14a",
+        "sid": "03",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-03",
+        "imagepath": "JP/WE34/03.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+                ],
+                "name": "私達の音楽"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "CHOICE"
+        ],
+        "_id": "60df535d8388fa6f9773d14f",
+        "sid": "10",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "BD/WE34-10",
+        "imagepath": "JP/WE34/10.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+                ],
+                "name": "\"THE DEPTHS\"マスキング"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d154",
+        "sid": "16",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "rarity": "R",
+        "cardcode": "BD/WE34-16",
+        "imagepath": "JP/WE34/16.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+                ],
+                "name": "夢のひと押し"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "TREASURE"
+        ],
+        "_id": "60df535d8388fa6f9773d157",
+        "sid": "25",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "BD/WE34-25",
+        "imagepath": "JP/WE34/25.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [],
+                "ability": [
+                    "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+                    "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+                ],
+                "name": "Daylight"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "_id": "60df535d8388fa6f9773d15a",
+        "sid": "50",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CX",
+        "colour": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "rarity": "C",
+        "cardcode": "BD/WE34-50",
+        "imagepath": "JP/WE34/50.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+                    "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢のひと押し」があるなら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。』"
+                ],
+                "name": "\"Rausch und/and Craziness Ⅱ\"マスキング"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535d8388fa6f9773d15f",
+        "sid": "13",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "rarity": "R",
+        "cardcode": "BD/WE34-13",
+        "imagepath": "JP/WE34/13.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+                ],
+                "name": "\"Daylight\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535d8388fa6f9773d161",
+        "sid": "38",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-38",
+        "imagepath": "JP/WE34/38.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "Morfonica"
+                ],
+                "ability": [
+                    "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+                    "【自】【CXコンボ】［(2) このカードを思い出にする］ このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「Daylight」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、このカードがいた枠に置く。（バトルは発生しない）"
+                ],
+                "name": "\"Astral Harmony\"倉田ましろ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [
+            "SOUL"
+        ],
+        "_id": "60df535e8388fa6f9773d16c",
+        "sid": "28",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "rarity": "RR",
+        "cardcode": "BD/WE34-28",
+        "imagepath": "JP/WE34/28.gif",
+        "__v": 0
+    },
+    {
+        "locale": {
+            "EN": {
+                "attributes": [],
+                "ability": []
+            },
+            "NP": {
+                "attributes": [
+                    "音楽",
+                    "RAISE A SUILEN"
+                ],
+                "ability": [
+                    "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+                    "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+                ],
+                "name": "\"夢を撃ち抜く瞬間に！\"レイヤ"
+            }
+        },
+        "series": "60bd4d601e41dfffbde8734b",
+        "equivilantcard": null,
+        "trigger": [],
+        "_id": "60df535e8388fa6f9773d172",
+        "sid": "19",
+        "set": "BD",
+        "side": "W",
+        "release": "E34",
+        "lang": "JP",
+        "cardtype": "CH",
+        "colour": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "rarity": "U",
+        "cardcode": "BD/WE34-19",
+        "imagepath": "JP/WE34/19.gif",
+        "__v": 0
+    }
+]

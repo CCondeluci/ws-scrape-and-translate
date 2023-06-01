@@ -1,0 +1,3545 @@
+[
+    {
+        "name": "第２形態アーマードタイプ 小宮果穂",
+        "code": "ISC/S81-001",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "輝くランドセルはヒーローの証！\n今日も平和を守ってみせますっ！",
+        "ability": [
+            "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Climax that has the same name with the Climax in your Waiting Room and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card65282-large.jpg"
+    },
+    {
+        "name": "事務所。静寂。大輪の華 大崎甜花",
+        "code": "ISC/S81-002",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "ゆ、浴衣、着付けてもらったんだけど\n似合う、かな……？",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, if 「ハッピーの答えはどこに？」 is in your Climax Slot, you may pay the cost. If you did, perform the following Action. 『If your Clock has 3 or less cards, deal 3 Damage to opponent. If your Clock has 4 or more cards, deal 1 Damage to opponent, place up to 1 card from your top Clock into Waiting Room.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card65284-large.jpg"
+    },
+    {
+        "name": "スタンバイオッケー 大崎甘奈",
+        "code": "ISC/S81-003",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "えーっと、ここをこうして……\nよし、バッチリだよね☆",
+        "ability": [
+            "【C】If all your Characters are 《音楽》, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】RESONANCE [Reveal 1 「マイ・ピュア・ロマンス 桑山千雪」 from Hand] When this card attacks, if 「ハッピーの答えはどこに？」 is in your Climax Slot, and you have other 《音楽》 Character, you may pay the cost. If you did, choose 1 of your other Character and this card, during this turn, they gain the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card65287-large.jpg"
+    },
+    {
+        "name": "マイ・ピュア・ロマンス 桑山千雪",
+        "code": "ISC/S81-004",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "プロデューサーさん、\nどうか、今……この時間だけは——",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card65290-large.jpg"
+    },
+    {
+        "name": "金色の元気いっぱいガール 八宮めぐる",
+        "code": "ISC/S81-005",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "プロデューサー、\nわたしのことしっかり見ててねっ！",
+        "ability": [
+            "【C】EXPERIENCE If there is a Yellow card in your Level Slot, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] At the beginning of your Encore Step, if 「キャプテン★パンプキン」 is in your Climax Slot, and this card is at Front Row, and you have other 《音楽》 Character, and if there is no Character facing this card or the Character facing this card is REVERSE, you may pay the cost. If you did, search your Deck for up to 2 《音楽》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card65292-large.jpg"
+    },
+    {
+        "name": "マメ丸と一緒！ 小宮果穂",
+        "code": "ISC/S81-006",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マメ丸とは、小さいころからずっと一緒なんです！",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card65294-large.jpg"
+    },
+    {
+        "name": "キネマ・リリックで夢見て 八宮めぐる",
+        "code": "ISC/S81-007",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 2,
+        "flavor_text": "えへへー、見て見て！\nプロデューサーがいるからポップコーン大盛にしちゃった！",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【C】EXPERIENCE If your Level Slot has 3 or more Colours, this card gains the following Ability. 『【C】All your other Character gets +1000 Power.』",
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《音楽》 Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card65296-large.jpg"
+    },
+    {
+        "name": "バッドガールの羽ばたき 西城樹里",
+        "code": "ISC/S81-008",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "うわ、ちょっと！　待てって！",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock.",
+            "【A】【CXCOMBO】When this card attacks, if 「坂道だらけのこの街で」 is in your Climax Slot, during this turn, this card gets +5000 Power, reveal the top card of your Deck. If that card is a 《音楽》 Character, deal X Damage to opponent. (X is equal to that Character's Level. (Damage can be cancelled. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card65298-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 杜野凛世",
+        "code": "ISC/S81-009",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "スタッカート。ひかり、きみを通過して分光する",
+        "ability": [
+            "【C】All your other 《音楽》 Character gets +500 Power.",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character into Stock. If you did, place 1 card from opponent's bottom Stock into Waiting Room.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card65300-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 園田智代子",
+        "code": "ISC/S81-010",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "スタッカート。右の二の腕が不安なんて言わない",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《音楽》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card65302-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 有栖川夏葉",
+        "code": "ISC/S81-011",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "スタッカート。『きっと、なれるわ』",
+        "ability": [
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card65304-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 風野灯織",
+        "code": "ISC/S81-012",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "スタッカート。翼を得た。空を感じた。それから",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《音楽》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card65306-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 大崎甘奈",
+        "code": "ISC/S81-013",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 2,
+        "flavor_text": "スタッカート。キミと飛ぶ空はきっと晴れて",
+        "ability": [
+            "【C】If you have other Character with 「甜花」 in its name, this card gets +2000 Power, gains 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』.",
+            "【A】RESONANCE [Reveal 1 「マイ・ピュア・ロマンス 桑山千雪」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card65308-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 西城樹里",
+        "code": "ISC/S81-014",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "スタッカート。輝きを空へ返すように",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1500 Power, and gains 『【A】ENCORE [Place 1 《音楽》 Character from Hand into Waiting Room]』.",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《音楽》 Character x1000."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card65310-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 桑山千雪",
+        "code": "ISC/S81-015",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "スタッカート。曇ったら笑う、晴れても笑う",
+        "ability": [
+            "【C】If 「マイ・ピュア・ロマンス 桑山千雪」 is in your Clock, this card gets -1 Level in your Hand.",
+            "【C】All your other 《音楽》 Character gets +1500 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ちびアルストロメリア」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card65312-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 大崎甜花",
+        "code": "ISC/S81-016",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。気持ち、布が多い方",
+        "ability": [
+            "【C】All your other 《音楽》 Character gets +500 Power.",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +1 Level and +1000 Power. This card cannot STAND during your next Standby Phase."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card65314-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 風野灯織",
+        "code": "ISC/S81-017",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。うたかたの季節、うたかたの君",
+        "ability": [
+            "【A】[REST 1 of your other 《音楽》 Character] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card each from your Level Slot and Waiting Room, exchange them.",
+            "【A】When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card65316-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 杜野凛世",
+        "code": "ISC/S81-018",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。前髪よりも短い夏",
+        "ability": [
+            "【A】When a Climax is placed into your Climax Slot, during this turn, this card gets +1500 Power, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, place it into Stock. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card65318-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 有栖川夏葉",
+        "code": "ISC/S81-019",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。スポーティビキニもマストバイ",
+        "ability": [
+            "【C】For each of your other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When 「坂道だらけのこの街で」 is placed into your Climax Slot, if this card is at Front Row, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card65320-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 園田智代子",
+        "code": "ISC/S81-020",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。可愛さとはしゃぎやすさの両立",
+        "ability": [
+            "【C】Your other 《音楽》 Character at the Center Slot of Front Row gets +1500 Power.",
+            "【A】【CXCOMBO】[Place this card into Waiting Room] When 「常夏CLIMAX」 is placed into your Climax Slot, you may pay the cost. If you did, choose up to 1 「想ひいろは 杜野凛世」 from your Hand, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card65322-large.jpg"
+    },
+    {
+        "name": "ちび放課後クライマックスガールズ",
+        "code": "ISC/S81-021",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【COUNTER】If you have no 《音楽》 Character, you cannot play this card from Hand. You may choose 1 Climax from your Hand, place it into Waiting Room. If you did, choose 1 Character in battle, during this turn, it gains the following Ability. 『【C】This card cannot deal any Damage to player.』"
+        ],
+        "attributes": [
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card65324-large.jpg"
+    },
+    {
+        "name": "ちびイルミネーションスターズ",
+        "code": "ISC/S81-022",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "Choose 1 of your Character, during this turn, it gets +1 Soul.",
+            "Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card65326-large.jpg"
+    },
+    {
+        "name": "ハッピーの答えはどこに？",
+        "code": "ISC/S81-023",
+        "rarity": "CR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "甜花「はい……！　花冠、できた……！\n――あぅ……花じゃない、けど……」",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card65328-large.jpg"
+    },
+    {
+        "name": "キャプテン★パンプキン",
+        "code": "ISC/S81-024",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "めぐる「行くよふたりともーっ」\n灯織「わ……っ、めぐる、危ないっ……」",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card65330-large.jpg"
+    },
+    {
+        "name": "坂道だらけのこの街で",
+        "code": "ISC/S81-025",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "樹里「確かにこの街、坂と階段ばっかだもんなー」\n夏葉「ええ、いいトレーニングスポットだわ」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card65332-large.jpg"
+    },
+    {
+        "name": "杜野凛世の印象派 杜野凛世",
+        "code": "ISC/S81-026",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "こん……こん……\n凛世は……こちらに——",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When 「常夏CLIMAX」 is placed into your Climax Slot, and you have 2 or more other 《音楽》 Character, during this turn, this card gets +2000 Power, until end of opponent's next turn, this card gains the following Ability. 『【A】When this card is being Front Attacked, you may return this card to Hand.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card65334-large.jpg"
+    },
+    {
+        "name": "オ♡フ♡レ♡コ 黛冬優子",
+        "code": "ISC/S81-027",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "プロデューサーさん、どうしたんですかぁ？\n——……ふふっ",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +2000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock.",
+            "【S】[REST this card] Look at up to 2 cards form your top Deck, place them on top Deck in any order."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card65336-large.jpg"
+    },
+    {
+        "name": "ストイックトレーニング 有栖川夏葉",
+        "code": "ISC/S81-028",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "…………",
+        "ability": [
+            "【C】All your other 《音楽》 Character gets +500 Power.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When your Character Trigger Checks a Climax, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card65338-large.jpg"
+    },
+    {
+        "name": "ラムネ色の覚悟 西城樹里",
+        "code": "ISC/S81-029",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "プロデューサー。アンタはさ、いつも……\nアタシのこと、考えてくれてるんだよな……",
+        "ability": [
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.",
+            "【A】When this card's dealt Damage is cancelled, you may place this card into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card65340-large.jpg"
+    },
+    {
+        "name": "ちょこ色×きらきらロマン 園田智代子",
+        "code": "ISC/S81-030",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "プロデューサーさんの手袋だからですかね、\n大きくてあったかいです……！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card65342-large.jpg"
+    },
+    {
+        "name": "閑話 樋口円香",
+        "code": "ISC/S81-031",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ごめん、やりすぎた",
+        "ability": [
+            "【C】RECOLLECTION If 「10個、光 浅倉 透」 is in your Memory, all your other 《音楽》 Character gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card65344-large.jpg"
+    },
+    {
+        "name": "かっとばし党の逆襲 浅倉 透",
+        "code": "ISC/S81-032",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "――それでバッティングセンター行くんだよね\nかっとばそうとか言って",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card65346-large.jpg"
+    },
+    {
+        "name": "アルティメットマーメイド 有栖川夏葉",
+        "code": "ISC/S81-033",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ご覧なさい\nこれが『大人の魅力』というものよ！",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card65348-large.jpg"
+    },
+    {
+        "name": "想ひいろは 杜野凛世",
+        "code": "ISC/S81-034",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "はい……智代子さんが……\n「恋のいろは」が、書かれていると",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】When this card is placed on Stage by 「リフレッシュサマー 園田智代子」's 【A】 effect, or when a Climax is placed into your Climax Slot, during this turn, all your Character gains the following Ability. 『【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining card into Waiting Room.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card65350-large.jpg"
+    },
+    {
+        "name": "ROOKIE! 市川雛菜",
+        "code": "ISC/S81-035",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 2,
+        "flavor_text": "あは～　怒られちゃった～！\nごめんなさい～！",
+        "ability": [
+            "【C】All your other 「クリアマリンカーム 浅倉 透」 and 「パーティーのやくそく 福丸小糸」 gets +1000 Power.",
+            "【C】SUPPORT SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】During opponent's turn, when the Damage you received is not cancelled, look at the top card of your Deck, place it on top Deck or Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card65352-large.jpg"
+    },
+    {
+        "name": "ちょっとあげる～ 和泉愛依",
+        "code": "ISC/S81-036",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "ん～？ プロデューサーもわけて欲しい系～？",
+        "ability": [
+            "【C】All your other 「さかさま世界 芹沢あさひ」 gains the following Ability. 『【A】When this card attacks, you may look at the top card of your Deck. If you did, place it under this card face-down as Marker.』",
+            "【C】All your other 《音楽》 Character gets +1500 Power.",
+            "【A】【CXCOMBO】When this card is placed on Stage from Hand or by 『CHANGE』, choose up to 1 「プレゼン・バトン！」 from your Waiting Room, return it to Hand, choose 1 of your 《音楽》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card65354-large.jpg"
+    },
+    {
+        "name": "純真チョコレート 園田智代子",
+        "code": "ISC/S81-037",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "せっかく待ってくれてる人がいるので、\n見た人が少しでも笑顔になるものをアップしたいですから",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】During your turn, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card65356-large.jpg"
+    },
+    {
+        "name": "パーティーのやくそく 福丸小糸",
+        "code": "ISC/S81-038",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "ど、どこに貼ろうかな……！\nこ、こっちかな……！　そっちかな……！",
+        "ability": [
+            "【C】If you have other 《音楽》 Character in REST, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2) Place 1 card from Hand into Waiting Room] At the beginning of your Encore Step, if 「きせつはアイスクリン」 is in your Climax Slot, and this card is at Front Row, and you have 2 or more other 《音楽》 Character, you may pay the cost. If you did, deal 1 Damage to opponent, search your Deck for up to 2 《音楽》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card65358-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 芹沢あさひ",
+        "code": "ISC/S81-039",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "スタッカート。空から探そう！　楽しいこと！",
+        "ability": [
+            "【C】If this card has Marker, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《音楽》 Character, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card65360-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 浅倉 透",
+        "code": "ISC/S81-040",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "スタッカート。４Kなんかじゃ、追いつかない",
+        "ability": [
+            "【C】If you have other 《音楽》 Character in REST, this card gets +1 Level and +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, both player perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards except for those chosen cards from Memory into Waiting Room.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card65362-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 市川雛菜",
+        "code": "ISC/S81-041",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "スタッカート。しあわせの海は空にあるの？",
+        "ability": [
+            "【C】RECOLLECTION If 「ちびノクチル」 is in your Memory, this card gains the following Ability. 『【S】[REST this card] Choose 1 of your 《音楽》 Character, during this turn, it gets +2000 Power.』",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ちびノクチル」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card65364-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 樋口円香",
+        "code": "ISC/S81-042",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "スタッカート。これからよろしくね！",
+        "ability": [
+            "【A】At the beginning of opponent's Attack Phase, you may place the top card of your Deck into Waiting Room. If that card is a 《音楽》 Character, you may move this card to an empty slot at Front Row."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card65366-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 小宮果穂",
+        "code": "ISC/S81-043",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "スタッカート。たくさんの色は、強い",
+        "ability": [
+            "【C】During your turn, your other Character at the Center Slot of Front Row gets +1000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card65368-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 和泉愛依",
+        "code": "ISC/S81-044",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "スタッカート。なんかキラキラしててよくない？",
+        "ability": [
+            "【C】For each Marker under this card, this card gets +1500 Power.",
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1500 Power, and gains the following Ability. 『【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card.』",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「なるんじゃん？」 is in your Climax Slot, choose up to 1 「さかさま世界 芹沢あさひ」 from your Waiting Room, return it to Hand, choose up to 1 《音楽》 Character from your Waiting Room, place it under this card face-down as Marker."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card65370-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 小宮果穂",
+        "code": "ISC/S81-045",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。対夏専用　フル装備",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《音楽》 Character x500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card65372-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 黛冬優子",
+        "code": "ISC/S81-046",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。夢見る乙女のフリで夢見る",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card65374-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 福丸小糸",
+        "code": "ISC/S81-047",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。跣に痛いくらいの熱",
+        "ability": [
+            "【C】SUPPORT All your 《音楽》 Character gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When your other 《音楽》 Character or this card is placed on Stage from Hand, you may look at the top card of your Deck. (Return looked card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card65376-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 西城樹里",
+        "code": "ISC/S81-048",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。夏飛沫、弾ければ",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock.』",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card65378-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 芹沢あさひ",
+        "code": "ISC/S81-049",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "マジックアワー。夏の君もアクティブ",
+        "ability": [
+            "【C】For each of your other 《音楽》 Character at Back Row, this card gets +2000 Power.",
+            "【A】When this card is placed into Waiting Room from Stage, you may choose 1 of your 「さかさま世界 芹沢あさひ」, place this card under that card face-down as Marker.",
+            "【A】CHANGE [(1) Place 1 card from Hand into Waiting Room, place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「さかさま世界 芹沢あさひ」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card65380-large.jpg"
+    },
+    {
+        "name": "常夏CLIMAX",
+        "code": "ISC/S81-050",
+        "rarity": "CR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "一同「きゃ～～～～～～っ！！」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card65382-large.jpg"
+    },
+    {
+        "name": "なるんじゃん？",
+        "code": "ISC/S81-051",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あさひ「わたしは、今日来てくれたみんなのこと、\n後悔させないっすよ」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card65384-large.jpg"
+    },
+    {
+        "name": "きせつはアイスクリン",
+        "code": "ISC/S81-052",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "小糸「と、透ちゃんいいの！？　お部屋の中でこんな……！」",
+        "ability": [
+            "【A】When this card is placed into your Climax Slot from Hand, choose up to 1 Character with Level 1 or lower from your Waiting Room, place it into Stock, during this turn, all your Character gets +1 Soul."
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card65386-large.jpg"
+    },
+    {
+        "name": "ジャンプ！スタッグ！！！ 芹沢あさひ",
+        "code": "ISC/S81-053",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "もう少しで……えいっ！",
+        "ability": [
+            "【C】During your turn, if this card has Marker, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《音楽》 Character, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card65388-large.jpg"
+    },
+    {
+        "name": "ばりうまかブルース 月岡恋鐘",
+        "code": "ISC/S81-054",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "うちのいいとこ詰まっとるけん\n美味しかって言ってよね！",
+        "ability": [
+            "【C】If you have 4 or more 《音楽》 Character, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if you have 2 or more other 《音楽》 Character, this card gets +2000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the bottom card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card65390-large.jpg"
+    },
+    {
+        "name": "ほわっとスマイル 櫻木真乃",
+        "code": "ISC/S81-055",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私がアイドル……想像しただけで\n体がほわほわしちゃいますっ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】At the beginning of your Attack Phase, if 「はじまりのエピローグ」 is in your Climax Slot, and this card is at Front Row, and you have 2 or more other 《音楽》 Character, choose and perform 1 of the following 2 effects.",
+            "『Choose up to 1 of your other 《音楽》 Character, STAND it, choose up to 2 of your Character, during this turn, they gets +1 Soul.』",
+            "『Deal 1 Damage to opponent, during this turn, this card gets +1000 Power.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card65392-large.jpg"
+    },
+    {
+        "name": "似合うかな？ 大崎甘奈",
+        "code": "ISC/S81-056",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "おっ！　プロデューサーさんがそう言ってくれるなら\nこれもチェックしておこうかな！",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gets +500 Power.",
+            "【S】RESONANCE [(1) Reveal 1 「マイ・ピュア・ロマンス 桑山千雪」 from Hand, REST this card] Look at up to 3 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card65394-large.jpg"
+    },
+    {
+        "name": "包・帯・組・曲 幽谷霧子",
+        "code": "ISC/S81-057",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "痛いのさん……飛んでいけ……！",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card65396-large.jpg"
+    },
+    {
+        "name": "ナチュラルモード 櫻木真乃",
+        "code": "ISC/S81-058",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "すごい……とっても綺麗です！",
+        "ability": [
+            "【C】EXPERIENCE If there is a Yellow card in your Level Slot, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card65398-large.jpg"
+    },
+    {
+        "name": "ザ・冬優子イズム 黛冬優子",
+        "code": "ISC/S81-059",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "こんなとこで大声で呼んだら、\nふゆがいるってバレちゃうでしょ！",
+        "ability": [
+            "【C】During your turn, all your other 《音楽》 Character gets +500 Power.",
+            "【C】When you pay cost for your Character's 『CHANGE』, you may place 1 Marker from this card into Waiting Room instead of 1 Stock.",
+            "【A】When this card is placed on Stage from Hand or by 『CHANGE』, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card65400-large.jpg"
+    },
+    {
+        "name": "ばってん長崎恋岬 月岡恋鐘",
+        "code": "ISC/S81-060",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "んふふー♪　これくらい朝飯前たい！",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「SIDE：K」 is in your Climax Slot, and you have other 《音楽》 Character, place 2 cards from your top Deck into Waiting Room, choose up to 1 《音楽》 Character with Level X or lower, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card65402-large.jpg"
+    },
+    {
+        "name": "お試し／みつゴコロ 三峰結華",
+        "code": "ISC/S81-061",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "こういうの、恋人同士～って感じがしない？\n——ね、プロデューサーはどう思う？",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 『SHIFT』, during this turn, this card gains the following Ability. 『【A】At the beginning of your Attack Phase, choose up to 2 of your Character, during this turn, they gain the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card65404-large.jpg"
+    },
+    {
+        "name": "マイフェイバリット 桑山千雪",
+        "code": "ISC/S81-062",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "わぁ！　見てください\n可愛い小物がたくさんあります～！",
+        "ability": [
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】RESONANCE [Reveal 1 「マイ・ピュア・ロマンス 桑山千雪」 from Hand] When 「トキ・メキ・タコさん」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《音楽》 Character, you may pay the cost. If you did, choose 1 of your other 《音楽》 Character, STAND it."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card65406-large.jpg"
+    },
+    {
+        "name": "霧・音・燦・燦 幽谷霧子",
+        "code": "ISC/S81-063",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "赤……青……緑……\nふふ……聴こえます……――",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 4 or more 《音楽》 Character, at the beginning of your Main Phase, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card65408-large.jpg"
+    },
+    {
+        "name": "秘密のだらだらタイム 大崎甜花",
+        "code": "ISC/S81-064",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "え……え……？　レッスンは、明日じゃ……\n確か……スマホにも、登録……",
+        "ability": [
+            "【C】If you have other Character with 「甘奈」 in its name, this card gets +3000 Power.",
+            "【A】RESONANCE [Place 1 《音楽》 Character from Hand into Waiting Room, reveal 1 「マイ・ピュア・ロマンス 桑山千雪」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card65410-large.jpg"
+    },
+    {
+        "name": "気になる！？染めちゃう！？ 和泉愛依",
+        "code": "ISC/S81-065",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "この辺だって～\n周りと色違って見えるっしょ～？",
+        "ability": [
+            "【A】CHANGE [(2) Place 1 card from Hand into Waiting Room, place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「ちょっとあげる～ 和泉愛依」 from your Waiting Room, place it into this card's previous slot on Stage.",
+            "【S】[REST 2 of your Character] Choose 1 of your 《音楽》 Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may choose 1 《音楽》 Character from your Waiting Room, place it into Stock.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card65412-large.jpg"
+    },
+    {
+        "name": "さかさま世界 芹沢あさひ",
+        "code": "ISC/S81-066",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ほら、プロデューサーさんも！　一緒にやるっす！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or by 『CHANGE』, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] At the end of this card's attack, if 「プレゼン・バトン！」 is in your Climax Slot, you may pay the cost. If you did, place all Marker from this card into Waiting Room, deal X Damage to opponent. X is equal to the number of cards placed into Waiting Room by this effect. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card65414-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 白瀬咲耶",
+        "code": "ISC/S81-067",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "スタッカート。この空の下で歌う",
+        "ability": [
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in Clock, exchange them)",
+            "【S】CONCENTRATION ［(1)］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Choose 1 《音楽》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card65416-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 黛冬優子",
+        "code": "ISC/S81-068",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "スタッカート。足りないでしょう？",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character.",
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「ザ・冬優子イズム 黛冬優子」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card65418-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 田中摩美々",
+        "code": "ISC/S81-069",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "スタッカート。少しでも遠くへなんてね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《音楽》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《音楽》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card65420-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 大崎甜花",
+        "code": "ISC/S81-070",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "スタッカート。虹色、君にも",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if all your Character are 《音楽》, you may place the top card of your Deck into Stock.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card65422-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 八宮めぐる",
+        "code": "ISC/S81-071",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "スタッカート。ねぇ、どんな色が見えてる？",
+        "ability": [
+            "【A】［(1) Place 1 of your Character from Stage into Waiting Room］ When you use this card's 『ASSIST』, if you have 4 or more 《音楽》 Character, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Stock.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card65424-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 三峰結華",
+        "code": "ISC/S81-072",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "スタッカート。私は雨上がりの空で踊る",
+        "ability": [
+            "【A】[Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gets +4500 Power.",
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card65426-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 桑山千雪",
+        "code": "ISC/S81-073",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。海にこぼれるきらめきの色",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「マイ・ピュア・ロマンス 桑山千雪」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card65428-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 和泉愛依",
+        "code": "ISC/S81-074",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。風よ、さらわないで",
+        "ability": [
+            "【C】All your other 《音楽》 Character gets +500 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card65430-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 八宮めぐる",
+        "code": "ISC/S81-075",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。太陽さえ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ちびイルミネーションスターズ」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card65432-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 白瀬咲耶",
+        "code": "ISC/S81-076",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。海と落ち合い、ひと夏、デートへ",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「秘めやかファンサービス 白瀬咲耶」, place it into any slot on Stage, shuffle your Deck afterwards.",
+            "【A】When your other 《音楽》 Character attacks, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card65434-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 大崎甘奈",
+        "code": "ISC/S81-077",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。遊ぼう太陽がリボン色になるまで",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have no other 《音楽》 Character, place this card into Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card65436-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 田中摩美々",
+        "code": "ISC/S81-078",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。流れる汗がキレイに見えた",
+        "ability": [
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 4 or more 《音楽》 Character, at the beginning of your Climax Phase, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card65438-large.jpg"
+    },
+    {
+        "name": "ちびアルストロメリア",
+        "code": "ISC/S81-079",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONCENTRATION Flip the top 3 cards of your Deck, place them into Waiting Room. Choose 1 《音楽》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the number of 《音楽》 Character among those cards."
+        ],
+        "attributes": [
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card65440-large.jpg"
+    },
+    {
+        "name": "ちびストレイライト",
+        "code": "ISC/S81-080",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose and perform 1 of the following 2 effect.",
+            "『Choose 1 《音楽》 Character from your Waiting Room, return it to Hand, choose 1 of your Character, during this turn, it gets +2000 Power.』",
+            "『You may choose 1 of your Character, place it into Waiting Room. If you did, choose up to 1 《音楽》 Character with Level same or lower than your Level, place it into any slot on Stage.』"
+        ],
+        "attributes": [
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card65442-large.jpg"
+    },
+    {
+        "name": "はじまりのエピローグ",
+        "code": "ISC/S81-081",
+        "rarity": "CR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "真乃「乾杯……――！」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card65444-large.jpg"
+    },
+    {
+        "name": "SIDE：K",
+        "code": "ISC/S81-082",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "結華「おっと、じゃあ三峰たちもキメなきゃ」\n霧子「うん……！」\n摩美々「もうやってる―」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card65446-large.jpg"
+    },
+    {
+        "name": "トキ・メキ・タコさん",
+        "code": "ISC/S81-083",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "甘奈「タコさん、まだまだあるからねっ\nはいっ、どうぞ☆」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card65448-large.jpg"
+    },
+    {
+        "name": "プレゼン・バトン！",
+        "code": "ISC/S81-084",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あさひ「――ふっ、冬優子ちゃんっ……！\nはぁっ…………パスっす……！」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card65450-large.jpg"
+    },
+    {
+        "name": "柔らかな微笑み 風野灯織",
+        "code": "ISC/S81-085",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "この道の先には……いったい何があるんでしょうか？",
+        "ability": [
+            "【A】EXPERIENCE At the beginning of your Climax Phase, choose X amount of your 《音楽》 Character, during this turn, they gets +500 Power. X is equal to the number of Colours in your Level Slot.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card65452-large.jpg"
+    },
+    {
+        "name": "10個、光 浅倉 透",
+        "code": "ISC/S81-086",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "昼光ってるものって、\n見えないんだね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -500 Power.",
+            "【S】[(1) Send this card to Memory] Look at up to 3 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card65454-large.jpg"
+    },
+    {
+        "name": "カラカラカラ 樋口円香",
+        "code": "ISC/S81-087",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "嫌、近づかないで\n——さようなら",
+        "ability": [
+            "【C】If you have other 《音楽》 Character in REST, this card gets +1000 Power.",
+            "【A】【CXCOMBO】RECOLLECTION When this card attacks, if 「游魚」 is in your Climax Slot, and 「10個、光 浅倉 透」 is in your Memory, you may choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card65456-large.jpg"
+    },
+    {
+        "name": "トリッキーナイト 田中摩美々",
+        "code": "ISC/S81-088",
+        "rarity": "RR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ふふー。私を待たせるなんてー\n覚悟しておいてくださいねー",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the bottom card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1) Place 1 《音楽》 Character from Hand into Waiting Room] When this card attacks, if 「デタラメハッシュタグ」 is in your Climax Slot, you may pay the cost. If you did, reveal 6 cards from your top Deck, shuffle your Deck afterwards, deal X Damage to opponent. X is equal to the total number of cards with 『ALARM』 or 『SHIFT』. (Damage can be cancelled. Return revealed card to its original position)",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card65458-large.jpg"
+    },
+    {
+        "name": "秘めやかファンサービス 白瀬咲耶",
+        "code": "ISC/S81-089",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "キミみたいな可憐な子に喜んでもらえるだなんて……\n本当にうれしいよ",
+        "ability": [
+            "【C】During your turn, all your other 「トリッキーナイト 田中摩美々」 and 「紺碧のボーダーライン 白瀬咲耶」 gets +2000 Power.",
+            "【A】[(1) REST this STAND card] When you use 『SHIFT』, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card65460-large.jpg"
+    },
+    {
+        "name": "裏腹あまのじゃく 田中摩美々",
+        "code": "ISC/S81-090",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "どうしたんですかぁ？\nなんだかすごく慌ててたみたいですケド",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 『SHIFT』, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【S】[(1) Place the top card of your Deck into Clock, REST this card] Search your Deck for up to 1 Character with 「恋鐘」 or 「摩美々」 or 「咲耶」 or 「結華」 or 「霧子」 in its name and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card65462-large.jpg"
+    },
+    {
+        "name": "カラフルメタモルフォーゼ 三峰結華",
+        "code": "ISC/S81-091",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "そうそう！　面白いでしょ～？\nこれをかけとけば、猫ちゃん２匹連れ歩けちゃうわけ！",
+        "ability": [
+            "【C】If you have no other 《音楽》 Character, this card cannot STAND during your Standby Phase.",
+            "【A】【CLOCK】ALARM If this card is on top Clock, at the beginning of your Climax Phase, choose 1 of your 《音楽》 Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to bottom Deck.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card65464-large.jpg"
+    },
+    {
+        "name": "ポシェットの中には 福丸小糸",
+        "code": "ISC/S81-092",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "え、えへへ……\n夢みたいですね、全部……！",
+        "ability": [
+            "【C】RECOLLECTION If your Memory has 2 or more cards, this card gets +2000 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card65466-large.jpg"
+    },
+    {
+        "name": "HAPPY-!NG 市川雛菜",
+        "code": "ISC/S81-093",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "楽しくてしあわせ～な時間は、\n現在進行形～～～♡",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character with Cost 0 or lower from your Waiting Room, place it into any slot on Stage, at the end of turn, send that Character to Memory.",
+            "【S】[REST 1 of your 《音楽》 Character] During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card65468-large.jpg"
+    },
+    {
+        "name": "紺碧のボーダーライン 白瀬咲耶",
+        "code": "ISC/S81-094",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ほら、こちらへおいでよ、プロデューサー!\n波も太陽も、すごく気持ちいいんだ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, until end of opponent's next turn, this card gets +4500 Power, gains the following Ability. 『【C】 During this card's battle, both players cannot play 『ASSIST』 from Hand.』",
+            "【A】【CLOCK】ALARM [Place 1 card from Hand into Waiting Room] If this card is on top Clock, and you Hand has 5 or more cards, at the beginning of your Main Phase, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 《音楽》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card65470-large.jpg"
+    },
+    {
+        "name": "手作りの心遣い 風野灯織",
+        "code": "ISC/S81-095",
+        "rarity": "R",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "プロデューサー。しっかり食べて、これからも\n私のプロデュースをしてください\n……あなたがいないと、困りますから",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, return it to Hand, during this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card65472-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 櫻木真乃",
+        "code": "ISC/S81-096",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "スタッカート。空を渡るいろたち",
+        "ability": [
+            "【C】EXPERIENCE If the total Level in your Level Slot is 1 or higher, this card gets +1000 Power, gains the following Ability. 『【A】[Place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「ナチュラルモード 櫻木真乃」 from your Waiting Room, place it into this card's previous slot on Stage.』",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent places that Character into any slot on Stage from Memory."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card65474-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 月岡恋鐘",
+        "code": "ISC/S81-097",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "スタッカート。ここは何度目の",
+        "ability": [
+            "【A】[Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ちびアンティーカ」 from your Waiting Room, return it to Hand.",
+            "【A】[(1)] When this card attacks, if your Clock has 4 or more cards, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card65476-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 幽谷霧子",
+        "code": "ISC/S81-098",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "スタッカート。まなうらにほら、赤橙黄緑霧藍紫",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, you draw 1 card.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《音楽》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card65478-large.jpg"
+    },
+    {
+        "name": "サンセットスカイパッセージ 福丸小糸",
+        "code": "ISC/S81-099",
+        "rarity": "U",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "スタッカート。明日もし羽が生えたら",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card65480-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 三峰結華",
+        "code": "ISC/S81-100",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。結って結んで、私じゃない私",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card65482-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 月岡恋鐘",
+        "code": "ISC/S81-101",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。夏色眼鏡で君を染めて",
+        "ability": [
+            "【A】When this card attacks, if a card with 『ALARM』 or 『SHIFT』 is on your top Clock, if this card's battle opponent's Level is higher than opponent's Level, during this turn, this card gets +6000 Power.",
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 3 or more 《音楽》 Character, at the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card65484-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 幽谷霧子",
+        "code": "ISC/S81-102",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マジックアワー。おいで、音を忘れた翅たち",
+        "ability": [
+            "【C】If you have other 「秘めやかファンサービス 白瀬咲耶」 at Back Row, this card gets +2000 Power.",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card65486-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 樋口円香",
+        "code": "ISC/S81-103",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。もぎたて♡にーちゅ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 「10個、光 浅倉 透」 from your Waiting Room, send it to Memory.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card65488-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 櫻木真乃",
+        "code": "ISC/S81-104",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。夏にほどけていくとりどりのいろ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card65490-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 市川雛菜",
+        "code": "ISC/S81-105",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "マジックアワー。夏は匂いだけ残してすぐに",
+        "ability": [
+            "【C】If you have other 《音楽》 Character in REST, this card gets +2000 Power.",
+            "【A】[Place this card into Waiting Room] When your other 《音楽》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card65492-large.jpg"
+    },
+    {
+        "name": "リフレッシュサマー 浅倉 透",
+        "code": "ISC/S81-106",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "マジックアワー。そういうこと",
+        "ability": [
+            "【C】RECOLLECTION If your Memory has 2 or more 《音楽》 Character, this card gets +4000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card65494-large.jpg"
+    },
+    {
+        "name": "ちびノクチル",
+        "code": "ISC/S81-107",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Send this card to Memory.",
+            "Reveal the top card of your Deck. If that card is a 《音楽》 Character or Event, add it to Hand. (If not, return revealed card to its original position)",
+            "【C】RECOLLECTION During your turn, if this card is in Memory, all your 《音楽》 Character gets +500 Power."
+        ],
+        "attributes": [
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card65496-large.jpg"
+    },
+    {
+        "name": "ちびアンティーカ",
+        "code": "ISC/S81-108",
+        "rarity": "C",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Both player place 3 cards from their top Deck into Waiting Room. If the number of your Character with Level 1 or lower placed into Waiting Room by this effect, is more than the number of opponent's Character with Level 0 or lower placed into Waiting Room by this effect, you may draw 1 card.",
+            "Place this card into Stock."
+        ],
+        "attributes": [
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card65498-large.jpg"
+    },
+    {
+        "name": "デタラメハッシュタグ",
+        "code": "ISC/S81-109",
+        "rarity": "CR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "恋鐘『うちらも出発!!!!!!!!!!!!!　早くうさちよかめになりたか～』\n霧子『真乃ちゃん、甜花ちゃん　待っててね＾＾』",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card65500-large.jpg"
+    },
+    {
+        "name": "游魚",
+        "code": "ISC/S81-110",
+        "rarity": "CC",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "透「おーい　花火じゃなくて、こっち見ろー」\n円香「こっち見ろー」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card65502-large.jpg"
+    },
+    {
+        "name": "輝く空へ 真乃&灯織&めぐる",
+        "code": "ISC/S81-111",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《音楽》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【A】When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card65504-large.jpg"
+    },
+    {
+        "name": "輝く空へ 恋鐘&摩美々&咲耶&結華&霧子",
+        "code": "ISC/S81-112",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your Character with Level 2 or higher, during this turn, it gets +3000 Power.",
+            "【A】【CLOCK】SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in Clock, exchange them)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "112",
+        "image": "https://images.littleakiba.com/tcg/card65505-large.jpg"
+    },
+    {
+        "name": "輝く空へ 果穂&智代子&樹里&凛世&夏葉",
+        "code": "ISC/S81-113",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If opponent's Climax Slot has a Climax, this card gets +2000 Power.",
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "113",
+        "image": "https://images.littleakiba.com/tcg/card65506-large.jpg"
+    },
+    {
+        "name": "輝く空へ 甘奈&甜花&千雪",
+        "code": "ISC/S81-114",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If the Character facing this card is Cost 0 or lower, this card cannot become REVERSE."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "114",
+        "image": "https://images.littleakiba.com/tcg/card65507-large.jpg"
+    },
+    {
+        "name": "輝く空へ あさひ&冬優子&愛依",
+        "code": "ISC/S81-115",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, send that Character to Memory.』",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "115",
+        "image": "https://images.littleakiba.com/tcg/card65508-large.jpg"
+    },
+    {
+        "name": "輝く空へ 透&円香&小糸&雛菜",
+        "code": "ISC/S81-116",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】RECOLLECTION When this card attacks, if your Memory has any cards, during this turn, this card gets +3000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "116",
+        "image": "https://images.littleakiba.com/tcg/card65509-large.jpg"
+    },
+    {
+        "name": "夢に向かって 真乃&灯織&めぐる",
+        "code": "ISC/S81-P01",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 EXPERIENCE If your Level Slot has 2 or more Colours, this card gets ＋500 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 When this card attacks, choose 1 of your other Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your 《音楽》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card65510-large.jpg"
+    },
+    {
+        "name": "夢に向かって 真乃&灯織&めぐる",
+        "code": "ISC/S81-P01S",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 EXPERIENCE If your Level Slot has 2 or more Colours, this card gets ＋500 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 When this card attacks, choose 1 of your other Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your 《音楽》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "illumination STARS 《イルミネーションスターズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P01S",
+        "image": "https://images.littleakiba.com/tcg/card65511-large.jpg"
+    },
+    {
+        "name": "夢に向かって 恋鐘&摩美々&咲耶&結華&霧子",
+        "code": "ISC/S81-P02",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CLOCK】 ALARM If this card is on top Clock, at the beginning of your Main Phase, you may choose 1 Character from your Waiting Room and this card, exchange them.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card65512-large.jpg"
+    },
+    {
+        "name": "夢に向かって 恋鐘&摩美々&咲耶&結華&霧子",
+        "code": "ISC/S81-P02S",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CLOCK】 ALARM If this card is on top Clock, at the beginning of your Main Phase, you may choose 1 Character from your Waiting Room and this card, exchange them.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "L'Antica 《アンティーカ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P02S",
+        "image": "https://images.littleakiba.com/tcg/card65513-large.jpg"
+    },
+    {
+        "name": "夢に向かって 果穂&智代子&樹里&凛世&夏葉",
+        "code": "ISC/S81-P03",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If this card is at the Center Slot of Front Row, this card gets ＋1 Soul.",
+            "【A】［(1) Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P03",
+        "image": "https://images.littleakiba.com/tcg/card65514-large.jpg"
+    },
+    {
+        "name": "夢に向かって 果穂&智代子&樹里&凛世&夏葉",
+        "code": "ISC/S81-P03S",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If this card is at the Center Slot of Front Row, this card gets ＋1 Soul.",
+            "【A】［(1) Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Houkago Climax Girls 《放課後クライマックスガールズ》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P03S",
+        "image": "https://images.littleakiba.com/tcg/card65515-large.jpg"
+    },
+    {
+        "name": "夢に向かって 甘奈&甜花&千雪",
+        "code": "ISC/S81-P04",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《音楽》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P04",
+        "image": "https://images.littleakiba.com/tcg/card65516-large.jpg"
+    },
+    {
+        "name": "夢に向かって 甘奈&甜花&千雪",
+        "code": "ISC/S81-P04S",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《音楽》 Character ×500."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Alstroemeria 《アルストロメリア》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P04S",
+        "image": "https://images.littleakiba.com/tcg/card65517-large.jpg"
+    },
+    {
+        "name": "夢に向かって あさひ&冬優子&愛依",
+        "code": "ISC/S81-P05",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to it original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P05",
+        "image": "https://images.littleakiba.com/tcg/card65518-large.jpg"
+    },
+    {
+        "name": "夢に向かって あさひ&冬優子&愛依",
+        "code": "ISC/S81-P05S",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to it original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Straylight 《ストレイライト》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P05S",
+        "image": "https://images.littleakiba.com/tcg/card65519-large.jpg"
+    },
+    {
+        "name": "夢に向かって 透&円香&小糸&雛菜",
+        "code": "ISC/S81-P06",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】RECOLLECTION If your Memory has 3 or more cards, this card gets ＋1000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P06",
+        "image": "https://images.littleakiba.com/tcg/card65520-large.jpg"
+    },
+    {
+        "name": "夢に向かって 透&円香&小糸&雛菜",
+        "code": "ISC/S81-P06S",
+        "rarity": "PR",
+        "expansion": "The iDOLM@STER Shiny Colors Booster Box",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】RECOLLECTION If your Memory has 3 or more cards, this card gets ＋1000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "noctchill 《ノクチル》"
+        ],
+        "set": "ISC",
+        "release": "S81",
+        "sid": "P06S",
+        "image": "https://images.littleakiba.com/tcg/card65521-large.jpg"
+    }
+]
