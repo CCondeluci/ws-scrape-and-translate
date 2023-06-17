@@ -3,7 +3,7 @@
 // imports
 const fs = require('fs');
 
-const setcode = "RSL_S69";
+const setcode = "TSK_S101";
 
 (async () => {
     let nvString = fs.readFileSync('./output/nova_output/' + setcode + '.json', 'utf8');

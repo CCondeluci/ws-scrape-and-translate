@@ -331,4 +331,9 @@ module.exports = [
     //     side: 'W',
     //     xpac: "Lycoris Recoil"
     // },
+    { 
+        code: "CSM_S96",
+        side: 'S',
+        xpac: "Chainsaw Man"
+    },
 ]

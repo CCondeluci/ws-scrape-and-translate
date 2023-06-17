@@ -116,5 +116,7 @@ module.exports = [
     // 'EN_BD_W95',
     // 'EN_SAO_S100',
     // 'EN_SHS_W71',
-    'EN_GRI_S72'
+    // 'EN_GRI_S72',
+    // 'EN_5HY_W101'
+    // 'EN_ATLA_WX04'
 ];

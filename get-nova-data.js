@@ -12,7 +12,7 @@ const JP_SETS = require('./set_lists/jp-sets');
     // go through all the sets
     for (let set of JP_SETS) {
         // read jk-parsed set from file
-        let nvString = fs.readFileSync('./output/jk_output_jp/' + set.code + '.json', 'utf8');
+        let nvString = fs.readFileSync('./output/skeleton_jp/' + set.code + '.json', 'utf8');
         let cards = JSON.parse(nvString);
         // new up a card list
         let nvCards = [];

@@ -64,6 +64,7 @@ module.exports.get = async (nv_card, count) => {
         card.level = parse(tableDataArr[5].data);
         card.cost = parse(tableDataArr[7].data);
         card.power = parse(tableDataArr[6].data);
+        card.soul = parse(tableDataArr[8].data);
         card.trigger = tableDataArr[10].data.toUpperCase();
         switch(card.trigger) {
             case '1 SOUL': // normal soul trigger
