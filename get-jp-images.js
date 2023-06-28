@@ -42,6 +42,8 @@ async function recursiveLookup (options, count) {
             cardImagePromiseArr.push(new Promise(async function (resolve, reject) {
                 // throttleboys
                 // await new Promise(resolve => setTimeout(resolve, 5000));
+
+                let file_code = card.code.replace('-','_').replace('/','_');
                     
                 // get the card image
                 var options = {
@@ -64,18 +66,18 @@ async function recursiveLookup (options, count) {
                     if (card.image.indexOf('https://ws-tcg.com/cardlist/cardimages') > -1) {
                         // bushi climaxes are already flipped, so just invert the card dimensions
                         if (card.type === 'Climax') {
-                            sharp(imgBuffer).resize(height, width).png().toFile('./images/' + card.side + card.release + '/' + card.code + '.jpg');
+                            sharp(imgBuffer).resize(height, width).png().toFile('./images/' + card.side + card.release + '/' + file_code + '.jpg');
                         } else {
-                            sharp(imgBuffer).resize(width, height).png().toFile('./images/' + card.side + card.release + '/' + card.code + '.jpg');
+                            sharp(imgBuffer).resize(width, height).png().toFile('./images/' + card.side + card.release + '/' + file_code + '.jpg');
                         }
                     }
                     // else, we have to flip climaxes
                     else {
                         // bushi climaxes are already flipped, so just invert the card dimensions
                         if (card.type === 'Climax') {
-                            sharp(imgBuffer).resize(height, width).png().toFile('./images/' + card.side + card.release + '/' + card.code + '.jpg');
+                            sharp(imgBuffer).resize(height, width).png().toFile('./images/' + card.side + card.release + '/' + file_code + '.jpg');
                         } else {
-                            sharp(imgBuffer).resize(width, height).png().toFile('./images/' + card.side + card.release + '/' + card.code + '.jpg');
+                            sharp(imgBuffer).resize(width, height).png().toFile('./images/' + card.side + card.release + '/' + file_code + '.jpg');
                         }
                     }
                     console.log("DONE: " + card.side + card.release + '/' + card.sid);

@@ -18,6 +18,18 @@ const fs = require('fs');
                 pattern: /EN|JP/,
                 message: 'Language for effect text output ("EN" for TLs, "JP" for raw Japanese text)',
                 required: true
+            },
+            autoDelimiter: {
+                message: 'Beginning substring that delineates an AUTO effect.',
+                required: true
+            },
+            contDelimiter: {
+                message: 'Beginning substring that delineates a CONT effect.',
+                required: true
+            },
+            actDelimiter: {
+                message: 'Beginning substring that delineates an ACT effect.',
+                required: true
             }
         }
     }
@@ -30,6 +42,9 @@ const fs = require('fs');
         // get args
         let setCode = results.setCode;
         let lang = results.lang;
+        let autoDelimiter = results.autoDelimiter;
+        let contDelimiter = results.contDelimiter;
+        let actDelimiter = results.actDelimiter;
 
         let effectProp = 'ability';
         if (lang == 'JP') {
@@ -70,19 +85,19 @@ const fs = require('fs');
                     }
                     // effects
                     for (let effect of card[effectProp]) {
-                        if (effect.includes('[A] – ')) {
+                        if (effect.includes(autoDelimiter)) {
                             cardEntry += 'Auto: (EffectLabel)\n';
                             cardEntry += '{\n'
                             cardEntry += '}\n'
                             cardEntry += 'Text Auto: ' + effect.substr(6) + '\n';
                         }
-                        else if (effect.includes('[C] – ')) {
+                        else if (effect.includes(contDelimiter)) {
                             cardEntry += 'Cont: (EffectLabel)\n';
                             cardEntry += '{\n'
                             cardEntry += '}\n'
                             cardEntry += 'Text Cont: ' + effect.substr(6) + '\n';
                         }
-                        else if (effect.includes('[S] – ')) {
+                        else if (effect.includes(actDelimiter)) {
                             cardEntry += 'Act: (EffectLabel)\n';
                             cardEntry += '{\n'
                             cardEntry += '}\n'
@@ -113,7 +128,7 @@ const fs = require('fs');
                     break;
                 case 'Climax':
                     // code
-                    cardEntry += 'Event: ' + card.code + '\n';
+                    cardEntry += 'Climax: ' + card.code + '\n';
                     // name
                     cardEntry += 'Name ' + card.name + '\n';
                     // color

@@ -281,11 +281,11 @@ module.exports = [
     //     side: 'S',
     //     xpac: "Azur Lane"
     // },
-    // { 
-    //     code: "TSK_S101",
-    //     side: 'S',
-    //     xpac: "Slime vol3"
-    // },
+    { 
+        code: "TSK_S101",
+        side: 'S',
+        xpac: "Slime vol3"
+    },
     // { 
     //     code: "HBR_W103",
     //     side: 'W',
@@ -331,9 +331,9 @@ module.exports = [
     //     side: 'W',
     //     xpac: "Lycoris Recoil"
     // },
-    { 
-        code: "CSM_S96",
-        side: 'S',
-        xpac: "Chainsaw Man"
-    },
+    // { 
+    //     code: "CSM_S96",
+    //     side: 'S',
+    //     xpac: "Chainsaw Man"
+    // },
 ]
