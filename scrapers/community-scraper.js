@@ -33,7 +33,7 @@ module.exports.get = async (cardsFile, XPAC, SIDE) => {
 
                 // full card text cell
                 let textCell = sheet[XLSX.utils.encode_cell({r: rowNum, c: 2})];
-                let textSplitArr = textCell.v.split('\n\n');
+                let textSplitArr = textCell.v.split('\n');
                 
                 card['flavor_text'] = "-";
                 card['rarity'] = textSplitArr[0].split(')')[0].split('(')[1];

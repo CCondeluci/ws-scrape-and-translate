@@ -5,7 +5,7 @@ const fs = require('fs');
 const nova_scraper = require('./scrapers/nova-scraper');
 
 // constants
-const JP_SETS = require('./jp-sets');
+const JP_SETS = require('./set_lists/jp-sets');
 const { format } = require('path');
 
 // async flag for await, we don't want to DoS bushi

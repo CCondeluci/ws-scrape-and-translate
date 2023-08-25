@@ -281,11 +281,11 @@ module.exports = [
     //     side: 'S',
     //     xpac: "Azur Lane"
     // },
-    { 
-        code: "TSK_S101",
-        side: 'S',
-        xpac: "Slime vol3"
-    },
+    // { 
+    //     code: "TSK_S101",
+    //     side: 'S',
+    //     xpac: "Slime vol3"
+    // },
     // { 
     //     code: "HBR_W103",
     //     side: 'W',
@@ -335,5 +335,25 @@ module.exports = [
     //     code: "CSM_S96",
     //     side: 'S',
     //     xpac: "Chainsaw Man"
+    // },
+    // { 
+    //     code: "UMA_W106",
+    //     side: 'W',
+    //     xpac: "Uma Musume"
+    // },
+    // { 
+    //     code: "SPY_S106",
+    //     side: 'S',
+    //     xpac: "Spy X Family"
+    // },
+    // { 
+    //     code: "JJ_SE41",
+    //     side: 'S',
+    //     xpac: "Jojo Stardust Crusaders"
+    // },
+    // { 
+    //     code: "JJ_SE42",
+    //     side: 'S',
+    //     xpac: "Jojo Stone Ocean"
     // },
 ]

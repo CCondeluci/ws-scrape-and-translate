@@ -57,7 +57,7 @@ module.exports = [
     // 'EN_SAOR_S47',
     // 'EN_SY_W08',
     // 'EN_SYE_WE09',
-    // 'EN_TL1_W37',
+    'EN_TL1_W37',
     // 'EN_NGL_S58',
     // 'EN_GGO_S59',
     // 'EN_BDML_W03',
@@ -118,5 +118,8 @@ module.exports = [
     // 'EN_SHS_W71',
     // 'EN_GRI_S72',
     // 'EN_5HY_W101'
-    // 'EN_ATLA_WX04'
+    // 'EN_ATLA_WX04',
+    // 'EN_RSL_S69',
+    // 'EN_TSK_S101',
+    // 'EN_HOL_W104'
 ];
