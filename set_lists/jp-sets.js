@@ -356,4 +356,139 @@ module.exports = [
     //     side: 'S',
     //     xpac: "Jojo Stone Ocean"
     // },
+    // { 
+    //     code: "G_WS02",
+    //     side: 'S',
+    //     xpac: "Dengeki Bunko"
+    // },
+    // {
+    //     code: "KF_SE43",
+    //     side: "S",
+    //     xpac: "King of Fighters Premium Booster"
+    // },
+    // {
+    //     code: "BTR_W107",
+    //     side: "W",
+    //     xpac: "Bocchi The Rock"
+    // },
+    // {
+    //     code: "AGS_W108",
+    //     side: "W",
+    //     xpac: "Alice Gear Aegis"
+    // },
+    // {
+    //     code: "SS_WE41",
+    //     side: "W",
+    //     xpac: "Shana Premium Booster"
+    // },
+    // {
+    //     code: "SIX_W109",
+    //     side: "W",
+    //     xpac: "Love LiveE! SIF2 Miracle Live!"
+    // },
+    // {
+    //     code: "YHN_W111",
+    //     side: "W",
+    //     xpac: "Genjitsu no Yohane"
+    // },
+    // {
+    //     code: "AYT_W110",
+    //     side: "W",
+    //     xpac: "Ayakashi Triangle"
+    // },
+    // {
+    //     code: "OSK_S107",
+    //     side: "S",
+    //     xpac: "Oshi no Ko"
+    // },
+    // {
+    //     code: "PJS_S109",
+    //     side: "S",
+    //     xpac: "Project Sekai Colorful Stage Vol 2"
+    // },
+    // {
+    //     code: "RSK_SE44",
+    //     side: "S",
+    //     xpac: "Rear Sekai"
+    // },
+    // {
+    //     code: "MDE_SE45",
+    //     side: "S",
+    //     xpac: "Macross Delta Premium Booster"
+    // },
+    // {
+    //     code: "BAV_W112",
+    //     side: "W",
+    //     xpac: "Blue Archive"
+    // },
+    // {
+    //     code: "CCS_W113",
+    //     side: "W",
+    //     xpac: "Cardcaptor Sakura 25th Anniversary"
+    // },
+    // {
+    //     code: "SBY_W114",
+    //     side: "W",
+    //     xpac: "Aobuta Movie Booster"
+    // },
+    // {
+    //     code: "HOL_WE44",
+    //     side: "W",
+    //     xpac: "Hololive Premium Booster Summer Collection"
+    // },
+    // {
+    //     code: "HOL_WE45",
+    //     side: "W",
+    //     xpac: "Hololive Ambassadors Premium Booster"
+    // },
+    // {
+    //     code: "SFN_S108",
+    //     side: "S",
+    //     xpac: "Sousou no Frieren"
+    // },
+    // {
+    //     code: "5HY_WE43",
+    //     side: "W",
+    //     xpac: "Quintuplets Premium Booster"
+    // },
+    // {
+    //     code: "ISC_S110",
+    //     side: "S",
+    //     xpac: "The Idolm@ster Shiny Colors Shine More!"
+    // },
+    // {
+    //     code: "P3_SE46",
+    //     side: "S",
+    //     xpac: "Persona 3 RELOAD Premium Booster"
+    // },
+    // {
+    //     code: "GRI_S112",
+    //     side: "S",
+    //     xpac: "Grisaia Phantom Trigger"
+    // },
+    // {
+    //     code: "MRX_S111",
+    //     side: "S",
+    //     xpac: "Disney Mirrorverse"
+    // },
+    // {
+    //     code: "IMC_W115",
+    //     side: "S",
+    //     xpac: "iDOLM@STER Cinderella Girls Next Twinkle!"
+    // },
+    // {
+    //     code: "RKN_S115",
+    //     side: "S",
+    //     xpac: "Rurouni Kenshin: Meiji Swordsman Romantic Story"
+    // },
+    // {
+    //     code: "CS_S114",
+    //     side: "S",
+    //     xpac: "Crayon Shin-Chan: The Movie"
+    // },
+    // {
+    //     code: "HBR_W117",
+    //     side: "W",
+    //     xpac: "Heaven Burns Red Vol.2"
+    // },
 ]

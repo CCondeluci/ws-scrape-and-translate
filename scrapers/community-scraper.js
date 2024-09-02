@@ -31,10 +31,20 @@ module.exports.get = async (cardsFile, XPAC, SIDE) => {
                 let imageCell = sheet[XLSX.utils.encode_cell({r: rowNum, c: 1})];
                 card['image'] = '';//imageCell.f.replace('image("', '').replace('\")', '');
 
+                // dual side sense
+                // let sideCell = sheet[XLSX.utils.encode_cell({r: rowNum, c: 4})];
+                // if (sideCell.v == 'w') {
+                //     card['side'] = 'W';
+                // } else if (sideCell.v == 's') {
+                //     card['side'] = 'S';
+                // } else {
+                    card['side'] = SIDE;
+                //}
+
                 // full card text cell
                 let textCell = sheet[XLSX.utils.encode_cell({r: rowNum, c: 2})];
                 let textSplitArr = textCell.v.split('\n');
-                
+
                 card['flavor_text'] = "-";
                 card['rarity'] = textSplitArr[0].split(')')[0].split('(')[1];
                 if (textSplitArr[0].match(/ \(.*\)/g)) {
@@ -67,7 +77,9 @@ module.exports.get = async (cardsFile, XPAC, SIDE) => {
 
                 card['ability'] = [];
                 for (let i = 1; i < textSplitArr.length; i++) {
-                    card.ability.push(textSplitArr[i]);
+                    if (textSplitArr[i].length > 0) {
+                        card.ability.push(textSplitArr[i]);
+                    }
                 }
 
                 console.log(textSplitArr);
@@ -77,7 +89,7 @@ module.exports.get = async (cardsFile, XPAC, SIDE) => {
                     code: card.code,
                     rarity: card.rarity,
                     expansion: XPAC,
-                    side: SIDE,
+                    side: card.side,
                     type: card.type,
                     color: '', // limitation of community translations
                     level: card.level,

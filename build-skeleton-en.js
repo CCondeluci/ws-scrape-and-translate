@@ -56,7 +56,7 @@ function padCodeTwo(num) {
             setCards.push(card);
         }
         for (var i = 1; i <= boosterCount; i++) {
-            var cardCode = setCode + '/' + releaseCode + '-E' + padCodeSet(i);
+            var cardCode = setCode + '/' + releaseCode + '-E' + padCodeTwo(i); // padCodeSet(i);
             // build the card object
             let card = {
                 code: cardCode,

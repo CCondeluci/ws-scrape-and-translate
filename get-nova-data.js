@@ -22,6 +22,8 @@ const JP_SETS = require('./set_lists/jp-sets');
                 // get the card data
                 let novaCard = await nova_scraper.get(card, 0);
                 novaCard.expansion = set.xpac;
+                // novaCard.side = card.side;
+                // novaCard.attributes = card.attributes;
                 console.log("DONE: " + novaCard.side + novaCard.release + '/' + novaCard.sid);
                 nvCards.push(novaCard);
                 resolve();
@@ -40,7 +42,8 @@ const JP_SETS = require('./set_lists/jp-sets');
             }
         }
 
-        finalOutput.sort((a, b) => (a.code > b.code) ? 1 : -1);
+        finalOutput.sort((a, b) => (a.sid > b.sid) ? 1 : -1);
+        // finalOutput.sort((a, b) => a.code.split("-")[1] - b.code.split("-")[1]);
         
         // write data to file
         fs.writeFileSync('./output/nova_output/' + set.code + ".json", JSON.stringify(finalOutput, null, 4));

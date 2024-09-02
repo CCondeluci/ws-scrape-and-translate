@@ -7,8 +7,8 @@ const sharp = require('sharp');
 
 // constants
 const EN_SETS = require('./set_lists/en-sets');
-const width = 130;
-const height = 182;
+const width = 400;//130;
+const height = 557;//182;
 
 // golly gee mister i sure love node
 process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;

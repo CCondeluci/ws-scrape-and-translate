@@ -1,7 +1,7 @@
 'use strict';
 
 // imports
-const bushi_scraper = require('./scrapers/bushi-scraper');
+const bushi_scraper = require('./scrapers/new-bushi-scraper');
 const fs = require('fs');
 
 // constants

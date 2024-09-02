@@ -44,8 +44,6 @@ module.exports.get = async (nv_card, count) => {
             enText[x] = decode(enText[x]);
         }
 
-        console.log(enText);
-
         let tableDataArr = [];
         for (let row of tableRows) {
             let cells = row.querySelectorAll('td');
