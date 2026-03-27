@@ -4,6 +4,8 @@
   "description": "a proof-of-concept english weiss schwarz card data scraper",
   "main": "/",
   "dependencies": {
+    "adm-zip": "^0.5.16",
+    "fast-xml-parser": "^5.2.5",
     "html-entities": "^2.3.3",
     "iconv-lite": "^0.4.24",
     "imagemin": "^6.1.0",

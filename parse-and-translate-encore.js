@@ -116,6 +116,24 @@ const { format } = require('path');
                         }
                     }
                     break;
+                case 'rose':
+                    // merge rose TLs
+                    let roseString = fs.readFileSync('./input/rose_tls/' + set.code + '.json', 'utf8');
+                    let roseData = JSON.parse(roseString);
+                    for (let parsedCard of formattedCards) {
+                        let roseResult = roseData.filter(x => parsedCard.code.indexOf(x.code) > -1);
+                        if (roseResult) {
+                            for (let result of roseResult) {
+                                if (result.ability.length > 0) {
+                                    parsedCard.ability = result.ability;
+                                }
+                                if (result.attributes.length > 0) {
+                                    parsedCard.attributes = result.attributes;
+                                }
+                            }
+                        }
+                    }
+                    break;
                 case 'fix':
                     // merge existing TLs (fixes missing fields)
                     let existingString = fs.readFileSync('./output/nova_output/' + set.code + '.json', 'utf8');

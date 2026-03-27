@@ -491,4 +491,229 @@ module.exports = [
     //     side: "W",
     //     xpac: "Heaven Burns Red Vol.2"
     // },
+    // {
+    //     code: "UMA_W119",
+    //     side: "W",
+    //     xpac: "Uma Musume: Door to a New Era"
+    // },
+    // {
+    //     code: "F_W120",
+    //     side: "W",
+    //     xpac: "Fujimi Fantasia Bunko Vol.2"
+    // },
+    // {
+    //     code: "YRC_W116",
+    //     side: "W",
+    //     xpac: "Yuru Camp: Season 3"
+    // },
+    // {
+    //     code: "LRC_WE47",
+    //     side: "W",
+    //     xpac: "Lycoris Recoil Premium Booster"
+    // },
+    // {
+    //     code: "RZ_S116",
+    //     side: "S",
+    //     xpac: "Re:Zero - Vol.3"
+    // },
+    // {
+    //     code: "NIK_S117",
+    //     side: "S",
+    //     xpac: "Nikke: Goddess of Victory"
+    // },
+    // {
+    //     code: "GCR_SE48",
+    //     side: "S",
+    //     xpac: "Girls Band Cry Premium Booster"
+    // },
+    // {
+    //     code: "AZL_S119",
+    //     side: "S",
+    //     xpac: "Azur Lane Vol.2"
+    // },
+    // {
+    //     code: "LHS_W122",
+    //     side: "W",
+    //     xpac: "Love Live! Hasu no Sora"
+    // },
+    // {
+    //     code: "FT_S120",
+    //     side: "S",
+    //     xpac: "Fairy Tail: 100 Years Quest"
+    // },
+    // {
+    //     code: "OSK_S121",
+    //     side: "S",
+    //     xpac: "Oshi no Ko Vol.2"
+    // },
+    // {
+    //     code: "DDD_S118",
+    //     side: "S",
+    //     xpac: "Dandadan"
+    // },
+    // {
+    //     code: "BD_W125",
+    //     side: "W",
+    //     xpac: "BanG Dream! Ave Mujica x MyGo"
+    // },
+    // {
+    //     code: "AMG_W121",
+    //     side: "W",
+    //     xpac: "Tying the Knot with an Amagami Sister"
+    // },
+    // {
+    //     code: "GIM_W124",
+    //     side: "W",
+    //     xpac: "Gakuen Idolmaster"
+    // },
+    // {
+    //     code: "GGO_SE50",
+    //     side: "S",
+    //     xpac: "Gun Gale Online II"
+    // },
+    // {
+    //     code: "OVL_SE51",
+    //     side: "S",
+    //     xpac: "Overlord: Holy Kingdom"
+    // },
+    // {
+    //     code: "AOH_W127",
+    //     side: "W",
+    //     xpac: "Aogiri High School"
+    // },
+    // {
+    //     code: "NTA_WE48",
+    //     side: "W",
+    //     xpac: "Nanoha 20th Anniversary Premium Booster"
+    // },
+    // {
+    //     code: "MKI_W126",
+    //     side: "W",
+    //     xpac: "Makeine: Too Many Losing Heroines"
+    // },
+    // {
+    //     code: "S_W123",
+    //     side: "W",
+    //     xpac: "Kadokawa Sneaker Bunko Vol.2"
+    // },
+    // {
+    //     code: "MAR_S124",
+    //     side: "S",
+    //     xpac: "Marvel Vol.3"
+    // },
+    // {
+    //     code: "BD_WE49",
+    //     side: "W",
+    //     xpac: "BanG Dream! 10th Anniversary Premium Booster"
+    // },
+    // {
+    //     code: "KJ8_S123",
+    //     side: "S",
+    //     xpac: "Kaiju No. 8"
+    // },
+    // {
+    //     code: "PXR_S122",
+    //     side: "S",
+    //     xpac: "Toy Story 30th Anniversary"
+    // },
+    // {
+    //     code: "IAS_SE52",
+    //     side: "S",
+    //     xpac: "Idolmaster 765PRO ALLSTARS Premium Booster"
+    // },
+    // {
+    //     code: "ISC_SE53",
+    //     side: "S",
+    //     xpac: "Idolmaster Shiny Colors Premium Booster"
+    // },
+    // {
+    //     code: "OS01_R01",
+    //     side: "R",
+    //     xpac: "Yuzusoft"
+    // },
+    // {
+    //     code: "OS02_R02",
+    //     side: "R",
+    //     xpac: "Gushing Over Magical Girls"
+    // },
+    // {
+    //     code: "DAL_W131",
+    //     side: "W",
+    //     xpac: "Date A Live Vol.3"
+    // },
+    // {
+    //     code: "BAV_W129",
+    //     side: "W",
+    //     xpac: "Blue Archive The Animation"
+    // },
+    // {
+    //     code: "KNK_W132",
+    //     side: "W",
+    //     xpac: "Rent-A-Girlfriend Vol.2"
+    // },
+    // {
+    //     code: "K_WE50",
+    //     side: "W",
+    //     xpac: "Key 25th Anniversary Premium Booster"
+    // },
+    // {
+    //     code: "OVL_SE54",
+    //     side: "S",
+    //     xpac: "Overlord Premium Booster"
+    // },
+    // {
+    //     code: "KMS_W133",
+    //     side: "W",
+    //     xpac: "Kiniro Mosaic: 15th Anniversary"
+    // },
+    // {
+    //     code: "PJS_S125",
+    //     side: "S",
+    //     xpac: "Project Sekai Colorful Stage Vol.3"
+    // },
+    // {
+    //     code: "OS03_R03",
+    //     side: "R",
+    //     xpac: "HARUKAZE"
+    // },
+    // {
+    //     code: "OS04_R04",
+    //     side: "R",
+    //     xpac: "Interspecies Reviewers"
+    // },
+    // {
+    //     code: "OS05_R05",
+    //     side: "R",
+    //     xpac: "sprite"
+    // },
+    // {
+    //     code: "TAL_S126",
+    //     side: "S",
+    //     xpac: "Tales of Series"
+    // },
+    // {
+    //     code: "IMC_WE51",
+    //     side: "W",
+    //     xpac: "Idolm@ster Cinderella Girls Premium Booster"
+    // },
+    // {
+    //     code: "UMA_W134",
+    //     side: "W",
+    //     xpac: "Umamusume: Cinderella Gray"
+    // },
+    // {
+    //     code: "ALL_S127",
+    //     side: "S",
+    //     xpac: "Assault Lily Last Bullet"
+    // },
+    {
+        code: "VRG_WE52",
+        side: "W",
+        xpac: "Virtual Girl @ World's End"
+    },
+    {
+        code: "DC_W128",
+        side: "W",
+        xpac: "Da Capo: Retune"
+    }
 ]

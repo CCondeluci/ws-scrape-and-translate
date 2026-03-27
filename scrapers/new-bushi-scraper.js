@@ -8,7 +8,13 @@ process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
 module.exports.get = async (skeleton_card, count) => {
     try {
         // go get the card data from bushi's site
-        let body = await request(skeleton_card.bushi);
+        let body = await request(skeleton_card.bushi, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                'Cookie': '_gcl_au=1.1.978976351.1752237705; _ga=GA1.1.1041174403.1752237706; _ga=GA1.3.1041174403.1752237706; _fbp=fb.1.1752237706310.638287717135032875; _ga_1WKZMR7H8R=GS2.1.s1752237705$o1$g1$t1752237793$j60$l0$h0; CookieConsent={stamp:%27hduulqWW17govdqnnICmzYcGHI6idV0qKb/R36mXobqK88t3Br5Jog==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1754626496661%2Cregion:%27us-42%27}; cardlist_view=image; cardlist_search_sort=new'
+            }
+        });
         // parse and index full html response
         let full_html = html_parser.parse(body);
         // rip the card detail 
